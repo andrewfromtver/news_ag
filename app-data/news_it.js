@@ -8,12 +8,64 @@ news_it = {
         "name": "Sport.sky.it"
       },
       "author": "Redazione Sky Sport",
-      "title": "Inter-Sampdoria 5-1, gol e highlights: doppietta di Sanchez, a segno anche Pinamonti - Sky Sport",
-      "description": "Leggi su Sky Sport l'articolo Inter-Sampdoria 5-1, gol e highlights: doppietta di Sanchez, a segno anche Pinamonti",
-      "url": "https://sport.sky.it/calcio/serie-a/2021/05/08/inter-sampdoria-risultato-gol",
-      "urlToImage": "https://static.sky.it/images/skysport/it/calcio/serie-a/2021/05/08/inter-sampdoria-risultato-gol/inter_curva_ansa.jpg",
-      "publishedAt": "2021-05-08T18:19:37Z",
-      "content": "4' Gagliardini (I), 26' Sanchez (I), 35' Keita Balde (S), 36' Sanchez (I), 62' Pinamonti (I), 70' rig. Lautaro (I)\r\nINTER (3-5-2): Handanovic (46' Radu); D'Ambrosio, Ranocchia, Bastoni; Hakimi, Vecin… [+381 chars]"
+      "title": "Fiorentina-Lazio 2-0, il risultato in diretta LIVE - Sky Sport",
+      "description": "Leggi su Sky Sport l'articolo Fiorentina-Lazio 2-0, gol e highlights: decide una doppietta di Vlahovic",
+      "url": "https://sport.sky.it/calcio/serie-a/2021/05/08/fiorentina-lazio-risultato-gol",
+      "urlToImage": "https://static.sky.it/images/skysport/it/calcio/serie-a/2021/05/08/fiorentina-lazio-risultato-gol/fiorentina_esulta (1).jpg",
+      "publishedAt": "2021-05-08T20:31:04Z",
+      "content": "32' e 88' Vlahovic\r\nFIORENTINA (3-5-2): Dragowski; Milenkovic, Pezzella, Caceres; Venuti, Bonaventura (73' Amrabat), Pulgar, Castrovilli (91' Martinez) , Biraghi; Ribery (85' Kouamé), Vlahovic. All. … [+367 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Leggo.it"
+      },
+      "author": "Ida Di Grazia",
+      "title": "Amici 20, diretta semifinale: ospiti Ermal Meta e i The Kolors. Ecco i finalisti e gli eliminati - leggo.it",
+      "description": "Amici 20, diretta semifinale: ospiti Ermal Meta e i The Kolors. Ecco i finalisti e gli eliminati. Puntata decisiva quella di questa sera che seguiremo come sempre in diretta su Leggo.it per i sette...",
+      "url": "https://www.leggo.it/spettacoli/televisione/amici_20_diretta_semifinale_ospiti_ermal_meta_the_kolors_ecco_finalisti_eliminati-5947534.html",
+      "urlToImage": "https://www.leggo.it/photos/MED/75/34/5947534_1958_amici20_diretta_semifinale.jpg",
+      "publishedAt": "2021-05-08T18:11:00Z",
+      "content": "Amici 20, diretta semifinale: ospiti Ermal Meta e i The Kolors. Ecco i finalisti e gli eliminati. Puntata decisiva quella di questa sera che seguiremo come sempre in diretta su Leggo.it per i sette t… [+756 chars]"
+    },
+    {
+      "source": {
+        "id": "la-repubblica",
+        "name": "La Repubblica"
+      },
+      "author": "Antonello Guerrera",
+      "title": "Scozia, vincono gli indipendentisti. Sturgeon: \"Ora non ci sono scuse per rifiutare un referendum\" - la Repubblica",
+      "description": "L'Snp ottiene il quarto mandato consecutivo vincendo 64 seggi, uno in meno della maggioranza assoluta. Lettera di Johnson alla premier di Edimburgo: \"…",
+      "url": "https://www.repubblica.it/esteri/2021/05/08/news/scozia_vincono_gli_indipendentisti_sturgeon_ora_non_ci_sono_scuse_per_rifiutare_un_referendum_-300044683/",
+      "urlToImage": "https://www.repstatic.it/content/nazionale/img/2021/05/08/200049183-8e70b5fa-b382-40db-9a9d-92ca0645be9f.jpg",
+      "publishedAt": "2021-05-08T18:09:11Z",
+      "content": "EDIMBURGO - In una Edimburgo spettrale, ancora spopolata dalla pioggia e dal lockdown appena terminato, la \"Terra di mezzo\" della Scozia continua. A maggior ragione dopo il risultato di queste ultime… [+3812 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fcinternews.it"
+      },
+      "author": "Fabio Costantino",
+      "title": "Inter-Sampdoria - Sanchez da All Star Game, Young tirato a lucido. Pinamonti, gol commovente - Fcinternews.it",
+      "description": "HANDANOVIC 5,5 - Riesce misteriosamente a evitare la rete di Candreva, giocata agevolata però da un suo tuffo completamente fuori tempo. Peccato per il gol arrivato comunque nel prosieguo...",
+      "url": "https://www.fcinternews.it/pagelle/inter-sampdoria-sanchez-da-all-star-game-young-tirato-a-lucido-pinamonti-gol-commovente-367558",
+      "urlToImage": "https://net-storage.tccstatic.com/storage/fcinternews.it/img_notizie/thumb3/16/16843783c1ee05f16e85a9ec318cb926-38690-3c897b2c2b40160011ba4b9f385cc5e4.jpg",
+      "publishedAt": "2021-05-08T18:05:00Z",
+      "content": "HANDANOVIC 5,5 - Riesce misteriosamente a evitare la rete di Candreva, giocata agevolata però da un suo tuffo completamente fuori tempo. Peccato per il gol arrivato comunque nel prosieguo dell'azione… [+4595 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilsecoloxix.it"
+      },
+      "author": ".",
+      "title": "Covid, in Liguria 202 nuovi casi. Vaccinazioni, da lunedì prenotazioni aperte per gli over 55 - Il Secolo XIX",
+      "description": "Per il personale scolastico (docente e non docente), le prenotazioni cominceranno alle ore 8 del 13 maggio, chiamando il numero verde 800 938 818. Su circa 29mila appartenenti a questa categoria, sono 16.406 le persone ancora da vaccinare",
+      "url": "https://www.ilsecoloxix.it/genova/2021/05/08/news/covid-in-liguria-202-nuovi-casi-e-5-decessi-4-188-tamponi-molecolari-e-2-542-antigenici-1.40248449",
+      "urlToImage": "https://www.ilsecoloxix.it/image/contentid/policy:1.40238546:1620283746/image/image.jpg?f=detail_558&h=720&w=1280&$p$f$h$w=d5eb06a",
+      "publishedAt": "2021-05-08T17:37:30Z",
+      "content": "Genova Nelle ultime 24 ore sono stati registrati 202 nuovi casi al Covid-19 in Liguria, a fronte di 4.188 tamponi molecolari e 2.542 tamponi antigenici rapidi effettuati. Più della metà delle nuove i… [+5234 chars]"
     },
     {
       "source": {
@@ -31,15 +83,15 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Ilfattoquotidiano.it"
+        "name": "Corriere.it"
       },
-      "author": "F. Q.",
-      "title": "Elezioni Scozia, gli indipendentisti dello Snp vincono per la quarta volta di fila: ma mancano due seggi alla… - Il Fatto Quotidiano",
-      "description": "Secondo le proiezioni della Bbc, con lo spoglio che volge al termine, il partito della first minister per soli due seggi non raggiunge la maggioranza assoluta che avrebbe dato maggior forza alla richiesta di un nuovo referendum sulla secessione dalla Gran Bre…",
-      "url": "https://www.ilfattoquotidiano.it/2021/05/08/elezioni-scozia-lo-snp-vince-per-la-quarta-volta-di-fila-sturgeon-adesso-niente-giustifica-un-no-al-referendum-sullindipendenza/6191763/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/08/nicola-sturgeon.jpg",
-      "publishedAt": "2021-05-08T16:36:28Z",
-      "content": "Lo Scottish National Party vince di nuovo le elezioni, ma non arriva la sperata maggioranza assoluta nel Parlamento di Edimburgo che avrebbe dato agli indipendentisti scozzesi maggior forza nella ric… [+2505 chars]"
+      "author": "Marta Serafini",
+      "title": "Kabul, bomba alla scuola: almeno 40 morti, per lo più sono studentesse - Corriere della Sera",
+      "description": "Strage contro lo studentesse in un quartiere sciita. Il portavoce dei talebani: «Questo attacco porta la firma dell’Isis»",
+      "url": "https://www.corriere.it/esteri/21_maggio_08/afghanistan-bomba-scuola-femminile-25-morti-fc378f5c-b00b-11eb-8261-0c233af9e96e.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/08/d2a98fb8-b011-11eb-8261-0c233af9e96e.jpg",
+      "publishedAt": "2021-05-08T16:20:00Z",
+      "content": "Il bilancio non è ancora definitivo ed è già terribile. Sono almeno 40 le persone uccise e altre 52 sono rimaste ferite in un’esplosione avvenuta questo pomeriggio alle 16:30 davanti a una scuola a K… [+4123 chars]"
     },
     {
       "source": {
@@ -56,16 +108,29 @@ news_it = {
     },
     {
       "source": {
-        "id": null,
-        "name": "Trevisotoday.it"
+        "id": "ansa",
+        "name": "ANSA.it"
       },
-      "author": "Redazione",
-      "title": "Non si lega al deltaplano e precipita dopo il decollo: morto un 52enne - TrevisoToday",
-      "description": "L'incidente è avvenuto sabato pomeriggio a Borso del Grappa, poco dopo il decollo sul Col del Puppolo a Borso del Grappa. Morto Federico Baratto, illesa...",
-      "url": "https://www.trevisotoday.it/cronaca/morto-deltaplano-borso-grappa-oggi-8-maggio-2021.html",
-      "urlToImage": "https://www.trevisotoday.it/~media/horizontal-hi/9766946994962/fgf.jpg",
-      "publishedAt": "2021-05-08T16:11:45Z",
-      "content": "Dopo aver assicurato la compagna di volo, non ha provveduto a legare se stesso e, subito dopo il decollo, è rimasto appeso alla sbarra, cadendo nel vuoto dopo un'impennata del deltaplano biposto. Ha … [+1728 chars]"
+      "author": "",
+      "title": "Vaccini: Napoli; Mostra e Capodichino chiusi da lunedì - Campania - Agenzia ANSA",
+      "description": "Lunedì, martedì e mercoledì mattina a Napoli saranno chiusi i due centri vaccinali più grandi\r\ndell'Asl Napoli1, quello dell'hangar di Capodichino e quello della Mostra d'Oltremare, che apriranno\r\nquindi mercoledì pomeriggio. (ANSA)",
+      "url": "https://www.ansa.it/campania/notizie/2021/05/08/vaccini-napoli-mostra-e-capodichino-chiusi-da-lunedi_854e1049-8fbc-4459-8c9b-549f0cb1cafe.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2021/5/3/88bcf3bfc9b952820ef9c71d8dc43d0c.jpg",
+      "publishedAt": "2021-05-08T16:14:00Z",
+      "content": "(ANSA) - NAPOLI, 08 MAG - Lunedì, martedì e mercoledì mattina\r\na Napoli saranno chiusi i due centri vaccinali più grandi\r\ndell'Asl Napoli1, quello dell'hangar di Capodichino e quello\r\ndella Mostra d'… [+1321 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gazzetta.it"
+      },
+      "author": "Giovanni Cortinovis",
+      "title": "F1 GP Spagna, 100 pole di Hamilton: ecco le dieci perle del fenomeno - La Gazzetta dello Sport",
+      "description": "Dalla prima pole in carriera in F1 nel 2007 ai sorpassi storici a Senna e Schumacher, fino al record di velocità a Monza 2020: le dieci pole da leggenda di Lewis Hamilton",
+      "url": "https://www.gazzetta.it/Formula-1/storie/08-05-2021/f1-gp-spagna-100-pole-hamilton-ecco-dieci-perle-fenomeno-410841828430/",
+      "urlToImage": "https://images2.gazzettaobjects.it/methode_image/2021/05/08/Motori/Foto_Motori_-_Trattate/6ce4bedc-b007-11eb-b804-67e2dab7d42d_1200x675.jpg?v=202105081756",
+      "publishedAt": "2021-05-08T15:55:21Z",
+      "content": null
     },
     {
       "source": {
@@ -83,28 +148,15 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Mediaset.it"
+        "name": "Corriere.it"
       },
-      "author": null,
-      "title": "Elisa Isoardi si emoziona rivedendosi a \"L'Isola dei Famosi\": \"Mai vista così, esperienza durissima\" - TGCOM",
-      "description": "La conduttrice si racconta a \"Verissimo\" dopo l'esperienza nel reality di Canale 5",
-      "url": "https://www.tgcom24.mediaset.it/televisione/elisa-isoardi-si-emoziona-rivedendosi-a-l-isola-dei-famosi-mai-vista-cosi-esperienza-durissima_31998443-202102k.shtml",
-      "urlToImage": "https://img-prod.tgcom24.mediaset.it/images/2021/05/08/152544988-22e8a3a2-e495-4db9-9689-ad55ec4aef7a.jpg",
-      "publishedAt": "2021-05-08T15:32:50Z",
-      "content": "\"Non mi sono mai vista così, in tutta la vita intendo\". A \"Verissimo\", Elisa Isoardi non trattiene le lacrime dopo aver rivisto le sue immagini a \"L'Isola dei Famosi\": \"Non sono abituata a vedermi co… [+606 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Www.ivg.it"
-      },
-      "author": "Redazione",
-      "title": "Covid, scende l’incidenza del virus e calano gli ospedalizzati - IVG.it",
-      "description": "Si registrano ancora 5 morti, ma aumentano le vaccinazioni",
-      "url": "https://www.ivg.it/2021/05/covid-scende-lincidenza-del-virus-e-calano-gli-ospedalizzati/",
-      "urlToImage": "https://www.ivg.it/photogallery_new/images/2020/09/generica-646136.large.jpg",
-      "publishedAt": "2021-05-08T15:31:00Z",
-      "content": "Liguria. Sono 202 i nuovi casi di contagio da coronavirus registrati dallodierno bollettino Alisa/Regione per il ministero della Salute. Il dato è riferito a 4.188 tamponi molecolari effettuati. Quin… [+2521 chars]"
+      "author": "Redazione online",
+      "title": "Coronavirus in Italia, il bollettino di oggi 8 maggio: 10.176 nuovi casi e 224 morti - Corriere della Sera",
+      "description": "I dati del bollettino sulla pandemia di Covid-19 di sabato 8 maggio",
+      "url": "https://www.corriere.it/salute/21_maggio_08/coronavirus-italia-bollettino-oggi-8-maggio-10176-nuovi-casi-224-morti-71e9c8ca-afe2-11eb-8261-0c233af9e96e.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/2021/05/08/Salute/Foto-Salute-Trattate/Cattura-kFQG-U32601028039313VKI-526x284@Corriere-Web-Sezioni.PNG",
+      "publishedAt": "2021-05-08T15:37:35Z",
+      "content": "Sono 10.176*i nuovi casi di coronavirus in Italia (ieri sono stati +10.554, qui il bollettino). Sale così ad almeno 4.102.921 il numero di persone che hanno contratto il virus Sars-CoV-2 (compresi gu… [+3981 chars]"
     },
     {
       "source": {
@@ -122,6 +174,19 @@ news_it = {
     {
       "source": {
         "id": null,
+        "name": "Ilmessaggero.it"
+      },
+      "author": "Redazione Web",
+      "title": "Elisa Isoardi in lacrime a Verissimo: «Ho vissuto un periodo difficile, non ci parlavamo più» - Il Messaggero",
+      "description": "Elisa Isoardi è ospite di Silvia Toffanin a Verissimo. Reduce dall'esperienza all'Isola dei Famosi, l'ex naufraga esordisce scherzando sul calo di peso dovuto alla...",
+      "url": "https://www.ilmessaggero.it/televisione/elisa_isoardi_verissimo_mamma_piange_cosa_ha_detto_oggi_8_maggio_2021-5947370.html",
+      "urlToImage": "https://www.ilmessaggero.it/photos/MED/73/70/5947370_1712_elisa_isoradi_verissimo.jpg",
+      "publishedAt": "2021-05-08T15:13:39Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Ilgiornale.it"
       },
       "author": "Roberto Vivaldelli",
@@ -135,132 +200,67 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Lastampa.it"
+        "name": "Virgilio.it"
       },
-      "author": "NICCOLO' CARRATELLI",
-      "title": "Covid, Speranza firma l'ordinanza per il via libera alle visite in Rsa: accesso solo con un green pass. Ecco tutte le regole - La Stampa",
-      "description": "Il provvedimento è subito in vigore e lo sarà almeno fino al 30 luglio",
-      "url": "https://www.lastampa.it/politica/2021/05/08/news/covid-il-ministro-speranza-firma-l-ordinanza-per-il-via-libera-alle-visite-in-rsa-1.40248188",
-      "urlToImage": "https://www.lastampa.it/image/contentid/policy:1.40248187:1620482427/ansa_20210504_152332_004849.JPG?f=detail_558&h=720&w=1280&$p$f$h$w=8f5d7d7",
-      "publishedAt": "2021-05-08T14:36:21Z",
-      "content": "Via libera alle visite nelle Rsa, in tempo per la Festa della mamma. Mentre i comitati dei parenti degli anziani ospiti erano pronti alla protesta simbolica, domani mattina, presentandosi con delle r… [+464 chars]"
+      "author": "Virgilio Sport",
+      "title": "Milan, c'è l'annuncio di Stefano Pioli su Gigio Donnarumma - Virgilio Sport",
+      "description": "Il tecnico rossonero sul match contro la Juventus: \"Chi vince ha grandi possibilità di andare in Champions ma non sarà finita, ci sono tante altre partite\".",
+      "url": "https://sport.virgilio.it/milan-stefano-pioli-rassicura-i-tifosi-su-gigio-donnarumma-688514",
+      "urlToImage": "https://wips.plug.it/cips/sport.virgilio.it/cms/2021/05/pioli-donnarumma_unr5di7p7z6f1hg8zmheu7ly1.jpg?w=640&a=c&h=360",
+      "publishedAt": "2021-05-08T15:10:00Z",
+      "content": "In vista della sfida contro la Juventus, il tecnico del Milan Stefano Pioli è intervenuto in conferenza stampa: “Chi vince ha grandi possibilità di andare in Champions ma non sarà finita, ci sono tan… [+2244 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Laprovinciacr.it"
+        "name": "Quotidiano.net"
       },
-      "author": "Andrea Arco",
-      "title": "Dodici luci nel cielo: la costellazione satellitare di Elon Musk - La Provincia",
-      "description": "Stavolta gli Ufo non c'entrano: tutti col naso all'insù per uno spettacolo dal fascino magnetico",
-      "url": "https://www.laprovinciacr.it/news/cronaca/355132/dodici-luci-nel-cielo-la-costellazione-satellitare-di-elon-musk.html",
-      "urlToImage": "https://www.laprovinciacr.it/resizer/600/315/true/2021_05_08/soncino1-1620483725126.PNG--dodici_luci_nel_cielo__la_costellazione_satellitare_di_elon_musk.PNG?1620483725000",
-      "publishedAt": "2021-05-08T14:29:41Z",
-      "content": "SONCINO - Centinaia di soncinesi e bresciani, ieri notte, hanno passato minuti con gli occhi rivolti al cielo per osservare dodici misteriose luci danzanti oltre l’atmosfera. «E’ un uccello? E’ un ae… [+1490 chars]"
+      "author": "Quotidiano Nazionale",
+      "title": "Vaccini, Draghi: \"Accelerare e aumentare produzione\". Ue, ok a nuovo contratto con Pfizer - QUOTIDIANO NAZIONALE",
+      "description": "La linea del premier al vertice Ue. Draghi: \"Liberalizzare i brevetti non basta. Riaprire sì ma usando la testa\". Sul mercato del lavoro: \"Dichiarazione importante, con Gb non ci sarebbe stata\". Il Papa: \"Sospensione temporanea dei diritti di proprietà intell…",
+      "url": "https://www.quotidiano.net/cronaca/vaccini-pfizer-1.6338036",
+      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6338047.1620472582%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700&h=391",
+      "publishedAt": "2021-05-08T13:56:12Z",
+      "content": "Roma, 8 maggio 2021 - \"In Europa dobbiamo continuare ad accelerare le vaccinazioni con trasparenza e in sicurezza aumentando la produzione\". È la linea che il premier Mario Draghi ha assunto nel suo … [+3545 chars]"
+    },
+    {
+      "source": {
+        "id": "ansa",
+        "name": "ANSA.it"
+      },
+      "author": "",
+      "title": "Rsa, Speranza firma ordinanza per visite in sicurezza - Salute & Benessere - Agenzia ANSA",
+      "description": "L'ingresso sarà consentito solo ai possessori di Certificazione Verde Covid-19. Il ministro:\r\n'Massima attenzione ma c'è la gioia di poter rivedere i prori cari'. Le misure potranno essere\r\nrimodulate 'in sensorestrittivo in base all'evoluzione dello scenario…",
+      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2021/05/08/rsa-speranza-firma-ordinanza-per-visite-in-sicurezza_4248037b-e316-43a0-a2a9-9c36449a7d4a.html",
+      "urlToImage": "https://www.ansa.it/webimages/ch_700/2021/2/9/8384c6112a7acbd4dcdc30b3765271b8.jpg",
+      "publishedAt": "2021-05-08T13:56:00Z",
+      "content": "\"Ho appena firmato l'ordinanza che consentirà le visite in piena sicurezza in tutte le Rsa. Ringrazio le Regioni e il Comitato Tecnico Scientifico che hanno lavorato in sintonia con il ministero dell… [+2528 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Corriere dello Sport"
+        "name": "Ilgiornale.it"
       },
-      "author": "Matteo Novembrini",
-      "title": "GP Spagna, qualifiche: Hamilton fa 100 pole position! Verstappen 2°, Leclerc 4° - Autosprint.it",
-      "description": "Pole position numero 100 della carriera per l'inglese, che è riuscito a piegare un Verstappen molto veloce. Ferrari 4° con Leclerc e 6° con Sainz",
-      "url": "https://autosprint.corrieredellosport.it/news/formula1/2021/05/08-4216376/gp_spagna_qualifiche_hamilton_fa_100_verstappen_2_leclerc_4_/",
-      "urlToImage": "https://cdn-autosprint.corrieredellosport.it/images/2021/05/08/144316550-e81fc791-e156-4fdd-8076-8895873f4706.jpg",
-      "publishedAt": "2021-05-08T14:29:00Z",
-      "content": "Ed alla fine, la pole position numero 100 è arrivata: Lewis Hamilton abbatte un altro muro nella storia della F1, prendendosi la prima posizione sulla griglia di partenza del GP di Spagna. Niente da … [+2589 chars]"
+      "author": "Novella Toloni",
+      "title": "Cara #Diletta, basta tirare in ballo la nonna - ilGiornale.it",
+      "description": "L'inviata sportiva è tornata a commentare le foto del flirt con Friedkin dopo aver ricevuto l'ennesimo tapiro d'oro. Un \"limone\" che a quanto pare non fa soffrire la nonna",
+      "url": "https://www.ilgiornale.it/news/spettacoli/tapiro-diletta-leotta-29-anni-limone-te-puoi-concedere-1945045.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2021/05/08/1620470742-leotta.jpg?_=1620470742",
+      "publishedAt": "2021-05-08T13:41:00Z",
+      "content": "Non è una mangiatrice di uomini, ma un \"limone\" a 29 anni può concederselo. Parola di Diletta Leotta. Dopo lo sfogo social contro il gossip spazzatura costruito sulla sua vita sentimentale, l'inviata… [+2122 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Corriere.it"
+        "name": "Toscana.it"
       },
-      "author": "Elisa Messina",
-      "title": "Coronavirus, le ultime notizie dall’Italia e dal mondo sul Covid - Corriere della Sera",
-      "description": "Gli aggiornamenti sul coronavirus di sabato 8 maggio",
-      "url": "https://www.corriere.it/salute/21_maggio_08/coronavirus-ultime-notizie-dall-italia-mondo-covid-d5c2433e-afc6-11eb-8261-0c233af9e96e.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/08/b5616fbc-afca-11eb-8261-0c233af9e96e.jpg",
-      "publishedAt": "2021-05-08T14:15:00Z",
-      "content": "La situazione Covid-19 in Italia e nel mondo\r\nOre 19.07 - Troppa folla: chiusure in zone della movida a Roma Interventi per assembramenti e chiusure di strade e piazze oggi a Roma a causa della folla… [+9135 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mediaset.it"
-      },
-      "author": null,
-      "title": "Federico Rossi e la sua storia con Paola Di Benedetto: \"Mi ha aiutato a sconfiggere depressione e alcol\" - TGCOM",
-      "description": "La coppia si racconta a \"Verissimo\": \"Mi ha lasciato prima di un concerto, cantai in playback\"",
-      "url": "https://www.tgcom24.mediaset.it/televisione/federico-rossi-e-la-sua-storia-con-paola-di-benedetto-mi-ha-aiutato-a-sconfiggere-depressione-e-alcol_31992525-202102k.shtml",
-      "urlToImage": "https://img-prod.tgcom24.mediaset.it/images/2021/05/08/135912356-700a8717-4c2f-412f-acff-fd1e97bcc667.jpg",
-      "publishedAt": "2021-05-08T14:11:44Z",
-      "content": "\"Quando mi sono trasferito a Milano ho vissuto un periodo complicato e lei mi è stata molto vicino\". A \"Verissimo\", Federico Rossi parla della sua storia d'amore con Paola Di Bendetto. Il cantante ha… [+1202 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Milannews.it"
-      },
-      "author": "Pietro Andrigo",
-      "title": "Pirlo in conferenza: \"Donnarumma è tra i migliori 5 portieri al mondo. Rabiot e Szczesny saranno... - Milan News",
-      "description": "Intervenuto in conferenza stampa alla vigilia di Juventus-Milan, Andrea Pirlo ha parlato dells sfida con i rossoneri e dei protagonisti della gara. Queste le sue parole: \r\n\r\nSulla gara di domani:...",
-      "url": "https://www.milannews.it/le-interviste/pirlo-in-conferenza-donnarumma-e-tra-i-migliori-5-portieri-al-mondo-rabiot-e-szczesny-saranno-titolari-409740",
-      "urlToImage": "https://net-storage.tccstatic.com/storage/milannews.it/img_notizie/thumb3/fa/fa83ccbc1c20adbb0e54aa9908f47bdd-63656-2949380efa673bd8c4523694a3f5f4dd.jpeg",
-      "publishedAt": "2021-05-08T13:45:31Z",
-      "content": "Intervenuto in conferenza stampa alla vigilia di Juventus-Milan, Andrea Pirlo ha parlato dells sfida con i rossoneri e dei protagonisti della gara. Queste le sue parole: \r\nSulla gara di domani: \"Sarà… [+2269 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilmeteo.it"
-      },
-      "author": "Team iLMeteo.it",
-      "title": "COVID: il VIRUS perde COLPI, VARIANTI sempre più simili tra loro. Lo STUDIO - iLMeteo.it",
-      "description": "COVID: il VIRUS perde COLPI, VARIANTI sempre più simili tra loro. Lo STUDIO",
-      "url": "https://www.ilmeteo.it/notizie/covid-il-virus-perde-colpi-varianti-sempre-pi-simili-tra-loro-lo-studio-085427",
-      "urlToImage": "https://www.ilmeteo.it/portale/files/giornale/covid-virus-varianti-08052021.jpeg",
-      "publishedAt": "2021-05-08T12:40:00Z",
-      "content": "Varianti sempre più simili tra loro e il virus perde colpiAnche\r\nse l’infezione da coronavirus continua imperterrita a minacciare tutto il mondo\r\ncon numerosi casi di contagio giornalieri, sembra ci … [+2109 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gazzetta.it"
-      },
-      "author": "Riccardo Crivelli",
-      "title": "Roma, Sinner show: “Gli Internazionali li sento miei. Ora studio da Numero 1” - La Gazzetta dello Sport",
-      "description": "Uno Jannik inedito racconta il piano per arrivare in alto:  “Le Atp Finals?  Ci provo.  Vivo a Montecarlo, se ho problemi per il cibo chiamo papà. La famiglia mi manca, sono spesso in videochiamata con loro”",
-      "url": "https://www.gazzetta.it/Tennis/ATP/08-05-2021/internazionali-sinner-show-cosi-studio-numero-1-410813816168.shtml",
-      "urlToImage": "https://images2.gazzettaobjects.it/methode_image/2021/05/07/Varie/Foto_Varie_-_Trattate/8a4ce5e42bd3b1c5672343146a3541ec_1200x675.jpg?v=202105081417",
-      "publishedAt": "2021-05-08T12:16:42Z",
-      "content": "Riccardo Crivelli\r\n8 maggio\r\n - Milano\r\n A sette anni, mentre i genitori si guadagnavano il pane quotidiano nel rifugio della Val Fiscalina in cui papà Hanspeter faceva il cuoco e mamma Siglinde la c… [+7192 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lanazione.it"
-      },
-      "author": "La Nazione",
-      "title": "Covid Toscana, Giani: \"Contagi in forte calo, sì al coprifuoco alle 23\" - LA NAZIONE",
-      "description": "\"Dalla Conferenza delle Regioni ok all'allentamento delle misure\"",
-      "url": "https://www.lanazione.it/cronaca/toscana-covid-gialla-1.6338081",
-      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6338115.1620474894%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700&h=391",
-      "publishedAt": "2021-05-08T11:56:20Z",
-      "content": "Firenze, 8 maggio 2021 - «Indubbiamente in Toscana ormai non ci sono più problemi di andare a guardare i limiti perché l'andamento dei contagi sta calando con una determinazione molto forte. Io sono … [+3260 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Open.online"
-      },
-      "author": "https://www.facebook.com/Opengiornaleonline/",
-      "title": "Dai ritardi agli esuberi, le dosi di AstraZeneca ferme nei frigoriferi: le Regioni provano a smaltirle con gli open day senza prenotazioni (anche di notte) - Open",
-      "description": "Nei frigoriferi dei centri vaccinali, soprattutto nelle regioni del Sud Italia, si sono accumulate le fiale di Vaxzevria. L'Aifa pensa di modificare l'indicazione preferenziale del farmaco, estendendo la fascia di età raccomandata agli over 50",
-      "url": "https://www.open.online/2021/05/08/covid-19-dosi-astrazeneca-esubero-regioni-open-day-senza-prenotazioni/",
-      "urlToImage": "https://www.open.online/wp-content/uploads/2021/04/FIGLIUOLO-SALUTA.jpeg",
-      "publishedAt": "2021-05-08T11:55:00Z",
-      "content": "I cinefili lo considererebbero un plot twist fatto a regola d’arte. I detrattori del piano vaccinale del governo Draghi, invece, lo useranno come argomento per affossare la gestione Figliuolo. Ad ogn… [+4202 chars]"
+      "author": "Sirio Del Grande",
+      "title": "#Coronavirus: 165 casi positivi nell'Asl Toscana nord ovest – il punto anche sulle vaccinazioni anti-Covid - Azienda Usl Toscana nord ovest",
+      "description": null,
+      "url": "https://www.uslnordovest.toscana.it/notizie/7150-coronavirus-165-casi-positivi-nell-asl-toscana-nord-ovest-il-punto-anche-sulle-vaccinazioni-anti-covid",
+      "urlToImage": null,
+      "publishedAt": "2021-05-08T13:28:56Z",
+      "content": "8 maggio 2021  NellAzienda USL Toscana nord ovest i casi positivi di oggi, 8 maggio, sono 165.\r\nI dati divisi per zona su tamponi molecolari e test rapidi effettuati  e su numero di guarigioni torner… [+6915 chars]"
     }
   ]
 }

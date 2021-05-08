@@ -5,6 +5,58 @@ news_gb = {
     {
       "source": {
         "id": null,
+        "name": "Mirror Online"
+      },
+      "author": "Natalia Penza",
+      "title": "British man, 66, dies after light aircraft crashes into sea off Spanish beach - Mirror Online",
+      "description": "Local reports claim the British man was performing acrobatic stunts before his plane crashed into the sea off Descargador Beach, near Cala Reona, in the Murcia region of Spain",
+      "url": "https://www.mirror.co.uk/news/world-news/breaking-british-man-66-dies-24068941",
+      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article24068958.ece/ALTERNATES/s1200/0_Cala-Reona.jpg",
+      "publishedAt": "2021-05-08T20:00:34Z",
+      "content": "A British man has died after a plane crashed into the sea off a beach in Spain.\r\nThe 66-year-old was killed instantly when the light aircraft plunged into the water soon after he took off from a smal… [+2394 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Mark Critchley",
+      "title": "Marcos Alonso snatches late Chelsea win to punish Man City and extend wait for Premier League title - The Independent",
+      "description": "Man City 1-2 Chelsea: Pep Guardiola’s side must wait at least another day to discover if they have clinched the title after Thomas Tuchel’s side’s comeback",
+      "url": "https://www.independent.co.uk/sport/football/man-city-chelsea-result-final-score-b1844291.html",
+      "urlToImage": "https://static.independent.co.uk/2021/05/08/19/GettyImages-1316994421.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2021-05-08T18:46:02Z",
+      "content": "Manchester City will be crowned Premier League champions at some point, probably in the next few days in fact. Everyone knows that. Yet that is no excuse for playing as though already performing a vi… [+5722 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Aisha Nozari",
+      "title": "Martin Compston and Vicky McClure mark joint birthday by sharing loved-snaps with their partners - Daily Mail",
+      "description": "Line Of Duty's Martin Compston and Vicky McClure - who share the same birthday and turned 37 and 38 respectively on Saturday - mark their big days by sharing Instagram photos with their partners.",
+      "url": "https://www.dailymail.co.uk/tvshowbiz/article-9557563/Martin-Compston-Vicky-McClure-mark-joint-birthday-sharing-loved-snaps-partners.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2021/05/08/19/42737244-0-image-a-30_1620497678685.jpg",
+      "publishedAt": "2021-05-08T18:26:59Z",
+      "content": "Line Of Duty's Martin Compston and Vicky McClure - who share the same birthday and turned 37 and 38 respectively on Saturday - have both marked their big days by sharing Instagram photos with their p… [+15965 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Heather Stewart",
+      "title": "Angela Rayner sacked as Labour chair after Hartlepool byelection loss - The Guardian",
+      "description": "Move looks to reignite Labour civil war after worse-than-expected defeat in north-east",
+      "url": "https://amp.theguardian.com/politics/2021/may/08/angela-rayner-sacked-as-labour-chair-after-hartlepool-byelection-loss",
+      "urlToImage": null,
+      "publishedAt": "2021-05-08T18:26:00Z",
+      "content": "LabourMove looks to reignite Labour civil war after worse-than-expected defeat in north-east\r\nKeir Starmer has sacked Angela Rayner from her roles as Labours party chair and national campaign coordin… [+3574 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Evening Standard"
       },
       "author": "Ross Lydall",
@@ -30,16 +82,16 @@ news_gb = {
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "The Sun"
       },
-      "author": null,
-      "title": "Matchday Live: Liverpool vs Southampton | All the build up from Anfield - Liverpool FC",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bldyVl84YXVLTzDSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2021-05-08T17:39:26Z",
-      "content": null
+      "author": "SunSport Reporters",
+      "title": "Canelo Alvarez vs Billy Joe Saunders LIVE RESULTS: Fight build-up to TONIGHT’s big world title showdown – l... - The Sun",
+      "description": "",
+      "url": "https://www.thesun.co.uk/sport/boxing/14884958/canelo-alvarez-billy-joe-saunders-live-results-fight-latest-updates/",
+      "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2021/05/Transfer-News-Template-49.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+      "publishedAt": "2021-05-08T17:45:55Z",
+      "content": "READY TO PAY THE BIL\r\nCanelo is 'fed up' with Billy Joe Saunders ahead of their fight tonight, according to former world champion Chris Algieri.\r\nWhen asked if Saunders is trying to get under Canelo'… [+1028 chars]"
     },
     {
       "source": {
@@ -83,28 +135,41 @@ news_gb = {
     {
       "source": {
         "id": null,
-        "name": "Football.London"
+        "name": "ComingSoon.net"
       },
-      "author": "Lewis Pangratiou",
-      "title": "Rio Ferdinand slams Tottenham attitude after Erik Lamela moment vs Leeds United - Football.London",
-      "description": "Tottenham Hotspur suffered a damaging defeat in their European ambitions as they were beaten by Leeds United at Elland Road",
-      "url": "https://www.football.london/tottenham-hotspur-fc/news/rio-ferdinand-tottenham-erik-lamela-20555839",
-      "urlToImage": "https://i2-prod.football.london/article20556222.ece/ALTERNATES/s1200/0_Rio-BT.png",
-      "publishedAt": "2021-05-08T17:00:00Z",
-      "content": "Erik Lamela may have pulled off the spectacular to give Tottenham Hotspur the lead in the North London Derby in March, but the Argentines attempt at the same skill in his side's 3-1 loss to Leeds Uni… [+1800 chars]"
+      "author": null,
+      "title": "Tawny Kitaen Passes Away at 59 - ComingSoon.net",
+      "description": "Actress and media personality Tawny Kitaen has passed away. Born Julie Kitaen, the 59-year-old became an icon in the 1980s and is most famous for appearing being in Whitesnake videos including \"Here I Go Again.\"",
+      "url": "https://www.comingsoon.net/movies/news/1172868-tawny-kitaen-passes-away-at-59-years-old",
+      "urlToImage": "https://www.comingsoon.net/assets/uploads/2021/05/GettyImages-462733014-1.jpg",
+      "publishedAt": "2021-05-08T16:53:17Z",
+      "content": "(Photo by Michael Tran/FilmMagic)\r\nActress and media personality Tawny Kitaen has passed away. Born Julie Kitaen, the 59-year-old became an icon in the 1980s and is most famous for appearing on Ratt … [+1429 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Kabul attack: Blast near school leaves at least 30 dead - BBC News",
+      "description": "The attack took place as the students - thought to be mainly girls - were leaving the Kabul school.",
+      "url": "https://www.bbc.co.uk/news/world-asia-57040713",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10CC3/production/_118430886_a1328ae9-a0e9-4378-817e-9e43ee8e8420.jpg",
+      "publishedAt": "2021-05-08T16:49:26Z",
+      "content": "image captionAmbulances rushed the injured to hospital\r\nA blast close to a secondary school in the Afghan capital Kabul has left at least 30 people dead and dozens more injured, officials have said.\r… [+2902 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sky.com"
+        "name": "Mirror Online"
       },
-      "author": "Sky",
-      "title": "Afghanistan: Children among at least 40 killed in bomb attack on Kabul school - Sky News",
-      "description": "The Afghan president blamed the Taliban for the attack - but they pointed the finger at Islamic State.",
-      "url": "https://news.sky.com/story/afghanistan-children-among-at-least-25-killed-by-bomb-near-afghanistan-school-12300620",
-      "urlToImage": "https://e3.365dm.com/21/05/1600x900/skynews-kabul-afghanistan_5374464.jpg?20210508161157",
-      "publishedAt": "2021-05-08T16:52:30Z",
-      "content": null
+      "author": "Susan Knox",
+      "title": "Shaughna Phillips unveils 'Kim Kardashian body' after epic weight loss transformation - Mirror Online",
+      "description": "Love Island star Shaughna Phillips has completely transformed her gorgeous figure after gaining over two stone in lockdown",
+      "url": "https://www.mirror.co.uk/3am/celebrity-news/shaughna-phillips-unveils-kim-kardashian-24067803",
+      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article24067845.ece/ALTERNATES/s1200/1_Social.jpg",
+      "publishedAt": "2021-05-08T16:21:10Z",
+      "content": "Shaughna Phillips has completely wowed fans with her jaw-dropping weight transformation. \r\n The former Love Island babe, 27, recently revealed that she had gained over two stone in lockdown as she wa… [+3337 chars]"
     },
     {
       "source": {
@@ -121,19 +186,6 @@ news_gb = {
     },
     {
       "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Sir John Curtice: What the 2021 election results mean for the parties - BBC News",
-      "description": "Prof Sir John Curtice says the ruling parties appear to have done well in Thursday's bumper crop of elections.",
-      "url": "https://www.bbc.co.uk/news/uk-politics-57040175",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/161A4/production/_118223509_curtice2-nc.png",
-      "publishedAt": "2021-05-08T15:53:12Z",
-      "content": "By Sir John CurticeProfessor of Politics at Strathclyde University\r\nTwo key themes have emerged from the results of Thursday's elections declared so far.\r\nFirst, ruling parties have done well, reward… [+5605 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Sky Sports"
       },
@@ -144,6 +196,19 @@ news_gb = {
       "urlToImage": "https://e0.365dm.com/21/05/1600x900/skysports-lewis-hamilton-mercedes_5362691.png",
       "publishedAt": "2021-05-08T15:34:24Z",
       "content": "Hamilton's 100 poles: By season\r\nJust like race victories, Lewis Hamilton has scored a pole position in all 15 of his F1 seasons.\r\nHe started off very strong at McLaren, with six poles in his debut c… [+2692 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Worcester City Council: Conservatives win control - BBC News",
+      "description": "The council has gone from no overall control to a majority Conservative leadership.",
+      "url": "https://www.bbc.co.uk/news/uk-england-hereford-worcester-57039693",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5AA3/production/_118430232_img_6591.jpg",
+      "publishedAt": "2021-05-08T15:08:13Z",
+      "content": "image captionThe Tories now have control of Worcester City Council by one seat\r\nThe Conservatives have taken charge of Worcester City Council, which formerly had no party in overall control.\r\nThe par… [+1422 chars]"
     },
     {
       "source": {
@@ -174,19 +239,6 @@ news_gb = {
     {
       "source": {
         "id": null,
-        "name": "Mirror Online"
-      },
-      "author": "Louise Randell, Will Twigger",
-      "title": "Tawny Kitaen dead: Actress and music video star dies aged 59 - Mirror Online",
-      "description": "Actress and former child star Tawny Kitaen has died aged 59 according to US reports. TMZ.com reports the star died in Newport Beach, California on Friday",
-      "url": "https://www.mirror.co.uk/3am/celebrity-news/breaking-tawny-kitaen-dead-former-24066995",
-      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article11093576.ece/ALTERNATES/s1200/1_RLP_MDG_010917BOTCHED_5269JPG.jpg",
-      "publishedAt": "2021-05-08T13:53:01Z",
-      "content": "Actress Tawny Kitaen has died at the age of 59, according to TMZ.com.\r\nThe former child star is said to have passed away in Newport Beach, California on Friday. \r\nThe website reports a cause of death… [+1769 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Wales Online"
       },
       "author": "Ruth Mosalski",
@@ -200,19 +252,6 @@ news_gb = {
     {
       "source": {
         "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Robin McKie",
-      "title": "Scientists launch search for genetic test to spot killer prostate cancer - The Guardian",
-      "description": "Gene-screening, as is used to detect some breast cancer risks, could save thousands of lives",
-      "url": "https://amp.theguardian.com/society/2021/may/08/scientists-launch-search-for-genetic-test-to-spot-killer-prostate-cancer",
-      "urlToImage": null,
-      "publishedAt": "2021-05-08T13:32:00Z",
-      "content": "Prostate cancerGene-screening, as is used to detect some breast cancer risks, could save thousands of lives\r\nScientists have begun work to create a prostate cancer screening service for the UK. In a … [+4058 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Leicestershire Live"
       },
       "author": "Shane Ireland",
@@ -222,45 +261,6 @@ news_gb = {
       "urlToImage": "https://i2-prod.leicestermercury.co.uk/sport/football/football-news/article5264288.ece/ALTERNATES/s1200/0_Rio-FerdinandJPG.jpg",
       "publishedAt": "2021-05-08T13:20:00Z",
       "content": "Rio Ferdinand has praised Brendan Rodgers for the fabulous job he is doing at Leicester City.\r\nBut the former Manchester United defender fears City are at risk of missing out on a place in the Premie… [+2956 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Emma Donoghue",
-      "title": "Emma Donoghue on writing Room: ‘I toned down some of the horror of the Fritzl case’ - The Guardian",
-      "description": "Donoghue’s bestseller drew on the case of Felix Fritzl, who was held captive in a dungeon by his father, and her observations of her own children",
-      "url": "https://amp.theguardian.com/books/2021/may/08/emma-donoghue-on-writing-room-i-toned-down-some-of-the-horror-of-the-fritzl-case",
-      "urlToImage": null,
-      "publishedAt": "2021-05-08T12:07:00Z",
-      "content": "How I wroteDonoghues bestseller drew on the case of Felix Fritzl, who was held captive in a dungeon by his father, and her observations of her own children\r\nI got the notion to write Room in 2008 whe… [+3276 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Helen Pidd",
-      "title": "Steve Rotheram re-elected as mayor of Liverpool city region - The Guardian",
-      "description": "Former Labour MP retains mayoralty after difficult campaign marred by controversies in local party",
-      "url": "https://amp.theguardian.com/politics/2021/may/08/steve-rotheram-re-elected-as-mayor-of-liverpool-city-region",
-      "urlToImage": null,
-      "publishedAt": "2021-05-08T12:06:00Z",
-      "content": "Mayoral electionsFormer Labour MP retains mayoralty after difficult campaign marred by controversies in local party\r\nSteve Rotheram has been re-elected as mayor of Liverpool city region after a diffi… [+3223 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kent Online"
-      },
-      "author": "Angela Cole",
-      "title": "Police and forensics search home in PSCO murder probe - Kent Online",
-      "description": "Police and forensics teams have cordoned off a property in connection with the death of PSCO Julia James.",
-      "url": "https://www.kentonline.co.uk/canterbury/news/police-and-forensics-searching-property-246897/",
-      "urlToImage": "https://www.kentonline.co.uk/_media/img/2ZZ72G1MT6Q41Z7N8UQB.jpg",
-      "publishedAt": "2021-05-08T12:02:00Z",
-      "content": "Police and forensics teams are searching a property in Aylesham in relation to the murder of PSCO Julia James.\r\nThe quiet road has been taped off by officers, who are believed to have arrived there t… [+1083 chars]"
     }
   ]
 }
