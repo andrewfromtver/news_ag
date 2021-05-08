@@ -1,5 +1,6 @@
 // Generate news_cards 
 loadNews = (lang) => {
+  document.getElementById('app').style.overflow = 'auto'
   document.getElementById('news').innerHTML = ``
   document.getElementById('popup').style.display = 'none'
   if (lang === 'ru') {
@@ -73,6 +74,7 @@ loadNews = (lang) => {
 }
 // Open provided news page in iframe
 goTo = (url, title) => {
+  document.getElementById('app').style.overflow = 'hidden'
   document.getElementById('popup').style.display = ''
   document.getElementById('newsframe').src = url
   document.getElementById('title').innerText = title
@@ -80,6 +82,7 @@ goTo = (url, title) => {
 }
 // Close popup
 closePopup = () => {
+  document.getElementById('app').style.overflow = 'auto'
   document.getElementById('popup').style.display = 'none'
   document.getElementById('newsframe').src = './templates/loader.html'
 }
