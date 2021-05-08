@@ -1,11 +1,4 @@
-* {
-    font-family: sans-serif;
-}
-
-
-header {
-    display: none;
-}
+* { font-family: sans-serif; }
 
 html, body, #app {
     margin: 0;
@@ -86,6 +79,11 @@ nav {
     justify-content: space-between;
     border-radius: 4px;
     overflow: hidden;
+    filter: sepia();
+}
+
+.card:hover {
+    filter: drop-shadow(0 0 8px #6699CC);
 }
 
 .card > h3 {
