@@ -1,0 +1,45 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>News AG</title>
+    <link rel="shortcut icon" href="./assets/logo.png">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div id="app">
+        <nav>
+            <div class="navlinks">
+                <div class="navlink" id="logo">
+                    <img src="./assets/logo.png" alt="logo" height="32px" width="32px">
+                    <h3>News</h3>
+                </div>
+                <div class="navlink">
+                    <select name="lang" id="lang" onchange="loadNews(this.value)">
+                        <option value="gb">Grate Britain</option>
+                        <option value="us">USA</option>
+                        <option value="ru">Russia</option>
+                        <option value="it">Italy</option>
+                    </select>
+                </div>
+            </div>
+        </nav>
+        <div class="container" id="news"></div>
+        <div id="popup" class="popup">
+            <header>
+                <code id="title">Provided content ...</code>
+                <img src="./assets/close.png" alt="close" onclick="closePopup()">
+            </header>
+            <iframe id="newsframe" src="./loader.html"></iframe>
+        </div>
+    </div>
+</body>
+
+<script src="./app-data/news_ru.js"></script>
+<script src="./app-data/news_us.js"></script>
+<script src="./app-data/news_gb.js"></script>
+<script src="./app-data/news_it.js"></script>
+
+<script src="./index.js"></script>
+</html>
