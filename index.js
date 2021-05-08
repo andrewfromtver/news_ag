@@ -1,3 +1,14 @@
+// Window resize on mobile browsers
+let vh = window.innerHeight * 0.01
+document.documentElement.style.setProperty('--vh', vh + 'px')
+window.addEventListener('resize', () => {
+  () => {
+    let vh = window.innerHeight * 0.01
+    document.documentElement.style.setProperty('--vh', vh + 'px')
+  }
+  setTimeout(init, 50)
+})
+
 // Generate news_cards 
 loadNews = (lang) => {
   document.getElementById('news').style.overflow = 'auto'
@@ -14,7 +25,7 @@ loadNews = (lang) => {
             <h3>${e.title}</h3>
             <p>${e.description || ''}</p>
             <button id=${e.url} onclick="goTo(this.id, this.innerText)">
-              Provided by - ${e.source.name}
+              News AG, provided by - ${e.source.name}
             </button>
           </div>
         `
@@ -31,7 +42,7 @@ loadNews = (lang) => {
             <h3>${e.title}</h3>
             <p>${e.description || ''}</p>
             <button id=${e.url} onclick="goTo(this.id, this.innerText)">
-              Provided by - ${e.source.name}
+              News AG, provided by - ${e.source.name}
             </button>
           </div>
         `
@@ -48,7 +59,7 @@ loadNews = (lang) => {
             <h3>${e.title}</h3>
             <p>${e.description || ''}</p>
             <button id=${e.url} onclick="goTo(this.id, this.innerText)">
-              Provided by - ${e.source.name}
+              News AG, provided by - ${e.source.name}
             </button>
           </div>
         `
@@ -65,7 +76,7 @@ loadNews = (lang) => {
             <h3>${e.title}</h3>
             <p>${e.description || ''}</p>
             <button id=${e.url} onclick="goTo(this.id, this.innerText)">
-              Provided by - ${e.source.name}
+              News AG, provided by - ${e.source.name}
             </button>
           </div>
         `
