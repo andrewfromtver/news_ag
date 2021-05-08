@@ -1,11 +1,13 @@
 import requests
 import json
 
+news_api_key = "185633f4c5d74cdba519901f2bfebe7c"
+
 def NewsFetch():	
 	# RU news api (country and apiKey)
 	query_params = {
 	"country": "ru",
-	"apiKey": "185633f4c5d74cdba519901f2bfebe7c"
+	"apiKey": news_api_key
 	}
 	main_url = "https://newsapi.org/v2/top-headlines"
 	# fetching data in json format
@@ -29,7 +31,7 @@ def NewsFetch():
     # US news api (country and apiKey)
 	query_params = {
 	"country": "us",
-	"apiKey": "185633f4c5d74cdba519901f2bfebe7c"
+	"apiKey": news_api_key
 	}
 	main_url = "https://newsapi.org/v2/top-headlines"
 	# fetching data in json format
@@ -53,7 +55,7 @@ def NewsFetch():
     # GB news api (country and apiKey)
 	query_params = {
 	"country": "gb",
-	"apiKey": "185633f4c5d74cdba519901f2bfebe7c"
+	"apiKey": news_api_key
 	}
 	main_url = "https://newsapi.org/v2/top-headlines"
 	# fetching data in json format
@@ -77,7 +79,7 @@ def NewsFetch():
     # IT news api (country and apiKey)
 	query_params = {
 	"country": "it",
-	"apiKey": "185633f4c5d74cdba519901f2bfebe7c"
+	"apiKey": news_api_key
 	}
 	main_url = "https://newsapi.org/v2/top-headlines"
 	# fetching data in json format
