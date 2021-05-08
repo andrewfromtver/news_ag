@@ -8,51 +8,129 @@ news_it = {
         "name": "Sport.sky.it"
       },
       "author": "Redazione Sky Sport",
-      "title": "Spezia-Napoli 1-4: gol e highlights. Doppietta e show di Osimhen, Gattuso è 2° - Sky Sport",
-      "description": "Leggi su Sky Sport l'articolo Spezia-Napoli 1-4: gol e highlights. Doppietta e show di Osimhen, Gattuso è 2°",
-      "url": "https://sport.sky.it/calcio/serie-a/2021/05/08/spezia-napoli-risultato-gol",
-      "urlToImage": "https://static.sky.it/images/skysport/it/calcio/serie-a/2021/05/08/spezia-napoli-risultato-gol/napoli.jpg",
-      "publishedAt": "2021-05-08T16:00:19Z",
-      "content": "15' Zielinski (N), 23' e 44' Osimhen (N), 64' Piccoli (S), 80' Lozano (N)\r\nSPEZIA (4-3-3): Provedel; Vignali, Ismajli, Chabot, Marchizza; Estevez (78' Acampora), Ricci, Maggiore; Verde (46' Piccoli),… [+3052 chars]"
+      "title": "Inter-Sampdoria 5-1, gol e highlights: doppietta di Sanchez, a segno anche Pinamonti - Sky Sport",
+      "description": "Leggi su Sky Sport l'articolo Inter-Sampdoria 5-1, gol e highlights: doppietta di Sanchez, a segno anche Pinamonti",
+      "url": "https://sport.sky.it/calcio/serie-a/2021/05/08/inter-sampdoria-risultato-gol",
+      "urlToImage": "https://static.sky.it/images/skysport/it/calcio/serie-a/2021/05/08/inter-sampdoria-risultato-gol/inter_curva_ansa.jpg",
+      "publishedAt": "2021-05-08T18:19:37Z",
+      "content": "4' Gagliardini (I), 26' Sanchez (I), 35' Keita Balde (S), 36' Sanchez (I), 62' Pinamonti (I), 70' rig. Lautaro (I)\r\nINTER (3-5-2): Handanovic (46' Radu); D'Ambrosio, Ranocchia, Bastoni; Hakimi, Vecin… [+381 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gazzetta.it"
+        "name": "Adnkronos.com"
       },
-      "author": "Gasport",
-      "title": "Ganna domina la cronometro di Torino: la prima maglia rosa è sua! - La Gazzetta dello Sport",
-      "description": "Filippo chiude con 10” di vantaggio su Affini. Sul podio anche il norvegese Foss. Mosconi 10°. “La volevo, la gente mi ha spinto”",
-      "url": "https://www.gazzetta.it/Giroditalia/08-05-2021/giro-d-italia-prima-maglia-rosa-ganna-l-iridato-domina-cronometro-410841989116.shtml",
-      "urlToImage": "https://images2.gazzettaobjects.it/methode_image/2021/05/08/Ciclismo/Foto_Ciclismo_-_Trattate/0ff557f047de793ca5fc547369e68914_1200x675.jpg?v=202105081836",
-      "publishedAt": "2021-05-08T15:36:53Z",
-      "content": "Come da pronostico. La prima maglia rosa del Giro va a Filippo Ganna, come già un anno fa in Sicilia. Questa volta l’iridato la coglie a Torino dominando la cronometro di 8.6 km vinta con 10” di vant… [+1831 chars]"
+      "author": "mrtrepetto",
+      "title": "Ddl Zan, Gullotta: \"E' civiltà, ma a destre del cittadino non frega niente\" - Adnkronos",
+      "description": "L'attore all'Adnkronos: '1 maggio? Giusta lettera Fedez e denuncia censura, in Italia c’è sempre stata'",
+      "url": "https://www.adnkronos.com/ddl-zan-gullotta-e-civilta-ma-a-destre-del-cittadino-non-frega-niente_47HDTHXCg42ZgqtN4lzUSu",
+      "urlToImage": "https://www.adnkronos.com/resources/0269-123a7e13b241-ac27fd39bf69-1000/leo_gullotta_ipa_fg.jpg",
+      "publishedAt": "2021-05-08T17:25:00Z",
+      "content": "L'attore all'Adnkronos: \"1 maggio? Giusta lettera Fedez e denuncia censura, in Italia c’è sempre stata\"\"Non si può fare finta che il Ddl Zan non serva, che è inutile, come fa la destra per accontenta… [+1593 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Fanpage.it"
+        "name": "Ilfattoquotidiano.it"
       },
-      "author": "Antonio Palma",
-      "title": "Bollettino Coronavirus Italia, oggi 10.176 contagi su 338.436 tamponi e 224 morti per Covid: i dati di sabato 8 maggio - Fanpage.it",
-      "description": "Sono 10.176 i nuovi casi di Coronavirus registrati nelle ultime 24 ore in Italia secondo il bollettino di oggi, sabato 8 maggio, diffuso dal Ministero della Salute. Nell’ultima giornata sono stati effettuati 338.436 tra test e tamponi mentre si registrano alt…",
-      "url": "https://www.fanpage.it/attualita/bollettino-coronavirus-italia-oggi-10-176-contagi-su-338-436-tamponi-e-224-morti-per-covid-i-dati-di-sabato-8-maggio/",
-      "urlToImage": "https://static.fanpage.it/wp-content/uploads/2020/11/BOLLETTINO-OGGI-ARTICOLO.jpg",
-      "publishedAt": "2021-05-08T15:25:20Z",
-      "content": "Sono 10.176 i nuovi contagi da Coronavirus registrati in Italia nel bollettino di oggi, sabato 8 maggio, diffuso dal Ministero della Salute. Ieri i nuovi casi Covid erano stati 10.554. I test effettu… [+2356 chars]"
+      "author": "F. Q.",
+      "title": "Elezioni Scozia, gli indipendentisti dello Snp vincono per la quarta volta di fila: ma mancano due seggi alla… - Il Fatto Quotidiano",
+      "description": "Secondo le proiezioni della Bbc, con lo spoglio che volge al termine, il partito della first minister per soli due seggi non raggiunge la maggioranza assoluta che avrebbe dato maggior forza alla richiesta di un nuovo referendum sulla secessione dalla Gran Bre…",
+      "url": "https://www.ilfattoquotidiano.it/2021/05/08/elezioni-scozia-lo-snp-vince-per-la-quarta-volta-di-fila-sturgeon-adesso-niente-giustifica-un-no-al-referendum-sullindipendenza/6191763/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/08/nicola-sturgeon.jpg",
+      "publishedAt": "2021-05-08T16:36:28Z",
+      "content": "Lo Scottish National Party vince di nuovo le elezioni, ma non arriva la sperata maggioranza assoluta nel Parlamento di Edimburgo che avrebbe dato agli indipendentisti scozzesi maggior forza nella ric… [+2505 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Corriere.it"
       },
-      "author": "Daniele Sparisci, inviato a Montmelò",
-      "title": "Gp Spagna F1, qualifiche: Hamilton in pole a Barcellona, Verstappen secondo. Ferrari: Leclerc quarto e Sainz... - Corriere della Sera",
-      "description": "Quarto appuntamento del Mondiale, il campione della Mercedes conquista la centesima pole in carriera. Bravo Leclerc a portare la Ferrari in seconda fila",
-      "url": "https://www.corriere.it/sport/formula-1/notizie/gp-spagna-f1-hamilton-pole-barcellona-a-verstappen-ferrari-leclerc-quarto-sainz-6-7c7f024a-affc-11eb-8261-0c233af9e96e.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/08/93e0123e-b007-11eb-8261-0c233af9e96e.jpg",
-      "publishedAt": "2021-05-08T14:53:43Z",
-      "content": "Lewis Hamilton firma la pole del Gp di Spagna a Barcellona, la numero cento in carriera. Davanti a Verstappen per 36 millesimi e Valtteri Bottas. Leclerc si prende la seconda fila con un gran giro fi… [+2935 chars]"
+      "author": "Alessio Ribaudo",
+      "title": "Esplosione di Gubbio, Samuel Cuffaro morto a 19 anni: «Aveva un contratto a chiamata» - Corriere della Sera",
+      "description": "È una delle due vittime, l'altra si chiama Elisabetta D’Innocenti (52 anni). Si indaga per duplice omicidio colposo e lesioni colpose. Nei primi tre mesi dell'anno 185 morti sul lavoro",
+      "url": "https://www.corriere.it/cronache/21_maggio_08/esplosione-gubbio-samuel-cuffaro-morto-19-anni-aveva-contratto-chiamata-d2942370-b008-11eb-8261-0c233af9e96e.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/08/e5714b62-b017-11eb-8261-0c233af9e96e.jpg",
+      "publishedAt": "2021-05-08T16:14:36Z",
+      "content": "Un cumulo di macerie fumanti sotto le quali, venerdì pomeriggio, sono bruciate le vite di due lavoratori pieni di sogni nella campagna di Gubbio, una quartina di minuti da Perugia. È questo ciò che è… [+3614 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Trevisotoday.it"
+      },
+      "author": "Redazione",
+      "title": "Non si lega al deltaplano e precipita dopo il decollo: morto un 52enne - TrevisoToday",
+      "description": "L'incidente è avvenuto sabato pomeriggio a Borso del Grappa, poco dopo il decollo sul Col del Puppolo a Borso del Grappa. Morto Federico Baratto, illesa...",
+      "url": "https://www.trevisotoday.it/cronaca/morto-deltaplano-borso-grappa-oggi-8-maggio-2021.html",
+      "urlToImage": "https://www.trevisotoday.it/~media/horizontal-hi/9766946994962/fgf.jpg",
+      "publishedAt": "2021-05-08T16:11:45Z",
+      "content": "Dopo aver assicurato la compagna di volo, non ha provveduto a legare se stesso e, subito dopo il decollo, è rimasto appeso alla sbarra, cadendo nel vuoto dopo un'impennata del deltaplano biposto. Ha … [+1728 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Corriere.it"
+      },
+      "author": "Marco Bonarrigo",
+      "title": "Giro d'Italia 2021, Filippo Ganna vince la crono di Torino: è maglia rosa - Corriere della Sera",
+      "description": "Il campione del mondo cronometro mostruoso a 70 km/h, vince la cronometro di Torino",
+      "url": "https://www.corriere.it/sport/21_maggio_08/filippo-ganna-vince-prima-tappa-giro-d-italia-2021-maglia-rosa-936135da-b00d-11eb-8261-0c233af9e96e.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/08/8873e9e6-b00e-11eb-8261-0c233af9e96e.jpg",
+      "publishedAt": "2021-05-08T15:52:59Z",
+      "content": "Come a Palermo nel 2020, meglio che a Palermo: a Torino Filippo Ganna ha dominato la cronometro di apertura del 104° Giro d’Italia e indossa la prima maglia rosa, disputando una prova stellare. \r\nIl … [+2144 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mediaset.it"
+      },
+      "author": null,
+      "title": "Elisa Isoardi si emoziona rivedendosi a \"L'Isola dei Famosi\": \"Mai vista così, esperienza durissima\" - TGCOM",
+      "description": "La conduttrice si racconta a \"Verissimo\" dopo l'esperienza nel reality di Canale 5",
+      "url": "https://www.tgcom24.mediaset.it/televisione/elisa-isoardi-si-emoziona-rivedendosi-a-l-isola-dei-famosi-mai-vista-cosi-esperienza-durissima_31998443-202102k.shtml",
+      "urlToImage": "https://img-prod.tgcom24.mediaset.it/images/2021/05/08/152544988-22e8a3a2-e495-4db9-9689-ad55ec4aef7a.jpg",
+      "publishedAt": "2021-05-08T15:32:50Z",
+      "content": "\"Non mi sono mai vista così, in tutta la vita intendo\". A \"Verissimo\", Elisa Isoardi non trattiene le lacrime dopo aver rivisto le sue immagini a \"L'Isola dei Famosi\": \"Non sono abituata a vedermi co… [+606 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.ivg.it"
+      },
+      "author": "Redazione",
+      "title": "Covid, scende l’incidenza del virus e calano gli ospedalizzati - IVG.it",
+      "description": "Si registrano ancora 5 morti, ma aumentano le vaccinazioni",
+      "url": "https://www.ivg.it/2021/05/covid-scende-lincidenza-del-virus-e-calano-gli-ospedalizzati/",
+      "urlToImage": "https://www.ivg.it/photogallery_new/images/2020/09/generica-646136.large.jpg",
+      "publishedAt": "2021-05-08T15:31:00Z",
+      "content": "Liguria. Sono 202 i nuovi casi di contagio da coronavirus registrati dallodierno bollettino Alisa/Regione per il ministero della Salute. Il dato è riferito a 4.188 tamponi molecolari effettuati. Quin… [+2521 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilmattino.it"
+      },
+      "author": "Redazione Web",
+      "title": "Razzo cinese in caduta libera verso la Terra, l'allarme della Protezione civile della... - ilmattino.it",
+      "description": "Razzo cinese, c'è una circolare della Protezione civile della Campania che dalla mezzanotte e fino alle 6 di domenica mattina attiverà la sala operativa regionale in fase...",
+      "url": "https://www.ilmattino.it/napoli/cronaca/razzo_cinese_in_caduta_sulla_campania_ultime_notizie_oggi_protezione_civile-5947372.html",
+      "urlToImage": "https://www.ilmattino.it/photos/MED/73/72/5947372_1715_rzu.jpg",
+      "publishedAt": "2021-05-08T15:15:00Z",
+      "content": "Razzo cinese, c'è una circolare della Protezione civile della Campania che dalla mezzanotte e fino alle 6 di domenica mattina attiverà la sala operativa regionale in fase operativa di attenzione. \r\nV… [+1100 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilgiornale.it"
+      },
+      "author": "Roberto Vivaldelli",
+      "title": "L'ombra di Epstein sul divorzio fra Bill e Melinda Gates - ilGiornale.it",
+      "description": "Emergono nuovi dettagli sul divorzio fra i coniugi Gates. Secondo alcune ricostruzioni, la coppia era in crisi da tempo e una delle cause della rottura potrebbe essere l'ex magnate-pedofilo morto nel 2019",
+      "url": "https://www.ilgiornale.it/news/mondo/jeffrey-epstein-causa-divorzio-bill-e-melinda-gates-1945092.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2021/05/05/1620204301-axk5xjum-pstwl9ibcxe-lapresse.jpeg?_=1620204301",
+      "publishedAt": "2021-05-08T15:10:00Z",
+      "content": "Un divorzio che era nell'aria da tempo, quello fra Bill e Melinda Gates. Secondo quanto riportato da una fonte anonima citata dalla rivista People, molto vicina alla coppia, ci sarebbero più cause ch… [+3399 chars]"
     },
     {
       "source": {
@@ -70,132 +148,106 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Romatoday.it"
+        "name": "Laprovinciacr.it"
       },
-      "author": "Redazione",
-      "title": "Coronavirus a Roma e nel Lazio, il bollettino dei nuovi contagi: i dati dell'8 maggio - RomaToday",
-      "description": "I casi nel Lazio sono 999",
-      "url": "https://www.romatoday.it/attualita/coronavirus-roma-notizie-contagi-aggiornamenti-8-maggio-2021.html",
-      "urlToImage": "https://www.romatoday.it/~media/horizontal-hi/68092414292455/coronavirus-roma-dati-contagi-di-oggi-2.jpg",
-      "publishedAt": "2021-05-08T14:17:28Z",
-      "content": "Lazio sotto i 1000 casi. Restano sotto controllo i nuovi contagi: oggi su 16mila tamponi molecolari e 23mila antigenici sono 999 i nuovi positivi riscontrati. Quindici i decessi. Diminuiscono i deces… [+2052 chars]"
+      "author": "Andrea Arco",
+      "title": "Dodici luci nel cielo: la costellazione satellitare di Elon Musk - La Provincia",
+      "description": "Stavolta gli Ufo non c'entrano: tutti col naso all'insù per uno spettacolo dal fascino magnetico",
+      "url": "https://www.laprovinciacr.it/news/cronaca/355132/dodici-luci-nel-cielo-la-costellazione-satellitare-di-elon-musk.html",
+      "urlToImage": "https://www.laprovinciacr.it/resizer/600/315/true/2021_05_08/soncino1-1620483725126.PNG--dodici_luci_nel_cielo__la_costellazione_satellitare_di_elon_musk.PNG?1620483725000",
+      "publishedAt": "2021-05-08T14:29:41Z",
+      "content": "SONCINO - Centinaia di soncinesi e bresciani, ieri notte, hanno passato minuti con gli occhi rivolti al cielo per osservare dodici misteriose luci danzanti oltre l’atmosfera. «E’ un uccello? E’ un ae… [+1490 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Toscana.it"
+        "name": "Corriere dello Sport"
       },
-      "author": "Sirio Del Grande",
-      "title": "#Coronavirus: 165 casi positivi nell'Asl Toscana nord ovest – il punto anche sulle vaccinazioni anti-Covid - Azienda Usl Toscana nord ovest",
-      "description": null,
-      "url": "https://www.uslnordovest.toscana.it/notizie/7150-coronavirus-165-casi-positivi-nell-asl-toscana-nord-ovest-il-punto-anche-sulle-vaccinazioni-anti-covid",
-      "urlToImage": null,
-      "publishedAt": "2021-05-08T13:28:56Z",
-      "content": "8 maggio 2021  NellAzienda USL Toscana nord ovest i casi positivi di oggi, 8 maggio, sono 165.\r\nI dati divisi per zona su tamponi molecolari e test rapidi effettuati  e su numero di guarigioni torner… [+6915 chars]"
-    },
-    {
-      "source": {
-        "id": "la-repubblica",
-        "name": "La Repubblica"
-      },
-      "author": "Repubblica.it",
-      "title": "Coronavirus Emilia-Romagna, il bollettino di oggi 8 maggio: 875 contagi, 15 morti - La Repubblica",
-      "description": "Superata quota 13mila decessi in regione da inizio pandemia",
-      "url": "https://bologna.repubblica.it/cronaca/2021/05/08/news/coronavirus_emilia-romagna_il_bollettino_di_oggi_8_maggio_contagi_morti_vaccini-299971717/",
-      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-bologna/2021/05/08/152128553-db99adfb-a8e9-4d86-b2a7-d6fb7019ff69.jpg",
-      "publishedAt": "2021-05-08T13:25:33Z",
-      "content": "BOLOGNA - Sono 875 i nuovi casi di positività (di cui 342 asintomatici) intercettati in Emilia-Romagna nelle ultime 24 ore, a fronte di poco più di 30mila tamponi eseguiti (2,9% la percentuale dei nu… [+1673 chars]"
+      "author": "Matteo Novembrini",
+      "title": "GP Spagna, qualifiche: Hamilton fa 100 pole position! Verstappen 2°, Leclerc 4° - Autosprint.it",
+      "description": "Pole position numero 100 della carriera per l'inglese, che è riuscito a piegare un Verstappen molto veloce. Ferrari 4° con Leclerc e 6° con Sainz",
+      "url": "https://autosprint.corrieredellosport.it/news/formula1/2021/05/08-4216376/gp_spagna_qualifiche_hamilton_fa_100_verstappen_2_leclerc_4_/",
+      "urlToImage": "https://cdn-autosprint.corrieredellosport.it/images/2021/05/08/144316550-e81fc791-e156-4fdd-8076-8895873f4706.jpg",
+      "publishedAt": "2021-05-08T14:29:00Z",
+      "content": "Ed alla fine, la pole position numero 100 è arrivata: Lewis Hamilton abbatte un altro muro nella storia della F1, prendendosi la prima posizione sulla griglia di partenza del GP di Spagna. Niente da … [+2589 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Romatoday.it"
+        "name": "Corriere.it"
       },
-      "author": "Redazione",
-      "title": "Ostia, arriva l'ordinanza di Raggi: stagione al via il 15 maggio. Kitesurf vietato, si raccomanda di non fumare - RomaToday",
-      "description": "All'interno del documento anche i consigli ai bagnanti. Raccomandato anche il non utilizzo della plastica",
-      "url": "https://www.romatoday.it/politica/ordinanza-stagione-balneare-2021.html",
-      "urlToImage": "https://www.romatoday.it/~media/horizontal-hi/69841897008064/ostia-2-giugno-2020-3.jpeg",
-      "publishedAt": "2021-05-08T13:17:00Z",
-      "content": null
+      "author": "Elisa Messina",
+      "title": "Coronavirus, le ultime notizie dall’Italia e dal mondo sul Covid - Corriere della Sera",
+      "description": "Gli aggiornamenti sul coronavirus di sabato 8 maggio",
+      "url": "https://www.corriere.it/salute/21_maggio_08/coronavirus-ultime-notizie-dall-italia-mondo-covid-d5c2433e-afc6-11eb-8261-0c233af9e96e.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/08/b5616fbc-afca-11eb-8261-0c233af9e96e.jpg",
+      "publishedAt": "2021-05-08T14:15:00Z",
+      "content": "La situazione Covid-19 in Italia e nel mondo\r\nOre 19.07 - Troppa folla: chiusure in zone della movida a Roma Interventi per assembramenti e chiusure di strade e piazze oggi a Roma a causa della folla… [+9135 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Liberoquotidiano.it"
+        "name": "Mediaset.it"
       },
-      "author": "@libero_official",
-      "title": "Isola dei Famosi, Ilary Blasi e la tutina in pizzo. Si vede tutto, il video (da infarto) dietro le quinte - Liberoquotidiano.it",
-      "description": "Nuovo look supersexy per  Ilary Blasi  nell'ultima puntata dell'Isola dei Famosi. Sempre più magra, ha aperto la diretta di v...",
-      "url": "https://www.liberoquotidiano.it/news/spettacoli/televisione/27156731/isola-dei-famosi-ilary-blasi-tutina-pizzo-video-dietro-quinte-infarto.html",
-      "urlToImage": "https://img2.liberoquotidiano.it/images/2021/05/08/115008179-cf267c79-4647-4b2c-b676-9c62ad92be00.jpg",
-      "publishedAt": "2021-05-08T12:09:00Z",
-      "content": "Nuovo look supersexy per Ilary Blasi nell'ultima puntata dell'Isola dei Famosi. Sempre più magra, ha aperto la diretta di venerdì 7 maggio, con una breve sfilata che da dietro le quinte la porta sott… [+1384 chars]"
+      "author": null,
+      "title": "Federico Rossi e la sua storia con Paola Di Benedetto: \"Mi ha aiutato a sconfiggere depressione e alcol\" - TGCOM",
+      "description": "La coppia si racconta a \"Verissimo\": \"Mi ha lasciato prima di un concerto, cantai in playback\"",
+      "url": "https://www.tgcom24.mediaset.it/televisione/federico-rossi-e-la-sua-storia-con-paola-di-benedetto-mi-ha-aiutato-a-sconfiggere-depressione-e-alcol_31992525-202102k.shtml",
+      "urlToImage": "https://img-prod.tgcom24.mediaset.it/images/2021/05/08/135912356-700a8717-4c2f-412f-acff-fd1e97bcc667.jpg",
+      "publishedAt": "2021-05-08T14:11:44Z",
+      "content": "\"Quando mi sono trasferito a Milano ho vissuto un periodo complicato e lei mi è stata molto vicino\". A \"Verissimo\", Federico Rossi parla della sua storia d'amore con Paola Di Bendetto. Il cantante ha… [+1202 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Ilmessaggero.it"
+        "name": "Milannews.it"
       },
-      "author": "Redazione Web",
-      "title": "Viaggi e quarantena, dal 15 maggio stop in Ue, Regno Unito e Israele. Più voli Covid-free con gli Usa - Il Messaggero",
-      "description": "Stop alla quarantena per chi si muove tra Paesi Ue o chi arriva da Paesi pressoché immunizzati come Regno Unito e Israele, più voli Covid-free tra Italia e Stati Uniti e collegamenti...",
-      "url": "https://www.ilmessaggero.it/viaggi/news/viaggi_ue_quarantena_covid_viaggi_turismo_ultime_notizie_8_maggio_2021-5947148.html",
-      "urlToImage": "https://www.ilmessaggero.it/photos/MED/71/48/5947148_1320_viaggi_ue_quarantena_paesi_turismo_italia_ultime_notizie_vacanze_2021.jpg",
-      "publishedAt": "2021-05-08T11:54:31Z",
-      "content": "Stop alla quarantena per chi si muove tra Paesi Ue o chi arriva da Paesi pressoché immunizzati come Regno Unito e Israele, più voli Covid-free tra Italia e Stati Uniti e collegamenti aerei a prova di… [+1470 chars]"
+      "author": "Pietro Andrigo",
+      "title": "Pirlo in conferenza: \"Donnarumma è tra i migliori 5 portieri al mondo. Rabiot e Szczesny saranno... - Milan News",
+      "description": "Intervenuto in conferenza stampa alla vigilia di Juventus-Milan, Andrea Pirlo ha parlato dells sfida con i rossoneri e dei protagonisti della gara. Queste le sue parole: \r\n\r\nSulla gara di domani:...",
+      "url": "https://www.milannews.it/le-interviste/pirlo-in-conferenza-donnarumma-e-tra-i-migliori-5-portieri-al-mondo-rabiot-e-szczesny-saranno-titolari-409740",
+      "urlToImage": "https://net-storage.tccstatic.com/storage/milannews.it/img_notizie/thumb3/fa/fa83ccbc1c20adbb0e54aa9908f47bdd-63656-2949380efa673bd8c4523694a3f5f4dd.jpeg",
+      "publishedAt": "2021-05-08T13:45:31Z",
+      "content": "Intervenuto in conferenza stampa alla vigilia di Juventus-Milan, Andrea Pirlo ha parlato dells sfida con i rossoneri e dei protagonisti della gara. Queste le sue parole: \r\nSulla gara di domani: \"Sarà… [+2269 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Baritoday.it"
+        "name": "Ilmeteo.it"
       },
-      "author": "Redazione",
-      "title": "Razzo cinese in caduta, Puglia tra le possibili traiettorie. Il Comune diffonde le indicazioni della Protezione civile: \"State in luoghi chiusi\" - BariToday",
-      "description": "La Puglia è tra le dieci regioni a rischio per la caduta di frammenti, al momento prevista nelle notte tra sabato 8 maggio e domenica 9",
-      "url": "https://www.baritoday.it/cronaca/caduta-razzo-cinese-puglia-allerta-protezione-civile.html",
-      "urlToImage": "https://www.baritoday.it/~media/horizontal-hi/40075310017710/razzo-cinese-caduta-protezione-civile-2.jpg",
-      "publishedAt": "2021-05-08T11:43:00Z",
-      "content": "Evitare luoghi aperti, stare al chiuso e lontani da finestre e porte vetrate. Sono queste le principali indicazioni diffuse dalla Protezione civile nazionale, che ha individuato la Puglia tra le diec… [+1854 chars]"
+      "author": "Team iLMeteo.it",
+      "title": "COVID: il VIRUS perde COLPI, VARIANTI sempre più simili tra loro. Lo STUDIO - iLMeteo.it",
+      "description": "COVID: il VIRUS perde COLPI, VARIANTI sempre più simili tra loro. Lo STUDIO",
+      "url": "https://www.ilmeteo.it/notizie/covid-il-virus-perde-colpi-varianti-sempre-pi-simili-tra-loro-lo-studio-085427",
+      "urlToImage": "https://www.ilmeteo.it/portale/files/giornale/covid-virus-varianti-08052021.jpeg",
+      "publishedAt": "2021-05-08T12:40:00Z",
+      "content": "Varianti sempre più simili tra loro e il virus perde colpiAnche\r\nse l’infezione da coronavirus continua imperterrita a minacciare tutto il mondo\r\ncon numerosi casi di contagio giornalieri, sembra ci … [+2109 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Romatoday.it"
+        "name": "Gazzetta.it"
       },
-      "author": "M.S.",
-      "title": "Spari a Tor Marancia: uomo colpito al piede sulla porta di casa - RomaToday",
-      "description": "Ha aperto il portone di casa e due persone l'hanno colpito, per poi fuggire. Indaga la polizia",
-      "url": "https://www.romatoday.it/cronaca/sparatoria-tor-marancia-7-maggio-2021.html",
-      "urlToImage": "https://www.romatoday.it/~media/horizontal-hi/39668970022397/polizia-di-stato-notte-nuova-4-3.jpg",
-      "publishedAt": "2021-05-08T11:21:01Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ansa",
-        "name": "ANSA.it"
-      },
-      "author": "",
-      "title": "Samuel morto a Gubbio, 19 anni e un contratto a chiamata - Ultima Ora - Agenzia ANSA",
-      "description": "Si è trovato solo per caso nel locale della palazzina di Gubbio interessato dall'esplosione Samuel\r\nCuffaro, eugubino di 19 anni, che lavorava con un contratto a chiamata per una delle due ditte\r\nimpegnate nella produzione e commercializzazione della cannabi.…",
-      "url": "https://www.ansa.it/sito/notizie/topnews/2021/05/08/samuel-morto-a-gubbio-19-anni-e-un-contratto-a-chiamata_4519758d-3058-4c2f-b0e8-08bf0968cd67.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2021/5/7/bafa7474a879e12bb243b23b3d141beb.jpg",
-      "publishedAt": "2021-05-08T11:20:00Z",
-      "content": "(ANSA) - GUBBIO (PERUGIA), 08 MAG - Si è trovato solo per\r\ncaso nel locale della palazzina di Gubbio interessato\r\ndall'esplosione Samuel Cuffaro, eugubino di 19 anni, che\r\nlavorava con un contratto a… [+1366 chars]"
+      "author": "Riccardo Crivelli",
+      "title": "Roma, Sinner show: “Gli Internazionali li sento miei. Ora studio da Numero 1” - La Gazzetta dello Sport",
+      "description": "Uno Jannik inedito racconta il piano per arrivare in alto:  “Le Atp Finals?  Ci provo.  Vivo a Montecarlo, se ho problemi per il cibo chiamo papà. La famiglia mi manca, sono spesso in videochiamata con loro”",
+      "url": "https://www.gazzetta.it/Tennis/ATP/08-05-2021/internazionali-sinner-show-cosi-studio-numero-1-410813816168.shtml",
+      "urlToImage": "https://images2.gazzettaobjects.it/methode_image/2021/05/07/Varie/Foto_Varie_-_Trattate/8a4ce5e42bd3b1c5672343146a3541ec_1200x675.jpg?v=202105081417",
+      "publishedAt": "2021-05-08T12:16:42Z",
+      "content": "Riccardo Crivelli\r\n8 maggio\r\n - Milano\r\n A sette anni, mentre i genitori si guadagnavano il pane quotidiano nel rifugio della Val Fiscalina in cui papà Hanspeter faceva il cuoco e mamma Siglinde la c… [+7192 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Larena.it"
+        "name": "Lanazione.it"
       },
-      "author": "Società Athesis S.p.A., Società Athesis S.p.A.",
-      "title": "Spettacoli, in 6mila in Arena. Borgonzoni: «Ma puntiamo alla piena capienza in via sperimentale» - L'Arena",
-      "description": "Novità per la questione spettacoli in Arena. Nei giorni scorsi, il sindaco di Verona, Federico Sboarina, insieme all'amministratore... Scopri di più",
-      "url": "https://www.larena.it/territori/citt%C3%A0/spettacoli-in-arena-dopo-l-appello-del-sindaco-la-diretta-con-il-sottosegretario-1.8654540",
-      "urlToImage": "https://www.larena.it/image/policy:1.8654639:1620472698/image.jpg?f=16x9&h=450&w=800&$p$f$h$w=7061f55",
-      "publishedAt": "2021-05-08T11:15:00Z",
-      "content": "Novità per la questione spettacoli in Arena.  Nei giorni scorsi, il sindaco di Verona, Federico Sboarina, insieme all'amministratore delegato della Arena di Verona Srl e direttore artistico per i con… [+4350 chars]"
+      "author": "La Nazione",
+      "title": "Covid Toscana, Giani: \"Contagi in forte calo, sì al coprifuoco alle 23\" - LA NAZIONE",
+      "description": "\"Dalla Conferenza delle Regioni ok all'allentamento delle misure\"",
+      "url": "https://www.lanazione.it/cronaca/toscana-covid-gialla-1.6338081",
+      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6338115.1620474894%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700&h=391",
+      "publishedAt": "2021-05-08T11:56:20Z",
+      "content": "Firenze, 8 maggio 2021 - «Indubbiamente in Toscana ormai non ci sono più problemi di andare a guardare i limiti perché l'andamento dei contagi sta calando con una determinazione molto forte. Io sono … [+3260 chars]"
     },
     {
       "source": {
@@ -203,64 +255,12 @@ news_it = {
         "name": "Open.online"
       },
       "author": "https://www.facebook.com/Opengiornaleonline/",
-      "title": "Ultimatum per 5.500 operatori sanitari non vaccinati in Liguria: senza spiegazioni sul rifiuto saranno sospesi - Open",
-      "description": "Nei prossimi giorni riceveranno una raccomandata che intima loro di dare spiegazioni entro 5 giorni. Chi rifiuta di immunizzarsi potrà rimanere senza stipendio",
-      "url": "https://www.open.online/2021/05/08/covid-19-operatori-sanitari-non-vaccinati-senza-spiegazioni-rischio-sospensione/",
-      "urlToImage": "https://www.open.online/wp-content/uploads/2021/05/GOLF_2021050812385735_2706451a9d96b88229e1fa31b7df12e2.jpg",
-      "publishedAt": "2021-05-08T10:52:00Z",
-      "content": "In Liguria 5.500 operatori che lavorano in strutture sanitarie pubbliche e private e che ancora non si sono vaccinati contro il Coronavirus stanno per ricevere una raccomandata che intima loro di dar… [+1920 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Liberoquotidiano.it"
-      },
-      "author": "@libero_official",
-      "title": "AstraZeneca, l'Ema indaga sui casi di sindrome di Guillain-Barré dopo la vaccinazione: si rischia la terapia intensiva - LiberoQuotidiano.it",
-      "description": "Non c'è pace per il vaccino  AstraZeneca . Dopo i casi di trombosi che hanno causato un temporaneo stop, arriva un'altra batosta.&...",
-      "url": "https://www.liberoquotidiano.it/news/scienze-tech/27155905/astrazeneca-ema-indaga-casi-sindrome-guillain-barre-dopo-vaccinazione-rischia-terapia-intensiva.html",
-      "urlToImage": "https://img2.liberoquotidiano.it/images/2021/05/08/103542716-6bfbe8fd-9384-4daa-ba75-7b7fd512d947.jpg",
-      "publishedAt": "2021-05-08T10:37:00Z",
-      "content": "Non c'è pace per il vaccino AstraZeneca. Dopo i casi di trombosi che hanno causato un temporaneo stop, arriva un'altra batosta. L'Ema sta valutando casi di sindrome di Guillain-Barré (Gbs) segnalati … [+1828 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Informazionefiscale.it"
-      },
-      "author": "Alessio Mauro",
-      "title": "Gruppo IVA, i chiarimenti delle Entrate sull’ingresso di una società già esistente - Informazione Fiscale",
-      "description": "Gruppo IVA, le regole per i nuovi ingressi sono tipizzate e non derogabili. Lo spiega l'Agenzia delle Entrate nella risoluzione numero 30 del 2021. I chiarimenti riguardano l'ingresso in itinere di una società già esistente alla costituzione del Gruppo IVA ma…",
-      "url": "https://www.informazionefiscale.it/gruppo-IVA-nuovo-ingresso-soggetto-esistente-chiarimenti-Entrate",
-      "urlToImage": "https://www.informazionefiscale.it/IMG/arton8252.png",
-      "publishedAt": "2021-05-08T10:17:51Z",
-      "content": "Gruppo IVA, con la risoluzione numero 30 del 7 maggio 2021 l’Agenzia delle Entrate fornisce i chiarimenti sulle regole per i nuovi ingressi in itinere di soggetti già esistenti alla costituzione del … [+6818 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Multiplayer.it"
-      },
-      "author": "Christian Colli",
-      "title": "Final Fantasy VII Remake Intergrade, anteprima: tutti i dettagli del DLC - Multiplayer.it",
-      "description": "Il nuovo trailer ci ha mostrato alcune scene inedite che chiariscono meglio i contenuti del DLC  Episode INTERmission.",
-      "url": "https://multiplayer.it/articoli/final-fantasy-vii-remake-intergrade-anteprima-tutti-dettagli-dlc.html",
-      "urlToImage": "https://multiplayer.net-cdn.it/thumbs/images/2021/03/02/final-fantasy-7-intergrade-10_jpg_750x400_crop_upscale_q85.jpg",
-      "publishedAt": "2021-05-08T09:00:09Z",
-      "content": "Diciamoci la verità, la maggior parte dei fan che hanno seguito l'evento incentrato su Final Fantasy VII: The First Soldier lo hanno fatto perché era stata praticamente confermata anche la presenza d… [+5934 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Calciomercato.com"
-      },
-      "author": "Calciomercato.com",
-      "title": "Superlega, Juve, Barcellona e Real: 'Minacce inaccettabili, la Uefa non può decidere sanzioni. Incoerenti i 9 club che hanno lasciato, non ci fermiamo' - Calciomercato.com",
-      "description": "Juventus, Barcellona e Real Madrid, le tre societ&agrave; rimaste nel progetto della Superlega dopo la nota di ieri col quale la Uefa ha annunciato il &quot;rientro nei ranghi&quot; di 9 club (i 6 inglesi,",
-      "url": "https://www.calciomercato.com/news/superlega-juve-barcellona-e-real-minacce-inaccettabili-la-uefa-s-25062",
-      "urlToImage": "https://cdn.calciomercato.com/images/2017-05/agnelli.perez.combo.2017.750x450.jpg",
-      "publishedAt": "2021-05-08T09:00:00Z",
-      "content": "Juventus, Barcellona e Real Madrid, le tre società rimaste nel progetto della Superlega dopo la nota di ieri col quale la Uefa ha annunciato il \"rientro nei ranghi\" di 9 club (i 6 inglesi, l'Atletico… [+5268 chars]"
+      "title": "Dai ritardi agli esuberi, le dosi di AstraZeneca ferme nei frigoriferi: le Regioni provano a smaltirle con gli open day senza prenotazioni (anche di notte) - Open",
+      "description": "Nei frigoriferi dei centri vaccinali, soprattutto nelle regioni del Sud Italia, si sono accumulate le fiale di Vaxzevria. L'Aifa pensa di modificare l'indicazione preferenziale del farmaco, estendendo la fascia di età raccomandata agli over 50",
+      "url": "https://www.open.online/2021/05/08/covid-19-dosi-astrazeneca-esubero-regioni-open-day-senza-prenotazioni/",
+      "urlToImage": "https://www.open.online/wp-content/uploads/2021/04/FIGLIUOLO-SALUTA.jpeg",
+      "publishedAt": "2021-05-08T11:55:00Z",
+      "content": "I cinefili lo considererebbero un plot twist fatto a regola d’arte. I detrattori del piano vaccinale del governo Draghi, invece, lo useranno come argomento per affossare la gestione Figliuolo. Ad ogn… [+4202 chars]"
     }
   ]
 }

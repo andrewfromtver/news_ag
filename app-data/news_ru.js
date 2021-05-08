@@ -4,16 +4,81 @@ news_ru = {
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Sports.ru"
+        "id": "lenta",
+        "name": "Lenta"
       },
       "author": null,
-      "title": "«Барселона» и «Атлетико» сыграли вничью (0:0). «Реал» может выйти на 1-е место, обыграв «Севилью» - Sports.ru",
-      "description": "В центральном матче 35-го тура Ла Лиги «Барселона» дома сыграла вничью с «Атлетико» (0:0).",
-      "url": "https://www.sports.ru/football/1096877170-barselona-atletiko-translyacziya-na-sportsru.html",
-      "urlToImage": "https://www.sports.ru/dynamic_images/news/109/687/717/0/share/927fe7.jpg",
-      "publishedAt": "2021-05-08T16:08:00Z",
-      "content": "35- «»«» (0:0).\r\nSports.ru  - . \r\n 35 «» 77 , «» 75 .\r\n«», 74 , «» , .\r\n8 , 17.15, « »\r\n–\r\n, , (, 46), , (, 75), (, 32), , (, 75), , , .\r\n–\r\n, , , , , , , (, 13; , 67), , (, 73), .\r\n: \r\n(35), \r\n(46),… [+31 chars]"
+      "title": "Агуэро повторил неудачный пенальти Смолова в матче с «Челси» - Lenta.ru",
+      "description": "Нападающий «Манчестер Сити» Серхио Агуэро не забил пенальти в конце первого тайма матча 35-го тура Английской премьер-лиги (АПЛ) против «Челси». Хавбек исполнил удар Паненки (с подсечкой) и попал во вратаря лондонцев Эдуара Менди. На момент публикации новости…",
+      "url": "https://lenta.ru/news/2021/05/08/sergio/",
+      "urlToImage": "https://icdn.lenta.ru/images/2021/05/08/20/20210508203133214/share_93d556b1859f115cc27f2f14e118de30.jpg",
+      "publishedAt": "2021-05-08T17:32:57Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Championat.com"
+      },
+      "author": "Чемпионат",
+      "title": "ЦСКА — «Краснодар»: Эджуке забил гол - Чемпионат",
+      "description": "Нападающий ЦСКА Чидера Эджуке сравнял счёт в матче 29-го тура РПЛ с «Краснодаром».",
+      "url": "https://www.championat.com/football/news-4343501-cska-krasnodar-edzhuke-zabil-gol.html",
+      "urlToImage": "https://img.championat.com/news2/social/2/40/4343501.jpg",
+      "publishedAt": "2021-05-08T17:10:58Z",
+      "content": "29- «».\r\n 32- , 11- , , , .\r\n . () (-). (-).\r\n«» - «». \r\n28 47 . «» (38) 11- .\r\n(0)"
+    },
+    {
+      "source": {
+        "id": "lenta",
+        "name": "Lenta"
+      },
+      "author": null,
+      "title": "Президент Латвии назвал Вторую мировую войну «чужой» - Lenta.ru",
+      "description": "Латвия не участвовала во Второй мировой войне, это была чужая война, заявил президент республики Эгилс Левитс после возложения цветов на Братском кладбище в Риге. Он пояснил, что граждане Латвии воевали за свои цели в составе чужих армий, также в стране было …",
+      "url": "https://lenta.ru/news/2021/05/08/chuzhaya/",
+      "urlToImage": "https://icdn.lenta.ru/images/2021/05/08/19/20210508195613128/share_b6c76df50412920c3451ec323d28c676.jpeg",
+      "publishedAt": "2021-05-08T16:59:00Z",
+      "content": ", , . .\r\n, , . « , , , », .\r\n , , , « ». « 1990 1991 , 45 », .\r\n 1939 . 1940- ( ), 1991 ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Meduza"
+      },
+      "author": null,
+      "title": "Манижа немного изменила песню для «Евровидения» — Meduza - Meduza",
+      "description": "Певица Манижа, представляющая Россию на «Евровидении» в 2021 году, незначительно изменила песню «Russian Woman», написанную для конкурса. Об этом она сообщила на пресс-конференции, трансляцию которой вел ютьюб-канал Wiwibloggs.",
+      "url": "https://meduza.io/news/2021/05/08/manizha-nemnogo-izmenila-pesnyu-dlya-evrovideniya",
+      "urlToImage": "https://meduza.io/imgly/share/1620497058/news/2021/05/08/manizha-nemnogo-izmenila-pesnyu-dlya-evrovideniya",
+      "publishedAt": "2021-05-08T16:59:00Z",
+      "content": ",  «»  2021 , «Russian Woman»,  .    -, - Wiwibloggs.\r\n«  ,   »,  ,   , ,   .\r\n  , -: «Youre strong enough to bounce against the wall» («  ,  »). «bounce» («»)  «break» («»).   «Youre strong enough, … [+179 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ria.ru"
+      },
+      "author": "",
+      "title": "Суд арестовал участницу Pussy Riot Никульшину - РИА НОВОСТИ",
+      "description": "Дорогомиловский суд Москвы арестовал на пять суток участницу панк-группы Pussy Riot Веронику Никульшину за неповиновение полиции, сообщил РИА Новости адвокат... РИА Новости, 08.05.2021",
+      "url": "https://ria.ru/20210508/nikulshina-1731511556.html",
+      "urlToImage": "https://cdn22.img.ria.ru/images/sharing/article/1731511556.jpg?17313743271620492091",
+      "publishedAt": "2021-05-08T16:41:43Z",
+      "content": "https://ria.ru/20210508/nikulshina-1731511556.html\r\n - Pussy Riot , ... , 08.05.2021\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdn25.img.r… [+816 chars]"
+    },
+    {
+      "source": {
+        "id": "lenta",
+        "name": "Lenta"
+      },
+      "author": null,
+      "title": "Меркель раскритиковала идею отказаться от патентов на вакцины - Lenta.ru",
+      "description": "Канцлер Германии Ангела Меркель выступила против отказа от патентов на вакцины против COVID-19. Политик сделала заявление в ходе пресс-конференции по итогам саммита ЕС. По ее словам, приостановка патентов не решит проблему нехватки вакцин: выдача лицензий мож…",
+      "url": "https://lenta.ru/news/2021/05/08/otkazz/",
+      "urlToImage": "https://icdn.lenta.ru/images/2021/05/08/19/20210508193921600/share_72519bce500f8170f229cffe19a2aeb6.jpg",
+      "publishedAt": "2021-05-08T16:40:10Z",
+      "content": ""
     },
     {
       "source": {
@@ -30,42 +95,29 @@ news_ru = {
     },
     {
       "source": {
-        "id": "rbc",
-        "name": "RBC"
+        "id": null,
+        "name": "Ria.ru"
       },
-      "author": null,
-      "title": "Меркель выступила против заморозки патентов на вакцины от COVID-19 - РБК",
-      "description": "По словам канцлера Германии, обладатели патентов должны иметь возможность контролировать качество вакцин, а отмена патентов не сделает вакцины доступнее",
-      "url": "https://www.rbc.ru/politics/08/05/2021/6096ab679a79474c218a678e",
-      "urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/4/62/756204896266624.jpg",
-      "publishedAt": "2021-05-08T16:00:25Z",
-      "content": "Frankfurter Allgemeine Sonntagszeitung, Biontech ( Pfizer) , . . Spiegel , Biontech « ». Biontech , , , .\r\n     . « . », — () .   , , «   » « ».\r\n , . « . 100% , , », — , , .\r\n COVID-19 5 . « , COVID… [+90 chars]"
+      "author": "",
+      "title": "Американский адмирал описал возможный конфликт между Россией и Украиной - РИА НОВОСТИ",
+      "description": "В случае начала войны между Россией и Украиной Вашингтон и НАТО будут \"категорически возражать, но не предпримут никаких мер\". Об этом заявил адмирал ВМС США в... РИА Новости, 08.05.2021",
+      "url": "https://ria.ru/20210508/admiral-1731507871.html",
+      "urlToImage": "https://cdn22.img.ria.ru/images/sharing/article/1731507871.jpg?15603498031620499148",
+      "publishedAt": "2021-05-08T15:53:32Z",
+      "content": "https://ria.ru/20210508/admiral-1731507871.html\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdn25.img.ria.ru/images/156034/98/1560349816_0:1… [+642 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Championat.com"
+        "name": "Sportmail.ru"
       },
-      "author": "Чемпионат",
-      "title": "«Рубин» вырвал победу у «Арсенала», проигрывая со счётом 0:2 после первого тайма - Чемпионат",
-      "description": "В матче 29-го тура РПЛ тульский «Арсенал» проиграл «Рубину». Встреча проходила на стадионе «Арсенал» в Туле и завершилась со счётом 4:2 в пользу казанцев.",
-      "url": "https://www.championat.com/football/news-4343385-rubin-vyrval-pobedu-u-arsenala-proigryvaya-so-schyotom-0-2-posle-pervogo-tajma.html",
-      "urlToImage": "https://img.championat.com/news2/social/9/aa/4343385.jpg",
-      "publishedAt": "2021-05-08T15:29:01Z",
-      "content": "29- «» «». «» 4:2 .\r\n 25- . , , , . «». , .\r\n 52- . . 59- . , , . , , . 66- «» . , . «» .\r\n«» 52 . «» (23) 13- ."
-    },
-    {
-      "source": {
-        "id": "rbc",
-        "name": "RBC"
-      },
-      "author": null,
-      "title": "Представляющая Россию певица Manizha поменяла текст песни к Евровидению - РБК",
-      "description": "Представляющая Россию на Евровидении певица Manizha поменяла текст песни для выступления на конкурсе. Об этом она сообщила в ходе пресс-конференции. Трансляцию вел YouTube-канал Wiwibloggs. Да, мы ...",
-      "url": "https://www.rbc.ru/rbcfreenews/6096a4469a79474aabaaf5c6",
-      "urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/0/51/756204870158510.jpg",
-      "publishedAt": "2021-05-08T15:16:54Z",
-      "content": "Manizha . -. YouTube- Wiwibloggs.\r\n«, [ ]», — . , ,   « , »  « ».\r\n« ,  , , , . », — Manizha.\r\n Manizha YouTube-."
+      "author": "Спорт Mail.ru",
+      "title": "«Рубин» победил «Арсенал» в матче РПЛ, отыгравшись со счета 0:2 - Спорт Mail.ru",
+      "description": "Казанский «Рубин» одержал победу над тульским «Арсеналом» со счетом 4:2 в гостевом матче 29-го тура Тинькофф — Российской премьер-лиги (РПЛ).",
+      "url": "https://sportmail.ru/news/football-rus-premier/46245431/",
+      "urlToImage": "https://resizer.mail.ru/p/ce4ed0ad-68e7-58e9-a1ee-d80c3a854bb3/op:40/logo:bottom:sport.png/ot:wqvQoNGD0LHQuNC9wrsg0L_QvtCx0LXQtNC40LsgwqvQkNGA0YHQtdC90LDQu8K7INCyINC80LDRgtGH0LUg0KDQn9CbLCDQvtGC0YvQs9GA0LDQstGI0LjRgdGMINGB0L4g0YHRh9C10YLQsCAwOjI/AQAGt8yR8sTZpTUtk8-WxCovSWFuzaqfDyZR5EYkx56JTvwa8er_RLAhruNwhCABUTIS0NMbFhrhFs20Q4z4tCBZkG0.jpg",
+      "publishedAt": "2021-05-08T15:49:24Z",
+      "content": "(53- ), (60), (66)   (89).   (25)   (32).  52-     «» .\r\n«»   .    , 52 .     .   «» 16  «».\r\n«»  23 13- .        «»,  14-     ."
     },
     {
       "source": {
@@ -82,42 +134,29 @@ news_ru = {
     },
     {
       "source": {
-        "id": "rbc",
-        "name": "RBC"
+        "id": null,
+        "name": "Sports.ru"
       },
       "author": null,
-      "title": "Ethereum подорожал до $3,67 тыс. и установил новый рекорд - РБК",
-      "description": "За прошедшие сутки альткоин вырос на 4,5%, а его капитализация увеличилась до $420 млрд",
-      "url": "https://www.rbc.ru/crypto/news/60969f2e9a79474a7b32955c",
-      "urlToImage": "images/social-facebook.png",
-      "publishedAt": "2021-05-08T14:31:00Z",
-      "content": "Ethereum Binance $3,67 . 4,5%, $420 . 83%. 17:30 , CoinGecko, Ethereum 16,7%.\r\n , Ethereum $3 ., . 365 . Ethereum. $1,33 .\r\n Ethereum Berlin, .  — London, . , , .\r\n— VanEck SEC Ethereum-ETF\r\n— : \r\n— … [+17 chars]"
+      "title": "РПЛ изучила ситуацию с болельщиками «Локо» в Петербурге: «Вынужденные шаги были направлены на обеспечение безо - Sports.ru",
+      "description": "РПЛ провела проверку ситуации с болельщиками «Локомотива», сложившейся на игре 28-го тура РПЛ с «Зенитом» в Санкт-Петербурге (6:1).",
+      "url": "https://www.sports.ru/football/1096883734-rpl-izuchila-situacziyu-s-s-bolelshhikami-loko-v-peterburge-vynuzhdenn.html",
+      "urlToImage": "https://www.sports.ru/dynamic_images/news/109/688/373/4/share/eaacdc.jpg",
+      "publishedAt": "2021-05-08T14:35:00Z",
+      "content": "«», 28-   «» - (6:1).\r\n    , -    .\r\n« «» «», 2 -.\r\n . .\r\n1. . \r\n«» 1617 , «». 4 4000 . .\r\n26 - 75 , 40 . 30 «» 1600 .\r\n . 5 . «» 100 .\r\n2. «» . \r\n , . .\r\n «», . 100 .\r\n3. .\r\n , «» , . «» «» 30 2020 … [+107 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Vz.ru"
+        "name": "Teleprogramma.pro"
       },
-      "author": null,
-      "title": "Соловьев дал совет выступившему против парада Назарову :: Новости дня :: «ВЗГЛЯД.РУ» - ВЗГЛЯД.РУ",
-      "description": "Телеведущий Владимир Соловьев отреагировал на высказывание актера театра и кино Дмитрия Назарова, который выступил против проведения в России парада в честь Дня Победы, посоветовав артисту создать «союз вольных театральных деятелей» и существовать на доход от…",
-      "url": "https://vz.ru/news/2021/5/8/1098235.html",
-      "urlToImage": "https://img.vz.ru/upimg/soc/soc_1098235.jpg",
-      "publishedAt": "2021-05-08T14:21:00Z",
-      "content": "«» . 2008 .\r\n« . -, - , . () , 080808 , . . , ?» Telegram-. \r\n« . . , . , , , », Telegram- « ».\r\n : « [], ». , « » , : « , , , ». \r\n« ...», Twitter. \r\n, , , , , « , ». \r\n , « » , , « » . \r\n 8 2008 . … [+51 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vesti.ru"
-      },
-      "author": null,
-      "title": "В Кабуле от взрывов погибли и получили ранения десятки детей - Вести.Ru",
-      "description": "Три взрыва раздались возле школы для девочек в Афганистане. Очевидцы говорят о десятках погибших.",
-      "url": "https://www.vesti.ru/article/2559764",
-      "urlToImage": "https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/316/290/2.jpg",
-      "publishedAt": "2021-05-08T14:13:00Z",
-      "content": ". , \r\n Ctrl+Enter."
+      "author": "Наталья Михеева",
+      "title": "И это не шоу-бизнес: Дава рассказал, что приносит ему большие деньги - Телепрограмма",
+      "description": "Давид Манукян разоткровенничался о своих финансах.",
+      "url": "https://teleprogramma.pro/news/1783994-dohod-gorazdo-luchshe-eks-boyfrend-buzovoy-dava-raskryl-na-chem-zarabatyvaet-u3604/",
+      "urlToImage": "https://s1.cdn.teleprogramma.pro/wp-content/uploads/2021/05/7450d124e00b4e79e6561965bec6092c.jpg",
+      "publishedAt": "2021-05-08T14:02:14Z",
+      "content": ", , \"\" teleprogramma.pro« ». , 77-66912 22.08.2016\r\n , ( « 1000 » 2015-2018.. . 2012-2014.. «- » 2015 2019 ..): \r\n «»: teleprogramma.pro: - teleprogramma.pro: / ekaterina.bolgova@phkp.ru: / +7(495) 7… [+151 chars]"
     },
     {
       "source": {
@@ -131,58 +170,6 @@ news_ru = {
       "urlToImage": "images/social-facebook.png",
       "publishedAt": "2021-05-08T14:01:00Z",
       "content": "IT- Moskovski Capital , - \r\n -, 100 1 . , . IT- Moskovski Capital Glassnode. Twitter , , «-» .\r\n, - . , Coinbase Custody 100-120 .\r\n Moskovski Capital , 7 Coinbase $12,3 . $694 . 16:40 8 Binance $59,… [+55 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "3dnews.ru"
-      },
-      "author": null,
-      "title": "Galax выпустила GeForce RTX 3080 и GeForce RTX 3070 с аппаратным ограничителем майнинга - 3DNews",
-      "description": "Компания Galax представила графические ускорители GeForce RTX 3080 и GeForce RTX 3070 General FG LHR.",
-      "url": "https://3dnews.ru/1039147/galax-vipustila-geforce-rtx-3080-i-geforce-rtx-3070-s-apparatnim-ogranichitelem-mayninga",
-      "urlToImage": "https://3dnews.ru/assets/external/illustrations/2021/05/08/1039147/1GALAX-RTX3080FG.jpg",
-      "publishedAt": "2021-05-08T13:35:00Z",
-      "content": "Galax GeForce RTX 3080 GeForce RTX 3070 General FG LHR. , LHR Lite Hash Rate « ». , Ethereum.\r\n , Galax FG, .  , . , , .\r\n . , Galax FG . . GPU .\r\n GeForce RTX 3080 General FG LHR GA102-202(LHR), GeF… [+169 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ria.ru"
-      },
-      "author": "",
-      "title": "Манижа изменила текст конкурсной песни для Евровидения - РИА НОВОСТИ",
-      "description": "Певица Манижа, представляющая Россию на Евровидении-2021, объяснила, почему изменила строчку своей песни. РИА Новости, 08.05.2021",
-      "url": "https://ria.ru/20210508/manizha-1731494036.html",
-      "urlToImage": "https://cdn22.img.ria.ru/images/sharing/article/1731494036.jpg?16007560321620484813",
-      "publishedAt": "2021-05-08T13:09:29Z",
-      "content": "https://ria.ru/20210508/manizha-1731494036.html\r\n , -2021, , . , 08.05.2021\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdn25.img.ria.ru/ima… [+891 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gazeta.ru"
-      },
-      "author": null,
-      "title": "В Эстонии проходят крупнейшие за 25 лет учения США в Европе - Газета.Ru",
-      "description": "В Эстонию прибыли 700 американских военнослужащих. Они высадились в ночь на субботу на аэродром Нурмси в рамках учений Swift Response, которые начались 5 мая. За процессом наблюдала президент республики Керсти Кальюлайд. Эти учения — часть масштабных маневров…",
-      "url": "https://www.gazeta.ru/army/2021/05/08/13586222.shtml",
-      "urlToImage": "https://img.gazeta.ru/files3/500/12912500/2020-01-07T125026Z_1376479287_RC20BE9ATL3R_RTRMADP_3_IRAQ-SECURITY-USA-FORT-BRAGG-pic905-895x505-45033.jpg",
-      "publishedAt": "2021-05-08T13:03:17Z",
-      "content": ". , 8 , Swift Response, - .\r\n« 700 82- . », — .\r\n« , . , », — .\r\n , , . .\r\n Swift Response 5 14 . . , 8- - - . 82- - - .\r\n . 2,5 . , , 20 25 .\r\nSwift Response — 25 Defender Europe. 16 28 . .\r\n , .\r\n«… [+151 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cybersport.ru"
-      },
-      "author": null,
-      "title": "В ремейк Resident Evil 3 добавили Леди Димитреску - CyberSport.ru",
-      "description": "Моддер под никнеймом Raq перенес Леди Димитреску из Resident Evil Village в ремейк третьей части. Пользователь заменил Джилл Валентайн на высокую вампиршу, в том числе во всех кат-сценах.",
-      "url": "https://www.cybersport.ru/games/news/v-remeik-resident-evil-3-dobavili-ledi-dimitresku",
-      "urlToImage": "https://www.cybersport.ru/material/social/image/fb/569402",
-      "publishedAt": "2021-05-08T13:03:00Z",
-      "content": null
     },
     {
       "source": {
@@ -200,54 +187,28 @@ news_ru = {
     {
       "source": {
         "id": null,
-        "name": "Championat.com"
+        "name": "Forklog.com"
       },
-      "author": "Чемпионат",
-      "title": "«Локомотив» — «Динамо»: составы команд на матч 29-го тура РПЛ - Чемпионат",
-      "description": "Стали известны стартовые составы «Локомотива» и «Динамо» на матч 29-го тура Российской Премьер-Лиги. Встреча пройдёт на стадионе «Арена Химки» в Химках. Стартовый свисток прозвучит в 16:30 мск. «Чемпионат» проведёт платную прямую видеотрансляцию и текстовую о…",
-      "url": "https://www.championat.com/football/news-4343225-lokomotiv-dinamo-sostavy-komand-na-match-29-go-tura-rpl.html",
-      "urlToImage": "https://img.championat.com/news2/social/3/d6/4343225.jpg",
-      "publishedAt": "2021-05-08T12:22:35Z",
-      "content": "«» «» 29- -. « » . 16:30 . «» - .\r\n«»: , , , , , , , , , , . \r\n: , , , , , , , , , , , . \r\n«»: , , , , , , , , , , . \r\n: , , , , , , , , , , , '."
+      "author": null,
+      "title": "Марк Кьюбан: Dogecoin достигнет отметки $1 и станет «чем-то вроде стейблкоина» - http://forklog.com/",
+      "description": "Миллиардер Марк Кьюбан в рамках виртуального саммита Ethereal спрогнозировал рост цены Dogecoin (DOGE) до $1. https://youtu.be/__fhP7SZ25w «Я думаю, что Dogecoin может выровняться на уровне $1 и стать чем-то вроде стейблкоина. В долгосрочной перспективе его к…",
+      "url": "https://forklog.com/mark-kyuban-dogecoin-dostignet-otmetki-1-i-stanet-chem-to-vrode-stejblkoina/",
+      "urlToImage": "https://forklog.com/wp-content/uploads/Mark_Cuban-min.png",
+      "publishedAt": "2021-05-08T11:26:15Z",
+      "content": "Ethereal Dogecoin (DOGE) $1.\r\n« , Dogecoin $1 - . $1. », .\r\n, - , .\r\n Dogecoin. , 5,2 .\r\n« . , , 5,2 », .\r\n8 Dogecoin $0,74.\r\n DOGE/USDT Binance TradingView.\r\n, Ethereum Dogecoin. -.\r\n, Robinhood Dog… [+83 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sportbox.ru"
+        "name": "Interfax.ru"
       },
       "author": null,
-      "title": "Тинькофф РПЛ Уфа - Зенит. Беленов отражает пенальти 14:53 - news.Sportbox.ru",
-      "description": null,
-      "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Russia/premier_league/spbvideo_NI1349857_clip_Ufa___Zenit_Belenov_otrazhajet_penalti",
-      "urlToImage": "https://s-cdn.sportbox.ru/images/shares/1200x600/node/89/1349857.jpg",
-      "publishedAt": "2021-05-08T11:53:38Z",
-      "content": "© « » 2007 2021.16 \r\n «www.sportbox.ru»     ,   ().\r\n № 77-72613  04.04.2018\r\n — www.sportbox.ru\r\n () «www.sportbox.ru»: « »\r\n «www.sportbox.ru»: ..\r\n «www.sportbox.ru»: +7 (495) 653 8419\r\n «www.spor… [+27 chars]"
-    },
-    {
-      "source": {
-        "id": "lenta",
-        "name": "Lenta"
-      },
-      "author": null,
-      "title": "Основатель Amazon решил купить 127-метровую яхту за 500 миллионов долларов - Lenta.ru",
-      "description": "Основатель Amazon и самый богатый человек в мире Джефф Безос решил приобрести 127-метровую парусную яхту у нидерландской верфи Oceanco. О сделанном тайно заказе сообщает Bloomberg. Цена такой яхты может достигать более 500 миллионов долларов, пишет издание. Н…",
-      "url": "https://lenta.ru/news/2021/05/08/amzn/",
-      "urlToImage": "https://icdn.lenta.ru/images/2021/05/08/14/20210508142932453/share_5a85922922269c4743685007e144afb6.jpg",
-      "publishedAt": "2021-05-08T11:44:00Z",
-      "content": "Amazon 127- Oceanco. Bloomberg.\r\n 500 , . .\r\n , , , . . Black Pearl (« »), Forbes.\r\nBloomberg «» . , Forbes , 197,8 ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ria.ru"
-      },
-      "author": "",
-      "title": "Премьер Чехии Бабиш призвал страны ЕС высылать российских дипломатов - РИА НОВОСТИ",
-      "description": "Премьер Чехии Андрей Бабиш призвал остальные страны Евросоюза выслать хотя бы по одному российскому дипломату в знак поддержки после инцидента во Врбетице. Об... РИА Новости, 08.05.2021",
-      "url": "https://ria.ru/20210508/chekhiya-1731480618.html",
-      "urlToImage": "https://cdn23.img.ria.ru/images/sharing/article/1731480618.jpg?17290004481620472279",
-      "publishedAt": "2021-05-08T11:03:25Z",
-      "content": "https://ria.ru/20210508/chekhiya-1731480618.html\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdn25.img.ria.ru/images/07e5/04/13/1729000452_0… [+745 chars]"
+      "title": "Премьер Чехии попросил страны ЕС выслать по одному дипломату РФ - Интерфакс",
+      "description": "Премьер Чехии Андрей Бабиш обращался с призывом к лидерам стран Евросоюза выслать из их государств минимум по одному дипломату России в знак солидарности с Прагой на фоне обострения ее отношений с Москвой, сообщило чешское радио.",
+      "url": "https://www.interfax.ru/world/765107",
+      "urlToImage": "https://www.interfax.ru/aspimg/765107.jpg",
+      "publishedAt": "2021-05-08T11:19:00Z",
+      "content": ". 8 . INTERFAX.RU - , .\r\n\" , - - ( - ) \", - .\r\n . 17 18 . , , . , , , 2014 . .\r\n20 \" \".\r\n 25 , () , \" \" ."
     },
     {
       "source": {
@@ -255,12 +216,51 @@ news_ru = {
         "name": "RBC"
       },
       "author": null,
-      "title": "Глава MicroStrategy: биткоин станет главным средством сбережения 21 века - РБК",
-      "description": "Майкл Сэйлор назвал главную криптовалюту самой разрушительной технологией, поскольку за 12 лет ей удалось вырасти с 0 до $1 трлн",
-      "url": "https://www.rbc.ru/crypto/news/609658f29a79473ba9c9a163",
-      "urlToImage": "images/social-facebook.png",
-      "publishedAt": "2021-05-08T09:58:00Z",
-      "content": "MicroStrategy Kitco News , 21 . , . , , .\r\n« — . 12 0 $1 . ,  — , Amazon, Apple, Facebook Google», — MicroStrategy.\r\nMicroStrategy , . 91,5 . , $24,3 .\r\n MicroStrategy 2021 , .\r\n— Goldman Sachs \r\n— C… [+35 chars]"
+      "title": "СМИ узнали о плане Безоса построить суперъяхту за $500 млн - РБК",
+      "description": "По данным Bloomberg, яхта, которая станет одной из самых больших в мире, уже строится для Джеффа Безоса в Нидерландах",
+      "url": "https://www.rbc.ru/business/08/05/2021/60965b369a79473d308fe80b",
+      "urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/4/99/756204720239994.jpg",
+      "publishedAt": "2021-05-08T11:07:03Z",
+      "content": ", Amazon (Forbes $191,5 ), , Bloomberg . , 127 $500 , , .\r\n , Oceanco,  Amazon Unbound: Jeff Bezos and the Invention of a Global Empire . Oceanco Bloomberg .\r\n , « », COVID-19, , . « , », — VesselsVa… [+40 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ria.ru"
+      },
+      "author": "",
+      "title": "Крупнейшая трубопроводная компания США подверглась кибератаке - РИА НОВОСТИ",
+      "description": "Крупнейший оператор нефтепровода в США Colonial Pipeline заявил, что подвергся кибератаке. РИА Новости, 08.05.2021",
+      "url": "https://ria.ru/20210508/kiberataka-1731483817.html",
+      "urlToImage": "https://cdn21.img.ria.ru/images/sharing/article/1731483817.jpg?15299128581620496131",
+      "publishedAt": "2021-05-08T10:53:43Z",
+      "content": "https://ria.ru/20210508/kiberataka-1731483817.html\r\n Colonial Pipeline , . , 08.05.2021\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdn25.im… [+743 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Iz.ru"
+      },
+      "author": "Ксения Темникова",
+      "title": "Песков допустил изменения в проведении парада Победы из-за погоды - Известия",
+      "description": "Погодные условия могут оказать влияние на проведение парада Победы в Москве 9 Мая, заявил в субботу, 8 мая, пресс-секретарь президента России Дмитрий Песков.",
+      "url": "https://iz.ru/1161428/2021-05-08/peskov-dopustil-izmeneniia-v-provedenii-parada-pobedy-iz-za-pogody",
+      "urlToImage": "http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2021-05/PV101549.JPG.jpg?itok=lYNbSkvP",
+      "publishedAt": "2021-05-08T10:44:25Z",
+      "content": "9 , , 8 , - .\r\n« », « ».\r\n6 9 . , 12,5 . , 190 , 76 .\r\n - () , 9 .\r\n . 23 53 , 76 .\r\n, -26, - -8, -35, -52 «» -28."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Iz.ru"
+      },
+      "author": "Кристина Манич",
+      "title": "США высадили десант в Эстонии в рамках крупнейших за 25 лет учений - Известия",
+      "description": "Порядка 800 военнослужащих из 82-й воздушно-десантной дивизии армии США высадились в Эстонии. Об этом 7 мая сообщило агентство Delfi со ссылкой на пресс-службу сил обороны Эстонии.",
+      "url": "https://iz.ru/1161423/2021-05-08/ssha-vysadili-desant-v-estonii-v-ramkakh-krupneishikh-za-25-let-uchenii",
+      "urlToImage": "http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2021-05/TASS_37651679.jpg?itok=5bCQxYMv",
+      "publishedAt": "2021-05-08T10:18:54Z",
+      "content": "800 82- - . 7 Delfi - .\r\n, 8 Swift Response . , .\r\n , 16- - . .\r\n Swift Response 5 . 25 Defender Europe. 16 28 . .\r\n Swift Response « ». 2500 , . 14 .\r\n27 , Defender Europe. , .\r\n , Defender Europe ."
     }
   ]
 }

@@ -1,7 +1,7 @@
 import requests
 import json
 
-news_api_key = "news_api_key"
+news_api_key = "api_key"
 
 def NewsFetch():	
 	# RU news api (country and apiKey)

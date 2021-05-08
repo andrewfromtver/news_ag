@@ -4,6 +4,110 @@ news_us = {
   "articles": [
     {
       "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "CBS Sports Staff",
+      "title": "2021 Wells Fargo Championship leaderboard: Live coverage, golf scores, updates, highlights in Round 3 - CBSSports.com",
+      "description": "Live scores, updates and highlights from Round 3 of the 2021 Wells Fargo Championship on Saturday",
+      "url": "https://www.cbssports.com/golf/news/2021-wells-fargo-championship-leaderboard-live-coverage-golf-scores-updates-highlights-in-round-3/live/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/05/07/56b93cac-ef52-4f80-a556-b6a607ff8288/thumbnail/1200x675/883eb5d68335ebe9d9d7618a10280e16/rory-mcilroy-wells-fargo.jpg",
+      "publishedAt": "2021-05-08T18:27:13Z",
+      "content": "As we continue the march toward the PGA Championship later this month, the Wells Fargo Championship has taken center stage of the golf world this week with two rounds now in the books at Quail Hollow… [+944 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Karla Adam, William Booth",
+      "title": "Pro-independence parties poised to win majority in Scottish election, setting up clash with Boris Johnson over referendum - The Washington Post",
+      "description": "The May 6 election served as a proxy on whether Scotland should quit the United Kingdom or remain a part of it.",
+      "url": "https://www.washingtonpost.com/world/europe/scottish-election-independence-snp/2021/05/08/83103928-a8f2-11eb-a8a7-5f45ddcdf364_story.html",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EGGGQPVQDUI6XNDWYOZIPZJKAE.jpg&w=1440",
+      "publishedAt": "2021-05-08T17:48:45Z",
+      "content": "This breaking story will be updated. \r\nScotland's main pro-independence party appeared on course Saturday to win a fourth successive victory in Scottish Parliament elections, but it was unclear if it… [+3447 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "Bob Harig",
+      "title": "Bryson DeChambeau takes early-morning flight back to Wells Fargo Championship after surprise of making cut - ESPN",
+      "description": "Bryson DeChambeau took a private jet back to the Wells Fargo Championship, had less than an hour to get ready for the third round at Quail Hollow Golf Club and shot a 3-under-par 68.",
+      "url": "https://www.espn.com/golf/story/_/id/31411190/after-cut-line-mix-bryson-dechambeau-takes-early-morning-flight-back-wells-fargo-championship",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0508%2Fr851350_1296x729_16%2D9.jpg",
+      "publishedAt": "2021-05-08T17:45:53Z",
+      "content": "CHARLOTTE, N.C. -- Bryson DeChambeau had an early wake-up alarm set for Saturday morning. Very early. Even by the standards of an 8:10 a.m. tee time.\r\nThat's because DeChambeau began the day in Dalla… [+3133 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TMZ"
+      },
+      "author": "TMZ Staff",
+      "title": "Mariah Carey Tells Singer Who Sampled 'Shake It Off' to Talk to Lawyer - TMZ",
+      "description": "Mariah Carey might've sounded pissed, but it seems it's all love with YTK.",
+      "url": "https://www.tmz.com/2021/05/08/mariah-carey-singer-ytk-sample-shake-it-off-contact-lawyer/",
+      "urlToImage": "https://imagez.tmz.com/image/f0/16by9/2021/05/08/f0ac6608d065464d9dd7cd0bdc9abfaa_xl.jpg",
+      "publishedAt": "2021-05-08T17:40:00Z",
+      "content": "Mariah Carey didn't seem too amused by a small-time artist sampling her smash hit for his own remix -- telling him to get ready for a legal battle ... but it looks like she's just joshin'.\r\nThe singe… [+2132 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Bruce Haring",
+      "title": "Scarlett Johansson Urges “Step Back” From “Sexist” HFPA - Deadline",
+      "description": "Scarlett Johansson has joined the outcry against the Hollywood Foreign Press Association, adding her voice to fellow Avenger Mark Ruffalo, who spoke out on Friday. They unite with numerous publicists, studios, and media organizations in condemning the HFPA’s …",
+      "url": "https://deadline.com/2021/05/scarlett-johansson-hfpa-statement-criticism-diversity-inclusion-reform-1234752398/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2020/10/Scarlett-Johansson.jpg?w=1000",
+      "publishedAt": "2021-05-08T17:23:00Z",
+      "content": "Scarlett Johansson has joined the outcry against the Hollywood Foreign Press Association, adding her voice to fellow Avenger Mark Ruffalo, who spoke out on Friday. They unite with numerous publicists… [+1379 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "",
+      "title": "Cybersecurity Attack Shuts Down Colonial Pipeline - NPR",
+      "description": "An attack shuts down Colonial Pipeline, a major transporter of gasoline along the East Coast. A security analyst says the event shows the vulnerability of key elements of the nation's infrastructure.",
+      "url": "https://www.npr.org/2021/05/08/995040240/cybersecurity-attack-shuts-down-a-top-u-s-gasoline-pipeline",
+      "urlToImage": "https://media.npr.org/assets/img/2021/05/08/ap_080908048582_wide-216c2aa787e3e6412799b89b15a3ad52cbbc5b5a.jpg?s=1400",
+      "publishedAt": "2021-05-08T17:01:45Z",
+      "content": "Traffic on I-95 passes oil storage tanks owned by the Colonial Pipeline Co. in Linden, N.J. An cybersecurity attack has shut down Colonial Pipeline, a major transporter of gasoline along the East Coa… [+2876 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Kait Sanchez",
+      "title": "How to watch Technoking Elon Musk on SNL - The Verge",
+      "description": "Elon Musk, CEO of Tesla and SpaceX, is hosting Saturday Night Live on May 8th, with musical guest Miley Cyrus. SNL is available to watch on NBC and various live TV streaming platforms.",
+      "url": "https://www.theverge.com/2021/5/8/22421504/elon-musk-snl-live-stream-start-time-how-to-watch",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/wHFoP-DMlbEAPJyvQcHYHcCR1XU=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11600923/acastro_180625_2689_Elon_Fans_0001.jpg",
+      "publishedAt": "2021-05-08T17:00:00Z",
+      "content": "Saturday, May 8th, with musical guest Miley Cyrus\r\nTesla and SpaceX CEO Elon Musk is hosting Saturday Night Live this week. Hes coming in fresh from Wednesdays successful Starship prototype landing b… [+1136 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Associated Press",
+      "title": "Gov. Hogan pardoning 34 victims of racial lynching in Maryland - POLITICO",
+      "description": "A spokesperson for the Maryland Republican said the sweeping pardon is the first of its kind by a governor.",
+      "url": "https://www.politico.com/news/2021/05/08/maryland-governor-pardoning-34-victims-of-racial-lynching-485994",
+      "urlToImage": "https://static.politico.com/56/9b/c1e221644479b2031eb3e391ee8a/210608-larry-hogan-ap-773.jpg",
+      "publishedAt": "2021-05-08T16:33:40Z",
+      "content": "Earlier this year, the Maryland Lynching Memorial Project and students at Loch Raven Technical Academy petitioned Hogan to issue the pardon for Cooper. After receiving the request, the Republican gov… [+2515 chars]"
+    },
+    {
+      "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
@@ -17,42 +121,68 @@ news_us = {
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Veronica Stracqualursi, CNN",
-      "title": "Cyberattack forces major US fuel pipeline to shut down - CNN ",
-      "description": "A cyberattack forced the temporary shut down of one of the US' largest pipelines Friday, highlighting already heightened concerns over the vulnerabilities in the nation's critical infrastructure.",
-      "url": "https://www.cnn.com/2021/05/08/politics/colonial-pipeline-cybersecurity-attack/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210508093128-file-colonial-pipeline-alabama-2016-super-tease.jpg",
-      "publishedAt": "2021-05-08T15:46:00Z",
-      "content": "(CNN)A cyberattack forced the temporary shut down of one of the US' largest pipelines Friday, highlighting already heightened concerns over the vulnerabilities in the nation's critical infrastructure… [+2581 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Pan Pylas",
-      "title": "Scotland's pro-independence government close to a majority - The Associated Press",
-      "description": "LONDON (AP) — Scotland's governing Scottish National Party was on course Saturday to win its fourth straight parliamentary election and very close to securing a majority that would enable it to make a push for another referendum on independence from the U...",
-      "url": "https://apnews.com/article/scotland-europe-health-coronavirus-pandemic-government-and-politics-d5a131cd5c658cc993b15749c79b495b",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/2a71206749fa424c9c62352fbc85e487/3000.jpeg",
-      "publishedAt": "2021-05-08T15:20:53Z",
-      "content": "LONDON (AP) Scotlands governing Scottish National Party was on course Saturday to win its fourth straight parliamentary election and very close to securing a majority that would enable it to make a p… [+4183 chars]"
+      "author": "Dan Goodin",
+      "title": "Apple brass discussed disclosing 128-million iPhone hack, then decided not to - Ars Technica",
+      "description": "Emails entered into Epic Games lawsuit show execs contradicting Apple talking points.",
+      "url": "https://arstechnica.com/gadgets/2021/05/apple-brass-discussed-disclosing-128-million-iphone-hack-then-decided-not-to/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/smartphone-760x380.jpeg",
+      "publishedAt": "2021-05-08T16:10:41Z",
+      "content": "76 with 43 posters participating\r\nIn September 2015, Apple managers had a dilemma on their hands: should, or should they not, notify 128 million iPhone users of what remains the worst mass iOS compro… [+5442 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "NPR"
+        "name": "Page Six"
       },
-      "author": "",
-      "title": "Black Americans And The Racist Architecture Of Homeownership - NPR",
-      "description": "Owning a home is a part of the American dream. It's also the key to building intergenerational wealth. But Black Americans continue to face discrimination in housing, including through higher costs.",
-      "url": "https://www.npr.org/sections/codeswitch/2021/05/08/991535564/black-americans-and-the-racist-architecture-of-homeownership",
-      "urlToImage": "https://media.npr.org/assets/img/2021/05/06/norrington-black-home-ownership-2_wide-5e766e95262dd92d520c88de5d464d2b95875f9c.jpg?s=1400",
-      "publishedAt": "2021-05-08T15:20:46Z",
-      "content": "This story is part of an NPR series, We Hold These Truths, on American democracy.\r\nLast summer, DonnaLee Norrington had a dream about owning a home. Not the figurative kind, but a literal dream, as s… [+44403 chars]"
+      "author": "Jessica Bennett",
+      "title": "Prince Charles accused of snubbing Meghan Markle with Archie birthday post - Page Six",
+      "description": "Followers of the royal family couldn’t help but notice Prince Charles’ recent social media post wishing grandson Archie a happy birthday didn’t include a photo of mom, Meghan Mark…",
+      "url": "https://pagesix.com/2021/05/08/prince-charles-accused-of-snubbing-meghan-markle-with-archie-birthday-post/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2021/05/meghan-markle-prince-charles-1.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2021-05-08T15:52:00Z",
+      "content": "Followers of the royal family couldn’t help but notice Prince Charles’ recent social media post wishing grandson Archie a happy birthday didn’t include a photo of mom, Meghan Markle. \r\n“Happy birthda… [+1607 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Jackson Ryan",
+      "title": "No, NASA photos are not evidence of fungus growing on Mars, sorry - CNET",
+      "description": "Despite what you might have read, the claims about life on Mars are shoddy and unscientific.",
+      "url": "https://www.cnet.com/news/sorry-nasa-photos-are-not-evidence-of-fungus-growing-on-mars/",
+      "urlToImage": "https://www.cnet.com/a/img/u8yzSq6O9vVKOE43jaGAWF7x26E=/1200x630/2021/05/06/d5f6b033-602b-443f-ac53-cd4a9da959d6/martian-blueberries-id5837-before.jpg",
+      "publishedAt": "2021-05-08T15:48:00Z",
+      "content": "Martian \"blueberries\" are rocky spheres that form on the surface of Mars. \r\nNASA/JPL-Caltech\r\nMars is very in right now. NASA's Perseverance rover is up there searching for life, and the agency's Ing… [+6313 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Spaceflight Now"
+      },
+      "author": null,
+      "title": "SpaceX ready to break another rocket reuse record with launch early Sunday – Spaceflight Now - Spaceflight Now",
+      "description": null,
+      "url": "https://spaceflightnow.com/2021/05/08/spacex-ready-to-break-another-rocket-reuse-record-with-launch-early-sunday/",
+      "urlToImage": null,
+      "publishedAt": "2021-05-08T15:45:44Z",
+      "content": "A Falcon 9 rocket launches March 14 with the same booster set to fly a 10th time Sunday. Credit: SpaceX\r\nA Falcon 9 rocket and 60 more Starlink internet satellites set for launch early Sunday at Cape… [+9211 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Elisabetta Povoledo",
+      "title": "These Neanderthals Weren’t Cannibals, So Who Ate Them? Stone Age Hyenas. - The New York Times",
+      "description": "An archaeological excavation south of Rome uncovered fossil remains of nine Neanderthals, along with the bones of hyenas, elephants and rhinoceroses.",
+      "url": "https://www.nytimes.com/2021/05/08/world/europe/italy-neanderthal-fossils-guattari-cave.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/05/08/world/08italy-neanderthal01/08italy-neanderthal01-facebookJumbo.jpg",
+      "publishedAt": "2021-05-08T15:42:53Z",
+      "content": "It appears that the hyenas also had a taste for Neanderthals, and one skull found at the site had a hole similar to the one found in the 1939 cranium. That find definitively put to rest Blancs theory… [+1366 chars]"
     },
     {
       "source": {
@@ -69,55 +199,29 @@ news_us = {
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elizabeth Lopatto",
-      "title": "Elon Musk on Saturday Night Live, explained - The Verge",
-      "description": "Why is the Tesla CEO appearing live from New York on Saturday night? Well, part of it is that Tesla doesn’t buy ads — so Elon Musk has to stay in the public eye.",
-      "url": "https://www.theverge.com/2021/5/8/22421873/elon-musk-snl-jokes-thud-why",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/NMRRbPpdrn4JVg8VL44JBAsQLxg=/0x294:2050x1367/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22497232/VRG_ILLO_4574_SNL_ElonMusk_site.jpg",
-      "publishedAt": "2021-05-08T15:00:01Z",
-      "content": "The musical guest, weirdly, isnt Grimes\r\nPhoto Illustration by Grayson Blackmon / The Verge | Photo by Getty Images Pool\r\nWho is Elon Musk?\r\nOh, come on.\r\nSeriously!\r\nFine. Hes the CEO of Tesla and S… [+4755 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "ESPN"
+        "name": "9to5Mac"
       },
-      "author": "Dan Murphy",
-      "title": "NCAA president Mark Emmert pushing for NIL action before or near July 1 - ESPN",
-      "description": "NCAA president Mark Emmert is pushing for approval of NIL guidance \"before, or as close to, July 1,\" a date that coincides with when new laws regarding athlete endorsement will go into effect in five states.",
-      "url": "https://www.espn.com/college-sports/story/_/id/31410263/ncaa-president-mark-emmert-pushing-nil-action-july-1",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2017%2F1108%2Fr286327_1296x729_16%2D9.jpg",
-      "publishedAt": "2021-05-08T14:53:48Z",
-      "content": "NCAA president Mark Emmert said he recommends the association's board members approve new rules allowing athletes to make money from their name, image and likeness rights this summer.\r\nEmmert told Th… [+2728 chars]"
+      "author": null,
+      "title": "Comment: Epic vs. Apple case reveals how hollow tvOS and watchOS App Stores are - 9to5Mac",
+      "description": "As the Epic court case goes on, we have been able to discover more about the App Store numbers and how hollow tvOS and watchOS stores feel.",
+      "url": "https://9to5mac.com/2021/05/08/comment-epic-vs-apple-case-reveals-how-hollow-tvos-and-watchos-app-stores-are/",
+      "urlToImage": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/app-store-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2021-05-08T14:25:00Z",
+      "content": "As the Epic court case goes on, we have been learning more details about internal discussions within Apple business. With the testimony of Trystan Kosmynka, one of the heads of the App Store, on Frid… [+4703 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Cameron Faulkner",
-      "title": "Celebrate the weekend with these money-saving tech deals - The Verge",
-      "description": "Mother’s Day is Sunday, May 9th, and we have some good tech deals if you need to snag a belated gift. You can save on Satechi accessories, Apple’s new iPad Pro with the M1 CPU, and Roku’s easy-to-setup Streambar soundbar.",
-      "url": "https://www.theverge.com/good-deals/2021/5/8/22424501/satechi-accessories-ps-plus-memberships-roku-streambar-ipad-pro-m1-deal-sale",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/QRqJhvKttqUujPtlftd_p2YYxUc=/28x0:2129x1100/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21865103/satechi_quattro_power_bank.jpg",
-      "publishedAt": "2021-05-08T14:30:00Z",
-      "content": "Plus, a few last-minute Mothers Day gift ideas\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nImage: Satechi\r\nThis story is part of a group of st… [+3397 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Rahim Faiez",
-      "title": "Bomb kills at least 25 near girls' school in Afghan capital - The Associated Press",
-      "description": "KABUL, Afghanistan (AP) — A bomb exploded near a girls' school in a majority Shiite district of west Kabul on Saturday, killing at least 30 people, many of them young pupils between 11 and 15 years old...",
-      "url": "https://apnews.com/article/religion-b424aa48c6f2d22be7303809c337e460",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/fdc8be73ea3a4cc6b9d9974acaa26d84/3000.jpeg",
-      "publishedAt": "2021-05-08T14:28:42Z",
-      "content": "KABUL, Afghanistan (AP) A bomb exploded near a girls school in a majority Shiite district of west Kabul on Saturday, killing at least 30 people, many of them young pupils between 11 and 15 years old.… [+4157 chars]"
+      "author": "Ann Schmidt",
+      "title": "CDC accepting COVID-19 home tests for international flights to US - Fox News",
+      "description": "On Friday the U.S. Centers for Disease Control and Prevention (CDC) updated its COVID-19 testing requirements to accept home tests for international travelers flying to the U.S.",
+      "url": "https://www.foxnews.com/travel/covid-home-tests-accepted-international-us-cdc",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/airport_iStock-1251322448.jpg",
+      "publishedAt": "2021-05-08T14:23:48Z",
+      "content": "Travelers flying to the U.S. now have another testing option. \r\nOn Friday, the Centers for Disease Control and Prevention updated its COVID-19 testing requirements to accept home tests for internatio… [+1997 chars]"
     },
     {
       "source": {
@@ -135,132 +239,28 @@ news_us = {
     {
       "source": {
         "id": null,
-        "name": "TMZ"
+        "name": "Variety"
       },
-      "author": "TMZ Staff",
-      "title": "Actress Tawny Kitaen Dead at 59 - TMZ",
-      "description": "Tawny Kitaen, the actress who starred in \"Bachelor Party\" and whose personal life was filled with radical ups and downs, has died ... TMZ has learned.",
-      "url": "https://www.tmz.com/2021/05/08/tawny-kitaen-dead-dies/",
-      "urlToImage": "https://imagez.tmz.com/image/4b/16by9/2021/05/08/4b9cad557ac646bfb3d3cbe737453e41_xl.jpg",
-      "publishedAt": "2021-05-08T13:34:00Z",
-      "content": "Tawny Kitaen, the actress who starred in \"Bachelor Party\" and whose personal life was filled with radical ups and downs, has died ... TMZ has learned.\r\nKitaen died in Newport Beach Friday. The corone… [+1515 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Doyle Rice, Janet Loehrke and Stephen J. Beard",
-      "title": "'X marks the spot (for now)': Chinese rocket hurtling back to Earth; parts of US remain in possible landing zone - USA TODAY",
-      "description": "A section of a Chinese rocket is falling to Earth and could hit late Saturday. China's government expects most of it will burn up during reentry.",
-      "url": "https://www.usatoday.com/in-depth/news/world/2021/05/08/chinese-rocket-long-march-5-b-hurtling-back-earth-may-hit-saturday/4991857001/",
-      "urlToImage": "https://www.gannett-cdn.com/presto/2021/05/07/USAT/29818716-6633-48d2-a647-7437595edecb-AFP_AFP_99G6XP.png?crop=576,324,x189,y67&width=1200",
-      "publishedAt": "2021-05-08T13:13:09Z",
-      "content": "A huge, possibly uncontrolled section of a Chinese Long March 5B rocket is falling back to Earth and is expected to hit sometime on Saturday, the U.S. Defense Department said. Experts warn it could s… [+4447 chars]"
+      "author": "Michele Amabile Angermiller",
+      "title": "Tawny Kitaen, ’80s Music Video Vixen and ‘Bachelor Party’ Star, Dies at 59 - Variety",
+      "description": "Julie E. “Tawny” Kitaen, who famously appeared in several music videos for the rock group Whitesnake in the ‘80s, has died. The Orange County, Calif. coroner’s office, which listed her as Tawny Finley, stated that she died at her home in Newport Beach on Frid…",
+      "url": "https://variety.com/2021/film/news/tawny-kitaen-dead-whitesnake-video-bachelor-party-1234969193/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2021/05/AP19349210004246-1-e1620444416827.jpg?w=1024",
+      "publishedAt": "2021-05-08T13:58:00Z",
+      "content": "Julie E. “Tawny” Kitaen, who famously appeared in several music videos for the rock group Whitesnake in the ‘80s, has died. The Orange County, Calif. coroner’s office, which listed her as Tawny Finle… [+2128 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Rolling Stone"
+        "name": "HuffPost"
       },
-      "author": "Alan Sepinwall",
-      "title": "The Year That TV Saved Us - Rolling Stone",
-      "description": "As life outside our homes shut down, the small screen became our treasured path to safe escape",
-      "url": "https://www.rollingstone.com/tv/tv-features/tv-series-streaming-covid-1163455/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2021/04/campfire_artworkWEB-1.jpg",
-      "publishedAt": "2021-05-08T13:00:24Z",
-      "content": "Back in March, while my son and his friends were enjoying a chilly morning of socially distanced outdoor fun at a campground, all the dads lingered near the fire our kids had built. We spent a few mi… [+9780 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pittsburgh Hockey Now"
-      },
-      "author": "Dan Kingerski",
-      "title": "Dan's Daily: Flyers Help Penguins, Tom Wilson Reaches Out to Panarin - Pittsburgh Hockey Now",
-      "description": "I certainly didn’t see that one coming. The Pittsburgh Penguins got some help from the Philadelphia Flyers on Friday night as the Flyers beat the Washington Capitals and gave the Penguins a fighting chance at the East Division. Washington forward Tom Wilson r…",
-      "url": "https://pittsburghhockeynow.com/pittsburgh-penguins-tom-wilson-philadelphia-flyers-first-place-dans-daily/",
-      "urlToImage": "https://i0.wp.com/pittsburghhockeynow.com/wp-content/uploads/114210119002_was_at_pit.jpg?resize=1000%2C600&ssl=1",
-      "publishedAt": "2021-05-08T12:31:21Z",
-      "content": "I certainly didn’t see that one coming. The Pittsburgh Penguins got some help from the Philadelphia Flyers on Friday night as the Flyers beat the Washington Capitals and gave the Penguins a fighting … [+1917 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Tala Hadavi",
-      "title": "Some say Florida could become a major tech and finance hub within a decade. That may be an overstatement. - CNBC",
-      "description": "Anecdotal evidence of financial firms and investors moving to Florida hint at exponential growth, but migration data is telling a different story.",
-      "url": "https://www.cnbc.com/2021/05/08/keith-rabois-elliot-management-and-goldman-sachs-invest-in-florida.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/102756012-GettyImages-85480342.jpg?v=1532564293",
-      "publishedAt": "2021-05-08T12:00:01Z",
-      "content": "Florida has recently attracted some of Wall Street and Silicon Valley's biggest names like Keith Rabois, Elliot Management and Goldman Sachs.\r\n\"For years, even though people would talk about moving, … [+1478 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Push Square"
-      },
-      "author": "Push Square",
-      "title": "Epic Games Offered Sony $200 Million to Bring PS5, PS4 Exclusives to Its Store - Push Square",
-      "description": "In demand",
-      "url": "https://www.pushsquare.com/news/2021/05/epic_games_offered_sony_usd200_million_to_bring_ps5_ps4_exclusives_to_its_store",
-      "urlToImage": "https://images.pushsquare.com/31fb83a6bde52/1280x720.jpg",
-      "publishedAt": "2021-05-08T12:00:00Z",
-      "content": "Epic Games tabled a deal with a minimum guarantee of $200 million for Sony to port four to six of its first-party exclusives to the Epic Games Store. As part of an internal memo dated September 2020 … [+980 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Julius Young",
-      "title": "How Bill, Melinda Gates should navigate dating after a 'gray divorce': experts - Fox News",
-      "description": "Bill and Melinda Gates may not be too eager to rebound into other relationships following their divorce after 27 years of marriage, but should the billionaires elect to do so, relationship experts believe respectively that each of them should take their time …",
-      "url": "https://www.foxnews.com/lifestyle/bill-melinda-gates-navigate-dating-after-divorce-experts",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/04/bill-and-melinda-gates-AP.jpg",
-      "publishedAt": "2021-05-08T11:56:39Z",
-      "content": "Bill and Melinda Gates may not be too eager to rebound into other relationships following their divorce after 27 years of marriage, but should the billionaire bachelor and bachelorette elect to do so… [+7981 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "",
-      "title": "Yale's David Swensen Leaves Behind A Powerful Legacy In Investing - NPR",
-      "description": "Swensen made billions for Yale and revolutionized the way Universities and other non-profits invest. And he strove to teach everyday people how to invest without getting fleeced by Wall Street.",
-      "url": "https://www.npr.org/2021/05/08/994794562/david-swensen-the-greatest-investor-you-maybe-never-heard-of-leaves-powerful-leg",
-      "urlToImage": "https://media.npr.org/assets/img/2021/05/07/gettyimages-138010243_wide-9e394503545db4532f40fc151b4eb2c5b22c2cfd.jpg?s=1400",
-      "publishedAt": "2021-05-08T11:17:15Z",
-      "content": "David Swensen speaks in 2012 at an event honoring Jack Bogle, who created the first index fund. Like Bogle, Swensen was a champion of the every-day investor who he thought should invest in low-fee in… [+6459 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "",
-      "title": "Shamanism Endures In Both Koreas — But In The North, Shamans Risk Arrest Or Worse - NPR",
-      "description": "Combining elements of animism, ancestor worship and folk religion, shamanism remains popular on both sides of the border. But it's illegal in the North, and some who practice it have been executed.",
-      "url": "https://www.npr.org/2021/05/08/973254913/shamanism-endures-in-both-koreas-but-in-the-north-shamans-risk-arrest-or-worse",
-      "urlToImage": "https://media.npr.org/assets/img/2021/03/09/3493498-kuhn-96_wide-ae04292829107ef40c9a28841db0e63411495da8.jpg?s=1400",
-      "publishedAt": "2021-05-08T11:01:15Z",
-      "content": "Shaman Jeong Soon-deok (center) dances during the initiation ceremony for a new shaman (left) at a temple in Seoul.\r\nAnthony Kuhn/NPR\r\nSEOUL The cold light of winter shines down on a hillside temple … [+7275 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": null,
-      "title": "'I Feel Alive Again:' 103-Year-Old COVID Survivor Gets Vaccinated : Goats and Soda - NPR",
-      "description": "Aziz Abdul Alim, from a remote part of northern Pakistan, urges people to get their COVID shot: 'Everyone should have the courage to take it.'",
-      "url": "https://www.npr.org/sections/goatsandsoda/2021/05/08/993864206/103-year-old-covid-survivor-has-advice-for-the-unvaccinated",
-      "urlToImage": "https://media.npr.org/assets/img/2021/05/05/img_0415_wide-29fd19cac43ad6abd27ef72002b9fcebc245ecbc.jpg?s=1400",
-      "publishedAt": "2021-05-08T11:01:15Z",
-      "content": "Aziz Abdul Alim, a 103-year-old man from a remote valley in Upper Chitral of northern Pakistan, is both a COVID survivor and a proud supporter of the COVID vaccine.\r\nSohail Ahmad\r\nHe's 103. He got hi… [+3395 chars]"
+      "author": "AP",
+      "title": "Paul Van Doren, Co-Founder Of Iconic Vans Sneaker Company, Dead At 90 - HuffPost",
+      "description": "Van Doren was hailed as an innovator whose “bold experiments” turned the family shoe business into a global brand.",
+      "url": "https://www.huffpost.com/entry/paul-van-doren-dead_n_60968a9de4b05bee44ca981b",
+      "urlToImage": "https://img.huffingtonpost.com/asset/60968d7a1e0000916510131e.png?cache=q8avwtzuj8&ops=1778_1000",
+      "publishedAt": "2021-05-08T13:11:00Z",
+      "content": "LOS ANGELES (AP) Paul Van Doren, co-founder of the Vans company whose iconic Southern California sneakers were beloved by skateboarders and became an international success, has died. He was 90.\r\nThe … [+4431 chars]"
     }
   ]
 }
