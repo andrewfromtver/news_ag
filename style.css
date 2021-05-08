@@ -79,7 +79,6 @@ nav {
     justify-content: space-between;
     border-radius: 4px;
     overflow: hidden;
-    filter: sepia();
 }
 
 .card:hover {
