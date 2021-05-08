@@ -95,6 +95,7 @@ nav {
     height: 160px;
     object-fit: contain;
     background-color: #333;
+    filter: sepia(0.64);
 }
 
 .card > div > code {
