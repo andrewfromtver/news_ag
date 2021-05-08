@@ -8,7 +8,6 @@ window.addEventListener('resize', () => {
   }
   setTimeout(init, 50)
 })
-
 // Generate news_cards 
 loadNews = (lang) => {
   document.getElementById('news').style.overflow = 'auto'
