@@ -81,7 +81,7 @@ goTo = (url, title) => {
 // Close popup
 closePopup = () => {
   document.getElementById('popup').style.display = 'none'
-  document.getElementById('newsframe').src = './loader.html'
+  document.getElementById('newsframe').src = './templates/loader.html'
 }
 // Init
 window.onload = () => {
