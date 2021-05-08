@@ -4,7 +4,6 @@ html, body, #app {
     margin: 0;
     padding: 0;
     overflow-x: hidden;
-    height: 100vh;
 }
 
 nav {
@@ -70,7 +69,7 @@ nav {
 }
 
 .card {
-    width: 290px;
+    width: 352px;
     max-width: 96vw;
     background-color: #fff;
     box-shadow: 0 0 24px #333;
@@ -96,7 +95,7 @@ nav {
     height: 160px;
     object-fit: contain;
     background-color: #333;
-    filter: sepia(0.64);
+    filter: sepia(0.48);
 }
 
 .card > div > code {
