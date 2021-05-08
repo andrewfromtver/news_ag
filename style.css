@@ -6,6 +6,10 @@ html, body {
 }
 
 nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
     background-color: #333;
     color: #fff;
     width: 100%;
@@ -54,12 +58,11 @@ nav {
 }
 
 #news {
-    margin: 0 auto;
+    margin: 48px auto;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-    height: calc(100vh - 48px);
 }
 
 .card {
@@ -67,7 +70,7 @@ nav {
     max-width: 96vw;
     background-color: #fff;
     box-shadow: 0 0 24px #333;
-    margin: 8px 16px;
+    margin: 8px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -126,6 +129,8 @@ button:active, select:active {
     background-color: #6699CC;
     position: fixed;
     top: 0;
+    left: 0;
+    z-index: 9999;
     width: 100%;
     height: calc(100% - 8px);
     margin: 8px auto 0 auto;
