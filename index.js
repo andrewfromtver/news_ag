@@ -8,6 +8,13 @@ window.addEventListener('resize', () => {
   }
   setTimeout(init, 50)
 })
+// About
+about = () => {
+  document.querySelector('body').style.overflow = 'hidden'
+  document.getElementById('popup').style.display = ''
+  document.getElementById('newsframe').src = 'https://andrewfromtver.github.io/landing/'
+  document.getElementById('title').innerText = 'News AG - About autor'
+}
 // Generate news_cards 
 loadNews = (lang) => {
   document.querySelector('body').style.overflow = 'auto'
@@ -88,7 +95,6 @@ goTo = (url, title) => {
   document.getElementById('popup').style.display = ''
   document.getElementById('newsframe').src = url
   document.getElementById('title').innerText = title
-
 }
 // Close popup
 closePopup = () => {

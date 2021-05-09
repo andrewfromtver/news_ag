@@ -42,11 +42,21 @@ nav {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin-left: 8px;
+    cursor: pointer;
 }
 
 .navlink > div > h3 {
     font-weight: 900;
-    margin: 8px;
+}
+
+.navlink > div > p {
+    margin: 2px;
+    height: 4px;
+    width: 32px;
+    background-color: #fff;
+    box-shadow: 0 0 8px #777;
+    border-radius: 4px;
 }
 
 .navlink > select, .navlink > input, .navlink > button {
