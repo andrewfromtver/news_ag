@@ -50,9 +50,8 @@ loadNews = (lang) => {
     news_ru.articles.forEach(e => {
       document.getElementById('news').innerHTML += `
           <div class="card">
-            <div>
+            <div id="${e.publishedAt}">
               <img src=${e.urlToImage || './assets/logo.png'}>
-              <code>${e.publishedAt}</code>
             </div>
             <h3>${e.title}</h3>
             <p>${e.description || ''}</p>
@@ -67,9 +66,8 @@ loadNews = (lang) => {
     news_us.articles.forEach(e => {
       document.getElementById('news').innerHTML += `
           <div class="card">
-            <div>
+            <div id="${e.publishedAt}">
               <img src=${e.urlToImage || './assets/logo.png'}>
-              <code>${e.publishedAt}</code>
             </div>
             <h3>${e.title}</h3>
             <p>${e.description || ''}</p>
@@ -84,9 +82,8 @@ loadNews = (lang) => {
     news_gb.articles.forEach(e => {
       document.getElementById('news').innerHTML += `
           <div class="card">
-            <div>
+            <div id="${e.publishedAt}">
               <img src=${e.urlToImage || './assets/logo.png'}>
-              <code>${e.publishedAt}</code>
             </div>
             <h3>${e.title}</h3>
             <p>${e.description || ''}</p>
@@ -101,9 +98,8 @@ loadNews = (lang) => {
     news_it.articles.forEach(e => {
       document.getElementById('news').innerHTML += `
           <div class="card">
-            <div>
+            <div id="${e.publishedAt}">
               <img src=${e.urlToImage || './assets/logo.png'}>
-              <code>${e.publishedAt}</code>
             </div>
             <h3>${e.title}</h3>
             <p>${e.description || ''}</p>

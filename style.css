@@ -139,21 +139,20 @@ nav {
     overflow: hidden;
 }
 
-.card:hover {
-    filter: drop-shadow(0 0 8px #6699CC);
-}
-
 .card > h3 {
     text-align: center;
     padding: 8px 16px;
 }
 
 .card > div > img {
+    box-shadow: 0 0 24px #333;
     width: 100%;
     height: 160px;
+    padding: 16px 0;
     object-fit: contain;
     background-color: #333;
     filter: sepia(0.48);
+    background-image: url('./assets/background.jpeg');
 }
 
 .card > div > code {
@@ -176,7 +175,7 @@ nav {
 }
 
 button:hover, select:hover, .menu > h3:hover {
-    box-shadow: 0 0 16px #6699CC;
+    box-shadow: 0 0 24px #6699CC;
 }
 
 button:active, select:active, .menu > h3:active {
