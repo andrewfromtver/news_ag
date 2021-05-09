@@ -11,9 +11,10 @@ sideMenu = (state) => {
 }
 sideButton = (type) => {
   let url = window.location.href
-  document.getElementById('facebook').href = "https://facebook.com/sharer/sharer.php?u=" + url
-  document.getElementById('whatsapp').href="whatsapp://send?text=" + url
-  document.getElementById('telegram').href="https://t.me/share/url?url=" + url
+  document.getElementById('facebook').href = 'https://facebook.com/sharer/sharer.php?u=' + url
+  document.getElementById('vkontakte').href = 'https://vk.com/share.php?url=' + url
+  document.getElementById('whatsapp').href = 'whatsapp://send?text=' + url
+  document.getElementById('telegram').href = 'https://t.me/share/url?url=' + url
   sideMenu(true)
   if (type === 'weather') {
     document.querySelector('body').style.overflow = 'hidden'
@@ -113,6 +114,7 @@ goTo = (url, title) => {
   document.getElementById('newsframe').src = url
   document.getElementById('title').innerText = title
   document.getElementById('facebook').href = "https://facebook.com/sharer/sharer.php?u=" + url
+  document.getElementById('vkontakte').href = 'https://vk.com/share.php?url=' + url
   document.getElementById('whatsapp').href="whatsapp://send?text=" + url
   document.getElementById('telegram').href="https://t.me/share/url?url=" + url
 }

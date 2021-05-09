@@ -251,7 +251,7 @@ button:active, select:active, .menu > h3:active {
 .share > a > img {
     margin: 8px;
     opacity: 0.72;
-    border-radius: 4px;
+    border-radius: 6px;
 }
 
 .share > a > img:hover {
