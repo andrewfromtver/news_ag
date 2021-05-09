@@ -8,18 +8,44 @@ window.addEventListener('resize', () => {
   }
   setTimeout(init, 50)
 })
-// About
-about = () => {
-  document.querySelector('body').style.overflow = 'hidden'
-  document.getElementById('popup').style.display = ''
-  document.getElementById('newsframe').src = 'https://andrewfromtver.github.io/landing/'
-  document.getElementById('title').innerText = 'News AG - About autor'
+// Side menu
+sideMenu = (state) => {
+  if(state === 'false') {
+    document.querySelector('.menu').style.display = ''
+    document.querySelector('.menubutton').id = 'true'
+  }
+  else {
+    document.querySelector('.menu').style.display = 'none'
+    document.querySelector('.menubutton').id = 'false'
+  }
+}
+sideButton = (type) => {
+  sideMenu(true)
+  if (type === 'weather') {
+    document.querySelector('body').style.overflow = 'hidden'
+    document.getElementById('popup').style.display = ''
+    document.getElementById('newsframe').src = 'https://andrewfromtver.github.io/funny-weather/'
+    document.getElementById('title').innerText = 'News AG - Weather'
+  }
+  else if (type === 'movies') {
+    document.querySelector('body').style.overflow = 'hidden'
+    document.getElementById('popup').style.display = ''
+    document.getElementById('newsframe').src = 'https://andrewfromtver.github.io/trailerpark-rebranding/'
+    document.getElementById('title').innerText = 'News AG - TV\'s & Movies serch'
+  }
+  else if (type === 'about') {
+    document.querySelector('body').style.overflow = 'hidden'
+    document.getElementById('popup').style.display = ''
+    document.getElementById('newsframe').src = 'https://andrewfromtver.github.io/landing/'
+    document.getElementById('title').innerText = 'News AG - About creator'
+  }
 }
 // Generate news_cards 
 loadNews = (lang) => {
   document.querySelector('body').style.overflow = 'auto'
   document.getElementById('news').innerHTML = ``
   document.getElementById('popup').style.display = 'none'
+  document.getElementById('menu').style.display = 'none'
   if (lang === 'ru') {
     news_ru.articles.forEach(e => {
       document.getElementById('news').innerHTML += `
@@ -89,7 +115,7 @@ loadNews = (lang) => {
     })
   }
 }
-// Open provided news page in iframe
+// Open provided news page in frame
 goTo = (url, title) => {
   document.querySelector('body').style.overflow = 'hidden'
   document.getElementById('popup').style.display = ''
@@ -101,6 +127,10 @@ closePopup = () => {
   document.querySelector('body').style.overflow = 'auto'
   document.getElementById('popup').style.display = 'none'
   document.getElementById('newsframe').src = './templates/loader.html'
+}
+// Refresh page
+refresh = () => {
+  window.location.reload()
 }
 // Init
 window.onload = () => {

@@ -46,6 +46,14 @@ nav {
     cursor: pointer;
 }
 
+.navlink > div:hover {
+    opacity: 0.75;
+}
+
+.navlink > div:active {
+    opacity: 1;
+}
+
 .navlink > div > h3 {
     font-weight: 900;
 }
@@ -71,6 +79,26 @@ nav {
     color: #fff;
     border: 1px solid #5699CC;
     border-radius: 4px;
+}
+
+.menu {
+    background-color: #fff;
+    color: #333;
+    position: fixed;
+    top: 48px;
+    right: 0;
+    height: 100vh;
+    width: 96vw;
+    max-width: 320px;
+    z-index: 999;
+    box-shadow: 0 0 8px #333;
+}
+
+.menu > h3 {
+    margin: 24px;
+    padding: 8px;
+    border-bottom: 1px solid #6699CC;
+    filter: drop-shadow(0 0 16px #333);
 }
 
 #news {

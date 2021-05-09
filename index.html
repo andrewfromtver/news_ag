@@ -13,7 +13,7 @@
             <div class="navlinks">
                 <div class="navlink" id="logo">
                     <img src="./assets/logo.png" alt="logo" height="32px" width="32px">
-                    <div onclick="about()">
+                    <div onclick="refresh()">
                         <h3>News AG</h3>
                     </div>
                 </div>
@@ -24,7 +24,7 @@
                         <option value="ru">Russia</option>
                         <option value="it">Italy</option>
                     </select>
-                    <div>
+                    <div id="false" class="menubutton" onclick="sideMenu(this.id)">
                         <p></p>
                         <p></p>
                         <p></p>
@@ -39,6 +39,11 @@
                 <img src="./assets/close.png" alt="close" onclick="closePopup()">
             </header>
             <iframe id="newsframe" src="./templates/loader.html"></iframe>
+        </div>
+        <div id="menu" class="menu">
+            <h3 id="weather" onclick="sideButton(this.id)">Weather</h3>
+            <h3 id="movies" onclick="sideButton(this.id)">Movies & TV series</h3>
+            <h3 id="about" onclick="sideButton(this.id)">About News AG creator</h3>
         </div>
     </div>
 </body>
