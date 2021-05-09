@@ -108,6 +108,12 @@ goTo = (url, title) => {
   document.getElementById('popupplaceholder').style.display = ''
   document.getElementById('newsframe').src = url
   document.getElementById('title').innerText = title
+  document.getElementById('facebook').href += url
+  document.getElementById('twitter').href += url
+  document.getElementById('linkedin').href += url
+  document.getElementById('whatsapp').href += url
+  document.getElementById('vk').href += url
+  document.getElementById('telegram').href += url
 }
 // Close popup
 closePopup = () => {
