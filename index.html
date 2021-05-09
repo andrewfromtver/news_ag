@@ -18,12 +18,6 @@
                     </div>
                 </div>
                 <div class="navlink">
-                    <select name="lang" id="lang" onchange="loadNews(this.value)">
-                        <option value="gb">Grate Britain</option>
-                        <option value="us">USA</option>
-                        <option value="ru">Russia</option>
-                        <option value="it">Italy</option>
-                    </select>
                     <div id="false" class="menubutton" onclick="sideMenu(this.id)">
                         <p></p>
                         <p></p>
@@ -41,6 +35,14 @@
             <iframe id="newsframe" src="./templates/loader.html"></iframe>
         </div>
         <div id="menu" class="menu">
+            <div class="navlink" id="country">
+                <select name="lang" id="lang" onchange="loadNews(this.value)">
+                    <option value="gb">Grate Britain</option>
+                    <option value="us">USA</option>
+                    <option value="ru">Russia</option>
+                    <option value="it">Italy</option>
+                </select>
+            </div>
             <h3 id="weather" onclick="sideButton(this.id)">Weather</h3>
             <h3 id="movies" onclick="sideButton(this.id)">Movies & TV series</h3>
             <h3 id="about" onclick="sideButton(this.id)">About News AG creator</h3>

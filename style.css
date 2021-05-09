@@ -68,11 +68,8 @@ nav {
 }
 
 .navlink > select, .navlink > input, .navlink > button {
-    height: 32px;
-    margin: 8px 0;
     border: none;
     outline: none;
-    padding: 0 8px;
     cursor: pointer;
     background-color: #6699CC;
     font-weight: 900;
@@ -99,6 +96,15 @@ nav {
     padding: 8px;
     border-bottom: 1px solid #6699CC;
     filter: drop-shadow(0 0 16px #333);
+}
+
+#country {
+    margin: 24px;
+}
+
+#country > select {
+    width: 100%;
+    height: 48px;
 }
 
 #news {
