@@ -205,7 +205,7 @@ button:active, select:active, .menu > h3:active {
     border-radius: 8px 8px 0 0;
     box-shadow: 0 0 16px #6699CC;
     overflow: hidden;
-    max-width: 1096px;
+    max-width: 1600px;
 }
 
 .popup > header {
