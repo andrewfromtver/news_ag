@@ -5,15 +5,132 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Juventusnews24.com"
+        "name": "Mediaset.it"
       },
-      "author": "https://www.facebook.com/junews24com/",
-      "title": "Juve-Milan decisiva per Pirlo: «Sarebbe certamente esonerato!» - Juventus News 24",
-      "description": "Juve Milan decisiva per Pirlo: «Sarebbe certamente esonerato!». Il futuro del tecnico bianconero appeso a un filo Come riferito da Tuttosport Juve-Milan potrebbe essere una partita decisiva per Pirlo perché estremamente funzionale al discorso Champions, manca…",
-      "url": "https://www.juventusnews24.com/juve-milan-decisiva-pilro-esonero-ultime-notizie/",
-      "urlToImage": "https://www.juventusnews24.com/wp-content/uploads/2021/04/Pirlo-Juve-Genoa-1000x600.jpg",
-      "publishedAt": "2021-05-09T08:03:45Z",
-      "content": "Come riferito da TuttosportJuve-Milan potrebbe essere una partita decisiva per Pirlo perché estremamente funzionale al discorso Champions, mancando ormai solo quattro partite alla fine del campionato… [+239 chars]"
+      "author": null,
+      "title": "Elon Musk: \"Ho la sindrome di Asperger, dico e posto cose strane: il mio cervello funziona così\" - TGCOM",
+      "description": "L'eccentrico imprenditore tecnologico co-fondatore di Tesla e SpaceX conduttore del \"Saturday Night Live\"",
+      "url": "https://www.tgcom24.mediaset.it/televisione/elon-musk-ho-la-sindrome-di-asperger-dico-e-posto-cose-strane-il-mio-cervello-funziona-cosi_32029427-202102k.shtml",
+      "urlToImage": "https://img-prod.tgcom24.mediaset.it/images/2021/05/09/113152449-8f4ecfa4-c519-4e3e-b582-aa06236c4c4e.jpg",
+      "publishedAt": "2021-05-09T11:46:28Z",
+      "content": "Regole per i commenti\r\nI commenti in questa pagina vengono controllatiTi invitiamo ad utilizzare un linguaggio rispettoso e non offensivo, anche per le critiche più aspre\r\nIn particolare, durante l'a… [+395 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fanpage.it"
+      },
+      "author": null,
+      "title": "Coronavirus, le notizie di oggi sul Covid, da domani quasi tutta Italia sarà gialla, verso stop a quarantena per chi arriva dall’UE - Fanpage.it",
+      "description": "Le ultime notizie in tempo reale sul Covid-19 in Italia e nel mondo, gli aggiornamenti e i dati di oggi, domenica 9 maggio 2021",
+      "url": "https://www.fanpage.it/live/coronavirus-ultime-notizie-9-maggio-2021/",
+      "urlToImage": "https://static.fanpage.it/wp-content/uploads/2021/04/italia-riparte-covid-articolo.jpg",
+      "publishedAt": "2021-05-09T10:20:10Z",
+      "content": "Ieri in Italia sono stati diagnosticati 10.176 nuovi contagi da Coronavirus, in diminuzione rispetto a venerdì. I test effettuati, tra tamponi antigenici e molecolari, sono stati 338.436. Dallinizio … [+1025 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilpost.it"
+      },
+      "author": null,
+      "title": "In Scozia hanno vinto gli indipendentisti - Il Post",
+      "description": "Il partito della prima ministra Nicola Sturgeon ha ottenuto quasi la metà dei seggi al Parlamento locale, e ​confermato che chiederà un secondo referendum al governo centrale",
+      "url": "https://www.ilpost.it/2021/05/09/alle-elezioni-in-scozia-hanno-vinto-gli-indipendentisti/",
+      "urlToImage": "https://cdn.ilpost.it/wp-content/uploads/2021/05/BANZAILIQSOLD1_20210509113038367_6fec2e680591de9525118177a9136fb8.jpg?x72029",
+      "publishedAt": "2021-05-09T10:15:19Z",
+      "content": "Nella notte fra sabato e domenica si è concluso lo scrutinio delle elezioni locali nel Regno Unito. Il voto più seguito, sia dentro sia fuori dal Regno Unito, era quello per rinnovare il Parlamento r… [+3447 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilfattoquotidiano.it"
+      },
+      "author": "F. Q.",
+      "title": "Milano, in duemila violano il coprifuoco alle Colonne di San Lorenzo: lanci di bottiglie contro la polizia - Il Fatto Quotidiano",
+      "description": "Risse e resistenza allo sgombero. La movida milanese non si arrende al coprifuoco e va allo scontro con le forze dell'ordine. Nella capitale, nelle zone del centro, tanti assembramenti ma nessuno scontro. A Padova, un raduno di 'no mask' dopo le 22: multati",
+      "url": "https://www.ilfattoquotidiano.it/2021/05/09/milano-in-duemila-violano-il-coprifuoco-alle-colonne-di-san-lorenzo-lanci-di-bottiglie-contro-la-polizia-strade-chiuse-a-roma/6192025/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/09/Coprifuoco-1200.jpg",
+      "publishedAt": "2021-05-09T10:05:53Z",
+      "content": "Si rifiutano di tornare a casa allo scattare del coprifuoco. Pure quando sono arrivate le forze dell’ordine. Succede a Milano dove sabato sera circa duemila giovani sono rimasti a stazionare nei pres… [+2271 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lastampa.it"
+      },
+      "author": ".",
+      "title": "Astrazeneca, l’Unione Europea non rinnova l’ordine di vaccini dopo giugno: colpa delle consegne in ritardo - La Stampa",
+      "description": "In Italia sono ancora oltre un milione e mezzo le dosi non ancora somministrate del vaccino anglo-svedese.",
+      "url": "https://www.lastampa.it/cronaca/2021/05/09/news/astrazeneca-l-unione-europea-non-rinnova-l-ordine-di-vaccini-dopo-giugno-colpa-delle-consegne-in-ritardo-1.40251657",
+      "urlToImage": "https://www.lastampa.it/image/contentid/policy:1.40251656:1620557628/agf_20210506_184254_007860.JPG?f=detail_558&h=720&w=1280&$p$f$h$w=8e9f8fc",
+      "publishedAt": "2021-05-09T10:05:00Z",
+      "content": "Il commissario europeo per il mercato interno Thierry Breton ha detto che la Commissione europea non ha rinnovato il suo ordine per i vaccini AstraZenecontro COVID-19 per i mesi da giugno in poi, non… [+877 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilfattoquotidiano.it"
+      },
+      "author": "Andrea Conti",
+      "title": "Amici 20, colpo di scena annunciato da Maria De Filippi: ecco chi sono i finalisti - Il Fatto Quotidiano",
+      "description": "Spente le telecamere i finalisti del talent hanno scoperto che sarebbero stati in cinque (e non in quattro) a presentarsi, sabato prossimo 15 maggio, davanti al pubblico a casa in diretta col televoto e ai giornalisti per il Premio della critica. Maria De Fil…",
+      "url": "https://www.ilfattoquotidiano.it/2021/05/09/amici-20-colpo-di-scena-annunciato-da-maria-de-filippi-ecco-chi-sono-i-finalisti/6192033/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/09/maria.png",
+      "publishedAt": "2021-05-09T09:57:57Z",
+      "content": "I finalisti della ventesima edizione di Amici di Maria De Filippi sono i cantanti Aka7even, Sangiovanni, Deddy e i ballerini Giulia Stabile e Alessandro Cavallo che ha già ottenuto unofferta di lavor… [+2298 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Formulapassion.it"
+      },
+      "author": null,
+      "title": "GP Spagna 2021: passo gara, strategie gomme, meteo e TV - FormulaPassion.it",
+      "description": "Le variabili strategiche della gara del Montmeló",
+      "url": "http://www.formulapassion.it/motorsport/formula-1/gp-spagna-2021-passo-gara-strategie-gomme-meteo-e-tv-barcellona-montmelo-pirelli-simulazioni-long-run-prove-libere-griglia-partenza-soft-medium-hard-563995.html",
+      "urlToImage": "https://www.formulapassion.it/wp-content/uploads/2021/05/XPB_1084312_HiRes.jpg",
+      "publishedAt": "2021-05-09T09:30:43Z",
+      "content": "Torna la nostra anteprima pre-gara con il Gran Premio di Spagna, quarto appuntamento della stagione 2021 che si disputerà questo pomeriggio al Montmeló. Analizzeremo tutte le possibili strategie graz… [+3355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fantacalcio.it"
+      },
+      "author": null,
+      "title": "Genoa-Sassuolo, le formazioni ufficiali - Fantacalcio ®",
+      "description": "Ecco le scelte di Ballardini e De Zerbi",
+      "url": "https://www.fantacalcio.it/news/calcio-italia/09_05_2021/genoa-sassuolo-formazioni-ufficiali-405753",
+      "urlToImage": "https://content.fantacalcio.it/web/img/large/perin-dc82f95c-f9c2-4b7e-891b-dd3bc6cd178a.jpg",
+      "publishedAt": "2021-05-09T09:27:00Z",
+      "content": "Genoa (3-5-2): Perin; Goldaniga, Zapata, Masiello; Ghiglione, Behrami, Badelj, Zajc, Zappacosta; Pandev, Destro\r\nSassuolo (4-2-3-1): Consigli; Toljan, Chiriches, Ferrari, Rogerio; Lopez, Locatelli; B… [+35 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilmessaggero.it"
+      },
+      "author": "Redazione Web",
+      "title": "Chernobyl, è allarme: il reattore 4 si è svegliato e torna a bruciare. I rischi secondo gli scienziati - ilmessaggero.it",
+      "description": "Riprendono le reazioni di fissione nucleare a Chernobyl. È allarme di nuovo per gli scienziati, che stanno tenendo la situazione sotto controllo, all'ex centrale nuclerare di...",
+      "url": "https://www.ilmessaggero.it/mondo/chernobyl_reattore_si_sveglia_allarme_torna_a_bruciare_quali_sono_i_rischi_scienziati_ultime_notizie_9_maggio_2021-5948934.html",
+      "urlToImage": "https://www.ilmessaggero.it/photos/MED/89/34/5948934_1231_reattore_chernobyl_brucia.jpg",
+      "publishedAt": "2021-05-09T09:14:27Z",
+      "content": "Riprendono le reazioni di fissione nucleare a Chernobyl. È allarme di nuovo per gli scienziati, che stanno tenendo la situazione sotto controllo, all'ex centrale nuclerare di Chernobyl dove stanno au… [+3230 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Liberoquotidiano.it"
+      },
+      "author": "@libero_official",
+      "title": "I Soliti Ignoti, sangue in studio: \"Vatti a disinfettare subito\". Francesco Paolantoni tira fuori la sciabola ma finisce malissimo - Liberoquotidiano.it",
+      "description": "Incidente a  I soliti ignoti . Ospite del programma di Rai 1 condotto da  Amadeus  anche  Francesco Paolantoni . L’attore napoletano, ...",
+      "url": "https://www.liberoquotidiano.it/news/spettacoli/televisione/27164486/i-soliti-ignoti-sangue-studio-francesco-paolantoni-vatti-disinfettare-subito-tira-fuori-sciabola-finisce-malissimo.html",
+      "urlToImage": "https://img2.liberoquotidiano.it/images/2021/05/09/092151952-182304fa-b724-4911-bd08-5f8b91db4630.jpg",
+      "publishedAt": "2021-05-09T09:14:00Z",
+      "content": "Incidente a I soliti ignoti. Ospite del programma di Rai 1 condotto da Amadeus anche Francesco Paolantoni. L’attore napoletano, nella puntata di sabato 8 maggio 2021, aveva come identità “Stappa le b… [+1393 chars]"
     },
     {
       "source": {
@@ -24,61 +141,87 @@ news_it = {
       "title": "AVVISO meteo: VORTICE tra lunedì e mercoledì con MALTEMPO e rischio NUBIFRAGI. Le REGIONI più colpite - 3bmeteo",
       "description": "PERTURBAZIONE IN ARRIVO DALLA FRANCIA La perturbazione in arrivo dalla Francia che già nel corso di domenica provocherà un graduale peggioramento su buona parte del Nordovest intensificherà i suoi effetti dalle prime ore della settimana e si estenderà lentame…",
       "url": "https://www.3bmeteo.com/giornale-meteo/avviso-meteo--vortice-tra-luned--e-mercoled--con-maltempo-e-rischio-nubifragi--le-regioni-pi--colpite-471448",
-      "urlToImage": "https://image.3bmeteo.com/images/newarticles/w_1280/meteo--perturbazione-in-arrivo-dalla-francia-3bmeteo-116888.jpg",
-      "publishedAt": "2021-05-09T07:45:15Z",
-      "content": "Perturbazione a partire dal Nordovest in graduale estensione verso sudest.\r\nMeteo. Perturbazione in arrivo dalla Francia\r\nPERTURBAZIONE IN ARRIVO DALLA FRANCIA. La perturbazione in arrivo dalla Franc… [+3339 chars]"
+      "urlToImage": "https://image.3bmeteo.com/images/newarticles/w_1280/meteo-luned--maltempo-al-nordovest-3bmeteo-116892.jpg",
+      "publishedAt": "2021-05-09T09:11:15Z",
+      "content": "Perturbazione a partire dal Nordovest in graduale estensione verso sudest.\r\nPERTURBAZIONE IN ARRIVO DALLA FRANCIA. La perturbazione in arrivo dalla Francia che già nel corso di domenica provocherà un… [+3536 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Liberoquotidiano.it"
-      },
-      "author": "@libero_official",
-      "title": "Coprifuoco addio? Retroscena sul piano di Mario Draghi: dal 17 maggio slittamento alle 24 e a giugno l'abolizione - Liberoquotidiano.it",
-      "description": "L'Italia torna a sperare: il coprifuoco alle 22 potrebbe avere i giorni contati.  Cruciale la data di lunedì 17 maggio  quando, s...",
-      "url": "https://www.liberoquotidiano.it/news/italia/27163503/coprifuoco-retroscena-piano-mario-draghi-17-maggio-slittamento-24-giugno-abolizione.html",
-      "urlToImage": "https://img2.liberoquotidiano.it/images/2021/05/09/073910291-25c5c5e9-397d-4e6f-9c92-c98f8fc7013d.jpg",
-      "publishedAt": "2021-05-09T07:28:00Z",
-      "content": "L'Italia torna a sperare: il coprifuoco alle 22 potrebbe avere i giorni contati. Cruciale la data di lunedì 17 maggio quando, spiega in un retroscena il Messaggero, potrebbe essere spostato l'obbligo… [+1649 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Calciomercato.it"
+        "name": "Rainews.it"
       },
       "author": null,
-      "title": "Calciomercato Juventus, Vlahovic il bomber del futuro: il punto - CalcioMercato.it",
-      "description": "Calciomercato Juventus, nel mirino la rivelazione Dusan Vlahovic: i bianconeri ci pensano, il punto sul bomber della Fiorentina",
-      "url": "https://www.calciomercato.it/2021/05/09/calciomercato-juventus-vlahovic-fiorentina-commisso-rinnovo-morata/",
-      "urlToImage": "https://www.calciomercato.it/wp-content/uploads/2021/05/GettyImages-1317008249-1.jpg",
-      "publishedAt": "2021-05-09T07:14:52Z",
-      "content": "Calciomercato Juventus, nel mirino la rivelazione Dusan Vlahovic: i bianconeri ci pensano, il punto sul bomber della Fiorentina\r\nAltri due gol, ieri sera, contro la Lazio, per arrivare alla ragguarde… [+2259 chars]"
+      "title": "Spagna, finita l'emergenza, via il coprifuoco quasi ovunque - Rai News",
+      "description": "La Spagna ha revocato lo stato di emergenza in vigore da ottobre per combattere la pandemia di Covid-19, consentendo agli spagnoli di viaggiare tra le regioni per la prima volta da mesi.\n\n\n\nLa misura, la cui revoca era stata annunciata nei giorni scorsi, è sc…",
+      "url": "https://www.rainews.it/dl/rainews/articoli/Spagna-finita-emergenza-via-il-coprifuoco-quasi-ovunque-a2c81e9f-9398-4db9-9d7f-a414eafe4822.html",
+      "urlToImage": "https://www.rai.it/cropgd/476x249/dl/img/2021/03/1617094639051.AP21083493015697.jpg",
+      "publishedAt": "2021-05-09T09:07:00Z",
+      "content": "09 maggio 2021La Spagna ha revocato lo stato di emergenza in vigore da ottobre per combattere la pandemia di Covid-19, consentendo agli spagnoli di viaggiare tra le regioni per la prima volta da mesi… [+736 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Ilpost.it"
+        "name": "Isaechia.it"
       },
       "author": null,
-      "title": "Sadiq Khan è stato rieletto sindaco di Londra - Il Post",
-      "description": "Sadiq Khan, sindaco di Londra dal 2016, è stato eletto per un secondo mandato alle elezioni che si sono tenute il 6 maggio. Membro del partito Laburista,",
-      "url": "https://www.ilpost.it/2021/05/09/sadiq-khan-rieletto-sindaco-londra/",
-      "urlToImage": "https://cdn.ilpost.it/wp-content/uploads/2021/05/Sadiq-Khan-1.jpg?x72029",
-      "publishedAt": "2021-05-09T07:07:30Z",
-      "content": "Sadiq Khan, sindaco di Londra dal 2016, è stato eletto per un secondo mandato alle elezioni che si sono tenute il 6 maggio. Membro del partito Laburista, Khan è stato il primo musulmano a essere elet… [+1301 chars]"
+      "title": "Anticipazioni Uomini e Donne 8/05/2021: Massimiliano Mollicone ha scelto - Isa e Chia",
+      "description": "Anticipazioni Uomini e Donne dell'8/05/2021: la scelta di Massimiliano Mollicone. Ieri è stata registrata una nuova puntata di Uomini e Donne,",
+      "url": "https://www.isaechia.it/anticipazioni-uomini-donne-8-05-2021-scelta-massimiliano-mollicone/",
+      "urlToImage": "https://www.isaechia.it/wp-content/uploads/2021/04/Uomini-e-Donne-17-9.jpg",
+      "publishedAt": "2021-05-09T08:48:45Z",
+      "content": "Ieri è stata registrata una nuova puntata di Uomini e Donne, e – dopo la scelta di Samantha Curcio di qualche giorno fa – anche Massimiliano Mollicone è arrivato alla decisione finale.Ebbene sì, nell… [+558 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Ilfattoquotidiano.it"
+        "name": "Livetennis.it"
       },
-      "author": "Valentina Arcovio",
-      "title": "Astrazeneca e l’ipotesi di mezza dose per ridurre eventi avversi, Vezzoni (Cnr): “No, troppo… - Il Fatto Quotidiano",
-      "description": "La proposta avanzata dall’immunologo Mauro Minelli è stata appoggiata anche da Andreas Greinacher, ordinario di Immunologia dell’ateneo tedesco di Greifswald, che ha sta studiando il meccanismo che innesca la trombocitopenia trombotica immunitaria indotta da …",
-      "url": "https://www.ilfattoquotidiano.it/2021/05/09/astrazeneca-e-lipotesi-di-mezza-dose-per-ridurre-eventi-avversi-vezzoni-cnr-no-troppo-tempo-per-test-su-un-vaccino-efficace/6189137/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/04/06/variant-med_1200x630-obj23692262.jpg",
-      "publishedAt": "2021-05-09T07:01:27Z",
-      "content": "Mentre si sta valutando con tutte le perplessità del caso l’ipotesi di allargare le indicazioni per il vaccino antiCovid AstraZeneca anche negli under 60, alcuni scienziati hanno lanciato una nuova i… [+3704 chars]"
+      "author": null,
+      "title": "Masters 1000 Madrid: LIVE le Finali. LIVE Matteo Berrettini vs Alexander Zverev (Live e Sondaggio) - LiveTennis.it",
+      "description": "Masters 1000 Madrid – Finali Manolo Santana Stadium – Ora italiana: 15:30 (ora locale: 3:30 pm) 1. [3] Marcel Granollers / Horacio Zeballos vs [2] N",
+      "url": "http://www.livetennis.it/post/347101/masters-1000-madrid-live-le-finali-live-matteo-berrettini-vs-alexander-zverev-live-e-sondaggio/",
+      "urlToImage": "http://static.livetennis.it/photo/Berrettini_madrid21.jpg",
+      "publishedAt": "2021-05-09T08:03:00Z",
+      "content": "IL BERRETTO VS ER CANOTTAComunque vada, standing ovation per il nostro ragazzo ed il suo splendido torneo in terra spagnola: Grazie Matteo! E per la grande occasione, non posso esimermi dallo stilare… [+1750 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gelocal.it"
+      },
+      "author": "Martina Trivigno",
+      "title": "Vaccini in Toscana, over 60: intesa coi medici di famiglia. Come cambia il meccanismo di prenotazione - Il Tirreno",
+      "description": "Il nuovo accordo con la Regione permette un doppio binario per fissare un appuntamento. Le altre novità",
+      "url": "https://iltirreno.gelocal.it/regione/toscana/2021/05/09/news/vaccini-in-toscana-over-60-intesa-coi-medici-di-famiglia-come-cambia-il-meccanismo-di-prenotazione-1.40251221",
+      "urlToImage": "https://iltirreno.gelocal.it/image/contentid/policy:1.40251222:1620545281/Vaccini%20dai%20medici.jpg?f=detail_558&h=720&w=1280&$p$f$h$w=9011afd",
+      "publishedAt": "2021-05-09T07:32:02Z",
+      "content": "Erano già scesi in campo tre mesi fa per proteggere gli over 80 dai temibili attacchi del virus. E ora il sodalizio tra la Regione e i 2. 500 medici di famiglia toscani si rinnova. Questa volta per i… [+2646 chars]"
+    },
+    {
+      "source": {
+        "id": "ansa",
+        "name": "ANSA.it"
+      },
+      "author": "",
+      "title": "Mille migranti arrivati a Lampedusa. Salvini: 'Necessario un incontro con Draghi' - Sicilia - Agenzia ANSA",
+      "description": "Soccorsi da motovedette e trasferiti all'hotspot dell'isola. Per il leader della Lega ne sono\r\nsbarcati 12mila dall'inizio dell'anno (ANSA)",
+      "url": "https://www.ansa.it/sicilia/notizie/2021/05/09/migranti-415-approdati-a-lampedusa-su-due-barconi_f1209c3a-69df-4acc-a38f-cd27c5941989.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2021/5/9/cd9e7617fbcff6f9aa6e4a5ac1ad6416.jpg",
+      "publishedAt": "2021-05-09T07:05:00Z",
+      "content": "Nuovo maxi sbarco a Lampedusa, il quinto consecutivo nel giro di poche ore. Le motovedette della Capitaneria di Porto e della Guardia di Finanza hanno sbarcato sul molo Favaloro 398 migranti di varie… [+615 chars]"
+    },
+    {
+      "source": {
+        "id": "il-sole-24-ore",
+        "name": "Il Sole 24 Ore"
+      },
+      "author": "Redazione",
+      "title": "Coronavirus, ultime notizie. India: nuovo record di casi, oltre 400mila nonostante i lockdown - Il Sole 24 ORE",
+      "description": "Aggiornamenti live della pandemia, 9 maggio",
+      "url": "https://www.ilsole24ore.com/art/coronavirus-ultime-notizie-india-nuovo-record-casi-oltre-400mila-nonostante-lockdown-AEuFKDH",
+      "urlToImage": "https://i2.res.24o.it/images2010/2021/05/AEuFKDH/images/906ed2c2-b0af-11eb-ae85-dd8bb23fd515-fotohome0.jpg",
+      "publishedAt": "2021-05-09T07:04:43Z",
+      "content": "Due persone in Tunisia sono state infettate dalla variante sudafricana del coronavirus. Lo ha detto il ministro della Sanità tunisino Faouzi Mehdi, senza precisare altro ma aggiungendo che la situazi… [+1042 chars]"
     },
     {
       "source": {
@@ -109,158 +252,15 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Adnkronos.com"
-      },
-      "author": "demicheli",
-      "title": "Vaccini Italia, dal 10 maggio le prenotazioni per over 50 - Adnkronos",
-      "description": "Si avviano le prenotazioni del vaccino anti-Covid-19 per i nati fino al 1971. Priorità a chi ha patologie, anche se non fragile",
-      "url": "https://www.adnkronos.com/vaccini-italia-dal-10-maggio-le-prenotazioni-per-over-50_4JDNKLzDtPpYYhH7fW4XnI",
-      "urlToImage": "https://www.adnkronos.com/resources/0269-123b92fd95f2-98c305cdc4c8-1000/vaccino_dottore_ftg.jpg",
-      "publishedAt": "2021-05-09T06:19:00Z",
-      "content": "Si avviano le prenotazioni del vaccino anti-Covid-19 per i nati fino al 1971. Priorità a chi ha patologie, anche se non fragileVaccini per over 50, da lunedì 10 maggio l'Italia apre le prenotazioni. … [+757 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quotidiano.net"
-      },
-      "author": "ANTONELLA COPPARI",
-      "title": "Coprifuoco, tutti a casa entro mezzanotte. Draghi: riaprire usando la testa - QUOTIDIANO NAZIONALE",
-      "description": "Dal 17 il coprifuoco verrà allungato di due ore. I ristoranti al chiuso torneranno operativi dal primo giugno",
-      "url": "https://www.quotidiano.net/cronaca/tutti-a-casa-entro-mezzanotte-draghi-riaprire-usando-la-testa-1.6340144",
-      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6340141.1620539744%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700&h=391",
-      "publishedAt": "2021-05-09T06:11:15Z",
-      "content": "Nella due giorni di Porto, Draghi parla essenzialmente di Europa. Ma alla fine del vertice Ue è costretto dai giornalisti a tornare in Italia. Cioè al dibattito infinito sulle riaperture. A prima vis… [+3600 chars]"
-    },
-    {
-      "source": {
-        "id": "ansa",
-        "name": "ANSA.it"
-      },
-      "author": "",
-      "title": "Mattarella: la nostra democrazia ha sconfitto il terrorismo - Politica - Agenzia ANSA",
-      "description": "'Ma ancora zone d'ombra, la verità è un'esigenza per la Repubblica' (ANSA)",
-      "url": "https://www.ansa.it/sito/notizie/politica/2021/05/09/mattarella-la-nostra-democrazia-ha-sconfitto-il-terrorismo_fef470f2-8b7f-4374-ae29-2028eb7109dc.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2021/5/2/83749e1de71f25587b9c7dc84245ec4f.jpg",
-      "publishedAt": "2021-05-09T05:55:00Z",
-      "content": "\"Il terrorismo non è riuscito a realizzare l'ambizione di rappresentare una cesura, uno spartiacque nella storia d'Italia. Il disegno cinico non esente da collegamenti a reti eversive internazionali … [+2002 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Passioneinter.com"
-      },
-      "author": "Raffaele Caruso",
-      "title": "I Top&Flop di Inter-Sampdoria: Sanchez Maravilla, super Gagliardini. Handa ancora male - passioneinter.com",
-      "description": "Benissimo anche Pinamonti e Lautaro Martinez",
-      "url": "https://www.passioneinter.com/inter-news/inter-sampdoria-top-flop-2/",
-      "urlToImage": "https://prd-images2-gazzanet.gazzettaobjects.it/mCduH3M4tzJOOz4e2zvHlpw7Jb4=/1200x627/smart/www.passioneinter.com/assets/uploads/202104/f59ec6b202c68b957c0bfd218bf8f127.jpg",
-      "publishedAt": "2021-05-09T05:50:30Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lanazione.it"
-      },
-      "author": "Ilaria Ulivelli",
-      "title": "Vaccinazioni: c’è il piano estate per la Toscana. Prima dose entro giugno ai 50enni - LA NAZIONE",
-      "description": "La Toscana vara la programmazione a medio termine. Aumentano gli hub e le somministrazioni giornaliere",
-      "url": "https://www.lanazione.it/cronaca/vaccinazioni-piano-estate-1.6339145",
-      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6341967.1620543063%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700&h=391",
-      "publishedAt": "2021-05-09T05:28:47Z",
-      "content": "Firenze, 9 maggio 2021 -  E arrivato il momento della programmazione. Con un documento inviato alle aziende sanitarie, la Regione apre le agende per la prenotazione dei vaccini sino al primo agosto, … [+3019 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Corriere.it"
-      },
-      "author": "Alessandro Trocino",
-      "title": "Coprifuoco alle 23 o alle 24 a maggio: verso il cambio di orario - Corriere della Sera",
-      "description": "Si discute sul coprifuoco, è possibile che venga allungato alle 23 o alle 24 già dal prossimo 17 maggio. Galli resiste: «Sbagliato spostarlo». Ma Salvini preme",
-      "url": "https://www.corriere.it/politica/21_maggio_09/coprifuoco-maggio-italia-orario-23-24-quarantena-turisti-ue-30a5bb2c-b027-11eb-8261-0c233af9e96e.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/09/056a65bc-b035-11eb-8261-0c233af9e96e.jpg",
-      "publishedAt": "2021-05-09T05:23:11Z",
-      "content": "ROMA — L’estate si avvicina e arrivano anche le prime misure di allentamento che potrebbero rimettere in moto il turismo e la voglia di vacanze, agevolata dal caldo, come l’anno scorso, ma quest’anno… [+2304 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Corriere.it"
-      },
-      "author": "Fabio Savelli",
-      "title": "Vaccino Covid, le regioni del Nord chiedono le dosi di AstraZeneca ferme al Sud, dal governo no alla... - Corriere della Sera",
-      "description": "Dalla vaccinazione a sportello di Puglia e Basilicata agli Astra-day di Campania e Sicilia: il tentativo di ridurre la diffidenza con l’incentivo di anticipare i tempi. La pressione delle regioni del nord come Lombardia e Piemonte per redistribuire le dosi",
-      "url": "https://www.corriere.it/cronache/21_maggio_09/vaccino-covid-regioni-nord-chiedono-dosi-astrazeneca-ferme-sud-governo-no-redistribuzione-444cc39c-b026-11eb-8261-0c233af9e96e.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/08/c2b3d14e-b026-11eb-8261-0c233af9e96e.jpg",
-      "publishedAt": "2021-05-09T05:14:33Z",
-      "content": "L’hanno chiamata «Astranight» anche per dare un po’ di colore in queste notti di coprifuoco. A Matera — dalle 22 alle 6 di questa mattina — c’era un motivo valido per uscire di casa per tutti coloro … [+3108 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilmessaggero.it"
-      },
-      "author": "Marco Conti",
-      "title": "Coprifuoco alle 24, il piano: sì a ristoranti al chiuso e palestre, nei bar servizio al banco - Il Messaggero",
-      "description": "Il coprifuoco alle 22 ha i giorni contati. Si va verso una sua graduale eliminazione cominciando da lunedì 17 quando sarà portato alle 24 per poi essere eliminato a metà giugno....",
-      "url": "https://www.ilmessaggero.it/politica/coprifuoco_24_mezzanotte_riapertura_palestre_piscine_ristoranti_lazio_lombardia_casmpania_veneto_piemonte_enilia_toscana_sicilia_ultima_ora_news_9_maggio_2021-5947567.html",
-      "urlToImage": "https://www.ilmessaggero.it/photos/MED/75/67/5947567_1021_coprifuoco_mezzanotte_novita.jpg",
-      "publishedAt": "2021-05-09T04:30:00Z",
-      "content": "Il coprifuoco alle 22 ha i giorni contati. Si va verso una sua graduale eliminazione cominciando da lunedì 17 quando sarà portato alle 24 per poi essere eliminato a metà giugno. Anche se nel governo … [+4123 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilmessaggero.it"
-      },
-      "author": "Redazione Web",
-      "title": "Razzo cinese caduto nell'Oceano Indiano, non lontano dalle Maldive. Fine allerta per l'Italia - ilmessaggero.it",
-      "description": "Il razzo cinese è caduto nell'oceano Indiano, nessun pericolo, quindi per l'Italia che era stata indicata come area a rischio per la caduta di frammenti sul territorio. E tira un...",
-      "url": "https://www.ilmessaggero.it/mondo/razzo_cinese_rocket_china_live_caduto_oceano_indiano_maldive_cosa_e_successo_oggi_davvero_ultima_ora_9_magio_2021-5947439.html",
-      "urlToImage": "https://www.ilmessaggero.it/photos/MED/74/39/5947439_0711_razzo_cinese_caduto_dove.jpg",
-      "publishedAt": "2021-05-09T04:23:12Z",
-      "content": "Il razzo cinese è caduto nell'oceano Indiano\r\n, nessun pericolo, quindi per l'Italia che era stata indicata come area a rischio per la caduta di frammenti sul territorio. E tira un sospiro di solliev… [+5201 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Liberoquotidiano.it"
-      },
-      "author": "Francesco Specchia",
-      "title": "Achille Lauro, dopo Felicissima Sera! travolto dalle critiche: \"Mi hanno dato dell'omofobo\" - LiberoQuotidiano.it",
-      "description": "È un ossimoro tonante, è il politicamente corretto del politicamente scorretto. Anche solo accostare l'omofobia ad  Achille Lauro , ...",
-      "url": "https://www.liberoquotidiano.it/news/commenti-e-opinioni/27158408/achille-lauro-felicissima-sera-travolto-critiche-dato-omofobo.html",
-      "urlToImage": "https://img2.liberoquotidiano.it/images/2021/05/08/133003873-31354678-36d8-4c36-bdd9-be6315cf318a.jpg",
-      "publishedAt": "2021-05-09T03:28:00Z",
-      "content": "È un ossimoro tonante, è il politicamente corretto del politicamente scorretto. Anche solo accostare l'omofobia ad Achille Lauro, l'uomo che ha fatto del transgenderismo e della fluidità dell'identit… [+3582 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Gds.it"
       },
-      "author": "Piero Vassallo",
-      "title": "Vaccini, la Sicilia punta sugli over 50 ma AstraZeneca resta tabù: metà delle dosi è anc - Giornale di Sicilia",
-      "description": "Nonostante la buona risposta da parte degli over 50, la campagna vaccinale della Sicilia continua ad arrancare . Il report nazionale resta impietoso: l'Isola è...",
-      "url": "https://gds.it/articoli/cronaca/2021/05/09/vaccini-la-sicilia-punta-sugli-over-50-ma-astrazeneca-resta-tabu-meta-delle-dosi-e-ancora-in-frigo-f13576de-2234-4a58-a730-6103c5a80686/",
-      "urlToImage": "https://gdsit.cdn-immedia.net/2021/03/954c187ef5440e7b16547a34c3f980e9-625x350.jpg",
-      "publishedAt": "2021-05-09T03:00:00Z",
-      "content": "Nonostante la buona risposta da parte degli over 50, la campagna vaccinale della Sicilia continua ad arrancare. Il report nazionale resta impietoso: l'Isola è all'ultimo posto per dosi somministrate … [+2062 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Comingsoon.it"
-      },
-      "author": null,
-      "title": "Amici 20: Deddy, Sangiovanni, Aka7even, Giulia e Alessandro volano in Finale, la sorpresa di Maria De Filippi (VIDEO) - ComingSoon.it",
-      "description": "Svelati i nomi dei cinque finalisti della ventesima edizione di Amici.",
-      "url": "https://www.comingsoon.it/tv/gossip/amici-20-deddy-sangiovanni-aka7even-giulia-e-alessandro-volano-in-finale-la/n123071/",
-      "urlToImage": "https://mr.comingsoon.it/imgdb/PrimoPiano/123071_ppl.jpg",
-      "publishedAt": "2021-05-08T22:49:00Z",
-      "content": "Svelati i nomi dei cinque finalisti della ventesima edizione di Amici.La Semifinale di Amici ha visto la proclamazione dei cinque finalisti della ventesima edizione di Amici: Aka7even, Giulia Stabile… [+1658 chars]"
+      "author": "redazione",
+      "title": "Pippo Baudo su Fedez: \"Avrei spento le telecamere sul suo discorso\" - Giornale di Sicilia",
+      "description": "\" Se avessi condotto io il Concertone del Primo Maggio avrei spento le telecamere a Fedez durante il suo discorso \". Drastiche le dichiarazioni di Pippo Baudo, rilasciate...",
+      "url": "https://gds.it/articoli/societa/2021/05/09/pippo-baudo-su-fedez-avrei-spento-le-telecamere-sul-suo-discorso-a2df4cad-1b23-4de1-bcb6-cf39685177ce/",
+      "urlToImage": "https://gdsit.cdn-immedia.net/2020/12/Pippo_Baudo-625x350.jpg",
+      "publishedAt": "2021-05-09T06:08:00Z",
+      "content": "\"Se avessi condotto io il Concertone del Primo Maggio avrei spento le telecamere a Fedez durante il suo discorso\". Drastiche le dichiarazioni di Pippo Baudo, rilasciate all'Adnkronos, sulla polemica … [+1368 chars]"
     }
   ]
 }

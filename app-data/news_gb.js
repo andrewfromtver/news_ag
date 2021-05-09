@@ -5,6 +5,201 @@ news_gb = {
     {
       "source": {
         "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Nicola Slawson, Steven Morris, Libby Brooks, Ben Quinn, Rajeev Syal, Heather Stewart, Michael Savage",
+      "title": "Elections 2021 live: SNP eyes new independence referendum; Labour set for shadow cabinet reshuffle - The Guardian",
+      "description": "Latest updates: key developments from the UK’s 2021 devolved and local elections",
+      "url": "https://www.theguardian.com/politics/live/2021/may/09/elections-2021-live-labour-snp-conservatives-scottish-independence-referendum-angela-rayner-keir-starmer-results-latest-updates",
+      "urlToImage": "https://i.guim.co.uk/img/media/c721ac2b3dc641d65e5482375fc22a038d57af24/0_188_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=158c2d0eba08146a86723192b84e2856",
+      "publishedAt": "2021-05-09T12:30:51Z",
+      "content": "Anti-fascist campaigners have been celebrating a dismal performance by far-right candidates in elections around the UK, from Scotland to council polls in England.\r\nBut their disastrous showing was al… [+2035 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Liverpool Echo"
+      },
+      "author": "Paul Gorst",
+      "title": "Jurgen Klopp fumes at what Roberto Firmino did as Liverpool defender gets new look - Liverpool Echo",
+      "description": "A look at some of the moments you might have missed from Saturday's 2-0 win over Southampton",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/jurgen-klopp-fumes-what-roberto-20558304",
+      "urlToImage": "https://i2-prod.liverpoolecho.co.uk/incoming/article20558521.ece/ALTERNATES/s1200/0_GettyImages-1317010367.jpg",
+      "publishedAt": "2021-05-09T11:53:13Z",
+      "content": "Liverpool's top-four chase rolls on after a 2-0 win over Southampton on Saturday night.\r\n Goals from Sadio Mane and Thiago Alcantara were enough to earn the hard-fought points against the Saints. \r\n … [+3253 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky.com"
+      },
+      "author": "David Mercer",
+      "title": "Peterborough: Man arrested after boy, 9, suffers life-changing injuries in 'random attack' in street - Sky News",
+      "description": "The boy was walking with his older brother in Peterborough when a man approached them and attacked the youngster, police say.",
+      "url": "https://news.sky.com/story/peterborough-man-arrested-after-boy-9-suffers-life-changing-injuries-in-random-attack-in-street-12301536",
+      "urlToImage": "https://e3.365dm.com/21/05/1600x900/skynews-boy-attack-peterborough_5375508.jpg?20210509121916",
+      "publishedAt": "2021-05-09T11:40:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Zoe Wood",
+      "title": "Asda tries out delivery system for when people are not at home - The Guardian",
+      "description": "Insulated boxes outside that are accessed by passcode can store frozen food for up to four hours",
+      "url": "https://amp.theguardian.com/business/2021/may/09/asda-tries-out-delivery-system-for-when-people-are-not-at-home",
+      "urlToImage": null,
+      "publishedAt": "2021-05-09T11:31:00Z",
+      "content": "AsdaInsulated boxes outside that are accessed by passcode can store frozen food for up to four hours\r\nAsda is placing secure delivery boxes outside homes as it readies for a post-lockdown world where… [+2195 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Telegraph.co.uk"
+      },
+      "author": null,
+      "title": "Coronavirus latest news: Intimate contact between family and friends to be 'restored' as lockdown eases, says Michael Gove - Telegraph.co.uk",
+      "description": "The European Commission has not renewed its order for AstraZeneca vaccines beyond June, amid legal disputes and a pivot towards the Pfizer jab.",
+      "url": "https://www.telegraph.co.uk/global-health/science-and-disease/coronavirus-news-covid-third-wave-indian-variant-vaccines-cases/",
+      "urlToImage": "https://img.youtube.com/vi/73aLnkwoJ7w/maxresdefault.jpg",
+      "publishedAt": "2021-05-09T10:43:18Z",
+      "content": "The World Health Organization on Friday approved a Covid-19 vaccine from China's state-owned pharmaceutical company, Sinopharm, for emergency use, laying a path for the jab to be used in poorer natio… [+1106 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Scotland independence referendum is 'will of the people', says Nicola Sturgeon - Guardian News",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bGRkODNsTU5IZjDSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-05-09T10:24:15Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky Sports"
+      },
+      "author": null,
+      "title": "Champions League final: Chelsea yet to face Manchester City's strongest XI, says Richard Dunne - Sky Sports",
+      "description": "Richard Dunne hailed Chelsea's resurgence under Thomas Tuchel but warned both of their recent wins over Manchester City have come against understrength sides.",
+      "url": "https://www.skysports.com/football/news/11945/12301443/champions-league-final-chelsea-yet-to-face-manchester-citys-strongest-xi-says-richard-dunne",
+      "urlToImage": "https://e0.365dm.com/21/05/1600x900/skysports-tuchel-pep_5372997.jpg?20210507125654",
+      "publishedAt": "2021-05-09T10:23:24Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky.com"
+      },
+      "author": "Sky",
+      "title": "Election results: Sir Keir Starmer to hold Labour reshuffle amid backlash over Angela Rayner sacking - Sky News",
+      "description": "There have been recriminations over who is to blame for the election strategy that saw losses in traditional Labour heartlands.",
+      "url": "https://news.sky.com/story/election-results-sir-keir-starmer-to-hold-labour-reshuffle-amid-backlash-over-angela-rayner-sacking-12301439",
+      "urlToImage": "https://e3.365dm.com/21/05/1600x900/skynews-sir-keir-starmer-labour_5375407.jpg?20210509104925",
+      "publishedAt": "2021-05-09T10:18:45Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "India COVID-19 deaths could touch 1 million by August: Lancet - Al Jazeera English",
+      "description": "The medical journal said the government of PM Modi needs to ‘own up to its mistakes’ and work to control the virus.",
+      "url": "https://www.aljazeera.com/news/2021/5/9/medical-journal-lancet-bashes-india-over-covid-19-policy",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/05/2021-05-02T144222Z_469644247_RC2Q7N9IVGFY_RTRMADP_3_HEALTH-CORONAVIRUS-BRITAIN-INDIA-1.jpg?resize=1200%2C630",
+      "publishedAt": "2021-05-09T09:50:28Z",
+      "content": "COVID-19 deaths in India could potentially reach a staggering one million by August 1 this year, an editorial published in medical journal the Lancet said citing an estimate by the Institute for Heal… [+3976 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Sean O'grady, Roxy Simons, Martin Robinson",
+      "title": "Torchwood's Gareth David-Lloyd speaks out on John Barrowman's on-set behaviour - Daily Mail",
+      "description": "On Friday, Barrowman, 54, apologised for exposing himself repeatedly while filming the Torchwood and Doctor Who but insisted it was just 'tomfoolery'.",
+      "url": "https://www.dailymail.co.uk/tvshowbiz/article-9558869/Torchwoods-Gareth-David-Lloyd-speaks-John-Barrowmans-set-behaviour.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2021/05/09/10/42756028-0-image-a-34_1620553702921.jpg",
+      "publishedAt": "2021-05-09T09:50:09Z",
+      "content": "Torchwood star Gareth David-Lloyd has spoken out about his co-star John Barrowman's behaviour after he admitted to exposing himself on set.\r\nOn Friday, Barrowman, 54, apologised for exposing himself … [+7767 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mirror Online"
+      },
+      "author": "Taz Ali, Ryan Merrifield",
+      "title": "Queen's cousin Prince Michael accused of using royal status to 'sell access' to Putin - Mirror Online",
+      "description": "An undercover investigation claims the Queen's cousin Prince Michael of Kent said he could be hired for £10,000 a day to make \"confidential\" representations to Russia President Vladimir Putin's regime",
+      "url": "https://www.mirror.co.uk/news/uk-news/queens-cousin-prince-michael-accused-24070076",
+      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article24070226.ece/ALTERNATES/s1200/0_The-Wedding-Of-Lady-Gabriella-Windsor-And-Mr-Thomas-Kingston.jpg",
+      "publishedAt": "2021-05-09T09:34:32Z",
+      "content": "An undercover investigation has claimed Prince Michael of Kent was willing to use his royal status for personal profit, and to seek favours from Russian president Vladimir Putin.\r\nThe Queen's cousin … [+5620 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Scores of Palestinians in East Jerusalem wounded on holy night - Al Jazeera English",
+      "description": "Israeli police crack down again on protesters outside the Old City where tens of thousands prayed at Al-Aqsa mosque.",
+      "url": "https://www.aljazeera.com/news/2021/5/9/scores-of-palestinians-in-east-jerusalem-wounded-on-holy-night",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/05/000_99K92H.jpg?resize=1200%2C630",
+      "publishedAt": "2021-05-09T09:19:06Z",
+      "content": "Another night of violence left at least 90 Palestinians wounded after Israeli police cracked down on protesters outside occupied East Jerusalems Old City, as concerns mounted on Sunday that the situa… [+6125 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Every dogecoin has its day as Musk hosts Saturday Night Live - Financial Times",
+      "description": "Tesla chief executive tells television audience: ‘I sometimes say or post strange things’",
+      "url": "https://www.ft.com/content/f44373d2-72de-4dbc-99fc-3d88f87365d4",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa8233cda-c56c-46a0-9845-7660a2a0c665.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2021-05-09T09:13:04Z",
+      "content": "Elon Musk’s star turn as guest host of Saturday Night Live was like no other in the nearly half-century history of the US television comedy show. Even before he tried to get a laugh, Musk’s appearanc… [+3733 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mirror Online"
+      },
+      "author": "Chiara Fiorillo",
+      "title": "Mass brawl inside Selfridges ends with one man stabbed and seven people arrested - Mirror.co.uk",
+      "description": "The incident happened inside Selfridges on Oxford Street at 7.35pm yesterday, the Metropolitan Police said. A clip shows a man holding a knife as the group argue and shout in the shop",
+      "url": "https://www.mirror.co.uk/news/uk-news/mass-brawl-inside-selfridges-ends-24069944",
+      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article24070009.ece/ALTERNATES/s1200/0_Mass-knife-brawl-INSIDE-Selfridges-flagship-Oxford-Street-store-sees-one-man-stabbed-7-arrested.jpg",
+      "publishedAt": "2021-05-09T09:05:22Z",
+      "content": "Seven people have been arrested after a man was stabbed in a mass brawl inside a designer store in London.\r\nThe incident happened at Selfridges on Oxford Street at 7.35pm yesterday, the Metropolitan … [+1987 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bad Left Hook"
+      },
+      "author": "Scott Christ",
+      "title": "What’s next fight for Canelo? Plant is the plan, but what if he passes? - Bad Left Hook",
+      "description": "Canelo has a clearly stated target, but what if Caleb Plant isn’t next?",
+      "url": "https://www.badlefthook.com/2021/5/9/22427036/canelo-alvarez-next-fight-after-saunders-caleb-plant-andrade-golovkin-dazn-boxing-news-2021",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/IRuNWEXgonfPgf3MagSYwovM-f0=/0x0:3000x1571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22501921/ENM13023.jpg",
+      "publishedAt": "2021-05-09T09:00:00Z",
+      "content": "Canelo Alvarez made his second fight in the first half of 2021 one to remember, as he stopped Billy Joe Saunders in front of over 70,000 fans (reportedly) at AT&amp;T Stadium in Texas, unifying the W… [+7347 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Mirror Online"
       },
       "author": "Dan Bloom",
@@ -43,224 +238,29 @@ news_gb = {
     },
     {
       "source": {
-        "id": "independent",
-        "name": "Independent"
-      },
-      "author": "Andrew Griffin",
-      "title": "Chinese rocket falls to Earth over Indian Ocean, trackers say - The Independent",
-      "description": "An out-of-control Chinese rocket has finally fallen to Earth over the Indian Ocean, according to organisations who had been tracking it.",
-      "url": "https://www.independent.co.uk/life-style/gadgets-and-tech/space/chinese-rocket-landed-indian-ocean-b1844391.html",
-      "urlToImage": "https://static.independent.co.uk/2021/05/06/08/rocket.jpg?width=1200&auto=webp&quality=75",
-      "publishedAt": "2021-05-09T07:37:05Z",
-      "content": "An out-of-control Chinese rocket has finally fallen to Earth over the Indian Ocean, according to organisations who had been tracking it.\r\nChinas Long March 5B rocket was originally launched in late A… [+3153 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "The Guardian"
+        "name": "Kent Online"
       },
-      "author": "Andrew Rawnsley",
-      "title": "Keir Starmer needs to act more urgently if he is to rescue Labour from its plight - The Guardian",
-      "description": "The party’s leader can’t afford to wait for a policy review before he starts articulating a compelling vision to the country",
-      "url": "https://amp.theguardian.com/commentisfree/2021/may/09/keir-srarmer-act-urgently-rescue-labour-from-plight",
-      "urlToImage": null,
-      "publishedAt": "2021-05-09T07:30:00Z",
-      "content": "OpinionThe partys leader cant afford to wait for a policy review before he starts articulating a compelling vision to the country\r\nAnother electoral test, another dismal postmortem for Labour. The le… [+8748 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Mail"
-      },
-      "author": "Kate Dennett",
-      "title": "Hairdresser who lost hair from stress reveals she used extensions to cover it up - Daily Mail",
-      "description": "Self-employed hairdresser Emily Williams, 33, from Bristol revealed she has suffered hair loss twice in her life, once in her early twenties after a break-up and again after giving birth to her son.",
-      "url": "https://www.dailymail.co.uk/femail/article-9470497/Hairdresser-lost-hair-stress-reveals-used-extensions-cover-up.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2021/05/07/17/42703880-0-image-a-77_1620404336887.jpg",
-      "publishedAt": "2021-05-09T06:36:10Z",
-      "content": "A hairdresser who suffered hair loss due to stress and post-pregnancy hormones has shared her tips for making your hair look instantly thicker. \r\nEmily Williams, 33, from Bristol, took pride in her l… [+12103 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Saul 'Canelo' Alvarez v Billy Joe Saunders: Mexican wins with eighth-round stoppage - BBC News",
-      "description": "Saul 'Canelo' Alvarez stops Billy Joe Saunders in the eighth round in Texas to unify the super-middleweight titles.",
-      "url": "https://www.bbc.com/sport/boxing/57037558",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/5F7B/production/_118434442_enm12901.jpg",
-      "publishedAt": "2021-05-09T06:06:04Z",
-      "content": "This right uppercut led to Saunders being unable to continue after returning to his stool\r\nSaul 'Canelo' Alvarez produced a devastating uppercut to leave a distraught Billy Joe Saunders unable to ris… [+5040 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Football.London"
-      },
-      "author": "Sam Inkersole",
-      "title": "What Thomas Tuchel shouted at Anthony Taylor, Chelsea's good luck charm and angry Raheem Sterling - Football.London",
-      "description": "Here are four talking points after Chelsea's dramatic 2-1 win in the Premier League against Manchester City",
-      "url": "https://www.football.london/chelsea-fc/fixtures-results/chelsea-man-city-gilmour-sterling-20557247",
-      "urlToImage": "https://i2-prod.football.london/chelsea-fc/article20557255.ece/ALTERNATES/s1200/0_GettyImages-1316988880.jpg",
-      "publishedAt": "2021-05-09T06:00:00Z",
-      "content": "Thomas Tuchel early hoodoo over Pep Guardiola\r\nChelsea take on Manchester City again in three weeks time in the Champions League final, maybe in Istanbul, but we dont know where just yet.\r\nIn the las… [+8990 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Express"
-      },
-      "author": "John Varga",
-      "title": "Covid fears: UK will not escape third wave says top Government adviser in stark warning - Express",
-      "description": "A LEADING government adviser on coronavirus has cautioned that the UK is likely to experience a third wave later in the year.",
-      "url": "https://www.express.co.uk/news/uk/1433630/covid-news-uk-coronavirus-third-wave-vaccine-rollout-anthony-harden-bbc-ont",
-      "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/1/750x445/1433630.jpg",
-      "publishedAt": "2021-05-09T05:41:21Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Guardian staff reporter",
-      "title": "Elon Musk says he is ‘first person with Asperger’s’ to host Saturday Night Live - The Guardian",
-      "description": "The billionaire made the comment during opening monologue in much-anticipated debut hosting the comedy show",
-      "url": "https://amp.theguardian.com/technology/2021/may/09/elon-musk-says-he-is-first-person-with-aspergers-to-host-saturday-night-live",
-      "urlToImage": null,
-      "publishedAt": "2021-05-09T05:39:00Z",
-      "content": "Elon MuskThe billionaire made the comment during opening monologue in much-anticipated debut hosting the comedy show\r\nElon Musk has told viewers of Saturday Night Live that he is the first person wit… [+3777 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Manchester Evening News"
-      },
-      "author": "Samuel Luckhurst",
-      "title": "Manchester United could recall three undroppables vs Aston Villa - Manchester Evening News",
-      "description": "Man United travel to Aston Villa today in the Premier League and here are four things to look out for at Villa Park.",
-      "url": "https://www.manchestereveningnews.co.uk/sport/football/aston-villa-vs-man-united-20548012",
-      "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article20548556.ece/ALTERNATES/s1200/1_GettyImages-1225972688.jpg",
-      "publishedAt": "2021-05-09T05:00:00Z",
-      "content": "Unbeaten runs\r\nUnited last lost at Villa Park in the Premier League in 1995, the day of the grey shirts and Alan Hansen's Match of the Day analysis. Ole Gunnar Solskjaer joined a year later and had t… [+2022 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sky.com"
-      },
-      "author": "Tom Parmenter",
-      "title": "'Glimmer of hope' for breweries after pub reopenings beat expectations - Sky News",
-      "description": "After an extremely rough year, some pubs say the easing of lockdown has kept them busier than they had expected.",
-      "url": "https://news.sky.com/story/glimmer-of-hope-for-breweries-after-pub-reopenings-beat-expectations-12301276",
-      "urlToImage": "https://e3.365dm.com/21/05/1600x900/skynews-timothy-taylor-brewery_5375168.jpg?20210509051624",
-      "publishedAt": "2021-05-09T04:21:49Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera",
-      "title": "About 90 Palestinians injured in Israeli crackdown: Live - Al Jazeera English",
-      "description": "The latest violence comes a day after Israeli police stormed Jerusalem’s Al-Aqsa Mosque and injured 205 Palestinians.",
-      "url": "https://www.aljazeera.com/news/2021/5/8/jerusalem-tensions-high-as-palestinians-head-to-al-aqsa-live",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/05/h_56880317.jpg?resize=1200%2C630",
-      "publishedAt": "2021-05-09T03:22:30Z",
-      "content": "Dozens of Palestinians have been injured in Israeli police crackdown on protesters outside the Old City of Jerusalem as tens of thousands of Muslim worshippers prayed at the nearby Al-Aqsa Mosque on … [+11423 chars]"
-    },
-    {
-      "source": {
-        "id": "independent",
-        "name": "Independent"
-      },
-      "author": "Clémence Michallon",
-      "title": "Meghan Markle makes first TV appearance since Oprah interview with Vax Live speech - The Independent",
-      "description": "‘The past year has been defined by communities coming together tirelessly and heroically to tackle Covid-19’",
-      "url": "https://www.independent.co.uk/arts-entertainment/tv/news/meghan-markle-vax-live-harry-b1844374.html",
-      "urlToImage": "https://static.independent.co.uk/2021/05/09/02/newFile-5.jpg?width=1200&auto=webp&quality=75",
-      "publishedAt": "2021-05-09T02:17:25Z",
-      "content": "Meghan Markle addressed the viewers of the Vax Live concert in a special video message on Saturday night.\r\nShe and her husband Prince Harry acted as campaign chairs of the event, which saw acts such … [+2687 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sky.com"
-      },
-      "author": "Sky",
-      "title": "Queen's speech: PM will promise to end brain drain in 'red wall' regions - report - Sky News",
-      "description": "The government wants people to prosper in their home communities rather than having to leave in search of better prospects.",
-      "url": "https://news.sky.com/story/queens-speech-pm-will-promise-to-end-brain-drain-in-red-wall-regions-report-12301265",
-      "urlToImage": "https://e3.365dm.com/21/05/1600x900/skynews-queen-speech-parliament_5375154.jpg?20210509012547",
-      "publishedAt": "2021-05-09T02:03:41Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "London elections: Sadiq Khan wins second term as mayor - BBC News",
-      "description": "The former MP will serve for another three years after beating Conservative rival Shaun Bailey.",
-      "url": "https://www.bbc.co.uk/news/uk-england-london-56997137",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1219F/production/_118434147_hi067218377.jpg",
-      "publishedAt": "2021-05-08T23:44:55Z",
-      "content": "media captionSadiq Khan: \"I promise to strain every sinew to help build a better, brighter future for London\"\r\nLabour's Sadiq Khan has won a second term as London's mayor, beating Conservative rival … [+4081 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Mail"
-      },
-      "author": "Dan Heching",
-      "title": "Gwyneth Paltrow admits she 'was drinking seven nights a week' during quarantine - Daily Mail",
-      "description": "The actress-turned-entrepreneur, 48, dubbed her drink of choice a 'Buster Paltrow,' which she named after her grandfather and contains 'great quinoa whiskey.'",
-      "url": "https://www.dailymail.co.uk/tvshowbiz/article-9558027/Gwyneth-Paltrow-admits-drinking-seven-nights-week-quarantine.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2021/05/09/00/42743604-0-image-a-10_1620514982502.jpg",
-      "publishedAt": "2021-05-08T23:18:43Z",
-      "content": "Everyone found different ways to cope during the brunt of the pandemic lockdown, and she was no different.\r\nGwyneth Paltrow has revealed she indulged in 'multiple drinks seven nights a week' during t… [+2162 chars]"
+      "author": "Robert Barman",
+      "title": "Man still in custody after murder arrest - Kent Online",
+      "description": "Police say a man in his 20s remains in custody this morning after being arrested on Friday over the murder of PCSO Julia James.",
+      "url": "https://www.kentonline.co.uk/canterbury/news/man-still-in-custody-after-murder-arrest-246907/",
+      "urlToImage": "https://www.kentonline.co.uk/_media/img/0N824ZLF47X8MYC8ERXV.jpg",
+      "publishedAt": "2021-05-09T07:33:00Z",
+      "content": "Officers investigating the death of PCSO Julia James say a man arrested in connection with her murder remains in custody this morning.\r\nThe man in his 20s, from the Canterbury area, was arrested at 9… [+2457 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Evening Standard"
       },
-      "author": "Jack Rosser",
-      "title": "West Ham XI vs Everton: Predicted lineup, confirmed team news, latest injury updates for Premier League - Evening Standard",
-      "description": "David Moyes must decide whether West Ham can afford to go all out against Everton as they look to put on the pressure in the Premier League top four race.",
-      "url": "https://www.standard.co.uk/sport/football/west-ham-xi-predicted-lineup-confirmed-team-news-injury-latest-premier-league-everton-fc-today-b933854.html",
-      "urlToImage": "https://static.standard.co.uk/2020/12/09/08/WestHamPredictedXINEWv4.jpg?width=1200&width=1200&auto=webp&quality=75",
-      "publishedAt": "2021-05-08T22:14:23Z",
-      "content": "David Moyes must decide whether West Ham can afford to go all out against Everton as they look to put on the pressure in the Premier League top four race.\r\nThe former Toffees boss sent his side out v… [+1791 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mirror Online"
-      },
-      "author": "Will Twigger",
-      "title": "ITV urged to axe DOI's John Barrowman by MP as he's accused of exposing himself on set - Mirror.co.uk",
-      "description": "Tory MP Alec Shelbrooke has said that John Barrowman should step down from his judging role on Dancing On Ice after the actor was accused of exposing himself on the set of Doctor Who",
-      "url": "https://www.mirror.co.uk/tv/tv-news/itv-urged-axe-dois-john-24069319",
-      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article23754703.ece/ALTERNATES/s1200/2_John-Barrowman.jpg",
-      "publishedAt": "2021-05-08T21:34:42Z",
-      "content": "An MP has called for John Barrowman to step down from his role as a judge on Dancing On Ice after accusations that he had exposed himself on set.\r\nTory Alec Shelbrooke said that \"inappropriate behavi… [+2384 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Mail"
-      },
-      "author": "Anna Mikhailova, Harriet Dennys, Holly Bancroft",
-      "title": "Ministers are accused of treating British families like 'fools and children' over holidays - Daily Mail",
-      "description": "Matt Hancock was last night accused of sabotaging the nation's half-term holiday plans as the backlash over the Government's overseas travel blueprint intensified.",
-      "url": "https://www.dailymail.co.uk/news/article-9557867/Ministers-accused-treating-British-families-like-fools-children-holidays.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2021/05/08/21/42740858-0-image-a-36_1620507337379.jpg",
-      "publishedAt": "2021-05-08T21:15:59Z",
-      "content": "Matt Hancock was last night accused of sabotaging the nation's half-term holiday plans as the backlash over the Government's overseas travel blueprint intensified.\r\nFingers were pointed at the Health… [+7745 chars]"
+      "author": "Alex Young",
+      "title": "Manchester United XI vs Aston Villa: Predicted lineup, confirmed team news, injury latest for Premier League - Evening Standard",
+      "description": "Manchester United are expected to be without Dan James for today’s Premier League trip to Aston Villa, while there is positive news on Anthony Martial's progress.",
+      "url": "https://www.standard.co.uk/sport/football/man-utd-xi-predicted-lineup-confirmed-team-news-injury-latest-premier-league-aston-villa-today-b933756.html",
+      "urlToImage": "https://static.standard.co.uk/2020/12/15/10/ManUtdPredictedXINEWv9.jpg?width=1200&width=1200&auto=webp&quality=75",
+      "publishedAt": "2021-05-09T07:16:35Z",
+      "content": "James missed the trip to Italy as United lost to Roma but won on aggregate to confirm their place in the Europa League Final against Villarreal. Solskjaer said ahead of the second leg tie: \"Dan James… [+1687 chars]"
     }
   ]
 }
