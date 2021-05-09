@@ -1,20 +1,7 @@
 news_ru = {
   "status": "ok",
-  "totalResults": 31,
+  "totalResults": 30,
   "articles": [
-    {
-      "source": {
-        "id": "lenta",
-        "name": "Lenta"
-      },
-      "author": null,
-      "title": "Омский министр здравоохранения пропал без вести - Lenta.ru",
-      "description": "Министр здравоохранения Омской области Александр Мураховский пропал без вести после того, как уехал на охоту. 49-летний Мураховский заехал в лес на квадроцикле 7 мая и не вернулся. Его знакомые пытались самостоятельно найти мужчину, однако спустя почти сутки …",
-      "url": "https://lenta.ru/news/2021/05/09/ohota/",
-      "urlToImage": "https://icdn.lenta.ru/images/2021/05/09/15/20210509150558950/share_6757d345080f581e764edce3cce555e1.jpg",
-      "publishedAt": "2021-05-09T12:16:47Z",
-      "content": ", . « » .\r\n , 49- 7 . , .\r\n «», , , . .\r\n 2020 . 1, 2020 ( , , )."
-    },
     {
       "source": {
         "id": "rbc",
@@ -30,29 +17,16 @@ news_ru = {
     },
     {
       "source": {
-        "id": null,
-        "name": "Ria.ru"
+        "id": "rbc",
+        "name": "RBC"
       },
-      "author": "",
-      "title": "Bild: переговоры о поставках вакцины 'Спутник V' в Германию зашли в тупик - РИА НОВОСТИ",
-      "description": "Переговоры о поставках в Германию российской вакцины \"Спутник V\" зашли в тупик из-за задержек в производстве и договора с Индией, пишет таблоид Bild со ссылкой... РИА Новости, 09.05.2021",
-      "url": "https://ria.ru/20210509/germaniya-1731578220.html",
-      "urlToImage": "https://cdn25.img.ria.ru/images/sharing/article/1731578220.jpg?15997644831620564722",
-      "publishedAt": "2021-05-09T12:00:00Z",
-      "content": "https://ria.ru/20210509/germaniya-1731578220.html\r\n \" V\" - , Bild ... , 09.05.2021\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdn25.img.ria… [+807 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "\"Сборища недобитых карателей\". Путин на параде Победы выступил против \"попыток переписать историю\" - Би-би-си Русская служба",
-      "description": "Президент России Владимир Путин выступил на параде Победы на Красной площади в Москве и вновь заявил о попытках неких сил переписать историю. Не уточняя, о ком именно идет речь, он выступил против тех, кто \"пытается поставить на вооружение\" многое из идеологи…",
-      "url": "https://www.bbc.com/russian/news-57046419",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_russian/02F1/production/_118435700_gettyimages-1204324507.jpg",
-      "publishedAt": "2021-05-09T11:39:13Z",
-      "content": ", Getty Images\r\n. , , , \" \" .\r\n\" , , , , \", - .\r\n . , . \r\n\" , , , , , , . \", - .\r\n- , , , \"\". \r\n, 28 , , . , , , , , .\r\n\" , , . , . , , , \", - .\r\n , - ( ), --, \" \". , , . , , . \r\n , - . , .\r\n\" , , , … [+91 chars]"
+      "author": null,
+      "title": "Bild назвал «мертвой» сделку по поставкам «Спутник V» в Германию - РБК",
+      "description": "Россия не сможет поставить вакцину летом, а после она уже не будет нужна, рассказали собеседники издания. Сказываются и требования европейского регулятора, необходимые для применения вакцины, пишет газета",
+      "url": "https://www.rbc.ru/politics/09/05/2021/6097c9d99a7947887ca5444d",
+      "urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/9/89/756205608487899.jpg",
+      "publishedAt": "2021-05-09T11:47:00Z",
+      "content": ".\r\n7 - , 2,5 « V», . « V» «-». , . « , . », — .\r\n , « V» . « (), , . , », — .\r\n (STIKO) , . « ». , .\r\n 22 - , , .\r\n« - , . &lt;...&gt; , », — - ."
     },
     {
       "source": {
@@ -83,6 +57,32 @@ news_ru = {
     {
       "source": {
         "id": null,
+        "name": "Ria.ru"
+      },
+      "author": "",
+      "title": "Песков объяснил слова Путина на параде про 'недобитых карателей' - РИА НОВОСТИ",
+      "description": "Пресс-секретарь президента Дмитрий Песков в эфире радиостанции \"Говорит Москва\" пояснил слова главы государства о \"недобитых карателях\" и рассказал, как в... РИА Новости, 09.05.2021",
+      "url": "https://ria.ru/20210509/putin-1731568607.html",
+      "urlToImage": "https://cdn21.img.ria.ru/images/sharing/article/1731568607.jpg?17315592381620560458",
+      "publishedAt": "2021-05-09T10:41:15Z",
+      "content": "https://ria.ru/20210509/putin-1731568607.html\r\n- \" \" \" \" , ... , 09.05.2021\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdn25.img.ria.ru/ima… [+737 chars]"
+    },
+    {
+      "source": {
+        "id": "rbc",
+        "name": "RBC"
+      },
+      "author": null,
+      "title": "Мурашко сообщил о большом интересе к вакцине «Спутник Лайт» - РБК",
+      "description": "К российской вакцине против коронавируса Спутник Лайт уже есть большой интерес. Об этом, как передает РИА Новости , заявил министр здравоохранения Михаил Мурашко. Ее только зарегистрировали. Да, ...",
+      "url": "https://www.rbc.ru/rbcfreenews/6097b2a79a794780cec7fad2",
+      "urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/8/86/756205557908868.jpg",
+      "publishedAt": "2021-05-09T10:23:00Z",
+      "content": ", « » ».\r\n« » — .  — « V» . , «» «» «» ."
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Svoboda.org"
       },
       "author": "RFE/RL",
@@ -108,16 +108,42 @@ news_ru = {
     },
     {
       "source": {
-        "id": "lenta",
-        "name": "Lenta"
+        "id": null,
+        "name": "Gazeta.ru"
       },
       "author": null,
-      "title": "Латвийская полиция в День Победы перекрыла доступ к памятнику советским воинам - Lenta.ru",
-      "description": "9 мая полиция Латвии перекрыла доступ к монументу советским воинам-освободителям Риги от немецких захватчиков. Отмечается, что решение столичной мэрии об ограничении доступа к памятнику было принято из соображений избежать большого скопления людей в условиях …",
-      "url": "https://lenta.ru/news/2021/05/09/riga/",
-      "urlToImage": "https://icdn.lenta.ru/images/2021/05/09/13/20210509130141272/share_0ff2888e5cb92f01dbae2b7b7a2ace5f.jpg",
-      "publishedAt": "2021-05-09T10:03:00Z",
-      "content": "9 - . .\r\n, .\r\n« , , . , , », «» .\r\n , , .\r\n 9 -. , .\r\n8 , , . , , ."
+      "title": "В Риге перекрыли доступ к памятнику Освободителям - Газета.Ru",
+      "description": "В Риге полиция перекрыла доступ к памятнику Освободителям в День Победы, передает РИА «Новости» .",
+      "url": "https://www.gazeta.ru/social/news/2021/05/09/n_15956726.shtml",
+      "urlToImage": "https://img.gazeta.ru/files3/76/13471076/upload-Depositphotos_83169578_l-2015-pic905-895x505-36407.jpg",
+      "publishedAt": "2021-05-09T09:57:55Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Iz.ru"
+      },
+      "author": "Екатерина Новикова",
+      "title": "Радикалы в Одессе напали на женщину с георгиевской лентой - Известия",
+      "description": "Радикалы в Одессе устроили драку на аллее Неизвестного Матроса, они попытались вырвать из рук проходящей мимо женщины портрет маршала Георгия Жукова с георгиевской лентой. Об этом сообщили в воскресенье, 9 мая, в Telegram-канале «Политика страны».",
+      "url": "https://iz.ru/1161666/2021-05-09/radikaly-v-odesse-napali-na-zhenshchinu-s-georgievskoi-lentoi",
+      "urlToImage": "http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2021-05/RIAN_6529117.HR_.ru_.jpg?itok=tdq9XoWp",
+      "publishedAt": "2021-05-09T09:42:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sports.ru"
+      },
+      "author": null,
+      "title": "Мазепин добавил Георгиевскую ленту на шлем в честь Дня Победы - Sports.ru",
+      "description": "Гонщик «Хааса» Никита Мазепин выступает на Гран-при Испании в специальном шлеме в честь Дня Победы.",
+      "url": "https://www.sports.ru/automoto/1096906635-mazepin-dobavil-georgievskuyu-lentu-na-shlem-v-chest-dnya-pobedy.html",
+      "urlToImage": "https://www.sports.ru/dynamic_images/news/109/690/663/5/share/7bd408.jpg",
+      "publishedAt": "2021-05-09T09:35:00Z",
+      "content": null
     },
     {
       "source": {
@@ -148,15 +174,15 @@ news_ru = {
     {
       "source": {
         "id": null,
-        "name": "Interfax.ru"
+        "name": "Business-gazeta.ru"
       },
       "author": null,
-      "title": "В России за сутки выявлено более 8,4 тыс. случаев коронавируса - Интерфакс",
-      "description": "Еще 8419 случаев заражения коронавирусной инфекцией нового типа выявлено в России за сутки, сообщает оперштаб.",
-      "url": "https://www.interfax.ru/russia/765163",
-      "urlToImage": "https://www.interfax.ru/aspimg/765163.jpg",
-      "publishedAt": "2021-05-09T08:00:00Z",
-      "content": ". 9 . INTERFAX.RU - 8419 , .\r\n 334 , COVID-19 113 326 .\r\n 4,49 , 7517 .\r\n 82 . 2828. - 729 , - 636.\r\n 4,88 ,. , ( ) 270 804."
+      "title": "Путин помог ветерану надеть куртку: видео - БИЗНЕС Online",
+      "description": "",
+      "url": "https://m.business-gazeta.ru/news/508613",
+      "urlToImage": "",
+      "publishedAt": "2021-05-09T08:05:00Z",
+      "content": ",   .  .\r\n     — ,   .  . , ,  , , , .\r\n,     .     ,       .\r\nTelegram,"
     },
     {
       "source": {
@@ -173,19 +199,6 @@ news_ru = {
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Путин предупредил недругов России - Lenta.ru",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiJWh0dHBzOi8vbGVudGEucnUvbmV3cy8yMDIxLzA1LzA5L3B0bi_SAStodHRwczovL20ubGVudGEucnUvbmV3cy8yMDIxLzA1LzA5L3B0bi9hbXAv?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2021-05-09T07:41:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
         "name": "Wylsa.com"
       },
@@ -199,15 +212,28 @@ news_ru = {
     },
     {
       "source": {
+        "id": "lenta",
+        "name": "Lenta"
+      },
+      "author": null,
+      "title": "Путин поздравил ветеранов с Днем Победы и обратился к россиянам - Lenta.ru",
+      "description": "Президент России Владимир Путин поздравил ветеранов Великой Отечественной войны и жителей страны с Днем Победы. «Уважаемые граждане России, дорогие ветераны, товарищи солдаты и матросы, сержанты и старшины, мичманы и прапорщики, товарищи офицеры, генералы и а…",
+      "url": "https://lenta.ru/news/2021/05/09/obraz_pu/",
+      "urlToImage": "https://icdn.lenta.ru/images/2021/05/09/10/20210509101731966/share_5936ec9da52ce7cd4206f7b3eb5c03b4.jpg",
+      "publishedAt": "2021-05-09T07:19:00Z",
+      "content": ". .\r\n« , , , , , , , », , , .\r\n« , », .\r\n 10:00. 12 . 190 ( -34) ."
+    },
+    {
+      "source": {
         "id": "rt",
         "name": "RT"
       },
       "author": "RT на Русском",
-      "title": "Красная площадь в преддверии парада Победы - RT на русском",
-      "description": "В России в воскресенье, 9 мая, отмечают 76-ю годовщину победы в Великой Отечественной войне. Военная техника прибыла на парад, а корреспонденты RT пообщались с гостями торжества на Красной площади. RT вёл прямую трансляцию.",
-      "url": "https://russian.rt.com/russia/article/860110-krasnaya-ploschad-den-pobedy",
-      "urlToImage": "https://cdni.rt.com/russian/images/2021.05/article/60977e3c02e8bd4e061b208c.PNG",
-      "publishedAt": "2021-05-09T06:07:23Z",
+      "title": "ВМС США заявили о конфискации оружия из России и КНР в Аравийском море - RT на русском",
+      "description": "Американский ракетный крейсер Monterey в ходе стандартной проверки изъял в международных водах Аравийского моря партию оружия российского и китайского производства с судна без опознавательных знаков, сообщает 5-й флот Центрального командования ВМС США.",
+      "url": "https://russian.rt.com/world/news/860226-ssha-oruzhie-rossiya-araviiskoe-more",
+      "urlToImage": "https://cdni.rt.com/russian/images/2021.05/article/609779a702e8bd4dcb486e9b.JPG",
+      "publishedAt": "2021-05-09T05:59:53Z",
       "content": null
     },
     {
@@ -235,32 +261,6 @@ news_ru = {
       "urlToImage": "https://3dnews.ru/assets/external/illustrations/2021/05/09/1039164/cybertruck_01.jpg",
       "publishedAt": "2021-05-09T05:00:00Z",
       "content": "Cybertruck Tesla , , . (Elon Musk) - .\r\n : Electrek\r\nTesla -, Electrek, Cybertruck . , . 2019 , -. 2020 , . , .\r\n - Tesla , , - . , . 2019 , - , ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportbox.ru"
-      },
-      "author": null,
-      "title": "Керлинг Российские керлингистки обыграли Швецию и вышли в финал чемпионата мира 07:51 - news.Sportbox.ru",
-      "description": "Женская сборная России обыграла команду Швеции в полуфинале чемпионата мира по керлингу в Калгари.",
-      "url": "https://news.sportbox.ru/Vidy_sporta/kerling/spbnews_NI1350274_Rossijskije_kerlingistki_obygrali_Shveciju_i_vyshli_v_final_chempionata_mira",
-      "urlToImage": "https://s-cdn.sportbox.ru/images/shares/1200x600/node/19/1350274.jpg",
-      "publishedAt": "2021-05-09T04:51:35Z",
-      "content": "© « » 2007 2021.16 \r\n «www.sportbox.ru»     ,   ().\r\n № 77-72613  04.04.2018\r\n — www.sportbox.ru\r\n () «www.sportbox.ru»: « »\r\n «www.sportbox.ru»: ..\r\n «www.sportbox.ru»: +7 (495) 653 8419\r\n «www.spor… [+27 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Interfax.ru"
-      },
-      "author": null,
-      "title": "Крейсер ВМС США задержал в Аравийском море судно с оружием - Интерфакс",
-      "description": "Ракетный крейсер ВМС США Monterey захватил партию оружия, которое судно без опознавательных знаков незаконно перевозило в Аравийском море.",
-      "url": "https://www.interfax.ru/world/765144",
-      "urlToImage": "https://www.interfax.ru/aspimg/765144.png",
-      "publishedAt": "2021-05-09T00:25:00Z",
-      "content": ". 9 . INTERFAX.RU - Monterey , . - .\r\n , , , .\r\n , ."
     }
   ]
 }

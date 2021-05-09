@@ -23,19 +23,19 @@ sideButton = (type) => {
   sideMenu(true)
   if (type === 'weather') {
     document.querySelector('body').style.overflow = 'hidden'
-    document.getElementById('popup').style.display = ''
+    document.getElementById('popupplaceholder').style.display = ''
     document.getElementById('newsframe').src = 'https://andrewfromtver.github.io/funny-weather/'
     document.getElementById('title').innerText = 'News AG - Weather'
   }
   else if (type === 'movies') {
     document.querySelector('body').style.overflow = 'hidden'
-    document.getElementById('popup').style.display = ''
+    document.getElementById('popupplaceholder').style.display = ''
     document.getElementById('newsframe').src = 'https://andrewfromtver.github.io/trailerpark-rebranding/'
     document.getElementById('title').innerText = 'News AG - TV\'s & Movies serch'
   }
   else if (type === 'about') {
     document.querySelector('body').style.overflow = 'hidden'
-    document.getElementById('popup').style.display = ''
+    document.getElementById('popupplaceholder').style.display = ''
     document.getElementById('newsframe').src = 'https://andrewfromtver.github.io/landing/'
     document.getElementById('title').innerText = 'News AG - About creator'
   }
@@ -44,7 +44,7 @@ sideButton = (type) => {
 loadNews = (lang) => {
   document.querySelector('body').style.overflow = 'auto'
   document.getElementById('news').innerHTML = ``
-  document.getElementById('popup').style.display = 'none'
+  document.getElementById('popupplaceholder').style.display = 'none'
   document.getElementById('menu').style.display = 'none'
   if (lang === 'ru') {
     news_ru.articles.forEach(e => {
@@ -113,15 +113,16 @@ loadNews = (lang) => {
 }
 // Open provided news page in frame
 goTo = (url, title) => {
+  sideMenu(true)
   document.querySelector('body').style.overflow = 'hidden'
-  document.getElementById('popup').style.display = ''
+  document.getElementById('popupplaceholder').style.display = ''
   document.getElementById('newsframe').src = url
   document.getElementById('title').innerText = title
 }
 // Close popup
 closePopup = () => {
   document.querySelector('body').style.overflow = 'auto'
-  document.getElementById('popup').style.display = 'none'
+  document.getElementById('popupplaceholder').style.display = 'none'
   document.getElementById('newsframe').src = './templates/loader.html'
 }
 // Refresh page

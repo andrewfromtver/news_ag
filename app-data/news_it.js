@@ -5,41 +5,41 @@ news_it = {
     {
       "source": {
         "id": null,
+        "name": "Virgilio.it"
+      },
+      "author": "Virgilio Sport",
+      "title": "Genoa - Sassuolo 0-2 LIVE - Serie A. La diretta della partita - Virgilio Sport",
+      "description": "Da Genoa - Sassuolo é tutto, alla prossima sfida di Serie A ; Per la prima volta in Serie A, Domenico Berardi ha preso parte attiva ad almeno un gol in sei gare di fila (sette reti, un assist).; Il Genoa prova a riaprire la gara grazie al gran gol di Zappacos…",
+      "url": "https://sport.virgilio.it/dirette/live/serie-a/9-5-2021/genoa-sassuolo/2137710/",
+      "urlToImage": "/img/dirette/genoa-sassuolo.jpg",
+      "publishedAt": "2021-05-09T12:08:51Z",
+      "content": "<li>Da Genoa - Sassuolo é tutto, alla prossima sfida di Serie A!14:30\r\n</li><li>Per la prima volta in Serie A, Domenico Berardi ha preso parte attiva ad almeno un gol in sei gare di fila (sette reti,… [+11050 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Mediaset.it"
       },
       "author": null,
-      "title": "Elon Musk: \"Ho la sindrome di Asperger, dico e posto cose strane: il mio cervello funziona così\" - TGCOM",
-      "description": "L'eccentrico imprenditore tecnologico co-fondatore di Tesla e SpaceX conduttore del \"Saturday Night Live\"",
-      "url": "https://www.tgcom24.mediaset.it/televisione/elon-musk-ho-la-sindrome-di-asperger-dico-e-posto-cose-strane-il-mio-cervello-funziona-cosi_32029427-202102k.shtml",
-      "urlToImage": "https://img-prod.tgcom24.mediaset.it/images/2021/05/09/113152449-8f4ecfa4-c519-4e3e-b582-aa06236c4c4e.jpg",
-      "publishedAt": "2021-05-09T11:46:28Z",
+      "title": "Coronavirus, l'Ue non rinnova il contratto con AstraZeneca | In Spagna via il coprifuoco quasi ovunque, in Italia potrebbe slittare alle 23 da metà maggio - TGCOM",
+      "description": "Nel governo si discute sulle nuove misure che potrebbero portare alla riapertura anticipata di molte attività",
+      "url": "https://www.tgcom24.mediaset.it/mondo/spagna-finita-l-emergenza-covid-via-il-coprifuoco-quasi-ovunque_32022494-202102k.shtml",
+      "urlToImage": "https://img-prod.tgcom24.mediaset.it/images/2021/05/09/094842819-2e04450f-6124-4c45-9975-92828ad0c2e7.jpg",
+      "publishedAt": "2021-05-09T11:01:02Z",
       "content": "Regole per i commenti\r\nI commenti in questa pagina vengono controllatiTi invitiamo ad utilizzare un linguaggio rispettoso e non offensivo, anche per le critiche più aspre\r\nIn particolare, durante l'a… [+395 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Fanpage.it"
+        "name": "Gazzetta.it"
       },
-      "author": null,
-      "title": "Coronavirus, le notizie di oggi sul Covid, da domani quasi tutta Italia sarà gialla, verso stop a quarantena per chi arriva dall’UE - Fanpage.it",
-      "description": "Le ultime notizie in tempo reale sul Covid-19 in Italia e nel mondo, gli aggiornamenti e i dati di oggi, domenica 9 maggio 2021",
-      "url": "https://www.fanpage.it/live/coronavirus-ultime-notizie-9-maggio-2021/",
-      "urlToImage": "https://static.fanpage.it/wp-content/uploads/2021/04/italia-riparte-covid-articolo.jpg",
-      "publishedAt": "2021-05-09T10:20:10Z",
-      "content": "Ieri in Italia sono stati diagnosticati 10.176 nuovi contagi da Coronavirus, in diminuzione rispetto a venerdì. I test effettuati, tra tamponi antigenici e molecolari, sono stati 338.436. Dallinizio … [+1025 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilpost.it"
-      },
-      "author": null,
-      "title": "In Scozia hanno vinto gli indipendentisti - Il Post",
-      "description": "Il partito della prima ministra Nicola Sturgeon ha ottenuto quasi la metà dei seggi al Parlamento locale, e ​confermato che chiederà un secondo referendum al governo centrale",
-      "url": "https://www.ilpost.it/2021/05/09/alle-elezioni-in-scozia-hanno-vinto-gli-indipendentisti/",
-      "urlToImage": "https://cdn.ilpost.it/wp-content/uploads/2021/05/BANZAILIQSOLD1_20210509113038367_6fec2e680591de9525118177a9136fb8.jpg?x72029",
-      "publishedAt": "2021-05-09T10:15:19Z",
-      "content": "Nella notte fra sabato e domenica si è concluso lo scrutinio delle elezioni locali nel Regno Unito. Il voto più seguito, sia dentro sia fuori dal Regno Unito, era quello per rinnovare il Parlamento r… [+3447 chars]"
+      "author": "Giusto Ferronato",
+      "title": "F1 Spagna LIVE, partenza alle 15. Sfida Hamilton-Verstappen, Leclerc scatta quarto - La Gazzetta dello Sport",
+      "description": "L’inglese vince in rimonta a Montmelo’ sorpassando l’olandese a 6 giri dalla fine. Il Cavallino ai piedi del podio col monegasco, settimo Sainz",
+      "url": "https://www.gazzetta.it/Formula-1/09-05-2021/f1-gp-spagna-diretta-gara-live-410847279270.shtml",
+      "urlToImage": "https://images2.gazzettaobjects.it/methode_image/2021/05/08/Motori/Foto_Motori_-_Trattate/4bd745f6fdaca631d7c465a6adf59bd5_1200x675.jpg?v=202105091650",
+      "publishedAt": "2021-05-09T10:53:00Z",
+      "content": "Il layout del tracciato di Montmeló – con curve da alta, media e bassa velocità, cambi di direzione, ondulazioni e il lungo rettilineo d’arrivo – è un impegnativo banco di prova per le qualità delle … [+968 chars]"
     },
     {
       "source": {
@@ -57,19 +57,6 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Lastampa.it"
-      },
-      "author": ".",
-      "title": "Astrazeneca, l’Unione Europea non rinnova l’ordine di vaccini dopo giugno: colpa delle consegne in ritardo - La Stampa",
-      "description": "In Italia sono ancora oltre un milione e mezzo le dosi non ancora somministrate del vaccino anglo-svedese.",
-      "url": "https://www.lastampa.it/cronaca/2021/05/09/news/astrazeneca-l-unione-europea-non-rinnova-l-ordine-di-vaccini-dopo-giugno-colpa-delle-consegne-in-ritardo-1.40251657",
-      "urlToImage": "https://www.lastampa.it/image/contentid/policy:1.40251656:1620557628/agf_20210506_184254_007860.JPG?f=detail_558&h=720&w=1280&$p$f$h$w=8e9f8fc",
-      "publishedAt": "2021-05-09T10:05:00Z",
-      "content": "Il commissario europeo per il mercato interno Thierry Breton ha detto che la Commissione europea non ha rinnovato il suo ordine per i vaccini AstraZenecontro COVID-19 per i mesi da giugno in poi, non… [+877 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Ilfattoquotidiano.it"
       },
       "author": "Andrea Conti",
@@ -79,32 +66,6 @@ news_it = {
       "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/09/maria.png",
       "publishedAt": "2021-05-09T09:57:57Z",
       "content": "I finalisti della ventesima edizione di Amici di Maria De Filippi sono i cantanti Aka7even, Sangiovanni, Deddy e i ballerini Giulia Stabile e Alessandro Cavallo che ha già ottenuto unofferta di lavor… [+2298 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Formulapassion.it"
-      },
-      "author": null,
-      "title": "GP Spagna 2021: passo gara, strategie gomme, meteo e TV - FormulaPassion.it",
-      "description": "Le variabili strategiche della gara del Montmeló",
-      "url": "http://www.formulapassion.it/motorsport/formula-1/gp-spagna-2021-passo-gara-strategie-gomme-meteo-e-tv-barcellona-montmelo-pirelli-simulazioni-long-run-prove-libere-griglia-partenza-soft-medium-hard-563995.html",
-      "urlToImage": "https://www.formulapassion.it/wp-content/uploads/2021/05/XPB_1084312_HiRes.jpg",
-      "publishedAt": "2021-05-09T09:30:43Z",
-      "content": "Torna la nostra anteprima pre-gara con il Gran Premio di Spagna, quarto appuntamento della stagione 2021 che si disputerà questo pomeriggio al Montmeló. Analizzeremo tutte le possibili strategie graz… [+3355 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fantacalcio.it"
-      },
-      "author": null,
-      "title": "Genoa-Sassuolo, le formazioni ufficiali - Fantacalcio ®",
-      "description": "Ecco le scelte di Ballardini e De Zerbi",
-      "url": "https://www.fantacalcio.it/news/calcio-italia/09_05_2021/genoa-sassuolo-formazioni-ufficiali-405753",
-      "urlToImage": "https://content.fantacalcio.it/web/img/large/perin-dc82f95c-f9c2-4b7e-891b-dd3bc6cd178a.jpg",
-      "publishedAt": "2021-05-09T09:27:00Z",
-      "content": "Genoa (3-5-2): Perin; Goldaniga, Zapata, Masiello; Ghiglione, Behrami, Badelj, Zajc, Zappacosta; Pandev, Destro\r\nSassuolo (4-2-3-1): Consigli; Toljan, Chiriches, Ferrari, Rogerio; Lopez, Locatelli; B… [+35 chars]"
     },
     {
       "source": {
@@ -122,19 +83,6 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Liberoquotidiano.it"
-      },
-      "author": "@libero_official",
-      "title": "I Soliti Ignoti, sangue in studio: \"Vatti a disinfettare subito\". Francesco Paolantoni tira fuori la sciabola ma finisce malissimo - Liberoquotidiano.it",
-      "description": "Incidente a  I soliti ignoti . Ospite del programma di Rai 1 condotto da  Amadeus  anche  Francesco Paolantoni . L’attore napoletano, ...",
-      "url": "https://www.liberoquotidiano.it/news/spettacoli/televisione/27164486/i-soliti-ignoti-sangue-studio-francesco-paolantoni-vatti-disinfettare-subito-tira-fuori-sciabola-finisce-malissimo.html",
-      "urlToImage": "https://img2.liberoquotidiano.it/images/2021/05/09/092151952-182304fa-b724-4911-bd08-5f8b91db4630.jpg",
-      "publishedAt": "2021-05-09T09:14:00Z",
-      "content": "Incidente a I soliti ignoti. Ospite del programma di Rai 1 condotto da Amadeus anche Francesco Paolantoni. L’attore napoletano, nella puntata di sabato 8 maggio 2021, aveva come identità “Stappa le b… [+1393 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "3bmeteo.com"
       },
       "author": "Lorenzo Badellino",
@@ -148,15 +96,15 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Rainews.it"
+        "name": "Multiplayer.it"
       },
-      "author": null,
-      "title": "Spagna, finita l'emergenza, via il coprifuoco quasi ovunque - Rai News",
-      "description": "La Spagna ha revocato lo stato di emergenza in vigore da ottobre per combattere la pandemia di Covid-19, consentendo agli spagnoli di viaggiare tra le regioni per la prima volta da mesi.\n\n\n\nLa misura, la cui revoca era stata annunciata nei giorni scorsi, è sc…",
-      "url": "https://www.rainews.it/dl/rainews/articoli/Spagna-finita-emergenza-via-il-coprifuoco-quasi-ovunque-a2c81e9f-9398-4db9-9d7f-a414eafe4822.html",
-      "urlToImage": "https://www.rai.it/cropgd/476x249/dl/img/2021/03/1617094639051.AP21083493015697.jpg",
-      "publishedAt": "2021-05-09T09:07:00Z",
-      "content": "09 maggio 2021La Spagna ha revocato lo stato di emergenza in vigore da ottobre per combattere la pandemia di Covid-19, consentendo agli spagnoli di viaggiare tra le regioni per la prima volta da mesi… [+736 chars]"
+      "author": "https://www.facebook.com/ilmegliodimultiplayer",
+      "title": "Resident Evil Village, la recensione per PC - Multiplayer.it",
+      "description": "Ethan Winters si ritrova coinvolto in un nuovo incubo, stavolta sullo sfondo di un misterioso villaggio esteuropeo: la recensione di Resident Evil Village per PC. L'inquietante favola che Mia raccont…",
+      "url": "https://multiplayer.it/recensioni/resident-evil-village-recensione-pc.html",
+      "urlToImage": "https://multiplayer.net-cdn.it/thumbs/images/2021/05/07/resident-evil-village-pc_jpg_750x400_crop_upscale_q85.jpg",
+      "publishedAt": "2021-05-09T09:00:04Z",
+      "content": "L'inquietante favola che Mia racconta a sua figlia Rose durante l'affascinante introduzione del gioco, narrata in maniera eccellente dalla voce di Katia Sorrentino, si pone come un incipit perfetto a… [+12737 chars]"
     },
     {
       "source": {
@@ -174,28 +122,54 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Livetennis.it"
+        "name": "Calciomercato.com"
       },
-      "author": null,
-      "title": "Masters 1000 Madrid: LIVE le Finali. LIVE Matteo Berrettini vs Alexander Zverev (Live e Sondaggio) - LiveTennis.it",
-      "description": "Masters 1000 Madrid – Finali Manolo Santana Stadium – Ora italiana: 15:30 (ora locale: 3:30 pm) 1. [3] Marcel Granollers / Horacio Zeballos vs [2] N",
-      "url": "http://www.livetennis.it/post/347101/masters-1000-madrid-live-le-finali-live-matteo-berrettini-vs-alexander-zverev-live-e-sondaggio/",
-      "urlToImage": "http://static.livetennis.it/photo/Berrettini_madrid21.jpg",
-      "publishedAt": "2021-05-09T08:03:00Z",
-      "content": "IL BERRETTO VS ER CANOTTAComunque vada, standing ovation per il nostro ragazzo ed il suo splendido torneo in terra spagnola: Grazie Matteo! E per la grande occasione, non posso esimermi dallo stilare… [+1750 chars]"
+      "author": "Calciomercato.com",
+      "title": "A Pirlo mancano idee, gioco e convinzione, Pioli ha uomini veri: ecco perché il Milan è favorito sulla Juve - Calciomercato.com",
+      "description": "Molti mi chiedono perch&eacute; io sia cos&igrave; categorico nel pronostico di Juventus-Milan di questa sera. E&rsquo; successo, infatti, che qualcuno mi abbia sentito a Sky o alla radio affermare che",
+      "url": "https://www.calciomercato.com/news/a-pirlo-mancano-idee-gioco-e-convinzione-pioli-ha-uomini-veri-ec-45455",
+      "urlToImage": "https://cdn.calciomercato.com/images/2021-05/combo.Pirlo.Pioli.2020.21.750x450.jpg",
+      "publishedAt": "2021-05-09T08:30:00Z",
+      "content": "Molti mi chiedono perché io sia così categorico nel pronostico di Juventus-Milan di questa sera. E’ successo, infatti, che qualcuno mi abbia sentito a Sky o alla radio affermare che i rossoneri vince… [+3433 chars]"
+    },
+    {
+      "source": {
+        "id": "la-repubblica",
+        "name": "La Repubblica"
+      },
+      "author": "Rosario di Raimondo",
+      "title": "Guida ai vaccini, domande e risposte: prenotazioni over 50 e seconde dosi a 35 giorni, cosa cambia - La Repubblica",
+      "description": "Da lunedì le prenotazioni per over 55 e da giovedì 13 per over 50: come fare",
+      "url": "https://bologna.repubblica.it/cronaca/2021/05/09/news/guida_vademecum_vaccini_emilia_romagna_domande_risposte_over_50_over_55_over_60_dosi_seconda_dose-300104008/",
+      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-bologna/2021/05/09/102337564-1b97aad6-a809-46ca-b56d-09eb7e9efba6.jpg",
+      "publishedAt": "2021-05-09T08:28:53Z",
+      "content": "Cosa cambia per i richiami di Pfizer e Moderna?Anche lEmilia-Romagna estende i tempi per le seconde dosi dei vaccini a Rna messaggero: se prima il richiamo avveniva dopo 21 giorni per Pfizer e dopo 2… [+208 chars]"
+    },
+    {
+      "source": {
+        "id": "il-sole-24-ore",
+        "name": "Il Sole 24 Ore"
+      },
+      "author": "Redazione",
+      "title": "Scozia, indipendentisti a un seggio dalla maggioranza assoluta. Londra conferma Khan - Il Sole 24 ORE",
+      "description": "I secessionisti avrebbero ottenuto  63 seggi come nel 2016, sufficienti a garantirsi anche la guida del prossimo governo locale, ma non a toccare quota 65 che avrebbe dato loro il 50% più uno dell'assemblea",
+      "url": "https://www.ilsole24ore.com/art/scozia-vincono-indipendentisti-snp-ma-manca-maggioranza-assoluta-AEn6r7G",
+      "urlToImage": "https://i2.res.24o.it/images2010/2021/05/AEn6r7G/images/99882074-b029-11eb-81e4-65222fc596f3-fotohome0.jpg",
+      "publishedAt": "2021-05-09T08:10:52Z",
+      "content": "1' di lettura\r\nQuarta vittoria elettorale consecutiva per gli indipendentisti dell'Snp, il Partito nazionale scozzese guidato da Nicola Sturgeon nel cruciale voto della Scozia alle consultazioni loca… [+1255 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gelocal.it"
+        "name": "Calciomercato.it"
       },
-      "author": "Martina Trivigno",
-      "title": "Vaccini in Toscana, over 60: intesa coi medici di famiglia. Come cambia il meccanismo di prenotazione - Il Tirreno",
-      "description": "Il nuovo accordo con la Regione permette un doppio binario per fissare un appuntamento. Le altre novità",
-      "url": "https://iltirreno.gelocal.it/regione/toscana/2021/05/09/news/vaccini-in-toscana-over-60-intesa-coi-medici-di-famiglia-come-cambia-il-meccanismo-di-prenotazione-1.40251221",
-      "urlToImage": "https://iltirreno.gelocal.it/image/contentid/policy:1.40251222:1620545281/Vaccini%20dai%20medici.jpg?f=detail_558&h=720&w=1280&$p$f$h$w=9011afd",
-      "publishedAt": "2021-05-09T07:32:02Z",
-      "content": "Erano già scesi in campo tre mesi fa per proteggere gli over 80 dai temibili attacchi del virus. E ora il sodalizio tra la Regione e i 2. 500 medici di famiglia toscani si rinnova. Questa volta per i… [+2646 chars]"
+      "author": null,
+      "title": "Calciomercato Juventus, Vlahovic il bomber del futuro: il punto - CalcioMercato.it",
+      "description": "Calciomercato Juventus, nel mirino la rivelazione Dusan Vlahovic: i bianconeri ci pensano, il punto sul bomber della Fiorentina",
+      "url": "https://www.calciomercato.it/2021/05/09/calciomercato-juventus-vlahovic-fiorentina-commisso-rinnovo-morata/",
+      "urlToImage": "https://www.calciomercato.it/wp-content/uploads/2021/05/GettyImages-1317008249-1.jpg",
+      "publishedAt": "2021-05-09T07:14:52Z",
+      "content": "Calciomercato Juventus, nel mirino la rivelazione Dusan Vlahovic: i bianconeri ci pensano, il punto sul bomber della Fiorentina\r\nAltri due gol, ieri sera, contro la Lazio, per arrivare alla ragguarde… [+2259 chars]"
     },
     {
       "source": {
@@ -212,16 +186,16 @@ news_it = {
     },
     {
       "source": {
-        "id": "il-sole-24-ore",
-        "name": "Il Sole 24 Ore"
+        "id": null,
+        "name": "Ilfattoquotidiano.it"
       },
-      "author": "Redazione",
-      "title": "Coronavirus, ultime notizie. India: nuovo record di casi, oltre 400mila nonostante i lockdown - Il Sole 24 ORE",
-      "description": "Aggiornamenti live della pandemia, 9 maggio",
-      "url": "https://www.ilsole24ore.com/art/coronavirus-ultime-notizie-india-nuovo-record-casi-oltre-400mila-nonostante-lockdown-AEuFKDH",
-      "urlToImage": "https://i2.res.24o.it/images2010/2021/05/AEuFKDH/images/906ed2c2-b0af-11eb-ae85-dd8bb23fd515-fotohome0.jpg",
-      "publishedAt": "2021-05-09T07:04:43Z",
-      "content": "Due persone in Tunisia sono state infettate dalla variante sudafricana del coronavirus. Lo ha detto il ministro della Sanità tunisino Faouzi Mehdi, senza precisare altro ma aggiungendo che la situazi… [+1042 chars]"
+      "author": "Valentina Arcovio",
+      "title": "Astrazeneca e l’ipotesi di mezza dose per ridurre eventi avversi, Vezzoni (Cnr): “No, troppo… - Il Fatto Quotidiano",
+      "description": "La proposta avanzata dall’immunologo Mauro Minelli è stata appoggiata anche da Andreas Greinacher, ordinario di Immunologia dell’ateneo tedesco di Greifswald, che ha sta studiando il meccanismo che innesca la trombocitopenia trombotica immunitaria indotta da …",
+      "url": "https://www.ilfattoquotidiano.it/2021/05/09/astrazeneca-e-lipotesi-di-mezza-dose-per-ridurre-eventi-avversi-vezzoni-cnr-no-troppo-tempo-per-test-su-un-vaccino-efficace/6189137/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/04/06/variant-med_1200x630-obj23692262.jpg",
+      "publishedAt": "2021-05-09T07:01:27Z",
+      "content": "Mentre si sta valutando con tutte le perplessità del caso l’ipotesi di allargare le indicazioni per il vaccino antiCovid AstraZeneca anche negli under 60, alcuni scienziati hanno lanciato una nuova i… [+3704 chars]"
     },
     {
       "source": {
@@ -239,6 +213,19 @@ news_it = {
     {
       "source": {
         "id": null,
+        "name": "Ilmessaggero.it"
+      },
+      "author": "Redazione Web",
+      "title": "Elon Musk rivela: «Ho la sindrome di Asperger, non potevo essere normale: mando le persone su Marte» - Il Messaggero",
+      "description": "Elon Musk durante iul Saturday Night Live, ha rivelato di avere la sindrome di Asperger e di essere la prima persona ospitata nel varietà con questa sindrome. «O almeno il...",
+      "url": "https://www.ilmessaggero.it/persone/elon_musk_sindrome_asperger_cosa_e_cosa_ha_detto_tesla_marte_news_ultime_notizie-5948829.html",
+      "urlToImage": "https://www.ilmessaggero.it/photos/MED/88/29/5948829_1311_elon_musk_cosa_ha_detto_sindrome.jpg",
+      "publishedAt": "2021-05-09T06:43:33Z",
+      "content": "Elon Musk durante iul Saturday Night Live, ha rivelato di avere la sindrome di Asperger e di essere la prima persona ospitata nel varietà con questa sindrome. «O almeno il primo ad ammetterlo», ha ra… [+1459 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Rainews.it"
       },
       "author": null,
@@ -248,6 +235,19 @@ news_it = {
       "urlToImage": "https://www.rai.it/cropgd/476x249/dl/img/2021/05/1620542157728.GettyImages_1232777379.jpg",
       "publishedAt": "2021-05-09T06:29:00Z",
       "content": "09 maggio 2021Nella notte disordini e scontri tra palestinesi e polizia israeliana all'ingresso della Città Vecchia di Gerusalemme, mentre decine di migliaia di fedeli musulmani pregavano nella vicin… [+1769 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Adnkronos.com"
+      },
+      "author": "demicheli",
+      "title": "Vaccini Italia, dal 10 maggio le prenotazioni per over 50 - Adnkronos",
+      "description": "Si avviano le prenotazioni del vaccino anti-Covid-19 per i nati fino al 1971. Priorità a chi ha patologie, anche se non fragile",
+      "url": "https://www.adnkronos.com/vaccini-italia-dal-10-maggio-le-prenotazioni-per-over-50_4JDNKLzDtPpYYhH7fW4XnI",
+      "urlToImage": "https://www.adnkronos.com/resources/0269-123b92fd95f2-98c305cdc4c8-1000/vaccino_dottore_ftg.jpg",
+      "publishedAt": "2021-05-09T06:19:00Z",
+      "content": "Si avviano le prenotazioni del vaccino anti-Covid-19 per i nati fino al 1971. Priorità a chi ha patologie, anche se non fragileVaccini per over 50, da lunedì 10 maggio l'Italia apre le prenotazioni. … [+757 chars]"
     },
     {
       "source": {
