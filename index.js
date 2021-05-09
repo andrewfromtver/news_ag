@@ -10,6 +10,10 @@ sideMenu = (state) => {
   }
 }
 sideButton = (type) => {
+  let url = 'google.com'
+  document.getElementById('facebook').href = "https://facebook.com/sharer/sharer.php?u=" + url
+  document.getElementById('whatsapp').href="whatsapp://send?text=" + url
+  document.getElementById('telegram').href="https://t.me/share/url?url=" + url
   sideMenu(true)
   if (type === 'weather') {
     document.querySelector('body').style.overflow = 'hidden'
@@ -109,11 +113,8 @@ goTo = (url, title) => {
   document.getElementById('newsframe').src = url
   document.getElementById('title').innerText = title
   document.getElementById('facebook').href = "https://facebook.com/sharer/sharer.php?u=" + url
-  document.getElementById('twitter').href = "https://twitter.com/intent/tweet/?text=&amp;url=" + url
-  document.getElementById('linkedin').href = "https://www.linkedin.com/shareArticle?mini=true&amp;url=" + url
   document.getElementById('whatsapp').href="whatsapp://send?text=" + url
-  document.getElementById('vk').href="http://vk.com/share.php?title=&amp;url=" + url
-  document.getElementById('telegram').href="https://telegram.me/share/url?text=&amp;url=" + url
+  document.getElementById('telegram').href="https://t.me/share/url?url=" + url
 }
 // Close popup
 closePopup = () => {
