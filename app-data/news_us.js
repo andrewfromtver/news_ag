@@ -4,6 +4,227 @@ news_us = {
   "articles": [
     {
       "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Elections 2021: Labour reshuffle delay leaves questions over Sir Keir Starmer's team - BBC News",
+      "description": "A major shake-up was expected from the Labour leader after election losses to Tories across England.",
+      "url": "https://www.bbc.com/news/uk-politics-57047027",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3D89/production/_118435751_gettyimages-1232767753.jpg",
+      "publishedAt": "2021-05-09T20:13:42Z",
+      "content": "image captionDeputy leader Angela Rayner was the campaign co-ordinator for Labour through the local election period\r\nDoubts remain over the make-up of Sir Keir Starmer's shadow cabinet hours after it… [+4876 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Alison Main and Nicky Robertson, CNN",
+      "title": "McCarthy confirms he's backing Stefanik for No. 3 House Republican post - CNN ",
+      "description": "House Minority Leader Kevin McCarthy confirmed on Sunday that he backs Rep. Elise Stefanik for the role of House Republican conference chair, as Rep. Liz Cheney faces a vote to oust her from the influential GOP leadership post.",
+      "url": "https://www.cnn.com/2021/05/09/politics/kevin-mccarthy-elise-stefanik-liz-cheney-replacement/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210213004123-01-kevin-mccarthy-file-2020-super-tease.jpg",
+      "publishedAt": "2021-05-09T19:55:00Z",
+      "content": "Washington (CNN)House Minority Leader Kevin McCarthy confirmed on Sunday that he backs Rep. Elise Stefanik for the role of House Republican conference chair, as Rep. Liz Cheney faces a vote to oust h… [+3438 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Joanna Partridge",
+      "title": "Dogecoin’s value tumbles after Elon Musk calls the virtual currency a ‘hustle’ - The Guardian",
+      "description": "Price falls by as much as a third after billionaire’s comments on US comedy sketch show Saturday Night Live",
+      "url": "https://amp.theguardian.com/technology/2021/may/09/dogecoins-value-tumbles-after-elon-musk-calls-the-virtual-currency-a-hustle",
+      "urlToImage": null,
+      "publishedAt": "2021-05-09T19:51:00Z",
+      "content": "CryptocurrenciesPrice falls by as much as a third after billionaires comments on US comedy sketch show Saturday Night Live\r\nThe price of dogecoin tumbled by as much as a third on Sunday, after billio… [+4165 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Erin Donnelly",
+      "title": "Fans go wild as Ben Affleck praises ex-wife Jennifer Garner in Mother's Day tribute: 'Co-parenting at its best' - Yahoo Entertainment",
+      "description": "The actor shared old family photos, including a \"Wizard of Oz\"-themed Halloween outing.",
+      "url": "https://www.yahoo.com/lifestyle/ben-affleck-jennifer-garner-mothers-day-tribute-194559768.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/1ed16a60-b0fc-11eb-b7db-34406b8fb56e",
+      "publishedAt": "2021-05-09T19:45:59Z",
+      "content": "Ben Affleck praised ex-wife Jennifer Garner (pictured in 2014) on Mother's Day. (Photo: REUTERS/Danny Moloshok)\r\nJennifer Lopez isn't the only ex or Jennifer Ben Affleck is keeping close to. While th… [+2225 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Ben Kesslen, The Associated Press",
+      "title": "Famed German architect Helmut Jahn dies in Illinois bicycle accident at 81 - NBC News",
+      "description": "Famed German architect Helmut Jahn died Saturday after being struck by two vehicles while riding his bike",
+      "url": "https://www.nbcnews.com/news/us-news/famed-german-architect-helmut-jahn-dies-illinois-bicycle-accident-81-n1266787",
+      "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2021_18/3471465/210509-helmut-jahn-jm-1319_47d0876fd4d8897b7cbfc156a5e39869.nbcnews-fp-1200-630.jpg",
+      "publishedAt": "2021-05-09T19:37:16Z",
+      "content": "Famed German architect Helmut Jahn died Saturday after being struck by two vehicles while riding his bike. He was 81.\r\nJahn was biking in Campton Hills, about 60 miles west of Chicago, when he was ki… [+2672 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Kate Sheehy",
+      "title": "Video shows 'hero' NYPD cop running with wounded child after Times Square shooting - New York Post ",
+      "description": "As mayhem continues to erupt around the pair after the 4:55 p.m. bloodshed that rocked the Crossroads of the World, the determined cop tears down Broadway on foot carrying the wounded 4-year-old ch…",
+      "url": "https://nypost.com/2021/05/09/hero-cop-runs-with-shot-child-in-times-square-video/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/05/police-wounded-boy-01.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2021-05-09T19:00:00Z",
+      "content": "Stunning surveillance footage captures a “hero” female cop frantically running through Times Square with the youngest victim of Saturdays shooting in her arms.\r\nAs mayhem continues to erupt around th… [+1341 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BuzzFeed News"
+      },
+      "author": "Amber Jamieson",
+      "title": "The Winner Of The Kentucky Derby Failed The Post-Race Drug Test - BuzzFeed News",
+      "description": "Trainer Bob Baffert has been suspended from racetrack Churchill Downs.",
+      "url": "https://www.buzzfeednews.com/article/amberjamieson/kentucky-derby-winner-drug-test-failed",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2021-05/9/18/campaign_images/c0fb155b3acf/the-winner-of-the-kentucky-derby-failed-the-post--2-2669-1620584813-0_dblbig.jpg?resize=1200:*",
+      "publishedAt": "2021-05-09T18:26:00Z",
+      "content": "The horse that won the 2021 Kentucky Derby, Medina Spirit, failed a post-race drug test and now faces possible disqualification.\r\n\"Failure to comply with the rules and medication protocols jeopardize… [+2796 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Christopher Rogers",
+      "title": "Kim Kardashian celebrates the moms in her life with sweet Mother's Day posts - Daily Mail",
+      "description": "The media personality, 40, celebrated Mother's Day by honoring all the moms she has in her own life with a series of sweet snaps on her Instagram Stories on Sunday.",
+      "url": "https://www.dailymail.co.uk/tvshowbiz/article-9559531/Kim-Kardashian-celebrates-moms-life-sweet-Mothers-Day-posts.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2021/05/09/17/42766644-0-image-a-43_1620579521255.jpg",
+      "publishedAt": "2021-05-09T18:07:23Z",
+      "content": "Kim Kardashian celebrated Mother's Day by honoring all the moms she has in her own life.\r\nThe 40-year-old media personality shared a series of sweet snaps on her Instagram Stories as a tribute to the… [+4605 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Manish Singh",
+      "title": "Clubhouse finally launches its Android app - TechCrunch",
+      "description": "Clubhouse, backed by Andreessen Horowitz, Tiger Global and DST Global, has launched its beta Android app for U.S. users.",
+      "url": "http://techcrunch.com/2021/05/09/clubhouse-android-app-launch/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1231467577.jpg?w=600",
+      "publishedAt": "2021-05-09T17:45:38Z",
+      "content": "Clubhouse finally has an Android app that you can download from the Play Store — provided you live in the U.S.\r\nThe voice-based social network launched its beta Android app on Play Store for users in… [+3002 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jacob Kastrenakes",
+      "title": "Elon Musk’s SpaceX is literally launching a Dogecoin-funded satellite to the Moon - The Verge",
+      "description": "SpaceX will launch DOGE-1, a cubesat funded by Dogecoin, to the moon in Q1 2022. It’s Elon Musk’s latest involvement in the cryptocurrency.",
+      "url": "https://www.theverge.com/2021/5/9/22427588/spacex-dogecoin-satellite-doge-1-to-the-moon",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/NFEYSXXnLDo9Ybh0tGzjRUgRNqk=/0x199:2000x1246/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22502331/50908787221_9cf383a2b4_o.jpg",
+      "publishedAt": "2021-05-09T17:35:00Z",
+      "content": "Its meme on meme on memelord\r\nSpaceX launches a Falcon 9 rocket in February 2021.\r\nPhoto: SpaceX\r\nSpaceX is now accepting Dogecoin, and itll be paid exclusively in the cryptocurrency to launch an upc… [+2442 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Athletic"
+      },
+      "author": "Mike Coppinger",
+      "title": "Billy Joe Saunders to undergo surgery after Canelo defeat, career hanging in the balance - The Athletic",
+      "description": "Billy Joe Saunders’ boxing career hangs in the balance after he sustained multiple fractures to his orbital bone in a brutal defeat to Canelo Alvarez on...",
+      "url": "https://theathletic.com/news/billy-joe-saunders-canelo-surgery/LCfmizCwO7kc",
+      "urlToImage": "https://cdn-media.theathletic.com/LCfmizCwO7kc_DWb4t75E53RI_1440x.960.jpg",
+      "publishedAt": "2021-05-09T17:12:13Z",
+      "content": "What injury did Saunders suffer?\r\nSaunders, 31, suffered a quadripod fracture to his orbital bone.\r\nHe was transported to John Peter Smith Hospital in Fort Worth, Texas after the fight and is due to … [+2015 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Emily Glazer, Khadeeja Safdar",
+      "title": "Melinda Gates Was Meeting With Divorce Lawyers Since 2019 to End Marriage With Bill Gates - The Wall Street Journal",
+      "description": "The philanthropist had discussions with lawyers in October 2019 around when the Microsoft co-founders ties to Jeffrey Epstein became public",
+      "url": "https://www.wsj.com/articles/melinda-gates-was-meeting-with-divorce-lawyers-since-2019-to-end-marriage-with-bill-gates-11620579924",
+      "urlToImage": "https://images.wsj.net/im-336065/social",
+      "publishedAt": "2021-05-09T17:05:00Z",
+      "content": "The split between Bill and Melinda Gates, announced last week, has been in the works for a long time.\r\nMs. Gates consulted with divorce lawyers roughly two years before she filed for divorce from Mr.… [+914 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Webster",
+      "title": "The Call of Duty League’s champions are being honored at Verdansk Stadium in Warzone - The Verge",
+      "description": "Call of Duty: Warzone is getting an update on May 10th, which will introduce a new statue and penants honoring the 2020 CDL championship team Dallas Empire.",
+      "url": "https://www.theverge.com/2021/5/9/22424868/call-of-duty-league-cdl-warzone-verdansk-statue-champions",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/oashSjivH6ksQgYImuZ9scOaQeQ=/0x17:1175x632/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22498684/0.png",
+      "publishedAt": "2021-05-09T17:00:00Z",
+      "content": "A unique kind of celebration\r\nThe champions of the first season of the Call of Duty League are being honored in a unique way: with their faces plastered at the stadium in Call of Duty: Warzone. Today… [+1068 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Danielle Wallace",
+      "title": "White House COVID-19 czar pressed on why Biden still wears mask indoors around other vaccinated people - Fox News",
+      "description": "White House COVID-19 response coordinator Jeff Zients was asked Sunday to explain why President Biden still wears a mask during press briefings despite being fully vaccinated and standing in a room with fully vaccinated journalists.",
+      "url": "https://www.foxnews.com/politics/white-house-covid-czar-biden-mask-indoors-around-vaccinated-people",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-removing-mask-.jpg",
+      "publishedAt": "2021-05-09T16:50:03Z",
+      "content": "White House COVID-19 response coordinator Jeff Zients was asked Sunday to explain why President Biden still wears a mask during press briefings despite being fully vaccinated and standing in a room w… [+3125 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Robert D. McFadden",
+      "title": "Pete du Pont, Ex-Delaware Governor Who Ran for President, Dies at 86 - The New York Times",
+      "description": "Bored with working at his family’s chemical company, Mr. du Pont entered politics and led an economic turnaround of his debt-ridden home state.",
+      "url": "https://www.nytimes.com/2021/05/09/obituaries/pete-du-pont-dead.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/05/10/us/09dupont1-print/09dupont1-facebookJumbo.jpg",
+      "publishedAt": "2021-05-09T16:35:08Z",
+      "content": "The proposals made headlines, but his 1988 campaign never gained traction. He finished near the bottom in the Iowa caucuses and the New Hampshire primary, and dropped out of the race. He offered no e… [+1278 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SB Nation"
+      },
+      "author": "ExpectedChelsea",
+      "title": "Manchester City 1-2 Chelsea, Premier League: Statistical Review and Analysis - We Ain't Got No History",
+      "description": "The numbers behind the game",
+      "url": "https://weaintgotnohistory.sbnation.com/2021/5/9/22427251/manchester-city-1-2-chelsea-premier-league-statistical-review-and-analysis",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Q0kqaLp8Xh7zSVv9N9DlEEC7ePA=/0x337:1867x1314/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22502275/1316994821.jpg",
+      "publishedAt": "2021-05-09T16:31:24Z",
+      "content": "Overview\r\nIn a game that was mainly a free-hit for Chelseas top-four hopes, a late Alonso goal grabbed all three points and ensured the team have one foot in next years Champions League. For the most… [+7762 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Emma Newburger",
+      "title": "Commerce Secretary says ‘all hands on deck’ to avert supply disruptions after pipeline cyberattack - CNBC",
+      "description": "Colonial Pipeline said it learned Friday that it \"was the victim of a cybersecurity attack\" and has since shut down 5,500 miles of pipeline.",
+      "url": "https://www.cnbc.com/2021/05/09/pipeline-hack-all-hands-on-deck-to-avert-disruptions-commerce-secretary-says.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104065700-GettyImages-608065686.jpg?v=1620575862",
+      "publishedAt": "2021-05-09T16:14:27Z",
+      "content": "U.S. Commerce Secretary Gina Raimondo on Sunday said the federal government is working to avoid supply disruptions after Colonial Pipeline, the operator of the country's largest fuel pipeline, tempor… [+2640 chars]"
+    },
+    {
+      "source": {
         "id": "cbs-news",
         "name": "CBS News"
       },
@@ -18,249 +239,28 @@ news_us = {
     {
       "source": {
         "id": null,
-        "name": "The Guardian"
+        "name": "NPR"
       },
-      "author": "Guardian staff reporter",
-      "title": "Kentucky Derby winner Medina Spirit faces disqualification after failed drug test - The Guardian",
-      "description": "Bob Baffert has insisted he is innocent of any wrongdoing after announcing Kentucky Derby winner Medina Spirit has tested positive for a banned drug",
-      "url": "https://amp.theguardian.com/sport/2021/may/09/trainer-mystified-after-kentucky-derby-winner-medina-spirit-fails-drug-test",
-      "urlToImage": null,
-      "publishedAt": "2021-05-09T15:24:00Z",
-      "content": "Kentucky Derby<ul><li>Trainer Bob Baffert denies any wrongdoing over test</li><li>I dont feel embarrassed, I feel like I was robbed</li></ul>\r\nChurchill Downs has suspended trainer Bob Baffert from e… [+5068 chars]"
+      "author": "H.J. Mai",
+      "title": "Clashes Between Palestinians, Israeli Police In Jerusalem Leave Many Injured - NPR",
+      "description": "Around 100 Palestinians were injured as protesters and Israeli police clashed in the latest of several nights of violence over possible evictions of Palestinians from land claimed by Jewish settlers.",
+      "url": "https://www.npr.org/2021/05/09/995196563/clashes-between-palestinians-israeli-police-in-jerusalem-leave-many-injured",
+      "urlToImage": "https://media.npr.org/assets/img/2021/05/09/JerusalemClashes_wide-1053d6634ccae139931cc714812f43f41edcfb1d.jpg?s=1400",
+      "publishedAt": "2021-05-09T16:00:14Z",
+      "content": "Israeli police take a Palestinian into custody during a protest at the Masjid al-Aqsa compound in East Jerusalem on Sunday.\r\nEyad Tawil/Anadolu Agency via Getty Images\r\nViolence, which has been ongoi… [+2479 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "New York Post"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Kevin Sheehan, Jackie Salo",
-      "title": "Aunt of 4-year-old girl shot in Times Square recounts terrifying ordeal - New York Post ",
-      "description": "Skye Martinez was waiting in line with her mom, 16-year-old aunt Danae Romero, and other relatives to shop for toys at Line Friends on Saturday afternoon when a gunman arguing with three other peop…",
-      "url": "https://nypost.com/2021/05/09/4-year-olds-aunt-recounts-terrifying-times-square-shooting/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/05/times-square-shooting-049.jpg?quality=90&strip=all&w=1200",
-      "publishedAt": "2021-05-09T15:10:00Z",
-      "content": "The aunt of the 4-year-old girl who was struck when a gunman opened fire in Times Square recalled the moment the family realized the tot had been hit as they ran for their lives — but said the “tough… [+2304 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KCCI Des Moines"
-      },
-      "author": null,
-      "title": "Iowa's COVID-19 hospitalizations continue to decline - KCCI Des Moines",
-      "description": "IDPH reports 141 new COVID-19 positive tests and one additional death",
-      "url": "https://www.kcci.com/article/covid-19-hospitalizations-continue-to-decline/36373956",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/coronavirus-covid-19-impact-1615576239.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-      "publishedAt": "2021-05-09T15:01:00Z",
-      "content": "DES MOINES, Iowa —The Iowa Department of Public health on Sunday reported 141 new COVID-19 positive tests and one additional death.\r\nAt 10 a.m., the health department reported 397,584 total positive … [+1049 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Jackie Salo",
-      "title": "Elon Musk's claim to be first 'SNL' host with Asperger's is incorrect - New York Post ",
-      "description": "Elon Musk publicly disclosed his Asperger’s diagnosis for the first time while as he hosted SNL. However, his claim to be the first host with the condition has been debunked.",
-      "url": "https://nypost.com/2021/05/09/elon-musk-claim-as-first-snl-host-with-aspergers-incorrect/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/05/elon-musk-13.jpg?quality=90&strip=all&w=1200",
-      "publishedAt": "2021-05-09T14:36:00Z",
-      "content": "Elon Musk has been called out for incorrectly claiming to be the “first person with Aspergers” to host “Saturday Night Live” — with many noting that former cast member Dan Aykroyd likely nabbed that … [+948 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Ben Kamisar",
-      "title": "Larry Hogan: GOP turning into 'circular firing squad' over Trump loyalty - NBC News",
-      "description": "Gov. Larry Hogan, R-Md, says the GOP is turning into a \"circular firing squad\" over fealty to former President Trump's untrue election claims.",
-      "url": "https://www.nbcnews.com/politics/meet-the-press/larry-hogan-gop-turning-circular-firing-squad-over-trump-loyalty-n1266777",
-      "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2021_18/3471428/210509-larry-hogan-jm-0932_854f31385be82da70592494f79c6a6fc.nbcnews-fp-1200-630.jpg",
-      "publishedAt": "2021-05-09T14:22:00Z",
-      "content": "WASHINGTON Gov. Larry Hogan, R-Md., criticized those within the GOP who insist they need to double down on keeping former President Donald Trump as its leader despite his loss in 2020, saying that it… [+2127 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Kim Lyons",
-      "title": "New trailers: A Quiet Place 2, Stranger Things 4, Loki, and more - The Verge",
-      "description": "Loki jumps out of a plane, Emily Blunt keeps it quiet, Ewan McGregor is a fashion icon, and someone In the Heights wins a $96k lottery ticket.",
-      "url": "https://www.theverge.com/2021/5/9/22426500/new-trailers-stranger-things-loki-quiet-place-netflix-disney-marvel-hbo",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/TiQP-8yVngzCEnAmaone_Rd6NMc=/0x0:1800x942/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19787782/a_quiet_place_part_ii_trailer.jpg",
-      "publishedAt": "2021-05-09T14:00:00Z",
-      "content": "Plus a third trailer for In the Heights\r\nImage; Paramount\r\nIm sticking with The Handmaids Tale for now; in the latest episode we see a lot of very improbable situations that need to happen in order t… [+3155 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Associated Press",
-      "title": "Maryland governor pardons 34 victims of racial lynching - Fox News",
-      "description": "Maryland's governor on Saturday posthumously pardoned 34 victims of racial lynching in the state dating between 1854 and 1933, saying they were denied legal due process against the allegations they faced",
-      "url": "https://www.foxnews.com/us/maryland-governor-pardons-34-victims-racial-lynching",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/AP21128805609209-e1620567697415.jpg",
-      "publishedAt": "2021-05-09T13:43:35Z",
-      "content": "Maryland's governor on Saturday posthumously pardoned 34 victims of racial lynching in the state dating between 1854 and 1933, saying they were denied legal due process against the allegations they f… [+3739 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Cortney Moore",
-      "title": "'Saturday Night Live' musical guest Miley Cyrus honors Dolly Parton, mom with Mother's Day cold open - Fox News",
-      "description": "Miley Cyrus opened the “Saturday Night Live” stage with her godmother’s song.",
-      "url": "https://www.foxnews.com/entertainment/snl-miley-cyrus-honors-dolly-parton-mom-mothers-day-song-cover",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Miley-Cyrus.jpg",
-      "publishedAt": "2021-05-09T13:29:36Z",
-      "content": "Miley Cyrus opened the \"Saturday Night Live\" stage with her godmothers song.\r\nThe 28-year-old performer sang Dolly Partons \"Light of a Clear Blue Morning\" to kick off the sketch comedy show and celeb… [+2324 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Chaim Gartenberg",
-      "title": "Apple Shortcuts is great, but it needs a notification toggle - The Verge",
-      "description": "Apple Shortcuts is a powerful customization tool for iOS, but it’s held back by the fact that it insists on displaying notifications constantly for every automation or action.",
-      "url": "https://www.theverge.com/2021/5/9/22424463/apple-shortcuts-notifications-toggle-user-settings",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/eY_9AZcW3drgRe6k8_1-V4UN_EM=/0x130:2560x1470/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22499392/shortcuts.jpg",
-      "publishedAt": "2021-05-09T13:00:00Z",
-      "content": "My kingdom for a functional notifications toggle\r\nApples Shortcuts app is a fantastic piece of iOS, a nearly limitless corner of the operating system that lets users automate almost anything they can… [+2792 chars]"
-    },
-    {
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "Associated Press",
-      "title": "U.S. Navy seizes weapons in Arabian Sea - POLITICO",
-      "description": "They were likely bound for Yemen.",
-      "url": "https://www.politico.com/news/2021/05/09/us-navy-seizes-weapons-arabian-sea-486127",
-      "urlToImage": "https://static.politico.com/0b/d3/119ec53f4ec4ac6ffcc62f22834a/210509-navy-weapons-ap-773.jpg",
-      "publishedAt": "2021-05-09T12:27:40Z",
-      "content": "The guided-missile cruiser USS Monterey discovered the weapons aboard what the Navy described as a stateless dhow, a traditional Mideast sailing ship, in an operation that began Thursday in the north… [+3108 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Los Angeles Times"
-      },
-      "author": "Paloma Esquivel, Howard Blume",
-      "title": "No-show high school students reject COVID reopening rules - Los Angeles Times",
-      "description": "The 'Zoom in a room' option for in-person schooling — the format for high schools in Los Angeles and San Francisco — has failed to draw back the vast majority of students.",
-      "url": "https://www.latimes.com/california/story/2021-05-09/no-show-high-school-students-reject-covid-reopening-rules",
-      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/76c4bdb/2147483647/strip/true/crop/4000x2100+0+258/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F87%2Fde%2Fec090eb14d0ab04f809af41bb3ed%2Fla-photos-1staff-768188-la-me-high-schools-reopen-limited-students-10-als.jpg",
-      "publishedAt": "2021-05-09T12:00:51Z",
-      "content": "During the first week of in-person learning at Panorama High School, drama teacher Patricia Francisco stood in the mini-theater talking on Zoom to her acting class. Two stage lights brightened her fa… [+10475 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Bob Nightengale, USA TODAY",
-      "title": "Nightengale's Notebook: How Albert Pujols' final hours with Angels turned ugly - Yahoo Sports",
-      "description": "Star players rarely go out gracefully, but the future Hall of Famer's departure from Anaheim was especially uncomfortable.",
-      "url": "https://www.usatoday.com/in-depth/sports/mlb/columnist/bob-nightengale/2021/05/09/how-albert-pujols-final-hours-before-being-cut-angels-turned-ugly/5007305001/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vJQAzfh_G3XypUqAIxfyiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/uu/api/res/1.2/azfw7WYhZcGj7gG3xWTVnw--~B/aD0yMTA2O3c9MzE2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/usa_today_sports_articles_558/61beec32411585d09796a622c8ac5c6d",
-      "publishedAt": "2021-05-09T11:39:24Z",
-      "content": "It was one of the most awkward, uncomfortable and ugly good-byes in this generation of baseball immortals.\r\nWere talking about Albert Pujols.\r\nHe woke up Wednesday morning, having already been told h… [+12708 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Schams Elwazer and Duarte Mendonca, CNN",
-      "title": "Scottish National Party promise independence referendum after election win - CNN ",
-      "description": "The Scottish National Party is promising to hold a second independence referendum after election results announced Saturday saw pro-independence candidates gain a majority in the Scottish parliament.",
-      "url": "https://www.cnn.com/2021/05/09/uk/uk-elections-scotland-independence-gbr-intl/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200724150134-02-johnson-sturgeon-split-0724-super-tease.jpg",
-      "publishedAt": "2021-05-09T11:26:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "Marlene Lenthang",
-      "title": "Florida reports more than 10,000 COVID-19 variant cases, surge after spring break - ABC News",
-      "description": "",
-      "url": "https://abcnews.go.com/Health/florida-reports-10000-covid-19-variant-cases-surge/story?id=77553100",
-      "urlToImage": "https://s.abcnews.com/images/Health/florida-pol-er-210325_1616697926564_hpMain_16x9_992.jpg",
-      "publishedAt": "2021-05-09T11:06:46Z",
-      "content": "Variant COVID-19 infections skyrocketed following spring break in Florida and there have been more than 10,000 variant cases reported throughout the state, the South Florida Sun Sentinel reported bas… [+3149 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Grace Segers",
-      "title": "Cyberattack prompts Colonial Pipeline to halt operations - CBS News",
-      "description": "The Colonial Pipeline Company said the attack involves ransomware.",
-      "url": "https://www.cbsnews.com/news/colonial-pipeline-cyberattack-shut-down/",
-      "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/08/4eee3e52-a9cf-4b6f-b181-2f9bbdf45897/thumbnail/1200x630/fade90048f0b0e7bfaeef921fab2bb0a/colonial-pipeline.jpg",
-      "publishedAt": "2021-05-09T11:04:46Z",
-      "content": "A cyberattack has prompted a company that operates a major energy pipeline in the U.S. to shut down operations.\r\nThe Colonial Pipeline Company said in a statement it learned on Friday that it was the… [+5488 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Meghan Markle makes first TV appearance since Oprah interview - The Independent",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Y2Z2eUdBcHhRbDTSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2021-05-09T11:02:42Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Geoffrey Morrison",
-      "title": "How to adjust your TV picture settings, no professional, disc or Apple TV 4K required - CNET",
-      "description": "A quick change to picture mode, and these other eight settings, can go a long way.",
-      "url": "https://www.cnet.com/how-to/how-to-adjust-your-tv-picture-settings-no-professional-disc-or-apple-tv-4k-required/",
-      "urlToImage": "https://www.cnet.com/a/img/tO5q3qnSf9vUmz3w3zc8zMlXfmk=/1200x630/2020/11/20/c765fbc8-47ba-43f0-8d19-6dee08534278/024-samsung-q80t-qled-tv.jpg",
-      "publishedAt": "2021-05-09T10:30:04Z",
-      "content": "Accurate green, brown and gray can help make a TV's picture look more natural.\r\nDavid Katzmaier/CNET\r\nYes, some people get their TVs professionally calibrated and some buy a setup disc like the Spear… [+13815 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Jon Street",
-      "title": "Groups slam Biden's 'war on small business' after 'disappointing' jobs numbers - Fox Business",
-      "description": "Organizations representing independent businesses slammed Friday's weaker-than-expected jobs report, blaming President Joe Biden's policies for the uptick in unemployment.",
-      "url": "https://www.foxbusiness.com/politics/groups-slam-biden-war-small-business-disappointing-jobs-numbers",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/11/0/0/BidenAP.jpg?ve=1&tl=1",
-      "publishedAt": "2021-05-09T09:50:11Z",
-      "content": "Organizations representing independent businesses slammed Friday's weaker-than-expected jobs report, blaming President Joe Biden's policies for the uptick in unemployment. \r\nOn Friday, the Department… [+2616 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Valerie Bauerlein",
-      "title": "Remote Kindergarten During Covid-19 ‘Could Impact This Generation of Kids for Their Lifetime’ - The Wall Street Journal",
-      "description": "Kindergartners normally learn skills valuable for the rest of their education; an estimated 450,000 children may miss the grade this year",
-      "url": "https://www.wsj.com/articles/remote-kindergarten-during-covid-19-could-impact-this-generation-of-kids-for-their-lifetime-11620552653",
-      "urlToImage": "https://images.wsj.net/im-335786/social",
-      "publishedAt": "2021-05-09T09:30:00Z",
-      "content": "HIGH POINT, N.C.Of all the students who suffered learning loss during the Covid-19 pandemic and remote schooling, one grade level has educators very concerned: the kindergartners.\r\nKindergarten is wh… [+1262 chars]"
+      "author": "Martin Selsoe Sorensen",
+      "title": "An app that swiftly sends CPR volunteers to heart attack sufferers has made a big difference in Denmark. Could this be copied in the U.S.? - The Washington Post",
+      "description": "The country would “significantly improve” its cardiac arrest survival rates if such programs were implemented, experts say.",
+      "url": "https://www.washingtonpost.com/health/an-app-that-swiftly-sends-cpr-volunteers-to-heart-attack-sufferers-has-made-a-big-differences-in-denmark-could-this-be-copied-in-the-us/2021/05/07/97c59cc6-8734-11eb-8a8b-5cf82c3dffe4_story.html",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZHU3PQVORMI6XAWBRFVMVFK3XE.jpg&w=1440",
+      "publishedAt": "2021-05-09T16:00:00Z",
+      "content": "There are similar apps in the United States, but concerns about safety and willingness of people to accept untrained volunteers into private homes have prevented a similar wide use of PulsePoint, a N… [+5998 chars]"
     }
   ]
 }
