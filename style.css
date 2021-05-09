@@ -231,4 +231,5 @@ button:active, select:active, .menu > h3:active {
     height: calc(100% - 42px);
     background-color: #fff;
     border: none;
+    overflow-x: hidden;
 }
