@@ -4,55 +4,146 @@ news_it = {
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Sport.sky.it"
+        "id": "ansa",
+        "name": "ANSA.it"
       },
-      "author": "Redazione Sky Sport",
-      "title": "Fiorentina-Lazio 2-0, il risultato in diretta LIVE - Sky Sport",
-      "description": "Leggi su Sky Sport l'articolo Fiorentina-Lazio 2-0, gol e highlights: decide una doppietta di Vlahovic",
-      "url": "https://sport.sky.it/calcio/serie-a/2021/05/08/fiorentina-lazio-risultato-gol",
-      "urlToImage": "https://static.sky.it/images/skysport/it/calcio/serie-a/2021/05/08/fiorentina-lazio-risultato-gol/fiorentina_esulta (1).jpg",
-      "publishedAt": "2021-05-08T20:31:04Z",
-      "content": "32' e 88' Vlahovic\r\nFIORENTINA (3-5-2): Dragowski; Milenkovic, Pezzella, Caceres; Venuti, Bonaventura (73' Amrabat), Pulgar, Castrovilli (91' Martinez) , Biraghi; Ribery (85' Kouamé), Vlahovic. All. … [+367 chars]"
+      "author": "",
+      "title": "Autobomba a Kabul, almeno 55 morti, è strage studentesse - Ultima Ora - Agenzia ANSA",
+      "description": "Il bilancio delle esplosioni davanti a una scuola femminile a Kabul è salito a 55 morti e più di 150\r\nferiti, molti in gravissime condizioni. Lo ha detto un funzionario della Sicurezza alla Reuters. (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2021/05/08/autobomba-a-kabul-almeno-55-morti-e-strage-studentesse_3f8bafc0-86f9-4fc5-8814-623c4158137b.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2021/5/8/b708c1f41eacb74e641b30fc13446cc6.jpg",
+      "publishedAt": "2021-05-08T21:36:00Z",
+      "content": "(ANSA) - ROMA, 08 MAG - Il bilancio delle esplosioni davanti\r\na una scuola femminile a Kabul è salito a 55 morti e più di 150\r\nferiti, molti in gravissime condizioni. Lo ha detto un\r\nfunzionario dell… [+467 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Leggo.it"
+        "name": "Adnkronos.com"
       },
-      "author": "Ida Di Grazia",
-      "title": "Amici 20, diretta semifinale: ospiti Ermal Meta e i The Kolors. Ecco i finalisti e gli eliminati - leggo.it",
-      "description": "Amici 20, diretta semifinale: ospiti Ermal Meta e i The Kolors. Ecco i finalisti e gli eliminati. Puntata decisiva quella di questa sera che seguiremo come sempre in diretta su Leggo.it per i sette...",
-      "url": "https://www.leggo.it/spettacoli/televisione/amici_20_diretta_semifinale_ospiti_ermal_meta_the_kolors_ecco_finalisti_eliminati-5947534.html",
-      "urlToImage": "https://www.leggo.it/photos/MED/75/34/5947534_1958_amici20_diretta_semifinale.jpg",
-      "publishedAt": "2021-05-08T18:11:00Z",
-      "content": "Amici 20, diretta semifinale: ospiti Ermal Meta e i The Kolors. Ecco i finalisti e gli eliminati. Puntata decisiva quella di questa sera che seguiremo come sempre in diretta su Leggo.it per i sette t… [+756 chars]"
-    },
-    {
-      "source": {
-        "id": "la-repubblica",
-        "name": "La Repubblica"
-      },
-      "author": "Antonello Guerrera",
-      "title": "Scozia, vincono gli indipendentisti. Sturgeon: \"Ora non ci sono scuse per rifiutare un referendum\" - la Repubblica",
-      "description": "L'Snp ottiene il quarto mandato consecutivo vincendo 64 seggi, uno in meno della maggioranza assoluta. Lettera di Johnson alla premier di Edimburgo: \"…",
-      "url": "https://www.repubblica.it/esteri/2021/05/08/news/scozia_vincono_gli_indipendentisti_sturgeon_ora_non_ci_sono_scuse_per_rifiutare_un_referendum_-300044683/",
-      "urlToImage": "https://www.repstatic.it/content/nazionale/img/2021/05/08/200049183-8e70b5fa-b382-40db-9a9d-92ca0645be9f.jpg",
-      "publishedAt": "2021-05-08T18:09:11Z",
-      "content": "EDIMBURGO - In una Edimburgo spettrale, ancora spopolata dalla pioggia e dal lockdown appena terminato, la \"Terra di mezzo\" della Scozia continua. A maggior ragione dopo il risultato di queste ultime… [+3812 chars]"
+      "author": "mrtrepetto",
+      "title": "Scozia, vittoria Snp. Sturgeon: \"Nuovo referendum per indipendenza\" - Adnkronos",
+      "description": "La first minister: 'Non esiste alcuna giustificazione democratica per non tenere un secondo referendum'",
+      "url": "https://www.adnkronos.com/scozia-vittoria-snp-sturgeon-nuovo-referendum-per-indipendenza_72BJbQCoy4HFDTtsXVdFrk",
+      "urlToImage": "https://www.adnkronos.com/resources/0269-123ad755dbb4-0d7a35c0bccf-1000/scozia_sturgeon_afp.jpg",
+      "publishedAt": "2021-05-08T21:35:00Z",
+      "content": "La first minister: \"Non esiste alcuna giustificazione democratica per non tenere un secondo referendum\"Il Partito nazionale scozzese (Snp) trionfa alle elezioni in Scozia e la 'first minister' Nicola… [+644 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Fcinternews.it"
+        "name": "Lacnews24.it"
       },
-      "author": "Fabio Costantino",
-      "title": "Inter-Sampdoria - Sanchez da All Star Game, Young tirato a lucido. Pinamonti, gol commovente - Fcinternews.it",
-      "description": "HANDANOVIC 5,5 - Riesce misteriosamente a evitare la rete di Candreva, giocata agevolata però da un suo tuffo completamente fuori tempo. Peccato per il gol arrivato comunque nel prosieguo...",
-      "url": "https://www.fcinternews.it/pagelle/inter-sampdoria-sanchez-da-all-star-game-young-tirato-a-lucido-pinamonti-gol-commovente-367558",
-      "urlToImage": "https://net-storage.tccstatic.com/storage/fcinternews.it/img_notizie/thumb3/16/16843783c1ee05f16e85a9ec318cb926-38690-3c897b2c2b40160011ba4b9f385cc5e4.jpg",
+      "author": "Redazione - Lacnews24.it",
+      "title": "«Eccolo, è il razzo cinese!», ma sono i satelliti di Musk: decine di segnalazioni in Calabria - LaC news24",
+      "description": "Sono numerosi gli avvistamenti nelle ultime ore. Niente a che fare con il vettore in caduta sulla Terra, si tratta invece di un “treno” di microsatelliti che fanno parte del progetto Starlink",
+      "url": "https://www.lacnews24.it/cronaca/eccolo-e-il-razzo-cinese-ma-sono-i-satelliti-di-musk-decine-di-segnalazioni-in-calabria_136336/",
+      "urlToImage": "https://img.lacstatic.it/_pageimg/2021-05-08/2021_satelliti_starlink.jpg",
+      "publishedAt": "2021-05-08T20:50:00Z",
+      "content": "«Eccolo, è il razzo cinese!». Occhi al cielo, dita che indicano la volta stellata e la certezza di essere testimoni della caduta del vettore che in queste ore si sta avvicinano dalla Terra, dove prec… [+2545 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilmessaggero.it"
+      },
+      "author": "Giuseppe Mustica",
+      "title": "Fiorentina-Lazio 2-0: Vlahovic stende Inzaghi che saluta la Champions. Iachini vede la salvezza - Il Messaggero",
+      "description": "Decide la doppietta di Vlahovic: l'attaccante serbo della Fiorentina, classe 2000, tocca 21 reti in campionato chiudendo praticamente le possibilità alla Lazio di approdare alla prossima...",
+      "url": "https://www.ilmessaggero.it/sport/calcio/fiorentina_lazio_diretta_live_risultato_formazioni_pagelle-5947456.html",
+      "urlToImage": "https://www.ilmessaggero.it/photos/MED/74/56/5947456_2127_fiorentina_lazio.jpg",
+      "publishedAt": "2021-05-08T20:42:55Z",
+      "content": "Decide la doppietta di Vlahovic: l'attaccante serbo della Fiorentina, classe 2000, tocca 21 reti in campionato chiudendo praticamente le possibilità alla Lazio di approdare alla prossima Champions Le… [+10636 chars]"
+    },
+    {
+      "source": {
+        "id": "ansa",
+        "name": "ANSA.it"
+      },
+      "author": "",
+      "title": "Atp Madrid: Ruud sconfitto, Berrettini vola in finale - Tennis - ANSA Nuova Europa",
+      "description": "Il romano si è imposto sul norvegese con un doppio 6-4 (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/sport/tennis/2021/05/08/tennis-madrid-ruud-sconfitto-berrettini-vola-in-finale_cdaa5230-e1b8-4001-a6b6-9174b8d7261f.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2021/4/25/5c216cca00caf65967872b862b191eae.jpg",
+      "publishedAt": "2021-05-08T20:39:00Z",
+      "content": "Matteo Berrettini vola in finale del terzo Masters 1000 stagionale di tennis, a Madrid. Il romano ha battuto in due set (6-4, 6-4) il norvegese Casper Ruud. Nel Manolo Santana Stadium, il 25enne azzu… [+265 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Corriere.it"
+      },
+      "author": "Marco Gasperetti",
+      "title": "India, la famiglia bloccata è tornata in Italia. «Finalmente al sicuro insieme a Miriam» - Corriere della Sera",
+      "description": "I coniugi e la bimba adottiva rientrati a Pisa con un volo privato e subito ricoverati in isolamento. «Grazie a tutti, il nostro sogno è diventato realtà». Per loro raccolti oltre 130mila euro",
+      "url": "https://www.corriere.it/cronache/21_maggio_08/india-famiglia-bloccata-tornata-italia-finalmente-sicuro-insieme-miriam-4240ad42-b022-11eb-8261-0c233af9e96e.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/2021/05/08/Interni/Foto-Interni-Trattate/famiglia-khxE-U32601050032946XzB-526x284@Corriere-Web-Sezioni.jpg",
+      "publishedAt": "2021-05-08T20:03:17Z",
+      "content": "PISA Sorrisi e sguardi di felicità, finalmente. Sui volti di babbo Enzo e mamma Simonetta. E della figlia Mariam Gemma, 2 anni appena compiuti. Quando l’aereo privato inizia la discesa verso l’aeropo… [+3010 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lastampa.it"
+      },
+      "author": ".",
+      "title": "E' morto Bo, il cane di Barack Obama: “Oggi la nostra famiglia ha perso un vero amico e un fedele compagno” - La Stampa",
+      "description": "L’addio in un post su Facebook",
+      "url": "https://www.lastampa.it/la-zampa/cani/2021/05/08/news/e-morto-bo-il-cane-di-barack-obama-oggi-la-nostra-famiglia-ha-perso-un-vero-amico-e-un-fedele-compagno-1.40249214",
+      "urlToImage": "https://www.lastampa.it/image/contentid/policy:1.40249213:1620503172/obama_bo.jpg?f=detail_558&h=720&w=1280&$p$f$h$w=d96d23d",
+      "publishedAt": "2021-05-08T19:51:19Z",
+      "content": "«Oggi la nostra famiglia ha perso un vero amico e un compagno fedele». Con queste toccanti parole l'ex presidente americano Barack Obama saluta con un post su Facebook il suo cane Bo che venne adotta… [+3216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilmattino.it"
+      },
+      "author": "Redazione Web",
+      "title": "Pfizer, donna muore dopo la seconda dose nel parcheggio del centro vaccinale nel Trevigiano - ilmattino.it",
+      "description": "Villorba (Treviso) - Una donna anziana (91 anni) è morta per arresto cardiocircolatorio nel parcheggio del Punto vaccinale di Villorba: è successo...",
+      "url": "https://www.ilmattino.it/primopiano/cronaca/pfizer_donna_morta_seconda_dose_villorba_treviso_cosa_e_successo_ultima_ora_8_maggio_2021-5947616.html",
+      "urlToImage": "https://www.ilmattino.it/photos/MED/76/06/5947606_2150_pfizer_donna_morta_seconda_dose_villorba_treviso_cosa_e_successo_ultima_ora_8_maggio_2021_0.jpg",
+      "publishedAt": "2021-05-08T19:35:00Z",
+      "content": "Villorba (Treviso) - Una donna anziana (91 anni) è morta per arresto cardiocircolatorio nel parcheggio del Punto vaccinale di Villorba: è successo oggi 8 maggio alle 11. L’anziana, sottoposta un’ora … [+945 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Corriere.it"
+      },
+      "author": "Guido De Carolis",
+      "title": "Inter-Sampdoria 5-1 , pagelle: Ranocchia attento, Sanchez alza il livello, Pinamonti soddisfatto - Corriere della Sera",
+      "description": "La squadra di Conte vince la sua 14ª partita in casa e segna un altro record. Il gruppo è sempre sul pezzo, ora può divertirsi e festeggiare.",
+      "url": "https://www.corriere.it/sport/21_maggio_08/inter-sampdoria-5-1-pagelle-ranocchia-attento-sanchez-alza-livello-pinamonti-soddisfatto-8f629c62-b026-11eb-8261-0c233af9e96e.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/08/75261c3c-b028-11eb-8261-0c233af9e96e.jpg",
+      "publishedAt": "2021-05-08T18:12:04Z",
+      "content": "Queste le pagelle dell'Inter, ormai campione d'Italia, dopo l'anticipo della 35ª giornata contro la Sampdoria vinto per 5-1: 6 Handanovic Il gol della Sampdoria è un mezzo pasticcio. Si butta un po’ … [+1941 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lastampa.it"
+      },
+      "author": ".",
+      "title": "Covid, l’Irlanda rimuove l’Italia dalla quarantena obbligatoria - La Stampa",
+      "description": "Anche l'Austria, altri tre rimangono nell'elenco",
+      "url": "https://www.lastampa.it/viaggi/mondo/2021/05/08/news/covid-l-irlanda-rimuove-l-italia-dalla-quarantena-obbligatoria-1.40248997",
+      "urlToImage": "https://www.lastampa.it/image/contentid/policy:1.40248995:1620498886/ireland-4945565_960_720.jpg?f=detail_558&h=720&w=1280&$p$f$h$w=189a8d7",
       "publishedAt": "2021-05-08T18:05:00Z",
-      "content": "HANDANOVIC 5,5 - Riesce misteriosamente a evitare la rete di Candreva, giocata agevolata però da un suo tuffo completamente fuori tempo. Peccato per il gol arrivato comunque nel prosieguo dell'azione… [+4595 chars]"
+      "content": "L'Irlanda ha rimosso l'Italia e l'Austria dal suo elenco di Paesi soggetti a quarantena alberghiera obbligatoria, ma ha mantenuto le misure in vigore per altri tre Stati membri dell'Unione europea: B… [+962 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilmeteo.it"
+      },
+      "author": "Team iLMeteo.it",
+      "title": "VACCINO ASTRAZENECA e TROMBOSI: quali sono le FASCE d'età più a RISCHIO? Lo ha svelato uno STUDIO dell'EMA - iLMeteo.it",
+      "description": "VACCINO ASTRAZENECA e TROMBOSI: quali sono le FASCE d'età più a RISCHIO? Lo ha svelato uno STUDIO dell'EMA",
+      "url": "https://www.ilmeteo.it/notizie/vaccino-astrazeneca-e-trombosi-quali-sono-le-fasce-det-pi-a-rischio-lo-ha-svelato-uno-studio-dellema-082407",
+      "urlToImage": "https://www.ilmeteo.it/portale/files/giornale/astrazeneca-rischi-benefici-05042021.jpg",
+      "publishedAt": "2021-05-08T18:00:00Z",
+      "content": "Lo studio dell'EMA su AstraZeneca e i casi di TROMBOSIAstraZeneca continua ad essere al centro dell'attenzione sui rischi e i benefici del vaccino contro il COVID, con la disinformazione che spaventa… [+3815 chars]"
     },
     {
       "source": {
@@ -70,28 +161,15 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Adnkronos.com"
+        "name": "Napolitoday.it"
       },
-      "author": "mrtrepetto",
-      "title": "Ddl Zan, Gullotta: \"E' civiltà, ma a destre del cittadino non frega niente\" - Adnkronos",
-      "description": "L'attore all'Adnkronos: '1 maggio? Giusta lettera Fedez e denuncia censura, in Italia c’è sempre stata'",
-      "url": "https://www.adnkronos.com/ddl-zan-gullotta-e-civilta-ma-a-destre-del-cittadino-non-frega-niente_47HDTHXCg42ZgqtN4lzUSu",
-      "urlToImage": "https://www.adnkronos.com/resources/0269-123a7e13b241-ac27fd39bf69-1000/leo_gullotta_ipa_fg.jpg",
-      "publishedAt": "2021-05-08T17:25:00Z",
-      "content": "L'attore all'Adnkronos: \"1 maggio? Giusta lettera Fedez e denuncia censura, in Italia c’è sempre stata\"\"Non si può fare finta che il Ddl Zan non serva, che è inutile, come fa la destra per accontenta… [+1593 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Corriere.it"
-      },
-      "author": "Marta Serafini",
-      "title": "Kabul, bomba alla scuola: almeno 40 morti, per lo più sono studentesse - Corriere della Sera",
-      "description": "Strage contro lo studentesse in un quartiere sciita. Il portavoce dei talebani: «Questo attacco porta la firma dell’Isis»",
-      "url": "https://www.corriere.it/esteri/21_maggio_08/afghanistan-bomba-scuola-femminile-25-morti-fc378f5c-b00b-11eb-8261-0c233af9e96e.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/08/d2a98fb8-b011-11eb-8261-0c233af9e96e.jpg",
-      "publishedAt": "2021-05-08T16:20:00Z",
-      "content": "Il bilancio non è ancora definitivo ed è già terribile. Sono almeno 40 le persone uccise e altre 52 sono rimaste ferite in un’esplosione avvenuta questo pomeriggio alle 16:30 davanti a una scuola a K… [+4123 chars]"
+      "author": "Redazione",
+      "title": "Rischio caduta razzo cinese, le indicazioni della Protezione Civile della Campania - NapoliToday",
+      "description": "I detriti potrebbero contenere idrazina: importante non toccarli e restare ad almeno 20 metri di distanza",
+      "url": "https://www.napolitoday.it/social/razzo-cinese-caduta-campania-cosa-fare.html",
+      "urlToImage": "https://www.napolitoday.it/~media/horizontal-hi/2406822017151/panorami-a-napoli-in-piazza-del-gesu-nuovo-2-grande-panorama-dal-terrazzo-della-chiesa-del-gesu-nuovo.jpg",
+      "publishedAt": "2021-05-08T17:30:00Z",
+      "content": "In vista del rientro incontrollato nell'atmosfera terrestre del core stage/secondo stadio del vettore cinese PRC CZ5B, in linea con l'allerta lanciato dalla Protezione Civile, che interessa anche la … [+1628 chars]"
     },
     {
       "source": {
@@ -108,68 +186,29 @@ news_it = {
     },
     {
       "source": {
-        "id": "ansa",
-        "name": "ANSA.it"
+        "id": null,
+        "name": "Oasport.it"
       },
-      "author": "",
-      "title": "Vaccini: Napoli; Mostra e Capodichino chiusi da lunedì - Campania - Agenzia ANSA",
-      "description": "Lunedì, martedì e mercoledì mattina a Napoli saranno chiusi i due centri vaccinali più grandi\r\ndell'Asl Napoli1, quello dell'hangar di Capodichino e quello della Mostra d'Oltremare, che apriranno\r\nquindi mercoledì pomeriggio. (ANSA)",
-      "url": "https://www.ansa.it/campania/notizie/2021/05/08/vaccini-napoli-mostra-e-capodichino-chiusi-da-lunedi_854e1049-8fbc-4459-8c9b-549f0cb1cafe.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2021/5/3/88bcf3bfc9b952820ef9c71d8dc43d0c.jpg",
-      "publishedAt": "2021-05-08T16:14:00Z",
-      "content": "(ANSA) - NAPOLI, 08 MAG - Lunedì, martedì e mercoledì mattina\r\na Napoli saranno chiusi i due centri vaccinali più grandi\r\ndell'Asl Napoli1, quello dell'hangar di Capodichino e quello\r\ndella Mostra d'… [+1321 chars]"
+      "author": "Gianluca Bruno",
+      "title": "Giro d'Italia 2021: Filippo Ganna domina la cronometro di Torino. Vittoria e Maglia Rosa, secondo Edoardo Affini - OA Sport",
+      "description": "La risposta alle polemiche è arrivata nel modo migliore, da fuoriclasse assoluto. Il campione del mondo in carica timbra subito il cartellino, dopo qualche delusione nelle ultime uscite: è tornato il vero Filippo Ganna. Il piemontese, nella sua Regione, trion…",
+      "url": "https://www.oasport.it/2021/05/giro-ditalia-2021-filippo-ganna-domina-la-cronometro-di-torino-vittoria-e-maglia-rosa-secondo-edoardo-affini/",
+      "urlToImage": "https://www.oasport.it/wp-content/uploads/2021/05/12903951_small.jpg",
+      "publishedAt": "2021-05-08T15:58:59Z",
+      "content": "La risposta alle polemiche è arrivata nel modo migliore, da fuoriclasse assoluto. Il campione del mondo in carica timbra subito il cartellino, dopo qualche delusione nelle ultime uscite: è tornato il… [+1782 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gazzetta.it"
+        "name": "Today.it"
       },
-      "author": "Giovanni Cortinovis",
-      "title": "F1 GP Spagna, 100 pole di Hamilton: ecco le dieci perle del fenomeno - La Gazzetta dello Sport",
-      "description": "Dalla prima pole in carriera in F1 nel 2007 ai sorpassi storici a Senna e Schumacher, fino al record di velocità a Monza 2020: le dieci pole da leggenda di Lewis Hamilton",
-      "url": "https://www.gazzetta.it/Formula-1/storie/08-05-2021/f1-gp-spagna-100-pole-hamilton-ecco-dieci-perle-fenomeno-410841828430/",
-      "urlToImage": "https://images2.gazzettaobjects.it/methode_image/2021/05/08/Motori/Foto_Motori_-_Trattate/6ce4bedc-b007-11eb-b804-67e2dab7d42d_1200x675.jpg?v=202105081756",
-      "publishedAt": "2021-05-08T15:55:21Z",
+      "author": "Alberto Berlini",
+      "title": "Coronavirus, il bollettino di oggi sabato 8 maggio: 224 morti e 10.176 contagi. \"In base ai nuovi casi Covid il coprifuoco a mezzanotte\" - Today.it",
+      "description": "Gli aggiornamenti sull'emergenza coronavirus in Italia nel bollettino del ministero della Salute di oggi sabato 8 maggio 2021. I nuovi casi, i decessi e i numeri dei...",
+      "url": "https://www.today.it/attualita/bollettino-coronavirus-oggi-8-maggio-2021.html",
+      "urlToImage": "https://www.today.it/~media/horizontal-hi/28969166696200/bollettino-coronavirus-oggi-8-maggio-2021-2.jpg",
+      "publishedAt": "2021-05-08T15:42:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Corriere.it"
-      },
-      "author": "Marco Bonarrigo",
-      "title": "Giro d'Italia 2021, Filippo Ganna vince la crono di Torino: è maglia rosa - Corriere della Sera",
-      "description": "Il campione del mondo cronometro mostruoso a 70 km/h, vince la cronometro di Torino",
-      "url": "https://www.corriere.it/sport/21_maggio_08/filippo-ganna-vince-prima-tappa-giro-d-italia-2021-maglia-rosa-936135da-b00d-11eb-8261-0c233af9e96e.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/08/8873e9e6-b00e-11eb-8261-0c233af9e96e.jpg",
-      "publishedAt": "2021-05-08T15:52:59Z",
-      "content": "Come a Palermo nel 2020, meglio che a Palermo: a Torino Filippo Ganna ha dominato la cronometro di apertura del 104° Giro d’Italia e indossa la prima maglia rosa, disputando una prova stellare. \r\nIl … [+2144 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Corriere.it"
-      },
-      "author": "Redazione online",
-      "title": "Coronavirus in Italia, il bollettino di oggi 8 maggio: 10.176 nuovi casi e 224 morti - Corriere della Sera",
-      "description": "I dati del bollettino sulla pandemia di Covid-19 di sabato 8 maggio",
-      "url": "https://www.corriere.it/salute/21_maggio_08/coronavirus-italia-bollettino-oggi-8-maggio-10176-nuovi-casi-224-morti-71e9c8ca-afe2-11eb-8261-0c233af9e96e.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/2021/05/08/Salute/Foto-Salute-Trattate/Cattura-kFQG-U32601028039313VKI-526x284@Corriere-Web-Sezioni.PNG",
-      "publishedAt": "2021-05-08T15:37:35Z",
-      "content": "Sono 10.176*i nuovi casi di coronavirus in Italia (ieri sono stati +10.554, qui il bollettino). Sale così ad almeno 4.102.921 il numero di persone che hanno contratto il virus Sars-CoV-2 (compresi gu… [+3981 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilmattino.it"
-      },
-      "author": "Redazione Web",
-      "title": "Razzo cinese in caduta libera verso la Terra, l'allarme della Protezione civile della... - ilmattino.it",
-      "description": "Razzo cinese, c'è una circolare della Protezione civile della Campania che dalla mezzanotte e fino alle 6 di domenica mattina attiverà la sala operativa regionale in fase...",
-      "url": "https://www.ilmattino.it/napoli/cronaca/razzo_cinese_in_caduta_sulla_campania_ultime_notizie_oggi_protezione_civile-5947372.html",
-      "urlToImage": "https://www.ilmattino.it/photos/MED/73/72/5947372_1715_rzu.jpg",
-      "publishedAt": "2021-05-08T15:15:00Z",
-      "content": "Razzo cinese, c'è una circolare della Protezione civile della Campania che dalla mezzanotte e fino alle 6 di domenica mattina attiverà la sala operativa regionale in fase operativa di attenzione. \r\nV… [+1100 chars]"
     },
     {
       "source": {
@@ -177,90 +216,51 @@ news_it = {
         "name": "Ilmessaggero.it"
       },
       "author": "Redazione Web",
-      "title": "Elisa Isoardi in lacrime a Verissimo: «Ho vissuto un periodo difficile, non ci parlavamo più» - Il Messaggero",
-      "description": "Elisa Isoardi è ospite di Silvia Toffanin a Verissimo. Reduce dall'esperienza all'Isola dei Famosi, l'ex naufraga esordisce scherzando sul calo di peso dovuto alla...",
-      "url": "https://www.ilmessaggero.it/televisione/elisa_isoardi_verissimo_mamma_piange_cosa_ha_detto_oggi_8_maggio_2021-5947370.html",
-      "urlToImage": "https://www.ilmessaggero.it/photos/MED/73/70/5947370_1712_elisa_isoradi_verissimo.jpg",
-      "publishedAt": "2021-05-08T15:13:39Z",
+      "title": "Luana D'Orazio, l'esito dell'autopsia: morta per schiacciamento del torace - ilmessaggero.it",
+      "description": "L'autopsia ha stabilito che Luana D'Orazio, l'operaia di 22 anni morta il 3 maggio a Montemurlo (Prato) in una macchina tessile nella ditta in cui lavorava è deceduta per...",
+      "url": "https://www.ilmessaggero.it/italia/luana_morta_fabbrica_lavoro_autopsia_cosa_e_successo_ultime_notizie_oggi_8_maggio_2021-5947331.html",
+      "urlToImage": "https://www.ilmessaggero.it/photos/MED/73/31/5947331_1635_luana_autopsia.jpg",
+      "publishedAt": "2021-05-08T14:39:59Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Ilgiornale.it"
+        "name": "Foggiatoday.it"
       },
-      "author": "Roberto Vivaldelli",
-      "title": "L'ombra di Epstein sul divorzio fra Bill e Melinda Gates - ilGiornale.it",
-      "description": "Emergono nuovi dettagli sul divorzio fra i coniugi Gates. Secondo alcune ricostruzioni, la coppia era in crisi da tempo e una delle cause della rottura potrebbe essere l'ex magnate-pedofilo morto nel 2019",
-      "url": "https://www.ilgiornale.it/news/mondo/jeffrey-epstein-causa-divorzio-bill-e-melinda-gates-1945092.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2021/05/05/1620204301-axk5xjum-pstwl9ibcxe-lapresse.jpeg?_=1620204301",
-      "publishedAt": "2021-05-08T15:10:00Z",
-      "content": "Un divorzio che era nell'aria da tempo, quello fra Bill e Melinda Gates. Secondo quanto riportato da una fonte anonima citata dalla rivista People, molto vicina alla coppia, ci sarebbero più cause ch… [+3399 chars]"
+      "author": "FoggiaToday",
+      "title": "La Puglia torna in zona gialla: che cosa cambia dal 10 maggio - FoggiaToday",
+      "description": "Fino a fine mese non è consentito il consumo di bevande e alimenti all'interno dei locali. Dalle 5 alle 22 non servono più autocertificazioni per spostarsi",
+      "url": "https://www.foggiatoday.it/cronaca/coronavirus-puglia-zona-gialla-10-maggio-regole.html",
+      "urlToImage": "https://www.foggiatoday.it/~media/horizontal-hi/18514634027876/passeggio-centro-foggia_d-agostino-3.jpg",
+      "publishedAt": "2021-05-08T14:31:00Z",
+      "content": "Nella zona gialla che in Puglia scatta il 10 maggio, secondo le regole in vigore dal 26 aprile, si torna a consumare ai tavoli ma esclusivamente all'aperto. Fino al 31 maggio (compreso), infatti, non… [+4492 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Virgilio.it"
+        "name": "Leggo.it"
       },
-      "author": "Virgilio Sport",
-      "title": "Milan, c'è l'annuncio di Stefano Pioli su Gigio Donnarumma - Virgilio Sport",
-      "description": "Il tecnico rossonero sul match contro la Juventus: \"Chi vince ha grandi possibilità di andare in Champions ma non sarà finita, ci sono tante altre partite\".",
-      "url": "https://sport.virgilio.it/milan-stefano-pioli-rassicura-i-tifosi-su-gigio-donnarumma-688514",
-      "urlToImage": "https://wips.plug.it/cips/sport.virgilio.it/cms/2021/05/pioli-donnarumma_unr5di7p7z6f1hg8zmheu7ly1.jpg?w=640&a=c&h=360",
-      "publishedAt": "2021-05-08T15:10:00Z",
-      "content": "In vista della sfida contro la Juventus, il tecnico del Milan Stefano Pioli è intervenuto in conferenza stampa: “Chi vince ha grandi possibilità di andare in Champions ma non sarà finita, ci sono tan… [+2244 chars]"
+      "author": "E.C.",
+      "title": "Amici, lo sfogo di una ballerina professionista: «Ho litigato con Maria De Filippi e ho lasciato il programma» - leggo.it",
+      "description": "Amici, lo sfogo di una ballerina professionista: «Ho litigato con Maria De Filippi e ho lasciato il programma». Stasera, in onda su Canale 5, la semifinale del talent condotto...",
+      "url": "https://www.leggo.it/spettacoli/amici/amici_sfogo_di_ballerina_professionista_ho_litigato_maria_de_filippi_ho_lasciato_programma-5947268.html",
+      "urlToImage": "https://www.leggo.it/photos/MED/72/68/5947268_1539_mariadefilippi.jpg",
+      "publishedAt": "2021-05-08T14:23:00Z",
+      "content": "Amici\r\n, lo sfogo di una ballerina professionista: «Ho litigato con Maria De Filippi e ho lasciato il programma». Stasera, in onda su Canale 5, la semifinale del talent condotto da Maria De Filippi. … [+1336 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Quotidiano.net"
+        "name": "Comingsoon.it"
       },
-      "author": "Quotidiano Nazionale",
-      "title": "Vaccini, Draghi: \"Accelerare e aumentare produzione\". Ue, ok a nuovo contratto con Pfizer - QUOTIDIANO NAZIONALE",
-      "description": "La linea del premier al vertice Ue. Draghi: \"Liberalizzare i brevetti non basta. Riaprire sì ma usando la testa\". Sul mercato del lavoro: \"Dichiarazione importante, con Gb non ci sarebbe stata\". Il Papa: \"Sospensione temporanea dei diritti di proprietà intell…",
-      "url": "https://www.quotidiano.net/cronaca/vaccini-pfizer-1.6338036",
-      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6338047.1620472582%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700&h=391",
-      "publishedAt": "2021-05-08T13:56:12Z",
-      "content": "Roma, 8 maggio 2021 - \"In Europa dobbiamo continuare ad accelerare le vaccinazioni con trasparenza e in sicurezza aumentando la produzione\". È la linea che il premier Mario Draghi ha assunto nel suo … [+3545 chars]"
-    },
-    {
-      "source": {
-        "id": "ansa",
-        "name": "ANSA.it"
-      },
-      "author": "",
-      "title": "Rsa, Speranza firma ordinanza per visite in sicurezza - Salute & Benessere - Agenzia ANSA",
-      "description": "L'ingresso sarà consentito solo ai possessori di Certificazione Verde Covid-19. Il ministro:\r\n'Massima attenzione ma c'è la gioia di poter rivedere i prori cari'. Le misure potranno essere\r\nrimodulate 'in sensorestrittivo in base all'evoluzione dello scenario…",
-      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2021/05/08/rsa-speranza-firma-ordinanza-per-visite-in-sicurezza_4248037b-e316-43a0-a2a9-9c36449a7d4a.html",
-      "urlToImage": "https://www.ansa.it/webimages/ch_700/2021/2/9/8384c6112a7acbd4dcdc30b3765271b8.jpg",
-      "publishedAt": "2021-05-08T13:56:00Z",
-      "content": "\"Ho appena firmato l'ordinanza che consentirà le visite in piena sicurezza in tutte le Rsa. Ringrazio le Regioni e il Comitato Tecnico Scientifico che hanno lavorato in sintonia con il ministero dell… [+2528 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilgiornale.it"
-      },
-      "author": "Novella Toloni",
-      "title": "Cara #Diletta, basta tirare in ballo la nonna - ilGiornale.it",
-      "description": "L'inviata sportiva è tornata a commentare le foto del flirt con Friedkin dopo aver ricevuto l'ennesimo tapiro d'oro. Un \"limone\" che a quanto pare non fa soffrire la nonna",
-      "url": "https://www.ilgiornale.it/news/spettacoli/tapiro-diletta-leotta-29-anni-limone-te-puoi-concedere-1945045.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2021/05/08/1620470742-leotta.jpg?_=1620470742",
-      "publishedAt": "2021-05-08T13:41:00Z",
-      "content": "Non è una mangiatrice di uomini, ma un \"limone\" a 29 anni può concederselo. Parola di Diletta Leotta. Dopo lo sfogo social contro il gossip spazzatura costruito sulla sua vita sentimentale, l'inviata… [+2122 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Toscana.it"
-      },
-      "author": "Sirio Del Grande",
-      "title": "#Coronavirus: 165 casi positivi nell'Asl Toscana nord ovest – il punto anche sulle vaccinazioni anti-Covid - Azienda Usl Toscana nord ovest",
-      "description": null,
-      "url": "https://www.uslnordovest.toscana.it/notizie/7150-coronavirus-165-casi-positivi-nell-asl-toscana-nord-ovest-il-punto-anche-sulle-vaccinazioni-anti-covid",
-      "urlToImage": null,
-      "publishedAt": "2021-05-08T13:28:56Z",
-      "content": "8 maggio 2021  NellAzienda USL Toscana nord ovest i casi positivi di oggi, 8 maggio, sono 165.\r\nI dati divisi per zona su tamponi molecolari e test rapidi effettuati  e su numero di guarigioni torner… [+6915 chars]"
+      "author": null,
+      "title": "Il Paradiso delle Signore Anticipazioni: Una novità cambia per sempre la vita di Rocco e Maria... - ComingSoon.it",
+      "description": "Le Anticipazioni de Il Paradiso delle Signore ci rivelano che la vita di Rocco e Maria verrà sconvolta! Ma cosa succederà nelle prossime puntate della soap di Rai1?",
+      "url": "https://www.comingsoon.it/tv/anticipazioni/il-paradiso-delle-signore-anticipazioni-una-novita-cambia-per-sempre-la/n122896/",
+      "urlToImage": "https://mr.comingsoon.it/imgdb/PrimoPiano/122896_ppl.jpg",
+      "publishedAt": "2021-05-08T13:30:00Z",
+      "content": "Le Anticipazioni de Il Paradiso delle Signore ci rivelano che la vita di Rocco e Maria verrà sconvolta! Ma cosa succederà nelle prossime puntate della soap di Rai1?Tra intrighi, sotterfugi e crisi ma… [+2924 chars]"
     }
   ]
 }

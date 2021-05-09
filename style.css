@@ -37,9 +37,15 @@ nav {
     box-shadow: 0 0 8px #777;
     border-radius: 4px;
 }
-.navlink > h3 {
+
+.navlink > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.navlink > div > h3 {
     font-weight: 900;
-    font-size: 28px;
     margin: 8px;
 }
 

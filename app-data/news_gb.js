@@ -4,107 +4,146 @@ news_gb = {
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Mirror Online"
+        "id": "bbc-news",
+        "name": "BBC News"
       },
-      "author": "Natalia Penza",
-      "title": "British man, 66, dies after light aircraft crashes into sea off Spanish beach - Mirror Online",
-      "description": "Local reports claim the British man was performing acrobatic stunts before his plane crashed into the sea off Descargador Beach, near Cala Reona, in the Murcia region of Spain",
-      "url": "https://www.mirror.co.uk/news/world-news/breaking-british-man-66-dies-24068941",
-      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article24068958.ece/ALTERNATES/s1200/0_Cala-Reona.jpg",
-      "publishedAt": "2021-05-08T20:00:34Z",
-      "content": "A British man has died after a plane crashed into the sea off a beach in Spain.\r\nThe 66-year-old was killed instantly when the light aircraft plunged into the water soon after he took off from a smal… [+2394 chars]"
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "London elections: Sadiq Khan wins second term as mayor - BBC News",
+      "description": "The former MP will serve for another three years after beating Conservative rival Shaun Bailey.",
+      "url": "https://www.bbc.co.uk/news/uk-england-london-56997137",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1219F/production/_118434147_hi067218377.jpg",
+      "publishedAt": "2021-05-08T23:44:55Z",
+      "content": "media captionSadiq Khan: \"I promise to strain every sinew to help build a better, brighter future for London\"\r\nLabour's Sadiq Khan has won a second term as London's mayor, beating Conservative rival … [+4081 chars]"
     },
     {
       "source": {
-        "id": "independent",
-        "name": "Independent"
+        "id": null,
+        "name": "Express"
       },
-      "author": "Mark Critchley",
-      "title": "Marcos Alonso snatches late Chelsea win to punish Man City and extend wait for Premier League title - The Independent",
-      "description": "Man City 1-2 Chelsea: Pep Guardiola’s side must wait at least another day to discover if they have clinched the title after Thomas Tuchel’s side’s comeback",
-      "url": "https://www.independent.co.uk/sport/football/man-city-chelsea-result-final-score-b1844291.html",
-      "urlToImage": "https://static.independent.co.uk/2021/05/08/19/GettyImages-1316994421.jpg?width=1200&auto=webp&quality=75",
-      "publishedAt": "2021-05-08T18:46:02Z",
-      "content": "Manchester City will be crowned Premier League champions at some point, probably in the next few days in fact. Everyone knows that. Yet that is no excuse for playing as though already performing a vi… [+5722 chars]"
+      "author": "John Varga",
+      "title": "High alert! China rocket hurtling to Earth at 18,000mph to crash land in ONE hour - Daily Express",
+      "description": "DEBRIS from China's Long March 5B rocket is expected to crash back down to Earth within the next few hours.",
+      "url": "https://www.express.co.uk/news/science/1433610/china-rocket-crash-reentry-latest-2am-to-4am-long-march-5b-space-ont",
+      "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/151/750x445/1433610.jpg",
+      "publishedAt": "2021-05-08T23:11:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "Daily Mail"
       },
-      "author": "Aisha Nozari",
-      "title": "Martin Compston and Vicky McClure mark joint birthday by sharing loved-snaps with their partners - Daily Mail",
-      "description": "Line Of Duty's Martin Compston and Vicky McClure - who share the same birthday and turned 37 and 38 respectively on Saturday - mark their big days by sharing Instagram photos with their partners.",
-      "url": "https://www.dailymail.co.uk/tvshowbiz/article-9557563/Martin-Compston-Vicky-McClure-mark-joint-birthday-sharing-loved-snaps-partners.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2021/05/08/19/42737244-0-image-a-30_1620497678685.jpg",
-      "publishedAt": "2021-05-08T18:26:59Z",
-      "content": "Line Of Duty's Martin Compston and Vicky McClure - who share the same birthday and turned 37 and 38 respectively on Saturday - have both marked their big days by sharing Instagram photos with their p… [+15965 chars]"
+      "author": "Chris Hastings Art Correspondent",
+      "title": "Boozing with Chris Evans helped me overcome teen anorexia, says Billie Piper - Daily Mail",
+      "description": "Billie Piper, 38, says on today's Desert Island Discs on BBC Radio 4 her boozy nights with ex-husband Chris Evans helped her to overcome her teenage eating disorder.",
+      "url": "https://www.dailymail.co.uk/tvshowbiz/article-9558085/Boozing-Chris-Evans-helped-overcome-teen-anorexia-says-Billie-Piper.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2021/05/08/23/42743134-0-image-a-14_1620513815923.jpg",
+      "publishedAt": "2021-05-08T23:01:17Z",
+      "content": "Billie Piper says boozy nights with Chris Evans helped her to overcome her teenage eating disorder.\r\nThe star, who topped the charts at 15, said the anorexia she had at the time was a reaction to the… [+1928 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "The Guardian"
       },
-      "author": "Heather Stewart",
-      "title": "Angela Rayner sacked as Labour chair after Hartlepool byelection loss - The Guardian",
-      "description": "Move looks to reignite Labour civil war after worse-than-expected defeat in north-east",
-      "url": "https://amp.theguardian.com/politics/2021/may/08/angela-rayner-sacked-as-labour-chair-after-hartlepool-byelection-loss",
+      "author": "Jamie Jackson",
+      "title": "Guardiola defends Agüero after fluffed Panenka opens door to Chelsea win - The Guardian",
+      "description": "Pep Guardiola refused to blame Sergio Agüero for his failed Panenka penalty as Manchester City missed the chance to be crowned champions.",
+      "url": "https://amp.theguardian.com/football/2021/may/08/if-aguero-scores-we-would-be-saying-that-hes-a-genius",
       "urlToImage": null,
-      "publishedAt": "2021-05-08T18:26:00Z",
-      "content": "LabourMove looks to reignite Labour civil war after worse-than-expected defeat in north-east\r\nKeir Starmer has sacked Angela Rayner from her roles as Labours party chair and national campaign coordin… [+3574 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Evening Standard"
-      },
-      "author": "Ross Lydall",
-      "title": "Sadiq Khan powering to victory in London mayor race after winning four more constituencies - Evening Standard",
-      "description": "Next mayor WILL be announced tonight, election chiefs confirm",
-      "url": "https://www.standard.co.uk/news/mayor/bailey-covid-mayoral-election-sadiq-victory-b933921.html",
-      "urlToImage": "https://static.standard.co.uk/2021/05/08/18/SEI77801263.jpg?width=1200&width=1200&auto=webp&quality=75",
-      "publishedAt": "2021-05-08T18:17:08Z",
-      "content": "Sadiq Khan powered towards victory tonight by outpolling Shaun Bailey in the first four constituencies to declare results today.\r\nIt came as election chiefs confirmed that the next mayor will be decl… [+6920 chars]"
+      "publishedAt": "2021-05-08T23:01:00Z",
+      "content": "Manchester City<ul><li>Hes selfish because he missed if he scores hes a genius</li><li>Chelsea fightback leaves Manchester City waiting for title</li></ul>\r\nPep Guardiola refused to blame Sergio Agüe… [+2890 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "The Guardian"
       },
-      "author": "Daniel Boffey",
-      "title": "US must export vaccine doses before waiving patents, say EU leaders - The Guardian",
-      "description": "Frustration expressed at what several leaders see as the US president’s attempt to claim the moral high ground",
-      "url": "https://amp.theguardian.com/world/2021/may/08/us-must-export-doses-before-waiving-covid-vaccine-patents-say-eu-leaders",
-      "urlToImage": "https://i.guim.co.uk/img/media/8137d35f80db0e2ff905dad307112c4bdc19fa25/0_213_5906_3544/master/5906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6c7d635d28c7dc6a5e23675f0eeb5cf5",
-      "publishedAt": "2021-05-08T18:08:00Z",
-      "content": "EU leaders have given short shrift to a proposal by Joe Biden and backed by the pope to waive Covid-19 vaccine patents as a way to increase supply, insisting that the White House should instead allow… [+3937 chars]"
+      "author": "Guardian staff reporter",
+      "title": "Ulster Unionist party leader announces resignation - The Guardian",
+      "description": "Steve Aiken’s move throws unionism in Northern Ireland into further flux after Arlene Foster was forced to quit",
+      "url": "https://amp.theguardian.com/uk-news/2021/may/08/ulster-unionist-party-leader-announces-resignation",
+      "urlToImage": null,
+      "publishedAt": "2021-05-08T22:16:00Z",
+      "content": "Northern IrelandSteve Aikens move throws unionism in Northern Ireland into further flux after Arlene Foster was forced to quit\r\nPolitical unionism in Northern Ireland has been thrown into further flu… [+3691 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "Mehul Srivastava",
+      "title": "Israel under pressure to rein in settlers after clashes at al-Aqsa mosque - Financial Times",
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "url": "https://www.ft.com/content/c3f18db9-5b99-439f-9370-a9ce6e48c452",
+      "urlToImage": null,
+      "publishedAt": "2021-05-08T22:05:49Z",
+      "content": "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Welsh election 2021: First woman of colour elected to Welsh Parliament - BBC News",
+      "description": "Natasha Asghar hopes to inspire others and said the Senedd should reflect \"more diverse communities\".",
+      "url": "https://www.bbc.co.uk/news/uk-wales-57041114",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9545/production/_118431283_de2231.jpg",
+      "publishedAt": "2021-05-08T21:57:01Z",
+      "content": "By Rachel FlintBBC News\r\nmedia captionNatasha Asghar said she hopes to see people from more diverse backgrounds in Welsh politics.\r\nThe first woman of colour elected to the Welsh Parliament said she … [+7582 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Sun"
+        "name": "Mirror Online"
       },
-      "author": "SunSport Reporters",
-      "title": "Canelo Alvarez vs Billy Joe Saunders LIVE RESULTS: Fight build-up to TONIGHT’s big world title showdown – l... - The Sun",
-      "description": "",
-      "url": "https://www.thesun.co.uk/sport/boxing/14884958/canelo-alvarez-billy-joe-saunders-live-results-fight-latest-updates/",
-      "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2021/05/Transfer-News-Template-49.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
-      "publishedAt": "2021-05-08T17:45:55Z",
-      "content": "READY TO PAY THE BIL\r\nCanelo is 'fed up' with Billy Joe Saunders ahead of their fight tonight, according to former world champion Chris Algieri.\r\nWhen asked if Saunders is trying to get under Canelo'… [+1028 chars]"
+      "author": "Will Twigger",
+      "title": "ITV urged to axe DOI's John Barrowman by MP as he's accused of exposing himself on set - Mirror.co.uk",
+      "description": "Tory MP Alec Shelbrooke has said that John Barrowman should step down from his judging role on Dancing On Ice after the actor was accused of exposing himself on the set of Doctor Who",
+      "url": "https://www.mirror.co.uk/tv/tv-news/itv-urged-axe-dois-john-24069319",
+      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article23754703.ece/ALTERNATES/s1200/2_John-Barrowman.jpg",
+      "publishedAt": "2021-05-08T21:34:42Z",
+      "content": "An MP has called for John Barrowman to step down from his role as a judge on Dancing On Ice after accusations that he had exposed himself on set.\r\nTory Alec Shelbrooke said that \"inappropriate behavi… [+2384 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sky.com"
+        "name": "Daily Mail"
       },
-      "author": "Alan McGuinness",
-      "title": "Election results: Sturgeon warns Johnson not to block second independence referendum - as SNP hopes for Holyrood majority fade - Sky News",
-      "description": "Nicola Sturgeon tells Boris Johnson he will be \"picking a fight with the democratic wishes of the Scottish people\".",
-      "url": "https://news.sky.com/story/election-results-sturgeon-warns-johnson-not-to-block-second-independence-referendum-as-snp-hopes-for-overall-majority-fade-12300929",
-      "urlToImage": "https://e3.365dm.com/21/05/1600x900/skynews-sturgeon-snp_5374804.jpg?20210508183122",
-      "publishedAt": "2021-05-08T17:25:35Z",
-      "content": null
+      "author": "Ethan Ennals",
+      "title": "Finally, the proof Covid vaccines ARE safe when you're pregnant - Daily Mail",
+      "description": "It is a major step forwards in the battle against the virus. And there is even evidence that vaccinating women now may have knock-on benefits for any children they have in the future, too.",
+      "url": "https://www.dailymail.co.uk/health/article-9557067/Finally-proof-Covid-vaccines-safe-youre-pregnant.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2021/05/08/19/42737174-0-image-a-100_1620497392553.jpg",
+      "publishedAt": "2021-05-08T21:04:25Z",
+      "content": "The message from health chiefs is clear: Covid-19 vaccines are safe for pregnant women. While a question mark hung over this vital detail earlier on in jab trials, today there is clear data to show t… [+7755 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Alastair Jamieson",
+      "title": "Bomb targeting girls at Kabul school kills at least 55 as Afghan president blames Taliban - The Independent",
+      "description": "‘Everyone was yelling and there was blood everywhere’ says student who survived",
+      "url": "https://www.independent.co.uk/asia/central-asia/kabul-school-bomb-girls-afghanistan-b1844326.html",
+      "urlToImage": "https://static.independent.co.uk/2021/05/08/21/SEI78015886.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2021-05-08T21:01:24Z",
+      "content": "Explosions caused by a car bomb and mortars outside a school in Kabul killed at least 55 people and wounded over 150, mostly girls an atrocity blamed on Taliban insurgents.\r\nMost of the casualties we… [+2182 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mirror Online"
+      },
+      "author": "Martin Domin",
+      "title": "Canelo Alvarez vs Billy Joe Saunders LIVE results: UK Start, time undercard and live stream - Mirror.co.uk",
+      "description": "Canelo Alvarez and Billy Joe Saunders put their super-middleweight world titles on the line in Dallas tonight",
+      "url": "https://www.mirror.co.uk/sport/boxing/canelo-saunders-fight-live-stream-24069010",
+      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article24064471.ece/ALTERNATES/s1200/0_Canelo-Alvarez-v-Billy-Joe-Saunders-Weigh-In.jpg",
+      "publishedAt": "2021-05-08T20:52:04Z",
+      "content": "Billy Joe Saunders will tonight attempt to pull off one of the biggest victories in British boxing history when he takes on Canelo Alvarez.\r\nSaunders is a huge underdog going into his super-middlewei… [+540 chars]"
     },
     {
       "source": {
@@ -112,155 +151,116 @@ news_gb = {
         "name": "Sky.com"
       },
       "author": "Sky",
-      "title": "Election results: More joy for Conservatives as Andy Street wins West Midlands mayoral race - Sky News",
-      "description": "",
-      "url": "https://news.sky.com/story/election-results-more-joy-for-conservatives-as-andy-street-wins-west-midlands-mayoral-race-12300655",
-      "urlToImage": "https://e3.365dm.com/21/05/1600x900/skynews-andy-street-west-midlands_5374810.jpg?20210508183329",
-      "publishedAt": "2021-05-08T17:25:35Z",
+      "title": "Election results: Alex Salmond admits he may not lead Alba much longer after disappointment at polls - Sky News",
+      "description": "The former first minister says he is an \"interim leader\" and the future of the position will be decided at a party conference.",
+      "url": "https://news.sky.com/story/election-results-alex-salmond-admits-he-may-not-lead-alba-much-longer-after-disappointment-at-polls-12300806",
+      "urlToImage": "https://e3.365dm.com/21/05/1600x900/skynews-alex-salmond-alba-party_5374683.jpg?20210508173841",
+      "publishedAt": "2021-05-08T20:43:36Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Mirror Online"
+        "name": "Telegraph.co.uk"
       },
-      "author": "Chris Kitching, Andrew Galbraith, Winni Zhou, Gabriella Borter",
-      "title": "Chinese rocket live tracker: Latest location of massive projectile hurtling to Earth - Mirror Online",
-      "description": "China's Long March 5B rocket body is free-falling back to Earth and there are fears remnants could fall on populated areas, though experts say the probability is \"low\"",
-      "url": "https://www.mirror.co.uk/news/world-news/chinese-rocket-live-tracker-latest-24067915",
-      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article24067983.ece/ALTERNATES/s1200/0_chinese-rocket.png",
-      "publishedAt": "2021-05-08T17:11:53Z",
-      "content": "A live video stream shows the latest location of a massive Chinese rocket that is set to crash back on Earth on Saturday night or early Sunday morning. \r\nThe tracker shows the position of the Long Ma… [+4452 chars]"
+      "author": "By\nChristopher Hope,",
+      "title": "Use 'common sense' when hugging loved ones is allowed next week, says Boris Johnson - Telegraph.co.uk",
+      "description": "The Prime Minister is due to set out the next stage of lifting restrictions from May 17 at a Downing Street press conference on Sunday",
+      "url": "https://www.telegraph.co.uk/politics/2021/05/08/use-common-sense-hugging-loved-ones-allowed-next-week-says-boris/",
+      "urlToImage": "https://www.telegraph.co.uk/content/dam/politics/2021/05/08/TELEMMGLPICT000257935312_trans_NvBQzQNjv4BqL_8Yx5k0w0V5nzn_0mH7FO-kqExyg_QQJPDQBFxAqN8.jpeg?impolicy=logo-overlay",
+      "publishedAt": "2021-05-08T20:30:00Z",
+      "content": "Nesil Caliskan, chairman of the LGAs Safer and Stronger Communities Board, said: The Government needs to consider changing the current policy so that only one registrar is required at a ceremony as t… [+1161 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ComingSoon.net"
+        "name": "BBC News"
       },
       "author": null,
-      "title": "Tawny Kitaen Passes Away at 59 - ComingSoon.net",
-      "description": "Actress and media personality Tawny Kitaen has passed away. Born Julie Kitaen, the 59-year-old became an icon in the 1980s and is most famous for appearing being in Whitesnake videos including \"Here I Go Again.\"",
-      "url": "https://www.comingsoon.net/movies/news/1172868-tawny-kitaen-passes-away-at-59-years-old",
-      "urlToImage": "https://www.comingsoon.net/assets/uploads/2021/05/GettyImages-462733014-1.jpg",
-      "publishedAt": "2021-05-08T16:53:17Z",
-      "content": "(Photo by Michael Tran/FilmMagic)\r\nActress and media personality Tawny Kitaen has passed away. Born Julie Kitaen, the 59-year-old became an icon in the 1980s and is most famous for appearing on Ratt … [+1429 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Kabul attack: Blast near school leaves at least 30 dead - BBC News",
-      "description": "The attack took place as the students - thought to be mainly girls - were leaving the Kabul school.",
-      "url": "https://www.bbc.co.uk/news/world-asia-57040713",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10CC3/production/_118430886_a1328ae9-a0e9-4378-817e-9e43ee8e8420.jpg",
-      "publishedAt": "2021-05-08T16:49:26Z",
-      "content": "image captionAmbulances rushed the injured to hospital\r\nA blast close to a secondary school in the Afghan capital Kabul has left at least 30 people dead and dozens more injured, officials have said.\r… [+2902 chars]"
+      "title": "Spanish Grand Prix: Lewis Hamilton's 100th pole more than a number' - BBC News",
+      "description": "Lewis Hamilton's 100th pole position is \"hard to compute\", but the real emotion resonated from the account of an old friend.",
+      "url": "https://www.bbc.com/sport/formula1/57041848",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/EADB/production/_118432106_hi067207027.jpg",
+      "publishedAt": "2021-05-08T20:23:32Z",
+      "content": "The Spanish Grand Prix is on BBC Radio 5 Live Sports Extra and the BBC Sport website from 14:00 BST on Sunday\r\nLewis Hamilton said he was \"proud\" of the lap that took him to the remarkable milestone … [+7260 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Mirror Online"
+        "name": "The Sun"
       },
-      "author": "Susan Knox",
-      "title": "Shaughna Phillips unveils 'Kim Kardashian body' after epic weight loss transformation - Mirror Online",
-      "description": "Love Island star Shaughna Phillips has completely transformed her gorgeous figure after gaining over two stone in lockdown",
-      "url": "https://www.mirror.co.uk/3am/celebrity-news/shaughna-phillips-unveils-kim-kardashian-24067803",
-      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article24067845.ece/ALTERNATES/s1200/1_Social.jpg",
-      "publishedAt": "2021-05-08T16:21:10Z",
-      "content": "Shaughna Phillips has completely wowed fans with her jaw-dropping weight transformation. \r\n The former Love Island babe, 27, recently revealed that she had gained over two stone in lockdown as she wa… [+3337 chars]"
+      "author": "Hannah Hope",
+      "title": "Alan Carr miffed when pal Adele suggested he stay at LA hotel instead of her £7.7million mansion... - The Sun",
+      "description": "",
+      "url": "https://www.thesun.co.uk/tv/14894782/alan-carr-adele-hotel-instead-of-mansion/",
+      "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2021/05/OPLEX-MA-ALAN.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+      "publishedAt": "2021-05-08T20:22:00Z",
+      "content": "COMEDIAN Alan Carr was miffed when his pal singer Adele suggested he stay at a quirky hotel on a recent visit to Los Angeles instead of her luxury mansion.\r\nThe British songstress,  33, recommended t… [+1943 chars]"
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "independent",
+        "name": "Independent"
       },
-      "author": "Dan Goodin",
-      "title": "Apple brass discussed disclosing 128-million iPhone hack, then decided not to - Ars Technica",
-      "description": "Emails entered into Epic Games lawsuit show execs contradicting Apple talking points.",
-      "url": "https://arstechnica.com/gadgets/2021/05/apple-brass-discussed-disclosing-128-million-iphone-hack-then-decided-not-to/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/smartphone-760x380.jpeg",
-      "publishedAt": "2021-05-08T16:10:41Z",
-      "content": "76 with 43 posters participating\r\nIn September 2015, Apple managers had a dilemma on their hands: should, or should they not, notify 128 million iPhone users of what remains the worst mass iOS compro… [+5442 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sky Sports"
-      },
-      "author": "Sky Sports",
-      "title": "Lewis Hamilton, 100 pole positions: The key statistics as Mercedes driver hits big Formula 1 milestone - Sky Sports",
-      "description": "Lewis Hamilton has hit 100 - and we look at the key statistics, from how many poles per season and team, to who has been on the front row most often.",
-      "url": "https://www.skysports.com/f1/news/12433/12288663/lewis-hamilton-100-pole-positions-the-key-statistics-as-mercedes-driver-hits-big-formula-1-milestone",
-      "urlToImage": "https://e0.365dm.com/21/05/1600x900/skysports-lewis-hamilton-mercedes_5362691.png",
-      "publishedAt": "2021-05-08T15:34:24Z",
-      "content": "Hamilton's 100 poles: By season\r\nJust like race victories, Lewis Hamilton has scored a pole position in all 15 of his F1 seasons.\r\nHe started off very strong at McLaren, with six poles in his debut c… [+2692 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Worcester City Council: Conservatives win control - BBC News",
-      "description": "The council has gone from no overall control to a majority Conservative leadership.",
-      "url": "https://www.bbc.co.uk/news/uk-england-hereford-worcester-57039693",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5AA3/production/_118430232_img_6591.jpg",
-      "publishedAt": "2021-05-08T15:08:13Z",
-      "content": "image captionThe Tories now have control of Worcester City Council by one seat\r\nThe Conservatives have taken charge of Worcester City Council, which formerly had no party in overall control.\r\nThe par… [+1422 chars]"
+      "author": "Peter Stubley",
+      "title": "Andy Burnham wins bigger majority as Greater Manchester mayor and rips into Johnson over ‘levelling-up’ - The Independent",
+      "description": "Former Labour cabinet minister declines to rule out future leadership bid but says his party needs to ‘embrace English devolution with a vengeance’",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-mayor-manchester-labour-b1844289.html",
+      "urlToImage": "https://static.independent.co.uk/2021/05/08/18/SEI77701340.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2021-05-08T19:31:58Z",
+      "content": "Andy Burnham hit out at the government's levelling up slogan and London-centric Labour after winning re-election as mayor of Greater Manchester with an increased majority.\r\nThe two-times Labour leade… [+3133 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Daily Mail"
+        "name": "Liverpool Echo"
       },
-      "author": "Harry Howard",
-      "title": "Bolton is revealed as UK hotspot for new Indian Covid strain - Daily Mail",
-      "description": "Urgent measures to contain the variant are in the works in the town including surge testing and a strengthened vaccination campaign urging people to get the jab.",
-      "url": "https://www.dailymail.co.uk/news/article-9557063/Bolton-revealed-UK-hotspot-new-Covid-strain-detected-India.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2021/05/08/15/42732514-0-image-a-18_1620485549259.jpg",
-      "publishedAt": "2021-05-08T15:01:29Z",
-      "content": "The former mill town of Bolton has been revealed as the UK hotspot for the new Covid 19 strain detected in India which has been escalated to a 'variant of concern'.\r\nUrgent measures to contain the va… [+21035 chars]"
+      "author": "Mark Wakefield",
+      "title": "What Gini Wijnaldum did in Liverpool warm-up before Southampton game - Liverpool Echo",
+      "description": "The Liverpool midfielder was taking part in target practice ahead of the Premier League clash against Southampton",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-southampton-gini-wijnaldum-warmup-20556867",
+      "urlToImage": "https://i2-prod.liverpoolecho.co.uk/incoming/article20556886.ece/ALTERNATES/s1200/0_GettyImages-1316997901.jpg",
+      "publishedAt": "2021-05-08T19:31:08Z",
+      "content": "Gini Wijnaldum has caught the eye with what he did during the warm up ahead of Liverpools match against Southampton.\r\nThe Reds were taking on the Saints in the Premier League at Anfield, looking to m… [+1063 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Sun"
+      },
+      "author": "Lisa Minot",
+      "title": "Green list countries: Everything you need to know about travelling abroad this summer... - The Sun",
+      "description": "",
+      "url": "https://www.thesun.co.uk/travel/14893363/green-list-countries-travel-summer/",
+      "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2021/05/RR-COMP-PG-48-49-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+      "publishedAt": "2021-05-08T19:30:00Z",
+      "content": "THE keenly awaited list of countries we can visit without restrictions from May 17 was finally released on Friday...but it proved more of a damp squib than a big bang.\r\nJust 12 countries were on the … [+7471 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "The Guardian"
       },
-      "author": "Joanna Partridge, Richard Partington",
-      "title": "White-hot housing market has Merseyside suburb at fever pitch - The Guardian",
-      "description": "Prices in Wallasey, on the Wirral, are soaring in a nationwide boom fuelled by the stamp duty holiday, but will it last?",
-      "url": "https://amp.theguardian.com/business/2021/may/08/white-hot-housing-market-has-merseyside-suburb-at-fever-pitch",
+      "author": "Michael Savage, Toby Helm",
+      "title": "Angela Rayner fired as Labour gripped by post-poll rancour - The Guardian",
+      "description": "Questions grow on Keir Starmer’s leadership with accusations of ‘cowardly avoidance of responsibility’",
+      "url": "https://amp.theguardian.com/politics/2021/may/08/angela-rayner-fired-labour-keir-starmer-local-elections-polls",
       "urlToImage": null,
-      "publishedAt": "2021-05-08T15:00:00Z",
-      "content": "Housing marketPrices in Wallasey, on the Wirral, are soaring in a nationwide boom fuelled by the stamp duty holiday, but will it last?\r\nHomebuyers are scrambling for houses in Britains latest propert… [+9302 chars]"
+      "publishedAt": "2021-05-08T19:22:00Z",
+      "content": "LabourQuestions grow on Keir Starmers leadership with accusations of cowardly avoidance of responsibility\r\nLabour chair Angela Rayner has been dramatically fired by Keir Starmer as a bitter row erupt… [+7839 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Wales Online"
+        "name": "Metro.co.uk"
       },
-      "author": "Ruth Mosalski",
-      "title": "The Mark Drakeford interview: 'People told me they were glad to have lived in Wales through the pandemic' - Wales Online",
-      "description": "First Minister Mark Drakeford has given his first interview since winning Wales' Senedd Election and spoke about the outpouring of warmth he felt towards him on the campaign trial",
-      "url": "https://www.walesonline.co.uk/news/drakeford-senedd-election-interview-labour-20554698",
-      "urlToImage": "https://i2-prod.walesonline.co.uk/incoming/article20553064.ece/ALTERNATES/s1200/1_Senedd-Election-Count-And-Declarations-Take-Place-In-South-Wales.jpg",
-      "publishedAt": "2021-05-08T13:32:47Z",
-      "content": "First Minister Mark Drakeford has given his first interview since winning the Senedd Election and spoke about Labour's huge win, his plans and the lack of impact independence had in the campaign.\r\nHe… [+11016 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Leicestershire Live"
-      },
-      "author": "Shane Ireland",
-      "title": "Rio Ferdinand makes Brendan Rodgers claim after Leicester City are hammered by Newcastle United - Leicestershire Live",
-      "description": "Former Manchester United defender and BT Sport pundit Rio Ferdinand gave his view on Leicester City's Premier League top four prospects after the 4-2 defeat to Newcastle United",
-      "url": "https://www.leicestermercury.co.uk/sport/football/football-news/leicester-city-newcastle-rio-ferdinand-5390859",
-      "urlToImage": "https://i2-prod.leicestermercury.co.uk/sport/football/football-news/article5264288.ece/ALTERNATES/s1200/0_Rio-FerdinandJPG.jpg",
-      "publishedAt": "2021-05-08T13:20:00Z",
-      "content": "Rio Ferdinand has praised Brendan Rodgers for the fabulous job he is doing at Leicester City.\r\nBut the former Manchester United defender fears City are at risk of missing out on a place in the Premie… [+2956 chars]"
+      "author": "Jordan King",
+      "title": "Forensic team search house in connection with Julia James murder - Metro.co.uk",
+      "description": "The officer went out to walk her dog and then died of head injuries.",
+      "url": "https://metro.co.uk/2021/05/08/forensic-team-search-house-in-connection-with-julia-james-murder-14545051/",
+      "urlToImage": "https://metro.co.uk/wp-content/uploads/2021/05/SEI_78009106_1620494747.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+      "publishedAt": "2021-05-08T17:25:00Z",
+      "content": "The house is about eight miles from where Julia Jamess body was found (Pictures: SWNS/AP)\r\nPolice are searching a house in connection with the murder of community support officer Julia James, whose b… [+2036 chars]"
     }
   ]
 }
