@@ -46,7 +46,7 @@ loadNews = (lang) => {
             <h3>${e.title}</h3>
             <p>${e.description || ''}</p>
             <button id=${e.url} onclick="goTo(this.id, this.innerText)">
-              News AG, provided by - ${e.source.name}
+              ${e.source.name}
             </button>
           </div>
         `
@@ -62,7 +62,7 @@ loadNews = (lang) => {
             <h3>${e.title}</h3>
             <p>${e.description || ''}</p>
             <button id=${e.url} onclick="goTo(this.id, this.innerText)">
-              News AG, provided by - ${e.source.name}
+              ${e.source.name}
             </button>
           </div>
         `
@@ -78,7 +78,7 @@ loadNews = (lang) => {
             <h3>${e.title}</h3>
             <p>${e.description || ''}</p>
             <button id=${e.url} onclick="goTo(this.id, this.innerText)">
-              News AG, provided by - ${e.source.name}
+              ${e.source.name}
             </button>
           </div>
         `
@@ -94,7 +94,7 @@ loadNews = (lang) => {
             <h3>${e.title}</h3>
             <p>${e.description || ''}</p>
             <button id=${e.url} onclick="goTo(this.id, this.innerText)">
-              News AG, provided by - ${e.source.name}
+              ${e.source.name}
             </button>
           </div>
         `
