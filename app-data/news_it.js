@@ -4,55 +4,133 @@ news_it = {
   "articles": [
     {
       "source": {
-        "id": "ansa",
-        "name": "ANSA.it"
+        "id": null,
+        "name": "Juventusnews24.com"
       },
-      "author": "",
-      "title": "Autobomba a Kabul, almeno 55 morti, è strage studentesse - Ultima Ora - Agenzia ANSA",
-      "description": "Il bilancio delle esplosioni davanti a una scuola femminile a Kabul è salito a 55 morti e più di 150\r\nferiti, molti in gravissime condizioni. Lo ha detto un funzionario della Sicurezza alla Reuters. (ANSA)",
-      "url": "https://www.ansa.it/sito/notizie/topnews/2021/05/08/autobomba-a-kabul-almeno-55-morti-e-strage-studentesse_3f8bafc0-86f9-4fc5-8814-623c4158137b.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2021/5/8/b708c1f41eacb74e641b30fc13446cc6.jpg",
-      "publishedAt": "2021-05-08T21:36:00Z",
-      "content": "(ANSA) - ROMA, 08 MAG - Il bilancio delle esplosioni davanti\r\na una scuola femminile a Kabul è salito a 55 morti e più di 150\r\nferiti, molti in gravissime condizioni. Lo ha detto un\r\nfunzionario dell… [+467 chars]"
+      "author": "https://www.facebook.com/junews24com/",
+      "title": "Juve-Milan decisiva per Pirlo: «Sarebbe certamente esonerato!» - Juventus News 24",
+      "description": "Juve Milan decisiva per Pirlo: «Sarebbe certamente esonerato!». Il futuro del tecnico bianconero appeso a un filo Come riferito da Tuttosport Juve-Milan potrebbe essere una partita decisiva per Pirlo perché estremamente funzionale al discorso Champions, manca…",
+      "url": "https://www.juventusnews24.com/juve-milan-decisiva-pilro-esonero-ultime-notizie/",
+      "urlToImage": "https://www.juventusnews24.com/wp-content/uploads/2021/04/Pirlo-Juve-Genoa-1000x600.jpg",
+      "publishedAt": "2021-05-09T08:03:45Z",
+      "content": "Come riferito da TuttosportJuve-Milan potrebbe essere una partita decisiva per Pirlo perché estremamente funzionale al discorso Champions, mancando ormai solo quattro partite alla fine del campionato… [+239 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "3bmeteo.com"
+      },
+      "author": "Lorenzo Badellino",
+      "title": "AVVISO meteo: VORTICE tra lunedì e mercoledì con MALTEMPO e rischio NUBIFRAGI. Le REGIONI più colpite - 3bmeteo",
+      "description": "PERTURBAZIONE IN ARRIVO DALLA FRANCIA La perturbazione in arrivo dalla Francia che già nel corso di domenica provocherà un graduale peggioramento su buona parte del Nordovest intensificherà i suoi effetti dalle prime ore della settimana e si estenderà lentame…",
+      "url": "https://www.3bmeteo.com/giornale-meteo/avviso-meteo--vortice-tra-luned--e-mercoled--con-maltempo-e-rischio-nubifragi--le-regioni-pi--colpite-471448",
+      "urlToImage": "https://image.3bmeteo.com/images/newarticles/w_1280/meteo--perturbazione-in-arrivo-dalla-francia-3bmeteo-116888.jpg",
+      "publishedAt": "2021-05-09T07:45:15Z",
+      "content": "Perturbazione a partire dal Nordovest in graduale estensione verso sudest.\r\nMeteo. Perturbazione in arrivo dalla Francia\r\nPERTURBAZIONE IN ARRIVO DALLA FRANCIA. La perturbazione in arrivo dalla Franc… [+3339 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Liberoquotidiano.it"
+      },
+      "author": "@libero_official",
+      "title": "Coprifuoco addio? Retroscena sul piano di Mario Draghi: dal 17 maggio slittamento alle 24 e a giugno l'abolizione - Liberoquotidiano.it",
+      "description": "L'Italia torna a sperare: il coprifuoco alle 22 potrebbe avere i giorni contati.  Cruciale la data di lunedì 17 maggio  quando, s...",
+      "url": "https://www.liberoquotidiano.it/news/italia/27163503/coprifuoco-retroscena-piano-mario-draghi-17-maggio-slittamento-24-giugno-abolizione.html",
+      "urlToImage": "https://img2.liberoquotidiano.it/images/2021/05/09/073910291-25c5c5e9-397d-4e6f-9c92-c98f8fc7013d.jpg",
+      "publishedAt": "2021-05-09T07:28:00Z",
+      "content": "L'Italia torna a sperare: il coprifuoco alle 22 potrebbe avere i giorni contati. Cruciale la data di lunedì 17 maggio quando, spiega in un retroscena il Messaggero, potrebbe essere spostato l'obbligo… [+1649 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Calciomercato.it"
+      },
+      "author": null,
+      "title": "Calciomercato Juventus, Vlahovic il bomber del futuro: il punto - CalcioMercato.it",
+      "description": "Calciomercato Juventus, nel mirino la rivelazione Dusan Vlahovic: i bianconeri ci pensano, il punto sul bomber della Fiorentina",
+      "url": "https://www.calciomercato.it/2021/05/09/calciomercato-juventus-vlahovic-fiorentina-commisso-rinnovo-morata/",
+      "urlToImage": "https://www.calciomercato.it/wp-content/uploads/2021/05/GettyImages-1317008249-1.jpg",
+      "publishedAt": "2021-05-09T07:14:52Z",
+      "content": "Calciomercato Juventus, nel mirino la rivelazione Dusan Vlahovic: i bianconeri ci pensano, il punto sul bomber della Fiorentina\r\nAltri due gol, ieri sera, contro la Lazio, per arrivare alla ragguarde… [+2259 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilpost.it"
+      },
+      "author": null,
+      "title": "Sadiq Khan è stato rieletto sindaco di Londra - Il Post",
+      "description": "Sadiq Khan, sindaco di Londra dal 2016, è stato eletto per un secondo mandato alle elezioni che si sono tenute il 6 maggio. Membro del partito Laburista,",
+      "url": "https://www.ilpost.it/2021/05/09/sadiq-khan-rieletto-sindaco-londra/",
+      "urlToImage": "https://cdn.ilpost.it/wp-content/uploads/2021/05/Sadiq-Khan-1.jpg?x72029",
+      "publishedAt": "2021-05-09T07:07:30Z",
+      "content": "Sadiq Khan, sindaco di Londra dal 2016, è stato eletto per un secondo mandato alle elezioni che si sono tenute il 6 maggio. Membro del partito Laburista, Khan è stato il primo musulmano a essere elet… [+1301 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilfattoquotidiano.it"
+      },
+      "author": "Valentina Arcovio",
+      "title": "Astrazeneca e l’ipotesi di mezza dose per ridurre eventi avversi, Vezzoni (Cnr): “No, troppo… - Il Fatto Quotidiano",
+      "description": "La proposta avanzata dall’immunologo Mauro Minelli è stata appoggiata anche da Andreas Greinacher, ordinario di Immunologia dell’ateneo tedesco di Greifswald, che ha sta studiando il meccanismo che innesca la trombocitopenia trombotica immunitaria indotta da …",
+      "url": "https://www.ilfattoquotidiano.it/2021/05/09/astrazeneca-e-lipotesi-di-mezza-dose-per-ridurre-eventi-avversi-vezzoni-cnr-no-troppo-tempo-per-test-su-un-vaccino-efficace/6189137/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/04/06/variant-med_1200x630-obj23692262.jpg",
+      "publishedAt": "2021-05-09T07:01:27Z",
+      "content": "Mentre si sta valutando con tutte le perplessità del caso l’ipotesi di allargare le indicazioni per il vaccino antiCovid AstraZeneca anche negli under 60, alcuni scienziati hanno lanciato una nuova i… [+3704 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mediaset.it"
+      },
+      "author": null,
+      "title": "Afghanistan, autobomba Kabul: strage davanti scuola femminile, bilancio oltre 50 morti - TGCOM",
+      "description": "Le scolare, impaurite per la prima deflagrazione, sono fuggite dall'edificio in preda al panico rimanendo però uccise dalle successive esplosioni",
+      "url": "https://www.tgcom24.mediaset.it/mondo/afghanistan-autobomba-kabul-bilancio-ufficiale-e-50-morti_32020244-202102k.shtml",
+      "urlToImage": "https://img-prod.tgcom24.mediaset.it/images/2021/05/09/050949721-c6b69d45-3911-4b73-8cac-764a0c8e9ecd.jpg",
+      "publishedAt": "2021-05-09T06:44:08Z",
+      "content": "Le scolare infatti, impaurite per la deflagrazione, sono fuggite dall'edificio in preda al panico rimanendo però uccise dalle successive esplosioni.\r\nL'esplosione è avvenuta nel distretto di Dasht-e-… [+2079 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rainews.it"
+      },
+      "author": null,
+      "title": "​Gerusalemme: nuovi scontri e 100 palestinesi feriti, razzo lanciato da Gaza - Rai News",
+      "description": "Ancora scontri a Porta Damasco e Sheikh Jarrah e lungo Striscia",
+      "url": "https://www.rainews.it/dl/rainews/articoli/gerusalemme-scontri-feriti-palestinesi-razzo-lanciato-da-gaza-1854f71d-20ff-41c4-9ee3-707acb2ddf97.html",
+      "urlToImage": "https://www.rai.it/cropgd/476x249/dl/img/2021/05/1620542157728.GettyImages_1232777379.jpg",
+      "publishedAt": "2021-05-09T06:29:00Z",
+      "content": "09 maggio 2021Nella notte disordini e scontri tra palestinesi e polizia israeliana all'ingresso della Città Vecchia di Gerusalemme, mentre decine di migliaia di fedeli musulmani pregavano nella vicin… [+1769 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Adnkronos.com"
       },
-      "author": "mrtrepetto",
-      "title": "Scozia, vittoria Snp. Sturgeon: \"Nuovo referendum per indipendenza\" - Adnkronos",
-      "description": "La first minister: 'Non esiste alcuna giustificazione democratica per non tenere un secondo referendum'",
-      "url": "https://www.adnkronos.com/scozia-vittoria-snp-sturgeon-nuovo-referendum-per-indipendenza_72BJbQCoy4HFDTtsXVdFrk",
-      "urlToImage": "https://www.adnkronos.com/resources/0269-123ad755dbb4-0d7a35c0bccf-1000/scozia_sturgeon_afp.jpg",
-      "publishedAt": "2021-05-08T21:35:00Z",
-      "content": "La first minister: \"Non esiste alcuna giustificazione democratica per non tenere un secondo referendum\"Il Partito nazionale scozzese (Snp) trionfa alle elezioni in Scozia e la 'first minister' Nicola… [+644 chars]"
+      "author": "demicheli",
+      "title": "Vaccini Italia, dal 10 maggio le prenotazioni per over 50 - Adnkronos",
+      "description": "Si avviano le prenotazioni del vaccino anti-Covid-19 per i nati fino al 1971. Priorità a chi ha patologie, anche se non fragile",
+      "url": "https://www.adnkronos.com/vaccini-italia-dal-10-maggio-le-prenotazioni-per-over-50_4JDNKLzDtPpYYhH7fW4XnI",
+      "urlToImage": "https://www.adnkronos.com/resources/0269-123b92fd95f2-98c305cdc4c8-1000/vaccino_dottore_ftg.jpg",
+      "publishedAt": "2021-05-09T06:19:00Z",
+      "content": "Si avviano le prenotazioni del vaccino anti-Covid-19 per i nati fino al 1971. Priorità a chi ha patologie, anche se non fragileVaccini per over 50, da lunedì 10 maggio l'Italia apre le prenotazioni. … [+757 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Lacnews24.it"
+        "name": "Quotidiano.net"
       },
-      "author": "Redazione - Lacnews24.it",
-      "title": "«Eccolo, è il razzo cinese!», ma sono i satelliti di Musk: decine di segnalazioni in Calabria - LaC news24",
-      "description": "Sono numerosi gli avvistamenti nelle ultime ore. Niente a che fare con il vettore in caduta sulla Terra, si tratta invece di un “treno” di microsatelliti che fanno parte del progetto Starlink",
-      "url": "https://www.lacnews24.it/cronaca/eccolo-e-il-razzo-cinese-ma-sono-i-satelliti-di-musk-decine-di-segnalazioni-in-calabria_136336/",
-      "urlToImage": "https://img.lacstatic.it/_pageimg/2021-05-08/2021_satelliti_starlink.jpg",
-      "publishedAt": "2021-05-08T20:50:00Z",
-      "content": "«Eccolo, è il razzo cinese!». Occhi al cielo, dita che indicano la volta stellata e la certezza di essere testimoni della caduta del vettore che in queste ore si sta avvicinano dalla Terra, dove prec… [+2545 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilmessaggero.it"
-      },
-      "author": "Giuseppe Mustica",
-      "title": "Fiorentina-Lazio 2-0: Vlahovic stende Inzaghi che saluta la Champions. Iachini vede la salvezza - Il Messaggero",
-      "description": "Decide la doppietta di Vlahovic: l'attaccante serbo della Fiorentina, classe 2000, tocca 21 reti in campionato chiudendo praticamente le possibilità alla Lazio di approdare alla prossima...",
-      "url": "https://www.ilmessaggero.it/sport/calcio/fiorentina_lazio_diretta_live_risultato_formazioni_pagelle-5947456.html",
-      "urlToImage": "https://www.ilmessaggero.it/photos/MED/74/56/5947456_2127_fiorentina_lazio.jpg",
-      "publishedAt": "2021-05-08T20:42:55Z",
-      "content": "Decide la doppietta di Vlahovic: l'attaccante serbo della Fiorentina, classe 2000, tocca 21 reti in campionato chiudendo praticamente le possibilità alla Lazio di approdare alla prossima Champions Le… [+10636 chars]"
+      "author": "ANTONELLA COPPARI",
+      "title": "Coprifuoco, tutti a casa entro mezzanotte. Draghi: riaprire usando la testa - QUOTIDIANO NAZIONALE",
+      "description": "Dal 17 il coprifuoco verrà allungato di due ore. I ristoranti al chiuso torneranno operativi dal primo giugno",
+      "url": "https://www.quotidiano.net/cronaca/tutti-a-casa-entro-mezzanotte-draghi-riaprire-usando-la-testa-1.6340144",
+      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6340141.1620539744%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700&h=391",
+      "publishedAt": "2021-05-09T06:11:15Z",
+      "content": "Nella due giorni di Porto, Draghi parla essenzialmente di Europa. Ma alla fine del vertice Ue è costretto dai giornalisti a tornare in Italia. Cioè al dibattito infinito sulle riaperture. A prima vis… [+3600 chars]"
     },
     {
       "source": {
@@ -60,155 +138,77 @@ news_it = {
         "name": "ANSA.it"
       },
       "author": "",
-      "title": "Atp Madrid: Ruud sconfitto, Berrettini vola in finale - Tennis - ANSA Nuova Europa",
-      "description": "Il romano si è imposto sul norvegese con un doppio 6-4 (ANSA)",
-      "url": "https://www.ansa.it/sito/notizie/sport/tennis/2021/05/08/tennis-madrid-ruud-sconfitto-berrettini-vola-in-finale_cdaa5230-e1b8-4001-a6b6-9174b8d7261f.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2021/4/25/5c216cca00caf65967872b862b191eae.jpg",
-      "publishedAt": "2021-05-08T20:39:00Z",
-      "content": "Matteo Berrettini vola in finale del terzo Masters 1000 stagionale di tennis, a Madrid. Il romano ha battuto in due set (6-4, 6-4) il norvegese Casper Ruud. Nel Manolo Santana Stadium, il 25enne azzu… [+265 chars]"
+      "title": "Mattarella: la nostra democrazia ha sconfitto il terrorismo - Politica - Agenzia ANSA",
+      "description": "'Ma ancora zone d'ombra, la verità è un'esigenza per la Repubblica' (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/politica/2021/05/09/mattarella-la-nostra-democrazia-ha-sconfitto-il-terrorismo_fef470f2-8b7f-4374-ae29-2028eb7109dc.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2021/5/2/83749e1de71f25587b9c7dc84245ec4f.jpg",
+      "publishedAt": "2021-05-09T05:55:00Z",
+      "content": "\"Il terrorismo non è riuscito a realizzare l'ambizione di rappresentare una cesura, uno spartiacque nella storia d'Italia. Il disegno cinico non esente da collegamenti a reti eversive internazionali … [+2002 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Corriere.it"
+        "name": "Passioneinter.com"
       },
-      "author": "Marco Gasperetti",
-      "title": "India, la famiglia bloccata è tornata in Italia. «Finalmente al sicuro insieme a Miriam» - Corriere della Sera",
-      "description": "I coniugi e la bimba adottiva rientrati a Pisa con un volo privato e subito ricoverati in isolamento. «Grazie a tutti, il nostro sogno è diventato realtà». Per loro raccolti oltre 130mila euro",
-      "url": "https://www.corriere.it/cronache/21_maggio_08/india-famiglia-bloccata-tornata-italia-finalmente-sicuro-insieme-miriam-4240ad42-b022-11eb-8261-0c233af9e96e.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/2021/05/08/Interni/Foto-Interni-Trattate/famiglia-khxE-U32601050032946XzB-526x284@Corriere-Web-Sezioni.jpg",
-      "publishedAt": "2021-05-08T20:03:17Z",
-      "content": "PISA Sorrisi e sguardi di felicità, finalmente. Sui volti di babbo Enzo e mamma Simonetta. E della figlia Mariam Gemma, 2 anni appena compiuti. Quando l’aereo privato inizia la discesa verso l’aeropo… [+3010 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lastampa.it"
-      },
-      "author": ".",
-      "title": "E' morto Bo, il cane di Barack Obama: “Oggi la nostra famiglia ha perso un vero amico e un fedele compagno” - La Stampa",
-      "description": "L’addio in un post su Facebook",
-      "url": "https://www.lastampa.it/la-zampa/cani/2021/05/08/news/e-morto-bo-il-cane-di-barack-obama-oggi-la-nostra-famiglia-ha-perso-un-vero-amico-e-un-fedele-compagno-1.40249214",
-      "urlToImage": "https://www.lastampa.it/image/contentid/policy:1.40249213:1620503172/obama_bo.jpg?f=detail_558&h=720&w=1280&$p$f$h$w=d96d23d",
-      "publishedAt": "2021-05-08T19:51:19Z",
-      "content": "«Oggi la nostra famiglia ha perso un vero amico e un compagno fedele». Con queste toccanti parole l'ex presidente americano Barack Obama saluta con un post su Facebook il suo cane Bo che venne adotta… [+3216 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilmattino.it"
-      },
-      "author": "Redazione Web",
-      "title": "Pfizer, donna muore dopo la seconda dose nel parcheggio del centro vaccinale nel Trevigiano - ilmattino.it",
-      "description": "Villorba (Treviso) - Una donna anziana (91 anni) è morta per arresto cardiocircolatorio nel parcheggio del Punto vaccinale di Villorba: è successo...",
-      "url": "https://www.ilmattino.it/primopiano/cronaca/pfizer_donna_morta_seconda_dose_villorba_treviso_cosa_e_successo_ultima_ora_8_maggio_2021-5947616.html",
-      "urlToImage": "https://www.ilmattino.it/photos/MED/76/06/5947606_2150_pfizer_donna_morta_seconda_dose_villorba_treviso_cosa_e_successo_ultima_ora_8_maggio_2021_0.jpg",
-      "publishedAt": "2021-05-08T19:35:00Z",
-      "content": "Villorba (Treviso) - Una donna anziana (91 anni) è morta per arresto cardiocircolatorio nel parcheggio del Punto vaccinale di Villorba: è successo oggi 8 maggio alle 11. L’anziana, sottoposta un’ora … [+945 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Corriere.it"
-      },
-      "author": "Guido De Carolis",
-      "title": "Inter-Sampdoria 5-1 , pagelle: Ranocchia attento, Sanchez alza il livello, Pinamonti soddisfatto - Corriere della Sera",
-      "description": "La squadra di Conte vince la sua 14ª partita in casa e segna un altro record. Il gruppo è sempre sul pezzo, ora può divertirsi e festeggiare.",
-      "url": "https://www.corriere.it/sport/21_maggio_08/inter-sampdoria-5-1-pagelle-ranocchia-attento-sanchez-alza-livello-pinamonti-soddisfatto-8f629c62-b026-11eb-8261-0c233af9e96e.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/08/75261c3c-b028-11eb-8261-0c233af9e96e.jpg",
-      "publishedAt": "2021-05-08T18:12:04Z",
-      "content": "Queste le pagelle dell'Inter, ormai campione d'Italia, dopo l'anticipo della 35ª giornata contro la Sampdoria vinto per 5-1: 6 Handanovic Il gol della Sampdoria è un mezzo pasticcio. Si butta un po’ … [+1941 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lastampa.it"
-      },
-      "author": ".",
-      "title": "Covid, l’Irlanda rimuove l’Italia dalla quarantena obbligatoria - La Stampa",
-      "description": "Anche l'Austria, altri tre rimangono nell'elenco",
-      "url": "https://www.lastampa.it/viaggi/mondo/2021/05/08/news/covid-l-irlanda-rimuove-l-italia-dalla-quarantena-obbligatoria-1.40248997",
-      "urlToImage": "https://www.lastampa.it/image/contentid/policy:1.40248995:1620498886/ireland-4945565_960_720.jpg?f=detail_558&h=720&w=1280&$p$f$h$w=189a8d7",
-      "publishedAt": "2021-05-08T18:05:00Z",
-      "content": "L'Irlanda ha rimosso l'Italia e l'Austria dal suo elenco di Paesi soggetti a quarantena alberghiera obbligatoria, ma ha mantenuto le misure in vigore per altri tre Stati membri dell'Unione europea: B… [+962 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilmeteo.it"
-      },
-      "author": "Team iLMeteo.it",
-      "title": "VACCINO ASTRAZENECA e TROMBOSI: quali sono le FASCE d'età più a RISCHIO? Lo ha svelato uno STUDIO dell'EMA - iLMeteo.it",
-      "description": "VACCINO ASTRAZENECA e TROMBOSI: quali sono le FASCE d'età più a RISCHIO? Lo ha svelato uno STUDIO dell'EMA",
-      "url": "https://www.ilmeteo.it/notizie/vaccino-astrazeneca-e-trombosi-quali-sono-le-fasce-det-pi-a-rischio-lo-ha-svelato-uno-studio-dellema-082407",
-      "urlToImage": "https://www.ilmeteo.it/portale/files/giornale/astrazeneca-rischi-benefici-05042021.jpg",
-      "publishedAt": "2021-05-08T18:00:00Z",
-      "content": "Lo studio dell'EMA su AstraZeneca e i casi di TROMBOSIAstraZeneca continua ad essere al centro dell'attenzione sui rischi e i benefici del vaccino contro il COVID, con la disinformazione che spaventa… [+3815 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilsecoloxix.it"
-      },
-      "author": ".",
-      "title": "Covid, in Liguria 202 nuovi casi. Vaccinazioni, da lunedì prenotazioni aperte per gli over 55 - Il Secolo XIX",
-      "description": "Per il personale scolastico (docente e non docente), le prenotazioni cominceranno alle ore 8 del 13 maggio, chiamando il numero verde 800 938 818. Su circa 29mila appartenenti a questa categoria, sono 16.406 le persone ancora da vaccinare",
-      "url": "https://www.ilsecoloxix.it/genova/2021/05/08/news/covid-in-liguria-202-nuovi-casi-e-5-decessi-4-188-tamponi-molecolari-e-2-542-antigenici-1.40248449",
-      "urlToImage": "https://www.ilsecoloxix.it/image/contentid/policy:1.40238546:1620283746/image/image.jpg?f=detail_558&h=720&w=1280&$p$f$h$w=d5eb06a",
-      "publishedAt": "2021-05-08T17:37:30Z",
-      "content": "Genova Nelle ultime 24 ore sono stati registrati 202 nuovi casi al Covid-19 in Liguria, a fronte di 4.188 tamponi molecolari e 2.542 tamponi antigenici rapidi effettuati. Più della metà delle nuove i… [+5234 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Napolitoday.it"
-      },
-      "author": "Redazione",
-      "title": "Rischio caduta razzo cinese, le indicazioni della Protezione Civile della Campania - NapoliToday",
-      "description": "I detriti potrebbero contenere idrazina: importante non toccarli e restare ad almeno 20 metri di distanza",
-      "url": "https://www.napolitoday.it/social/razzo-cinese-caduta-campania-cosa-fare.html",
-      "urlToImage": "https://www.napolitoday.it/~media/horizontal-hi/2406822017151/panorami-a-napoli-in-piazza-del-gesu-nuovo-2-grande-panorama-dal-terrazzo-della-chiesa-del-gesu-nuovo.jpg",
-      "publishedAt": "2021-05-08T17:30:00Z",
-      "content": "In vista del rientro incontrollato nell'atmosfera terrestre del core stage/secondo stadio del vettore cinese PRC CZ5B, in linea con l'allerta lanciato dalla Protezione Civile, che interessa anche la … [+1628 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Corriere.it"
-      },
-      "author": "Alessio Ribaudo",
-      "title": "Esplosione di Gubbio, Samuel Cuffaro morto a 19 anni: «Aveva un contratto a chiamata» - Corriere della Sera",
-      "description": "È una delle due vittime, l'altra si chiama Elisabetta D’Innocenti (52 anni). Si indaga per duplice omicidio colposo e lesioni colpose. Nei primi tre mesi dell'anno 185 morti sul lavoro",
-      "url": "https://www.corriere.it/cronache/21_maggio_08/esplosione-gubbio-samuel-cuffaro-morto-19-anni-aveva-contratto-chiamata-d2942370-b008-11eb-8261-0c233af9e96e.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/08/e5714b62-b017-11eb-8261-0c233af9e96e.jpg",
-      "publishedAt": "2021-05-08T16:14:36Z",
-      "content": "Un cumulo di macerie fumanti sotto le quali, venerdì pomeriggio, sono bruciate le vite di due lavoratori pieni di sogni nella campagna di Gubbio, una quartina di minuti da Perugia. È questo ciò che è… [+3614 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Oasport.it"
-      },
-      "author": "Gianluca Bruno",
-      "title": "Giro d'Italia 2021: Filippo Ganna domina la cronometro di Torino. Vittoria e Maglia Rosa, secondo Edoardo Affini - OA Sport",
-      "description": "La risposta alle polemiche è arrivata nel modo migliore, da fuoriclasse assoluto. Il campione del mondo in carica timbra subito il cartellino, dopo qualche delusione nelle ultime uscite: è tornato il vero Filippo Ganna. Il piemontese, nella sua Regione, trion…",
-      "url": "https://www.oasport.it/2021/05/giro-ditalia-2021-filippo-ganna-domina-la-cronometro-di-torino-vittoria-e-maglia-rosa-secondo-edoardo-affini/",
-      "urlToImage": "https://www.oasport.it/wp-content/uploads/2021/05/12903951_small.jpg",
-      "publishedAt": "2021-05-08T15:58:59Z",
-      "content": "La risposta alle polemiche è arrivata nel modo migliore, da fuoriclasse assoluto. Il campione del mondo in carica timbra subito il cartellino, dopo qualche delusione nelle ultime uscite: è tornato il… [+1782 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Today.it"
-      },
-      "author": "Alberto Berlini",
-      "title": "Coronavirus, il bollettino di oggi sabato 8 maggio: 224 morti e 10.176 contagi. \"In base ai nuovi casi Covid il coprifuoco a mezzanotte\" - Today.it",
-      "description": "Gli aggiornamenti sull'emergenza coronavirus in Italia nel bollettino del ministero della Salute di oggi sabato 8 maggio 2021. I nuovi casi, i decessi e i numeri dei...",
-      "url": "https://www.today.it/attualita/bollettino-coronavirus-oggi-8-maggio-2021.html",
-      "urlToImage": "https://www.today.it/~media/horizontal-hi/28969166696200/bollettino-coronavirus-oggi-8-maggio-2021-2.jpg",
-      "publishedAt": "2021-05-08T15:42:00Z",
+      "author": "Raffaele Caruso",
+      "title": "I Top&Flop di Inter-Sampdoria: Sanchez Maravilla, super Gagliardini. Handa ancora male - passioneinter.com",
+      "description": "Benissimo anche Pinamonti e Lautaro Martinez",
+      "url": "https://www.passioneinter.com/inter-news/inter-sampdoria-top-flop-2/",
+      "urlToImage": "https://prd-images2-gazzanet.gazzettaobjects.it/mCduH3M4tzJOOz4e2zvHlpw7Jb4=/1200x627/smart/www.passioneinter.com/assets/uploads/202104/f59ec6b202c68b957c0bfd218bf8f127.jpg",
+      "publishedAt": "2021-05-09T05:50:30Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lanazione.it"
+      },
+      "author": "Ilaria Ulivelli",
+      "title": "Vaccinazioni: c’è il piano estate per la Toscana. Prima dose entro giugno ai 50enni - LA NAZIONE",
+      "description": "La Toscana vara la programmazione a medio termine. Aumentano gli hub e le somministrazioni giornaliere",
+      "url": "https://www.lanazione.it/cronaca/vaccinazioni-piano-estate-1.6339145",
+      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6341967.1620543063%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700&h=391",
+      "publishedAt": "2021-05-09T05:28:47Z",
+      "content": "Firenze, 9 maggio 2021 -  E arrivato il momento della programmazione. Con un documento inviato alle aziende sanitarie, la Regione apre le agende per la prenotazione dei vaccini sino al primo agosto, … [+3019 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Corriere.it"
+      },
+      "author": "Alessandro Trocino",
+      "title": "Coprifuoco alle 23 o alle 24 a maggio: verso il cambio di orario - Corriere della Sera",
+      "description": "Si discute sul coprifuoco, è possibile che venga allungato alle 23 o alle 24 già dal prossimo 17 maggio. Galli resiste: «Sbagliato spostarlo». Ma Salvini preme",
+      "url": "https://www.corriere.it/politica/21_maggio_09/coprifuoco-maggio-italia-orario-23-24-quarantena-turisti-ue-30a5bb2c-b027-11eb-8261-0c233af9e96e.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/09/056a65bc-b035-11eb-8261-0c233af9e96e.jpg",
+      "publishedAt": "2021-05-09T05:23:11Z",
+      "content": "ROMA — L’estate si avvicina e arrivano anche le prime misure di allentamento che potrebbero rimettere in moto il turismo e la voglia di vacanze, agevolata dal caldo, come l’anno scorso, ma quest’anno… [+2304 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Corriere.it"
+      },
+      "author": "Fabio Savelli",
+      "title": "Vaccino Covid, le regioni del Nord chiedono le dosi di AstraZeneca ferme al Sud, dal governo no alla... - Corriere della Sera",
+      "description": "Dalla vaccinazione a sportello di Puglia e Basilicata agli Astra-day di Campania e Sicilia: il tentativo di ridurre la diffidenza con l’incentivo di anticipare i tempi. La pressione delle regioni del nord come Lombardia e Piemonte per redistribuire le dosi",
+      "url": "https://www.corriere.it/cronache/21_maggio_09/vaccino-covid-regioni-nord-chiedono-dosi-astrazeneca-ferme-sud-governo-no-redistribuzione-444cc39c-b026-11eb-8261-0c233af9e96e.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/08/c2b3d14e-b026-11eb-8261-0c233af9e96e.jpg",
+      "publishedAt": "2021-05-09T05:14:33Z",
+      "content": "L’hanno chiamata «Astranight» anche per dare un po’ di colore in queste notti di coprifuoco. A Matera — dalle 22 alle 6 di questa mattina — c’era un motivo valido per uscire di casa per tutti coloro … [+3108 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilmessaggero.it"
+      },
+      "author": "Marco Conti",
+      "title": "Coprifuoco alle 24, il piano: sì a ristoranti al chiuso e palestre, nei bar servizio al banco - Il Messaggero",
+      "description": "Il coprifuoco alle 22 ha i giorni contati. Si va verso una sua graduale eliminazione cominciando da lunedì 17 quando sarà portato alle 24 per poi essere eliminato a metà giugno....",
+      "url": "https://www.ilmessaggero.it/politica/coprifuoco_24_mezzanotte_riapertura_palestre_piscine_ristoranti_lazio_lombardia_casmpania_veneto_piemonte_enilia_toscana_sicilia_ultima_ora_news_9_maggio_2021-5947567.html",
+      "urlToImage": "https://www.ilmessaggero.it/photos/MED/75/67/5947567_1021_coprifuoco_mezzanotte_novita.jpg",
+      "publishedAt": "2021-05-09T04:30:00Z",
+      "content": "Il coprifuoco alle 22 ha i giorni contati. Si va verso una sua graduale eliminazione cominciando da lunedì 17 quando sarà portato alle 24 per poi essere eliminato a metà giugno. Anche se nel governo … [+4123 chars]"
     },
     {
       "source": {
@@ -216,38 +216,38 @@ news_it = {
         "name": "Ilmessaggero.it"
       },
       "author": "Redazione Web",
-      "title": "Luana D'Orazio, l'esito dell'autopsia: morta per schiacciamento del torace - ilmessaggero.it",
-      "description": "L'autopsia ha stabilito che Luana D'Orazio, l'operaia di 22 anni morta il 3 maggio a Montemurlo (Prato) in una macchina tessile nella ditta in cui lavorava è deceduta per...",
-      "url": "https://www.ilmessaggero.it/italia/luana_morta_fabbrica_lavoro_autopsia_cosa_e_successo_ultime_notizie_oggi_8_maggio_2021-5947331.html",
-      "urlToImage": "https://www.ilmessaggero.it/photos/MED/73/31/5947331_1635_luana_autopsia.jpg",
-      "publishedAt": "2021-05-08T14:39:59Z",
-      "content": null
+      "title": "Razzo cinese caduto nell'Oceano Indiano, non lontano dalle Maldive. Fine allerta per l'Italia - ilmessaggero.it",
+      "description": "Il razzo cinese è caduto nell'oceano Indiano, nessun pericolo, quindi per l'Italia che era stata indicata come area a rischio per la caduta di frammenti sul territorio. E tira un...",
+      "url": "https://www.ilmessaggero.it/mondo/razzo_cinese_rocket_china_live_caduto_oceano_indiano_maldive_cosa_e_successo_oggi_davvero_ultima_ora_9_magio_2021-5947439.html",
+      "urlToImage": "https://www.ilmessaggero.it/photos/MED/74/39/5947439_0711_razzo_cinese_caduto_dove.jpg",
+      "publishedAt": "2021-05-09T04:23:12Z",
+      "content": "Il razzo cinese è caduto nell'oceano Indiano\r\n, nessun pericolo, quindi per l'Italia che era stata indicata come area a rischio per la caduta di frammenti sul territorio. E tira un sospiro di solliev… [+5201 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Foggiatoday.it"
+        "name": "Liberoquotidiano.it"
       },
-      "author": "FoggiaToday",
-      "title": "La Puglia torna in zona gialla: che cosa cambia dal 10 maggio - FoggiaToday",
-      "description": "Fino a fine mese non è consentito il consumo di bevande e alimenti all'interno dei locali. Dalle 5 alle 22 non servono più autocertificazioni per spostarsi",
-      "url": "https://www.foggiatoday.it/cronaca/coronavirus-puglia-zona-gialla-10-maggio-regole.html",
-      "urlToImage": "https://www.foggiatoday.it/~media/horizontal-hi/18514634027876/passeggio-centro-foggia_d-agostino-3.jpg",
-      "publishedAt": "2021-05-08T14:31:00Z",
-      "content": "Nella zona gialla che in Puglia scatta il 10 maggio, secondo le regole in vigore dal 26 aprile, si torna a consumare ai tavoli ma esclusivamente all'aperto. Fino al 31 maggio (compreso), infatti, non… [+4492 chars]"
+      "author": "Francesco Specchia",
+      "title": "Achille Lauro, dopo Felicissima Sera! travolto dalle critiche: \"Mi hanno dato dell'omofobo\" - LiberoQuotidiano.it",
+      "description": "È un ossimoro tonante, è il politicamente corretto del politicamente scorretto. Anche solo accostare l'omofobia ad  Achille Lauro , ...",
+      "url": "https://www.liberoquotidiano.it/news/commenti-e-opinioni/27158408/achille-lauro-felicissima-sera-travolto-critiche-dato-omofobo.html",
+      "urlToImage": "https://img2.liberoquotidiano.it/images/2021/05/08/133003873-31354678-36d8-4c36-bdd9-be6315cf318a.jpg",
+      "publishedAt": "2021-05-09T03:28:00Z",
+      "content": "È un ossimoro tonante, è il politicamente corretto del politicamente scorretto. Anche solo accostare l'omofobia ad Achille Lauro, l'uomo che ha fatto del transgenderismo e della fluidità dell'identit… [+3582 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Leggo.it"
+        "name": "Gds.it"
       },
-      "author": "E.C.",
-      "title": "Amici, lo sfogo di una ballerina professionista: «Ho litigato con Maria De Filippi e ho lasciato il programma» - leggo.it",
-      "description": "Amici, lo sfogo di una ballerina professionista: «Ho litigato con Maria De Filippi e ho lasciato il programma». Stasera, in onda su Canale 5, la semifinale del talent condotto...",
-      "url": "https://www.leggo.it/spettacoli/amici/amici_sfogo_di_ballerina_professionista_ho_litigato_maria_de_filippi_ho_lasciato_programma-5947268.html",
-      "urlToImage": "https://www.leggo.it/photos/MED/72/68/5947268_1539_mariadefilippi.jpg",
-      "publishedAt": "2021-05-08T14:23:00Z",
-      "content": "Amici\r\n, lo sfogo di una ballerina professionista: «Ho litigato con Maria De Filippi e ho lasciato il programma». Stasera, in onda su Canale 5, la semifinale del talent condotto da Maria De Filippi. … [+1336 chars]"
+      "author": "Piero Vassallo",
+      "title": "Vaccini, la Sicilia punta sugli over 50 ma AstraZeneca resta tabù: metà delle dosi è anc - Giornale di Sicilia",
+      "description": "Nonostante la buona risposta da parte degli over 50, la campagna vaccinale della Sicilia continua ad arrancare . Il report nazionale resta impietoso: l'Isola è...",
+      "url": "https://gds.it/articoli/cronaca/2021/05/09/vaccini-la-sicilia-punta-sugli-over-50-ma-astrazeneca-resta-tabu-meta-delle-dosi-e-ancora-in-frigo-f13576de-2234-4a58-a730-6103c5a80686/",
+      "urlToImage": "https://gdsit.cdn-immedia.net/2021/03/954c187ef5440e7b16547a34c3f980e9-625x350.jpg",
+      "publishedAt": "2021-05-09T03:00:00Z",
+      "content": "Nonostante la buona risposta da parte degli over 50, la campagna vaccinale della Sicilia continua ad arrancare. Il report nazionale resta impietoso: l'Isola è all'ultimo posto per dosi somministrate … [+2062 chars]"
     },
     {
       "source": {
@@ -255,12 +255,12 @@ news_it = {
         "name": "Comingsoon.it"
       },
       "author": null,
-      "title": "Il Paradiso delle Signore Anticipazioni: Una novità cambia per sempre la vita di Rocco e Maria... - ComingSoon.it",
-      "description": "Le Anticipazioni de Il Paradiso delle Signore ci rivelano che la vita di Rocco e Maria verrà sconvolta! Ma cosa succederà nelle prossime puntate della soap di Rai1?",
-      "url": "https://www.comingsoon.it/tv/anticipazioni/il-paradiso-delle-signore-anticipazioni-una-novita-cambia-per-sempre-la/n122896/",
-      "urlToImage": "https://mr.comingsoon.it/imgdb/PrimoPiano/122896_ppl.jpg",
-      "publishedAt": "2021-05-08T13:30:00Z",
-      "content": "Le Anticipazioni de Il Paradiso delle Signore ci rivelano che la vita di Rocco e Maria verrà sconvolta! Ma cosa succederà nelle prossime puntate della soap di Rai1?Tra intrighi, sotterfugi e crisi ma… [+2924 chars]"
+      "title": "Amici 20: Deddy, Sangiovanni, Aka7even, Giulia e Alessandro volano in Finale, la sorpresa di Maria De Filippi (VIDEO) - ComingSoon.it",
+      "description": "Svelati i nomi dei cinque finalisti della ventesima edizione di Amici.",
+      "url": "https://www.comingsoon.it/tv/gossip/amici-20-deddy-sangiovanni-aka7even-giulia-e-alessandro-volano-in-finale-la/n123071/",
+      "urlToImage": "https://mr.comingsoon.it/imgdb/PrimoPiano/123071_ppl.jpg",
+      "publishedAt": "2021-05-08T22:49:00Z",
+      "content": "Svelati i nomi dei cinque finalisti della ventesima edizione di Amici.La Semifinale di Amici ha visto la proclamazione dei cinque finalisti della ventesima edizione di Amici: Aka7even, Giulia Stabile… [+1658 chars]"
     }
   ]
 }

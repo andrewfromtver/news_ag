@@ -4,68 +4,237 @@ news_us = {
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "ESPN"
+        "id": "techradar",
+        "name": "TechRadar"
       },
-      "author": null,
-      "title": "Wizards vs. Pacers - Game Recap - May 8, 2021 - ESPN",
-      "description": "Get a recap of the Washington Wizards vs. Indiana Pacers basketball game.",
-      "url": "https://www.espn.com/nba/recap/_/gameId/401307820",
-      "urlToImage": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401307820.png?templateId=espn.com.share.1",
-      "publishedAt": "2021-05-09T02:15:39Z",
-      "content": "INDIANAPOLIS -- When the final buzzer sounded Saturday night, Russell Westbrook grabbed the ball, jogged to the baseline and waved to the crowd. A few moments after joining Oscar Robertson as the NBA… [+4014 chars]"
+      "author": "Aatif Sulleyman",
+      "title": "How to watch Elon Musk on SNL: stream Saturday Night Live clips and replay online from anywhere - TechRadar",
+      "description": "Missed Musk's SNL guest spot? You can stream it all online",
+      "url": "https://www.techradar.com/news/how-to-watch-elon-musk-on-snl-stream-saturday-night-live-clips-and-replay-online-from-anywhere",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/44dwppp8WLRQMcM2FzGEVj-1200-80.jpg",
+      "publishedAt": "2021-05-09T08:26:28Z",
+      "content": "Controversial billionaire Elon Musk hosting live comedy institution Saturday Night Live... what could possibly go wrong!? Read on as we detail how to watch SNL with Elon Musk and stream Saturday Nigh… [+5809 chars]"
     },
     {
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "Laura Ly, Theresa Waldrop and Alec Snyder, CNN",
-      "title": "Two women and a 4-year-old girl wounded in Times Square shooting, NYPD says - CNN ",
-      "description": "Two women and a 4-year-old girl, believed to be innocent bystanders, were wounded in a shooting at New York's Times Square on Saturday, according to New York police.",
-      "url": "https://www.cnn.com/2021/05/08/us/new-york-times-square-shooting-3-injured/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210508192508-new-york-times-square-shooting-3-injured-super-tease.jpg",
-      "publishedAt": "2021-05-09T01:29:00Z",
-      "content": null
+      "author": "Julia Hollingsworth and Manveena Suri, CNN",
+      "title": "Medical journal slams Indian government for 'squandering' early success on Covid-19 - CNN ",
+      "description": "The Indian government has been blasted for ignoring warnings of a second wave, encouraging complacency, and failing to be transparent on Covid-19 data, in a scathing editorial in prestigious medical journal The Lancet.",
+      "url": "https://www.cnn.com/2021/05/09/india/india-lancet-editorial-intl-hnk/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210508212409-01-india-coronavirus-0508-super-tease.jpg",
+      "publishedAt": "2021-05-09T06:41:00Z",
+      "content": "New Delhi (CNN)The Indian government has been blasted for ignoring warnings of a second wave, encouraging complacency, and failing to be transparent on Covid-19 data, in a scathing editorial in prest… [+4791 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Christina Maxouris, CNN",
+      "title": "The 3 things one expert hopes will help address ongoing Covid-19 vaccine hesitancy - CNN",
+      "description": "The US has an opportunity to get ahead in the Covid-19 pandemic by getting more people vaccinated -- and three key things can help address ongoing concerns, one expert says.",
+      "url": "https://www.cnn.com/2021/05/09/health/us-coronavirus-sunday/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210508235951-washington-dc-vaccination-0506-super-tease.jpg",
+      "publishedAt": "2021-05-09T05:55:00Z",
+      "content": "(CNN)The US has an opportunity to get ahead in the Covid-19 pandemic by getting more people vaccinated -- and three key things can help address ongoing concerns, one expert says. \r\n\"People were worri… [+5768 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTLA Los Angeles"
+      },
+      "author": "Génesis Miranda Miramontes, John Fenoglio",
+      "title": "Balcony collapse in Malibu residence sends almost a dozen people onto rocks below - KTLA Los Angeles",
+      "description": "Almost a dozen people were injured after a balcony collapsed during a social gathering in a home in Malibu sending them onto rocks below Saturday evening, fire officials said. Shortly after 5p.m., fire officials responded to the call of a balcony collapsing a…",
+      "url": "https://ktla.com/news/local-news/balcony-collapse-in-malibu-residence-sends-almost-a-dozen-people-onto-rocks-below/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2021/05/Screen-Shot-2021-05-08-at-9.46.04-PM.png?w=1280",
+      "publishedAt": "2021-05-09T04:54:30Z",
+      "content": "Almost a dozen people were injured after a balcony collapsed during a social gathering in a home in Malibu sending them onto rocks below Saturday evening, fire officials said. \r\nShortly after 5p.m., … [+1178 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jackie Wattles, CNN Business",
+      "title": "China rocket debris likely plunged into the Indian Ocean near the Maldives, says China's space agency - CNN ",
+      "description": null,
+      "url": "https://www.cnn.com/2021/05/08/app-international-edition/china-space-debris-long-march-rocket-reentry-scn/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210508221057-long-march-5b-rocket-super-tease.jpg",
+      "publishedAt": "2021-05-09T04:41:00Z",
+      "content": "New York (CNN Business)Debris from an out-of-control Chinese rocket likely plunged into the Indian Ocean, just west of the Maldives, on Saturday night ET, China's space agency said.\r\nMost of the huge… [+2723 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "Ben Baby",
+      "title": "Canelo Alvarez wins unification bout vs. Billy Joe Saunders via TKO in front of record crowd - ESPN",
+      "description": "Saturday night's unification bout was waved off after the eighth round, when Canelo Alvarez unloaded a right uppercut that sealed Billy Joe Saunders' right eye shut.",
+      "url": "https://www.espn.com/boxing/story/_/id/31414131/canelo-alvarez-wins-unification-bout-vs-billy-joe-saunders-front-record-crowd",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0509%2Fr851529_1296x729_16%2D9.jpg",
+      "publishedAt": "2021-05-09T04:24:42Z",
+      "content": "ARLINGTON, Texas -- Canelo Alvarez could feel it coming.\r\nIn the eighth round at AT&amp;T Stadium on Saturday night, the Mexican champion egged on a record-breaking crowd as he pelted Billy Joe Saund… [+3698 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Mike Bohn",
+      "title": "Twitter reacts to Marina Rodriguez's win over Michelle Waterson at UFC on ESPN 24 - MMA Junkie",
+      "description": "See the top Twitter reactions to Marina Rodriguez’s win over Michelle Waterson in the UFC on ESPN 24 main event.",
+      "url": "https://mmajunkie.usatoday.com/lists/ufc-on-espn-24-twitter-reacts-marina-rodriguez-decision-win-michelle-waterson-main-event",
+      "urlToImage": "https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2021/05/marina-rodriguez-michelle-waterson-ufc-on-espn-24-weigh-ins.jpg?w=1000&h=576&crop=1",
+      "publishedAt": "2021-05-09T03:24:37Z",
+      "content": "By Mike Bohn |\r\nMay 8, 2021 11:22 pm\r\nMarina Rodriguez took advantage of her first UFC main event slot on Saturday when she beat Michelle Waterson at UFC on ESPN 24.\r\nRodriguez (15-1-2 MMA, 4-1-2 UFC… [+3839 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Jody Serrano",
+      "title": "Colonial Pipeline, the Largest Fuel Pipeline in the U.S., Has Shut Down Over a Ransomware Attack - Gizmodo",
+      "description": "Operators of the Colonial pipeline—a 5,500-mile system that takes fuel from refineries in Houston, Texas to the New York harbor—have shut down the entire system because of the cyberattack, which officials revealed to be ransomware on Saturday",
+      "url": "https://earther.gizmodo.com/colonial-pipeline-the-largest-fuel-pipeline-in-the-u-s-1846854104",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/296d7431f810d41e18628e4bdd1518e6.jpg",
+      "publishedAt": "2021-05-09T03:20:20Z",
+      "content": "If you live on the East Coast and see fuel prices go up soon, theres a good chance its because of the cyberattack that forced the Colonial pipeline, the countrys largest refined products pipeline, to… [+3596 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Peter Van Sant",
+      "title": "Gretchen Anthony killing: Estranged husband tries to use COVID-19 as a cover for murder - CBS News",
+      "description": "Digital evidence stored in the cloud was critical to solving the case.",
+      "url": "https://www.cbsnews.com/news/gretchen-anthony-murder-husband-cover-up-covid-19/",
+      "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/07/662a4bf7-a689-4ea1-95f2-fa3b03b4e2e4/thumbnail/1200x630/e6ea361fd8e403c914c91df8653ccbdb/anthony-wedding.jpg",
+      "publishedAt": "2021-05-09T03:07:00Z",
+      "content": "When friends and family of a Jupiter, Florida, mother began receiving texts revealing she had a serious case of coronavirus, they grew worried. But Gretchen Anthony hadn't talked to anyone and wasn't… [+37802 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Los Angeles Times"
+      },
+      "author": "Jen Yamato",
+      "title": "Scarlett Johansson calls for 'step back' from Golden Globes - Los Angeles Times",
+      "description": "Scarlett Johansson joins Hollywood callout of Golden Globes, slams 'sexist' questions from HFPA journalists.",
+      "url": "https://www.latimes.com/entertainment-arts/movies/story/2021-05-08/scarlett-johansson-sexist-hfpa-golden-globes-reforms",
+      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/34a10c9/2147483647/strip/true/crop/5472x2873+0+388/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fzbk%2Fdamlat_images%2FLA%2FLA_PHOTO_SELECTS%2F2017_02%2F2505927_ET_Oscars_Arrivals_JLC_16_049.JPG",
+      "publishedAt": "2021-05-09T02:59:00Z",
+      "content": "Scarlett Johansson has joined a growing Hollywood call to ditch the embattled Golden Globes, slamming past sexist questions and remarks from member journalists of the Hollywood Foreign Press Assn. an… [+4501 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Joshua Comins",
+      "title": "Andrew Cuomo investigation expands over politicization of vaccine distribution - Fox News",
+      "description": "New York Governor Andrew Cuomo has once again found himself in hot water as new reports indicate the State Attorney General is widening its investigation into whether the administration pushed vaccine access for political gain.",
+      "url": "https://www.foxnews.com/politics/andrew-cuomo-investigation-expands-over-politicization-of-vaccine-distribution",
+      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ec4d413-393b-49c3-9ac6-36496e1e562f/b864b113-067f-4d84-9d46-a49c901a8f21/1280x720/match/image.jpg",
+      "publishedAt": "2021-05-09T02:27:23Z",
+      "content": "New York Governor Andrew Cuomo has once again found himself in hot water as new reports indicate the State Attorney General is widening its investigation into whether the administration pushed vaccin… [+1855 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HarpersBAZAAR.com"
+      },
+      "author": "Harper's Bazaar Staff",
+      "title": "Meghan Markle Discusses How the Pandemic Has Disproportionately Impacted Women of Color at Vax Live - HarpersBAZAAR.com",
+      "description": "The Duchess of Sussex also talked about her unborn daughter in a video recorded for the event.",
+      "url": "https://www.harpersbazaar.com/celebrity/latest/a36373207/meghan-markle-pandemic-disproportionately-impacted-women-of-color-vax-live/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/0-meghan-markle-speaks-about-daughter-at-vax-live-1620526038.jpeg?crop=1.00xw:0.754xh;0,0&resize=1200:*",
+      "publishedAt": "2021-05-09T02:20:00Z",
+      "content": "Meghan Markle wasn't able to attend Global Citizen's Vax Live: The Concert To Reunite The World in person, but she still made sure her voice was heard at the event. \r\nThe Duke and Duchess of Sussex c… [+2366 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "Russell Westbrook ties Oscar Robertson for most triple-doubles in NBA history - CBS Sports",
+      "description": "Westbrook and Robertson each have 181 triple-doubles",
+      "url": "https://www.cbssports.com/nba/news/russell-westbrook-ties-oscar-robertson-for-most-triple-doubles-in-nba-history/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/05/09/78934960-74ce-4c2d-b34a-1bd97ca4aaae/thumbnail/1200x675/00170c5c1456ef19a06f6a611e1f4c90/westbrook.jpg",
+      "publishedAt": "2021-05-09T01:47:00Z",
+      "content": "Russell Westbrook's career has paralleled Oscar Robertson's in several ways. They both had to carry undermanned teams, and were criticized for not winning championships in their primes. They were bot… [+2204 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Post Magazine"
       },
       "author": null,
-      "title": "NCT 127 Performs 'Kick It' | VAX LIVE by Global Citizen - Global Citizen",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9SmtqNDJoaWZVOUXSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2021-05-09T00:58:01Z",
-      "content": null
+      "title": "China’s quiet bid to take on Elon Musk’s Starlink satellite project - South China Morning Post",
+      "description": "China Satellite Network Group is Beijing’s latest effort to launch a constellation of satellites to beam internet signals from space, but experts say there is a lot of catching up to do.",
+      "url": "https://www.scmp.com/tech/policy/article/3132709/chinas-new-bid-take-elon-musks-starlink-state-owned-satellite",
+      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/05/07/25bd1792-af36-11eb-9c9f-63ba12e765d1_image_hires_213657.jpg?itok=0wFSen0d&v=1620394628",
+      "publishedAt": "2021-05-09T01:00:21Z",
+      "content": "Published: 9:00am, 9 May, 2021\r\nUpdated: 9:00am, 9 May, 2021"
     },
     {
       "source": {
-        "id": "politico",
-        "name": "Politico"
+        "id": null,
+        "name": "Billboard"
       },
-      "author": "Alex Thompson",
-      "title": "Warren says she will run for reelection in 2024 - POLITICO",
-      "description": "The 71-year-old senator, whose new book addresses the disappointment of her failed presidential campaign, says she sees a future in the Senate.",
-      "url": "https://www.politico.com/news/2021/05/08/warren-will-run-for-reelection-2024-486024",
-      "urlToImage": "https://static.politico.com/80/36/c03b2acd42579f47ca8d5974306f/20210508-elizabeth-warren-ap-773.jpg",
-      "publishedAt": "2021-05-08T23:50:51Z",
-      "content": "After all, Warren did spend the past two years trying to leave the Senate: the presidential campaign, her auditioning to be vice president, and then the push to be Bidens Treasury Secretary.\r\nThe fai… [+8850 chars]"
+      "author": "Ashley Iasimone",
+      "title": "Whitesnake's David Coverdale Sends Condolences to Tawny Kitaen's Family Following Her Death - Billboard",
+      "description": "Julie E. “Tawny” Kitaen was remembered by musicians, fellow actors and entertainment figures following her death.",
+      "url": "https://www.billboard.com/articles/news/9569503/whitesnake-david-coverdale-tawny-kitaen-dead-condolences/",
+      "urlToImage": "https://static.billboard.com/files/2021/05/tawny-kitaen-05082021-billboard-1548-1620503778-compressed.jpg",
+      "publishedAt": "2021-05-09T00:00:00Z",
+      "content": "Julie E. Tawny Kitaen, the actress who appeared in several Whitesnake music videos and starred as Tom Hanks' fiancée in Bachelor Party, was remembered by musicians, fellow actors and entertainment fi… [+656 chars]"
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": null,
+        "name": "NPR"
       },
-      "author": "Claudia Lauer",
-      "title": "String of satellites baffles residents, bugs astronomers - The Associated Press",
-      "description": "PHILADELPHIA (AP) — A string of lights that lobbed across the night sky in parts of the U.S. on Wednesday, Thursday and Friday had some people wondering if a fleet of UFOs was coming, but it had others— mostly amateur stargazers and professional astronomers— …",
-      "url": "https://apnews.com/article/tx-state-wire-spacex-business-technology-science-9c2a06a4868408043ccb472372a0d8dd",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/4b5b77bc29c04f1fae22e45784293f3b/3000.jpeg",
-      "publishedAt": "2021-05-08T23:37:01Z",
-      "content": "PHILADELPHIA (AP) A string of lights that lobbed across the night sky in parts of the U.S. on Wednesday, Thursday and Friday had some people wondering if a fleet of UFOs was coming, but it had others… [+4331 chars]"
+      "author": "",
+      "title": "U.K. Elections: Conservatives Make Gains; Pro-Independence Parties Win In Scotland - NPR",
+      "description": "Voters in Scotland gave a majority to parties supporting a push for independence from the U.K. Meanwhile, Boris Johnson's Conservatives won in local elections in England.",
+      "url": "https://www.npr.org/2021/05/08/995069404/u-k-elections-conservatives-make-gains-pro-independence-parties-win-in-scotland",
+      "urlToImage": "https://media.npr.org/assets/img/2021/05/08/gettyimages-1232743394_wide-8b8a9d79503fc329545be7362f2f93eb55549b17.jpg?s=1400",
+      "publishedAt": "2021-05-08T23:58:20Z",
+      "content": "Britain's Prime Minister Boris Johnson, pictured Friday, celebrated his party's victory in a local election. Johnson's Conservatives fared well in local and regional elections.\r\nOli Scarff/AFP via Ge… [+2949 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Melissa Klein",
+      "title": "Summer camp for Jewish boys plans to bar those with COVID vaccination: reports - New York Post ",
+      "description": "A New York sleepaway camp for Jewish boys plans to bar anyone who received the COVID-19 vaccine, according to reports.",
+      "url": "https://nypost.com/2021/05/08/jewish-summer-camp-plans-to-bar-those-with-covid-vaccination-report/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/05/naftali-schwartz-camp-hikon-1.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2021-05-08T23:49:00Z",
+      "content": "A New York sleepaway camp for Jewish boys plans to bar anyone who received the COVID-19 vaccine, according to reports.\r\nCamp Hikon, which is in the planning stages, wants to prepare Orthodox Jewish b… [+2676 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Mike Florio",
+      "title": "Zach Wilson: Jets starting job “has to be earned” - NBC Sports",
+      "description": "Jets rookie quarterback Zach Wilson wants nothing to be handed to him. “In this position, the coaches want to play the best player,” Wilson told reporters at rookie minicamp on Saturday, via Rich Cimini of ESPN.com. “That position has to be earned. I have to …",
+      "url": "https://profootballtalk.nbcsports.com/2021/05/08/zach-wilson-jets-starting-job-has-to-be-earned/",
+      "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2021/05/USATSI_16036221.jpg?resize=1024,850",
+      "publishedAt": "2021-05-08T23:07:00Z",
+      "content": "Jets rookie quarterback Zach Wilson wants nothing to be handed to him.\r\n“In this position, the coaches want to play the best player,” Wilson told reporters at rookie minicamp on Saturday, via Rich Ci… [+817 chars]"
     },
     {
       "source": {
@@ -83,184 +252,15 @@ news_us = {
     {
       "source": {
         "id": null,
-        "name": "ESPN"
+        "name": "KTLA Los Angeles"
       },
-      "author": "Ben Baby",
-      "title": "Canelo Alvarez-Billy Joe Saunders live results and analysis - ESPN",
-      "description": "Alvarez defeated Saunders by eighth-round TKO to unify the WBC, WBA and WBO world titles.",
-      "url": "https://www.espn.com/boxing/story/_/id/31405036/canelo-alvarez-billy-joe-saunders-live-results-analysis",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0509%2Fr851529_1296x729_16%2D9.jpg",
-      "publishedAt": "2021-05-08T22:15:45Z",
-      "content": "ARLINGTON, Texas -- Canelo Alvarez could feel it coming.\r\nIn the eighth round, the Mexican champion egged on a record-breaking crowd as he pelted Billy Joe Saunders in their super middleweight unific… [+10123 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "",
-      "title": "Obama Family's Beloved Dog Bo Dies - NPR",
-      "description": "\"For more than a decade, Bo was a constant, comforting presence in our lives,\" said former President Barack Obama. The Portuguese water dog was 12 in human years.",
-      "url": "https://www.npr.org/2021/05/08/995086328/obamas-mourn-death-of-true-friend-beloved-first-dog-bo",
-      "urlToImage": "https://media.npr.org/assets/img/2021/05/08/ap_120315084364_wide-508063f753482385c96125fe328290e912b5ecd3.jpg?s=1400",
-      "publishedAt": "2021-05-08T22:04:34Z",
-      "content": "Then-President Barack Obama pets the family dog Bo outside the Oval Office of the White House.\r\nPablo Martinez Monsivais/AP\r\nIn a string of heartfelt tweets on Saturday, former President Barack Obama… [+2546 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Page Six"
-      },
-      "author": "Jessica Bennett",
-      "title": "Elon Musk announces 'SNL' international livestream - Page Six",
-      "description": "Elon Musk is ensuring “Saturday Night Live” fans around the world catch his guest spot with an international livestream via YouTube.",
-      "url": "https://pagesix.com/2021/05/08/elon-musk-announces-snl-international-livestream/",
-      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2021/05/elon-musk.jpg?quality=90&strip=all&w=1200",
-      "publishedAt": "2021-05-08T21:34:00Z",
-      "content": "Elon Musk is ensuring “Saturday Night Live” fans around the world catch his guest spot tonight with a YouTube livestream that will broadcast the show “in select countries and territories.”\r\nThe billi… [+1557 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Andy Greenberg",
-      "title": "The Colonial Pipeline Hack Is a New Extreme for Ransomware - WIRED",
-      "description": "An attack has crippled the company’s operations—and cut off a large portion of the East Coast’s fuel supply—in an ominous development for critical infrastructure.",
-      "url": "https://www.wired.com/story/colonial-pipeline-ransomware-attack/",
-      "urlToImage": "https://media.wired.com/photos/6096f72d0fb8afb8ea0ae8c0/191:100/w_1280,c_limit/Security-colonial_pipeline-hack-2.jpg",
-      "publishedAt": "2021-05-08T21:33:57Z",
-      "content": "For years, the cybersecurity industry has warned that state-sponsored hackers could shut down large swathes of US energy infrastructure in a geopolitically motivated act of cyberwar. But now apparent… [+4728 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NASASpaceflight.com"
-      },
-      "author": "Trevor Sesnic, Colin Fletcher, & Lee Kanayama",
-      "title": "SpaceX ready for historic 10th flight of a Falcon 9 as Starlink constellation expands - NASASpaceFlight.com - NASASpaceflight.com",
-      "description": "SpaceX is set for the historic tenth flight of a Falcon 9 rocket booster on…",
-      "url": "https://www.nasaspaceflight.com/2021/05/historic-10th-falcon9-reflight/",
-      "urlToImage": "https://www.nasaspaceflight.com/wp-content/uploads/2021/01/Falcon-9-Xporter1-525x350.jpeg",
-      "publishedAt": "2021-05-08T21:32:50Z",
-      "content": "SpaceX is set for the historic tenth flight of a Falcon 9 rocket booster on the Starlink V1.0 L27 mission. The flight is set to launch from SLC-40 at Cape Canaveral Space Force Station on Sunday, 9 M… [+12600 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WCVB Boston"
-      },
-      "author": null,
-      "title": "Massachusetts reports 795 new COVID-19 cases, 8 additional deaths - WCVB Boston",
-      "description": "The Massachusetts Department of Public Health has released the latest COVID-19 case numbers for the state.",
-      "url": "https://www.wcvb.com/article/massachusetts-daily-covid-19-update-may-8-2021/36372549",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap-covid-coronavirus-microscopic-1613334724.jpg?crop=1.00xw:0.880xh;0,0.120xh&resize=1200:*",
-      "publishedAt": "2021-05-08T21:02:00Z",
-      "content": "BOSTON —The Massachusetts Department of Public Health reported an additional 795 confirmed COVID-19 cases Saturday, bringing the statewide total to 652,535 since the start of the pandemic.\r\nState hea… [+1044 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Ryan Dunleavy",
-      "title": "'Whoops': Bryson DeChambeau flight gaffe sparks chaos - New York Post ",
-      "description": "Bryson DeChambeau is known for long distance, but this is something entirely different.",
-      "url": "https://nypost.com/2021/05/08/whoops-bryson-dechambeau-golf-mistake-sparks-chaos/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/05/Bryson-DeChambeau-1.jpg?quality=90&strip=all&w=1200",
-      "publishedAt": "2021-05-08T20:57:00Z",
-      "content": "Bryson DeChambeau is known for long distance, but this is something entirely different.\r\nThe PGA Tours long hitter left the Wells Fargo Championship in Charlotte after finishing the first two rounds … [+1933 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "At least 3 people injured in shooting at Aventura Mall. Shooter fled the scene, cops say - Miami Herald",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vd3d3Lm1pYW1paGVyYWxkLmNvbS9uZXdzL2xvY2FsL2NvbW11bml0eS9taWFtaS1kYWRlL2F2ZW50dXJhL2FydGljbGUyNTEyNjM1OTQuaHRtbNIBWmh0dHBzOi8vYW1wLm1pYW1paGVyYWxkLmNvbS9uZXdzL2xvY2FsL2NvbW11bml0eS9taWFtaS1kYWRlL2F2ZW50dXJhL2FydGljbGUyNTEyNjM1OTQuaHRtbA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2021-05-08T20:37:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WWBT NBC12 News"
-      },
-      "author": "Nick Russo",
-      "title": "Wallops Island rocket launch may be visible from Richmond Saturday evening - WWBT NBC12 News",
-      "description": "A rocket launch from Wallop's island may be visible Saturday evening.",
-      "url": "https://www.nbc12.com/2021/05/08/wallops-island-rocket-launch-may-be-visible-richmond-saturday-evening/",
-      "urlToImage": "https://www.nbc12.com/resizer/y0E-inD9kqVd_gIoRSZVOJJ0NYI=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/ZTM7CZY5IZDGHO23PLF4FU4KFE.png",
-      "publishedAt": "2021-05-08T20:21:00Z",
-      "content": "RICHMOND, Va. (WWBT) - A rocket launched from Wallops Island Saturday evening may be visible across Central Virginia, including metro Richmond.\r\nNASA is launching a rocket from Eastern Virginia Satur… [+1098 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Times"
-      },
-      "author": "Stephen Castle",
-      "title": "Of Brexit and Boris: What’s Driving the Call for Scottish Independence - The New York Times",
-      "description": "Scots voted to remain in the E.U., and they resent being dictated to by England. And they just plain don’t like Prime Minister Boris Johnson.",
-      "url": "https://www.nytimes.com/2021/05/08/world/europe/brexit-scotland-independence.html",
-      "urlToImage": "https://static01.nyt.com/images/2021/05/08/world/08scotland-explainer01/08scotland-explainer01-facebookJumbo.jpg",
-      "publishedAt": "2021-05-08T19:53:58Z",
-      "content": "The millions of votes cast across Scotland Thursday could be among the most consequential in recent times, and not because of their impact on things like health, education and fisheries. The greatest… [+1097 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Morgan Phillips",
-      "title": "Cuomo investigation expanded to include COVID vaccine politicization: report - Fox News",
-      "description": "The New York State Attorney General’s office has expanded its sexual harassment investigation into Gov. Andrew Cuomo to include looking at whether one of the governor’s top advisers offered access to COVID vaccines for political connections.",
-      "url": "https://www.foxnews.com/politics/cuomo-investigation-covid-vaccines",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/CuomoSchwartzAP2CROP.jpg",
-      "publishedAt": "2021-05-08T19:40:13Z",
-      "content": "The New York State Attorney Generals office has expanded its sexual harassment investigation into Gov. Andrew Cuomo to include looking at whether one of the governors top advisers offered access to C… [+3552 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Sean Sullivan",
-      "title": "As Biden faces a struggle to hold the Senate, Democrats’ divisions resurface - The Washington Post",
-      "description": "In crucial Senate races in Pennsylvania, North Carolina and elsewhere, the Democratic coalition that came together to elect Biden is fracturing again — with big implications for his presidency.",
-      "url": "https://www.washingtonpost.com/politics/biden-democrats-senate-races/2021/05/08/0bfe45a2-ae77-11eb-ab4c-986555a1c511_story.html",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5MKSB6VPPEI6XAWBRFVMVFK3XE.jpg&w=1440",
-      "publishedAt": "2021-05-08T19:17:00Z",
-      "content": "As Democrats survey the upcoming fight to keep their narrow Senate majority, they face similar challenges in an array of states: The factions that set aside their differences to deliver the Democrats… [+13106 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Edward Helmore",
-      "title": "States turning down Covid-19 vaccine doses as US demand declines - The Guardian",
-      "description": "Reduced demand comes as Joe Biden has announced a plan to vaccinate 70% of US adults by the Fourth of July",
-      "url": "https://amp.theguardian.com/world/2021/may/08/us-coronavirus-vaccine-demand-states-turning-down-doses",
-      "urlToImage": null,
-      "publishedAt": "2021-05-08T19:10:00Z",
-      "content": "CoronavirusReduced demand comes as Joe Biden has announced a plan to vaccinate 70% of US adults by the Fourth of July\r\nDeclining demand for Covid-19 vaccines in the US is causing states across the co… [+5842 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Julia Musto",
-      "title": "China rocket debris tracker: How to see location where it will land - Fox News",
-      "description": "The core stage of China's Long March 5B rocket is projected to make an uncontrolled re-entry into the Earth's atmosphere within hours.",
-      "url": "https://www.foxnews.com/science/china-falling-rocket-debris-track",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/chinarocket-cropped-206a.jpg",
-      "publishedAt": "2021-05-08T18:29:34Z",
-      "content": "The core stage of China's Long March 5B rocket is projected to make an uncontrolled re-entry into the Earth's atmosphere within hours.\r\nThe approximately 100-foot-long rocket booster, which was launc… [+2954 chars]"
+      "author": "Magee Hickey, Stephen M. Lepore, Rebecca Solomon",
+      "title": "Police searching for suspect after 2 women, 4-year-old injured in Times Square shooting: officials - KTLA Los Angeles",
+      "description": "TIMES SQUARE, Manhattan — The NYPD said two women and a 4-year-old girl have been shot in Times Square Saturday and officers are looking for at least one suspect.  The victims were shot at about 4:55 p.m. at 45th Street and 7th Avenue in Manhattan, authoritie…",
+      "url": "https://ktla.com/news/nationworld/times-square-shooting-child-woman-shot-in-manhattan-nypd-says/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2021/05/TSQ-Shooting.png?w=1280",
+      "publishedAt": "2021-05-08T22:36:42Z",
+      "content": "TIMES SQUARE, Manhattan — The NYPD said two women and a 4-year-old girl have been shot in Times Square Saturday and officers are looking for at least one suspect. \r\nThe victims were shot at about 4:5… [+1816 chars]"
     }
   ]
 }
