@@ -17,6 +17,7 @@ nav {
     box-shadow: 0 0 8px #333;
     display: flex;
     justify-content: center;
+    border-radius: 4px;
 }
 
 .navlinks {
@@ -91,6 +92,7 @@ nav {
     max-width: 320px;
     z-index: 999;
     box-shadow: 0 0 8px #333;
+    border-radius: 4px;
 }
 
 .menu > h3 {
