@@ -243,10 +243,9 @@ button:active, select:active, .menu > h3:active {
 .share {
     background-color: #6699CC;
     position: fixed;
-    bottom: 0;
+    top: 38;
     z-index: 999;
     display: flex;
-    justify-content: center;
     width: 100%;
     overflow-x: auto;
 }
