@@ -58,7 +58,7 @@
             var crd = pos.coords;
             globallon = crd.latitude;
             globallat = crd.longitude;
-            globalplace = 'По моим координатам';
+            globalplace = 'Based on geolocation from GPS';
         }
         function error(err) {
             console.warn(`ERROR(${err.code}): ${err.message}`);
@@ -96,9 +96,6 @@
     }
     function bygeoloc(type) {
         allowgeo();
-        if (type =='friends') {
-            friends(globallat, globallon, globalplace);
-        }
         if (type =='weather') {
             fetchweatherdata = null;
             fetchaddinfodata = null;
@@ -107,11 +104,6 @@
             fetchforecasttemp = null;
 
             weather(globallat, globallon, globalplace);
-        }
-        if (type =='stat') {
-            fetchstat = null;
-
-            statinfo(globallat, globallon, globalplace);
         }
     }
     /* Address query DADATA API */
@@ -142,24 +134,10 @@
             if (suggestions.length > 0) {
                 inner = '';
             }
-            if (type == 'friends') {
-                suggestions.forEach(function(item) {
-                    if (item.data.geo_lat & item.data.geo_lon) {
-                        inner += `<p onclick='friends(${item.data.geo_lon}, ${item.data.geo_lat}, "${item.value}")'>${item.value}</p>`;
-                    }
-                });
-            }
             if (type == 'weather') {
                 suggestions.forEach(function(item) {
                     if (item.data.geo_lat & item.data.geo_lon) {
                         inner += `<p id='${item.data.geo_lon},${item.data.geo_lat}' onclick="writegeoloc(this)">${item.value}</p>`;
-                    }
-                });
-            }
-            if (type == 'stat') {
-                suggestions.forEach(function(item) {
-                    if (item.data.geo_lat & item.data.geo_lon) {
-                        inner += `<p id='${item.data.geo_lon},${item.data.geo_lat}' onclick="statinfo(${item.data.geo_lon}, ${item.data.geo_lat}, '${item.value}')">${item.value}</p>`;
                     }
                 });
             }
@@ -178,7 +156,7 @@
         if (lat & lon) {
             if (!fetchweatherdata) {
                 var url = "https://api.openweathermap.org/data/2.5/weather";
-                fetch(url+`?lat=${lon}&lon=${lat}&appid=${token}&mode=${mode}&lang=RU&units=metric`)
+                fetch(url+`?lat=${lon}&lon=${lat}&appid=${token}&mode=${mode}&lang=EN&units=metric`)
                     .then(function(value){
                         if(value.status !== 200){
                             return Promise.reject(new Error('Ошибка'));
@@ -190,12 +168,12 @@
                         currentweather = JSON.stringify(output);
                         var inner = `
                             <div class="meteoinfo leftblock">
-                                <h3 class="title">Сегодня</h3>
+                                <h3 class="title">Today</h3>
                                 <p onclick="weather(null, null)">${JSON.parse(currentweather).weather[0].description}</p>
-                                <p onclick="addinfo('temp')">${'температура воздуха ' + JSON.parse(currentweather).main.temp + ' °C'}</p>
-                                <p onclick="addinfo('feeltemp')">${'ощущяется как ' + JSON.parse(currentweather).main.feels_like + ' °C'}</p>
-                                <p onclick="addinfo('hum')">${'влажность ' + JSON.parse(currentweather).main.humidity + ' %'}</p>
-                                <p onclick="addinfo('pres')">${'атмосферное давление ' + JSON.parse(currentweather).main.pressure + ' мм рт. ст.'}</p>
+                                <p onclick="addinfo('temp')">${'Real temperature ' + JSON.parse(currentweather).main.temp + ' °C'}</p>
+                                <p onclick="addinfo('feeltemp')">${'Feels like ' + JSON.parse(currentweather).main.feels_like + ' °C'}</p>
+                                <p onclick="addinfo('hum')">${'Humidity ' + JSON.parse(currentweather).main.humidity + ' %'}</p>
+                                <p onclick="addinfo('pres')">${'Atmosphere pressure ' + JSON.parse(currentweather).main.pressure + ' мм рт. ст.'}</p>
                             </div>
                         `;
                         document.querySelector('.weatherinfo').innerHTML = inner;
@@ -220,10 +198,10 @@
                     <div class="meteoinfo leftblock">
                         <h3 class="title">Сегодня</h3>
                         <p onclick="weather(null, null)">${JSON.parse(currentweather).weather[0].description}</p>
-                        <p onclick="addinfo('temp')">${'температура воздуха ' + JSON.parse(currentweather).main.temp + ' °C'}</p>
-                        <p onclick="addinfo('feeltemp')">${'ощущяется как ' + JSON.parse(currentweather).main.feels_like + ' °C'}</p>
-                        <p onclick="addinfo('hum')">${'влажность ' + JSON.parse(currentweather).main.humidity + ' %'}</p>
-                        <p onclick="addinfo('pres')">${'атмосферное давление ' + JSON.parse(currentweather).main.pressure + ' мм рт. ст.'}</p>
+                        <p onclick="addinfo('temp')">${'Real temperature ' + JSON.parse(currentweather).main.temp + ' °C'}</p>
+                        <p onclick="addinfo('feeltemp')">${'Feels like ' + JSON.parse(currentweather).main.feels_like + ' °C'}</p>
+                        <p onclick="addinfo('hum')">${'Humidity ' + JSON.parse(currentweather).main.humidity + ' %'}</p>
+                        <p onclick="addinfo('pres')">${'Atmosphere pressure ' + JSON.parse(currentweather).main.pressure + ' мм рт. ст.'}</p>
                     </div>
                 `;
                 document.querySelector('.weatherinfo').innerHTML = inner;
@@ -253,10 +231,10 @@
             document.querySelector('.detail').innerHTML = '';
             if (globallat & globallon) {
                 if (!fetchsecondforecastdata) {
-                    fetch(url+`?lat=${globallon}&lon=${globallat}&exclude=current,minutely,hourly,alerts&appid=${token}&lang=RU&units=metric`)
+                    fetch(url+`?lat=${globallon}&lon=${globallat}&exclude=current,minutely,hourly,alerts&appid=${token}&lang=EN&units=metric`)
                         .then(function(value){
                             if(value.status !== 200){
-                                return Promise.reject(new Error('Ошибка'));
+                                return Promise.reject(new Error('ERROR'));
                             }
                             return value.json();
                         })
@@ -293,28 +271,28 @@
             }
             if (forecasttemp.length > 0) {
                 document.querySelector('.detail').innerHTML += `
-                    <h3 class="title">Сравнительный температурный график (завтра / послезавтра)</h3>
+                    <h3 class="title">Comparative temperature chart (tomorrow / the day after tomorrow)</h3>
                     <canvas style="margin-bottom: 8px;" id="forecastChart"></canvas>
                 `;
                 var ctx = document.getElementById('forecastChart').getContext('2d');
                 var chart = new Chart(ctx, {
                     type: 'bar',
                     data: {
-                        labels: ['День', 'Вечер', 'Ночь'],
+                        labels: ['Day', 'Evening', 'Night'],
                         datasets: [{
-                            label: 'Т завтра (°C)',
+                            label: 'Т tomorrow (°C)',
                             backgroundColor: '#13926B',
                             data: forecasttemp
                         },{
-                            label: 'Т завтра (по ощущениям) (°C)',
+                            label: 'Т tomorrow (feels like) (°C)',
                             backgroundColor: '#CC1B41',
                             data: forecastfeeltemp
                         },{
-                            label: 'Т послезавтра (°C)',
+                            label: 'Т the day after tomorrow (°C)',
                             backgroundColor: '#13926B',
                             data: nextforecasttemp
                         },{
-                            label: 'Т послезавтра (по ощущениям) (°C)',
+                            label: 'Т the day after tomorrow (feels like) (°C)',
                             backgroundColor: '#CC1B41',
                             data: nextforecastfeeltemp
                         }]
@@ -341,10 +319,10 @@
         }
         if (globallat & globallon) {
             if (!fetchforecastdata) {
-                fetch(url+`?lat=${globallon}&lon=${globallat}&exclude=${exclude}&appid=${token}&lang=RU&units=metric`)
+                fetch(url+`?lat=${globallon}&lon=${globallat}&exclude=${exclude}&appid=${token}&lang=EN&units=metric`)
                     .then(function(value){
                         if(value.status !== 200){
-                            return Promise.reject(new Error('Ошибка'));
+                            return Promise.reject(new Error('ERROR'));
                         }
                         return value.json();
                     })
@@ -354,26 +332,26 @@
                             inner = `
                                 <div class="weatherinfo">
                                     <div class="meteoinfo leftblock">
-                                        <h3 class="title">Завтра</h3>
+                                        <h3 class="title">Tomorrow</h3>
                                         <p onclick="addinfo(null, 'right', true)">${output.daily[1].weather[0].description}</p>
-                                        <p onclick="addinfo('temp')">${'температура воздуха ' + output.daily[1].temp.day + ' °C'}</p>
-                                        <p onclick="addinfo('feeltemp')">${'ощущяется как ' + output.daily[1].feels_like.day + ' °C'}</p>
-                                        <p onclick="addinfo('hum')">${'влажность ' + output.daily[1].humidity + ' %'}</p>
-                                        <p onclick="addinfo('pres')">${'атмосферное давление ' + output.daily[1].pressure + ' мм рт. ст.'}</p>
+                                        <p onclick="addinfo('temp')">${'Temperature ' + output.daily[1].temp.day + ' °C'}</p>
+                                        <p onclick="addinfo('feeltemp')">${'Feels like ' + output.daily[1].feels_like.day + ' °C'}</p>
+                                        <p onclick="addinfo('hum')">${'Humidity ' + output.daily[1].humidity + ' %'}</p>
+                                        <p onclick="addinfo('pres')">${'Atmospheric pressure ' + output.daily[1].pressure + ' мм рт. ст.'}</p>
                                     </div>
                                     <div class="meteoinfo rightblock">
-                                        <h3 class="title">Послезавтра</h3>
+                                        <h3 class="title">The day after tomorrow</h3>
                                         <p onclick="addinfo(null, 'left', true)">${output.daily[2].weather[0].description}</p>
-                                        <p onclick="addinfo('temp', 'left')">${'температура воздуха ' + output.daily[2].temp.day + ' °C'}</p>
-                                        <p onclick="addinfo('feeltemp', 'left')">${'ощущяется как ' + output.daily[2].feels_like.day + ' °C'}</p>
-                                        <p onclick="addinfo('hum', 'left')">${'влажность ' + output.daily[2].humidity + ' %'}</p>
-                                        <p onclick="addinfo('pres', 'left')">${'атмосферное давление ' + output.daily[2].pressure + ' мм рт. ст.'}</p>
+                                        <p onclick="addinfo('temp', 'left')">${'Temperature ' + output.daily[2].temp.day + ' °C'}</p>
+                                        <p onclick="addinfo('feeltemp', 'left')">${'Feels like ' + output.daily[2].feels_like.day + ' °C'}</p>
+                                        <p onclick="addinfo('hum', 'left')">${'Humidity ' + output.daily[2].humidity + ' %'}</p>
+                                        <p onclick="addinfo('pres', 'left')">${'Atmospheric pressure ' + output.daily[2].pressure + ' мм рт. ст.'}</p>
                                     </div>
                                 </div>
                                 <form>
-                                    <button onclick="weather(null, null)">Прогноз на сегодня</button>
-                                    <button onclick="forecast(2)">Прогноз на 2 дня</button>
-                                    <button onclick="forecast(6)">Прогноз на 6 дней</button>
+                                    <button onclick="weather(null, null)">Forecast for today</button>
+                                    <button onclick="forecast(2)">2-day forecast</button>
+                                    <button onclick="forecast(6)">6-day forecast</button>
                                 </form>
                             `;
                             document.querySelector('.content').innerHTML = inner;
@@ -382,46 +360,46 @@
                             inner = `
                                 <div class="weatherinfo">
                                     <div class="meteoinfo">
-                                        <h3 class="title">Завтра</h3>
+                                        <h3 class="title">Tomorrow</h3>
                                         <p onclick="forecastinfo(1)">
                                         ${output.daily[1].weather[0].description + ' ' + output.daily[1].temp.day + ' °C'}
                                         </p>
                                     </div>
                                     <div class="meteoinfo">
-                                        <h3 class="title">Послезавтра</h3>
+                                        <h3 class="title">The day after tomorrow</h3>
                                         <p onclick="forecastinfo(2)">
                                         ${output.daily[2].weather[0].description + ' ' + output.daily[2].temp.day + ' °C'}
                                         </p>
                                     </div>
                                     <div class="meteoinfo">
-                                        <h3 class="title">Через 3 дня</h3>
+                                        <h3 class="title">After 3 days</h3>
                                         <p onclick="forecastinfo(3)">
                                         ${output.daily[3].weather[0].description + ' ' + output.daily[3].temp.day + ' °C'}
                                         </p>
                                     </div>
                                     <div class="meteoinfo">
-                                        <h3 class="title">Через 4 дня</h3>
+                                        <h3 class="title">After 4 days</h3>
                                         <p onclick="forecastinfo(4)">
                                         ${output.daily[4].weather[0].description + ' ' + output.daily[4].temp.day + ' °C'}
                                         </p>
                                     </div>
                                     <div class="meteoinfo">
-                                        <h3 class="title">Через 5 дней</h3>
+                                        <h3 class="title">After 5 days</h3>
                                         <p onclick="forecastinfo(5)">
                                         ${output.daily[5].weather[0].description + ' ' + output.daily[5].temp.day + ' °C'}
                                         </p>
                                     </div>
                                     <div class="meteoinfo">
-                                        <h3 class="title">Через 6 дней</h3>
+                                        <h3 class="title">After 6 days</h3>
                                         <p onclick="forecastinfo(6)">
                                         ${output.daily[6].weather[0].description + ' ' + output.daily[6].temp.day + ' °C'}
                                         </p>
                                     </div>
                                 </div>
                                 <form>
-                                    <button onclick="weather(null, null)">Прогноз на сегодня</button>
-                                    <button onclick="forecast(2)">Прогноз на 2 дня</button>
-                                    <button onclick="forecast(6)">Прогноз на 6 дней</button>
+                                    <button onclick="weather(null, null)">Forecast for today</button>
+                                    <button onclick="forecast(2)">2-day forecast</button>
+                                    <button onclick="forecast(6)">6-day forecast</button>
                                 </form>
                             `;
                             document.querySelector('.content').innerHTML = inner;
@@ -433,26 +411,26 @@
                     inner = `
                         <div class="weatherinfo">
                             <div class="meteoinfo leftblock">
-                                <h3 class="title">Завтра</h3>
+                                <h3 class="title">Tomorrow</h3>
                                 <p onclick="addinfo(null, 'right', true)">${fetchforecastdata.daily[1].weather[0].description}</p>
-                                <p onclick="addinfo('temp')">${'температура воздуха ' + fetchforecastdata.daily[1].temp.day + ' °C'}</p>
-                                <p onclick="addinfo('feeltemp')">${'ощущяется как ' + fetchforecastdata.daily[1].feels_like.day + ' °C'}</p>
-                                <p onclick="addinfo('hum')">${'влажность ' + fetchforecastdata.daily[1].humidity + ' %'}</p>
-                                <p onclick="addinfo('pres')">${'атмосферное давление ' + fetchforecastdata.daily[1].pressure + ' мм рт. ст.'}</p>
+                                <p onclick="addinfo('temp')">${'Temperature ' + fetchforecastdata.daily[1].temp.day + ' °C'}</p>
+                                <p onclick="addinfo('feeltemp')">${'Feels like ' + fetchforecastdata.daily[1].feels_like.day + ' °C'}</p>
+                                <p onclick="addinfo('hum')">${'Humidity ' + fetchforecastdata.daily[1].humidity + ' %'}</p>
+                                <p onclick="addinfo('pres')">${'Atmospheric pressure ' + fetchforecastdata.daily[1].pressure + ' мм рт. ст.'}</p>
                             </div>
                             <div class="meteoinfo rightblock">
-                                <h3 class="title">Послезавтра</h3>
+                                <h3 class="title">The day after tomorrow</h3>
                                 <p onclick="addinfo(null, 'left', true)">${fetchforecastdata.daily[2].weather[0].description}</p>
-                                <p onclick="addinfo('temp', 'left')">${'температура воздуха ' + fetchforecastdata.daily[2].temp.day + ' °C'}</p>
-                                <p onclick="addinfo('feeltemp', 'left')">${'ощущяется как ' + fetchforecastdata.daily[2].feels_like.day + ' °C'}</p>
-                                <p onclick="addinfo('hum', 'left')">${'влажность ' + fetchforecastdata.daily[2].humidity + ' %'}</p>
-                                <p onclick="addinfo('pres', 'left')">${'атмосферное давление ' + fetchforecastdata.daily[2].pressure + ' мм рт. ст.'}</p>
+                                <p onclick="addinfo('temp', 'left')">${'Temperature ' + fetchforecastdata.daily[2].temp.day + ' °C'}</p>
+                                <p onclick="addinfo('feeltemp', 'left')">${'Feels like ' + fetchforecastdata.daily[2].feels_like.day + ' °C'}</p>
+                                <p onclick="addinfo('hum', 'left')">${'Humidity ' + fetchforecastdata.daily[2].humidity + ' %'}</p>
+                                <p onclick="addinfo('pres', 'left')">${'Atmospheric pressure ' + fetchforecastdata.daily[2].pressure + ' мм рт. ст.'}</p>
                             </div>
                         </div>
                         <form>
-                            <button onclick="weather(null, null)">Прогноз на сегодня</button>
-                            <button onclick="forecast(2)">Прогноз на 2 дня</button>
-                            <button onclick="forecast(6)">Прогноз на 6 дней</button>
+                            <button onclick="weather(null, null)">Forecast for today</button>
+                            <button onclick="forecast(2)">2-day forecast</button>
+                            <button onclick="forecast(6)">6-day forecast</button>
                         </form>
                     `;
                     document.querySelector('.content').innerHTML = inner;
@@ -461,46 +439,46 @@
                     inner = `
                         <div class="weatherinfo">
                             <div class="meteoinfo">
-                                <h3 class="title">Завтра</h3>
+                                <h3 class="title">Tomorrow</h3>
                                 <p onclick="forecastinfo(1)">
                                 ${fetchforecastdata.daily[1].weather[0].description + ' ' + fetchforecastdata.daily[1].temp.day + ' °C'}
                                 </p>
                             </div>
                             <div class="meteoinfo">
-                                <h3 class="title">Послезавтра</h3>
+                                <h3 class="title">The day after tomorrow</h3>
                                 <p onclick="forecastinfo(2)">
                                 ${fetchforecastdata.daily[2].weather[0].description + ' ' + fetchforecastdata.daily[2].temp.day + ' °C'}
                                 </p>
                             </div>
                             <div class="meteoinfo">
-                                <h3 class="title">Через 3 дня</h3>
+                                <h3 class="title">After 3 days</h3>
                                 <p onclick="forecastinfo(3)">
                                 ${fetchforecastdata.daily[3].weather[0].description + ' ' + fetchforecastdata.daily[3].temp.day + ' °C'}
                                 </p>
                             </div>
                             <div class="meteoinfo">
-                                <h3 class="title">Через 4 дня</h3>
+                                <h3 class="title">After 4 days</h3>
                                 <p onclick="forecastinfo(4)">
                                 ${fetchforecastdata.daily[4].weather[0].description + ' ' + fetchforecastdata.daily[4].temp.day + ' °C'}
                                 </p>
                             </div>
                             <div class="meteoinfo">
-                                <h3 class="title">Через 5 дней</h3>
+                                <h3 class="title">After 5 days</h3>
                                 <p onclick="forecastinfo(5)">
                                 ${fetchforecastdata.daily[5].weather[0].description + ' ' + fetchforecastdata.daily[5].temp.day + ' °C'}
                                 </p>
                             </div>
                             <div class="meteoinfo">
-                                <h3 class="title">Через 6 дней</h3>
+                                <h3 class="title">After 6 days</h3>
                                 <p onclick="forecastinfo(6)">
                                 ${fetchforecastdata.daily[6].weather[0].description + ' ' + fetchforecastdata.daily[6].temp.day + ' °C'}
                                 </p>
                             </div>
                         </div>
                         <form>
-                            <button onclick="weather(null, null)">Прогноз на сегодня</button>
-                            <button onclick="forecast(2)">Прогноз на 2 дня</button>
-                            <button onclick="forecast(6)">Прогноз на 6 дней</button>
+                            <button onclick="weather(null, null)">Forecast for today</button>
+                            <button onclick="forecast(2)">2-day forecast</button>
+                            <button onclick="forecast(6)">6-day forecast</button>
                         </form>
                     `;
                     document.querySelector('.content').innerHTML = inner;
@@ -534,7 +512,7 @@
             if (globallat & globallon) {
                 if (!fetchaddinfodata) {
                     var url = "https://api.openweathermap.org/data/2.5/onecall";
-                    fetch(url+`?lat=${globallon}&lon=${globallat}&exclude=current,minutely,alerts&appid=${token}&lang=RU&units=metric`)
+                    fetch(url+`?lat=${globallon}&lon=${globallat}&exclude=current,minutely,alerts&appid=${token}&lang=EN&units=metric`)
                         .then(function(value){
                             if(value.status !== 200){
                                 return Promise.reject(new Error('Ошибка'));
@@ -572,7 +550,7 @@
             }
             if (type == 'temp') {
                 document.querySelector('.' + position + 'block').innerHTML = `
-                    <h3 class="title">Температурный график</h3>
+                    <h3 class="title">Temperature chart</h3>
                     <canvas id="myChart"></canvas>
                 `;
                 var ctx = document.getElementById('myChart').getContext('2d');
@@ -581,7 +559,7 @@
                     data: {
                         labels: [0,2,4,6,8,10,12,14,16,18,20,22],
                         datasets: [{
-                            label: 'Температура в течении дня (°C)',
+                            label: 'Temperature during the day (°C)',
                             borderColor: '#CC1B41',
                             data: currenttemp
                         }]
@@ -600,7 +578,7 @@
             }
             if (type == 'feeltemp') {
                 document.querySelector('.' + position + 'block').innerHTML = `
-                    <h3 class="title">Температурный график (по ощущениям)</h3>
+                    <h3 class="title">Temperature chart (feels like)</h3>
                     <canvas id="myChart"></canvas>
                 `;
                 var ctx = document.getElementById('myChart').getContext('2d');
@@ -609,7 +587,7 @@
                     data: {
                         labels: [0,2,4,6,8,10,12,14,16,18,20,22],
                         datasets: [{
-                            label: 'Температура по ощущениям (°C)',
+                            label: 'Feels like (°C)',
                             borderColor: '#13926B',
                             data: currentfeeltemp
                         }]
@@ -628,7 +606,7 @@
             }
             if (type == 'hum') {
                 document.querySelector('.' + position + 'block').innerHTML = `
-                    <h3 class="title">График влажности</h3>
+                    <h3 class="title">Humidity Chart</h3>
                     <canvas id="myChart"></canvas>
                 `;
                 var ctx = document.getElementById('myChart').getContext('2d');
@@ -637,7 +615,7 @@
                     data: {
                         labels: [0,2,4,6,8,10,12,14,16,18,20,22],
                         datasets: [{
-                            label: 'Влажность в течении дня (%)',
+                            label: 'Humidity during the day (%)',
                             borderColor: '#CC1B41',
                             data: currenthum
                         }]
@@ -656,7 +634,7 @@
             }
             if (type == 'pres') {
                 document.querySelector('.' + position + 'block').innerHTML = `
-                    <h3 class="title">График атмосферного давления</h3>
+                    <h3 class="title">Atmospheric pressure graph</h3>
                     <canvas id="myChart"></canvas>
                 `;
             var ctx = document.getElementById('myChart').getContext('2d');
@@ -665,7 +643,7 @@
                 data: {
                     labels: [0,2,4,6,8,10,12,14,16,18,20,22],
                     datasets: [{
-                        label: 'Атмосферное давление (мм рт. ст.)',
+                        label: 'Atmospheric pressure (мм рт. ст.)',
                         borderColor: '#13926B',
                         data: currentpres
                     }]
@@ -690,10 +668,10 @@
         var url = "https://api.openweathermap.org/data/2.5/onecall";
         if (globallat & globallon) {
             if (!fetchforecasttemp) {
-                fetch(url+`?lat=${globallon}&lon=${globallat}&exclude=current,minutely,hourly,alerts&appid=${token}&lang=RU&units=metric`)
+                fetch(url+`?lat=${globallon}&lon=${globallat}&exclude=current,minutely,hourly,alerts&appid=${token}&lang=EN&units=metric`)
                     .then(function(value){
                         if(value.status !== 200){
-                            return Promise.reject(new Error('Ошибка'));
+                            return Promise.reject(new Error('ERROR'));
                         }
                         return value.json();
                     })
@@ -720,24 +698,24 @@
                 forecastfeeltemp.push(fetchforecasttemp.daily[day].feels_like.night);
             }
         }
-        var key = [' на сегодня', ' на завтра', ' на послезавтра', ' через 3 дня', ' через 4 дня', ' через 5 дней', ' через 6 дней'];
+        var key = [' for today', ' for tomorrow', ' the day after tomorrow', ' after 3 days', ' after 4 days', ' after 5 days', ' after 6 days'];
         if (forecasttemp.length > 0) {
             document.querySelector('.detail').innerHTML = `
-                <h3 class="title">Прогноз погоды${key[day]}</h3>
+                <h3 class="title">Weather forecast${key[day]}</h3>
                 <canvas style="margin-bottom: 8px;" id="myChart"></canvas>
             `;
             var ctx = document.getElementById('myChart').getContext('2d');
             var chart = new Chart(ctx, {
                 type: 'bar',
                 data: {
-                    labels: ['День', 'Вечер', 'Ночь'],
+                    labels: ['Day', 'Evening', 'Night'],
                     datasets: [{
-                        label: 'Температура (°C)',
+                        label: 'Temperature (°C)',
                         borderColor: '#13926B',
                         backgroundColor: '#13926B',
                         data: forecasttemp
                     },{
-                        label: 'Температура (по ощущениям) (°C)',
+                        label: 'Feels like (°C)',
                         borderColor: '#CC1B41',
                         backgroundColor: '#CC1B41',
                         data: forecastfeeltemp
@@ -767,8 +745,8 @@
         document.querySelector('.container').innerHTML = `
             <br>
             <form>
-                <input class="input" type="text" placeholder="Введите название населенного пункта" maxlength="30" oninput="query(this.value, 'weather')">
-                <button onclick="bygeoloc('weather')">Погода по GPS</button>
+                <input class="input" type="text" placeholder="Enter the name of the locality" maxlength="30" oninput="query(this.value, 'weather')">
+                <button onclick="bygeoloc('weather')">Weather by GPS</button>
                 <div class="suggestions"></div>
                 <div class="geoloc"></div>
             </form>
@@ -776,9 +754,9 @@
         document.querySelector('.content').innerHTML = `
             <div class="weatherinfo"></div>
             <form>
-                <button onclick="weather(null, null)">Прогноз на сегодня</button>
-                <button onclick="forecast(2)">Прогноз на 2 дня</button>
-                <button onclick="forecast(6)">Прогноз на 6 дней</button>
+                <button onclick="weather(null, null)">Forecast for today</button>
+                <button onclick="forecast(2)">2-day forecast</button>
+                <button onclick="forecast(6)">6-day forecast</button>
             </form>
         `;
         if (place) {
@@ -798,7 +776,6 @@
         document.querySelector('.suggestions').style.display = 'none';
         addinfo();
     }
-
 
     /* Init */
     window.onload = function() {
