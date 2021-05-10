@@ -5,15 +5,28 @@ news_ru = {
     {
       "source": {
         "id": null,
-        "name": "Quote.rbc.ru"
+        "name": "Forklog.com"
       },
       "author": null,
-      "title": "Индекс Мосбиржи впервые в истории превысил 3700 пунктов - РБК",
-      "description": "РБК Инвестиции :: котировки, курсы валют, новости, компании.",
-      "url": "https://quote.rbc.ru/news/article/606176359a7947864bc72bf7",
-      "urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/5/17/756206449126175.jpg",
-      "publishedAt": "2021-05-10T11:17:27Z",
-      "content": "0,58%, 3703,92 13:31 , . 3700 .\r\n 0,12%, 1579,42 .\r\n« : , «» , », — « » 10 .\r\n 3,9%, 3682,69 .  — 5, 6 7 . , . , , . \r\n « » , , : « , , , , . ».\r\n 1,88%, 73,78. , . $1800 .\r\n10 13:50 Brent 0,64%, $68… [+139 chars]"
+      "title": "Криптовалюта Shiba Inu выросла на 140% за сутки и обновила максимум - http://forklog.com/",
+      "description": "Цена Shiba Inu (SHIB), клона мем-криптовалюты Dogecoin, обновила исторический максимум. В моменте актив достиг отметки $0,000033. График SHIB/USDT биржи Poloniex. Данные: TradingView. На момент написания криптовалюта торгуется на уровне $0,000029. За последни…",
+      "url": "https://forklog.com/kriptovalyuta-shiba-inu-vyrosla-na-140-za-sutki-i-obnovila-maksimum/",
+      "urlToImage": "https://forklog.com/social_previews/134658.png",
+      "publishedAt": "2021-05-10T13:27:53Z",
+      "content": "Shiba Inu (SHIB), - Dogecoin, . $0,000033. \r\n SHIB/USDT Poloniex. : TradingView.\r\n$0,000029.\r\n 140%, 1550%. Shiba Inu 18 CoinMarketCap $11,6 .\r\n Dogecoin Binance. 10 Shiba Inu . , « ».\r\n Binance SHIB… [+364 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Iz.ru"
+      },
+      "author": "Дарья Зарембо",
+      "title": "В Совфеде ответили на требование Чехии о компенсации за взрыв во Врбетице - Известия",
+      "description": "Россия не станет платить Чехии деньги за абсурдные обвинения в якобы причастности Москвы к взрывам во Врбетице в 2014 году. Об этом 10 мая заявил первый заместитель главы международного комитета Совета Федерации, генерал ФСБ в отставке Владимир Джабаров.",
+      "url": "https://iz.ru/1162009/2021-05-10/v-sovfede-otvetili-na-trebovanie-chekhii-o-kompensatcii-za-vzryv-vo-vrbetitce",
+      "urlToImage": "http://cdn.iz.ru/sites/default/files/styles/900x506/public/default_images/world.png.jpg?itok=Yr-XVh80",
+      "publishedAt": "2021-05-10T13:24:24Z",
+      "content": null
     },
     {
       "source": {
@@ -21,38 +34,142 @@ news_ru = {
         "name": "Championat.com"
       },
       "author": "Чемпионат",
-      "title": "Аслан Карацев вышел во второй круг «Мастерса» в Риме, где сразится с Даниилом Медведевым - Чемпионат",
-      "description": "Российский теннисист Аслан Карацев одержал победу на старте турнира серии «Мастерс» в Риме (Италия). Отметим, что это 20-я победа россиянина в текущем сезоне.",
-      "url": "https://www.championat.com/tennis/news-4344771-aslan-karacev-vyshel-vo-vtoroj-krug-mastersa-v-rime-gde-srazitsya-s-daniilom-medvedevym.html",
-      "urlToImage": "https://img.championat.com/news2/social/b/3e/4344771.jpg",
-      "publishedAt": "2021-05-10T11:05:32Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "rbc",
-        "name": "RBC"
-      },
-      "author": null,
-      "title": "В Норвегии рекомендовали не прививать препаратами AstraZeneca и J&J - РБК",
-      "description": "Норвежские специалисты, как и датские, рекомендовали исключить препараты от AstraZeneca и Johnson & Johnson из прививочной кампании. Обе эти вакцины оказывались под подозрением из-за образования тромбов у пациентов",
-      "url": "https://www.rbc.ru/society/10/05/2021/609909639a7947c89c3a00ff",
-      "urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/9/30/756206442583309.jpg",
-      "publishedAt": "2021-05-10T10:57:37Z",
-      "content": ", , AstraZeneca Johnson &amp; Johnson . - \r\n , - AstraZeneca Johnson &amp; Johnson (J&amp;J) , COVID-19, NRK.\r\n (FHI) Janssen (Johnson &amp; Johnson). , , , , , , . FHI Janssen « » — .\r\n , NRK , , , … [+51 chars]"
+      "title": "Алекс Крал рассказал, в чём «Спартак» уступил «Зениту» в этом сезоне - Чемпионат",
+      "description": "Полузащитник московского «Спартака» Алекс Крал ответил на вопрос, в чём красно-белые уступили «Зениту» в нынешнем сезоне. Команда возглавляла таблицу в начале сезона, однако сине-бело-голубые по итогу досрочно стали чемпионами России.",
+      "url": "https://www.championat.com/football/news-4344869-aleks-kral-rasskazal-v-chyom-spartak-ustupil-zenitu-v-etom-sezone.html",
+      "urlToImage": "https://img.championat.com/news2/social/0/47/4344869.jpg",
+      "publishedAt": "2021-05-10T13:18:42Z",
+      "content": "«» , - «» . , -- . \r\n« . , , . , . , , . «» , », Sport.cz.\r\n«», 53 , -. «» - «» .\r\n «» «»:"
     },
     {
       "source": {
         "id": null,
-        "name": "Sportbox.ru"
+        "name": "Ria.ru"
+      },
+      "author": "",
+      "title": "Путин сообщил о хорошем уровне антител после прививки от коронавируса - РИА НОВОСТИ",
+      "description": "Владимир Путин в эфире канала \"Россия 24\" рассказал о последствиях своей вакцинации против коронавируса. РИА Новости, 10.05.2021",
+      "url": "https://ria.ru/20210510/putin-1731660305.html",
+      "urlToImage": "https://cdn25.img.ria.ru/images/sharing/article/1731660305.jpg?17316668911620653103",
+      "publishedAt": "2021-05-10T13:07:30Z",
+      "content": "https://ria.ru/20210510/putin-1731660305.html\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdn25.img.ria.ru/images/07e5/05/0a/1731666897_0:0:… [+579 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Igromania.ru"
       },
       "author": null,
-      "title": "Черчесов 11 мая назовет расширенный состав сборной России для подготовки к Евро-2020 - news.Sportbox.ru",
-      "description": "Главный тренер сборной России Станислав Черчесов 11 мая назовет список игроков, которые будут вызваны в национальную команду для подготовки к чемпионату Европы-2020.",
-      "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/national_teams/spbnews_NI1350701_Cherchesov_11_maja_nazovet_rasshirennyj_sostav_sbornoj_Rossii_dla_podgotovki_k_Jevro_2020",
-      "urlToImage": "https://s-cdn.sportbox.ru/images/shares/1200x600/node/55/1350701.jpg",
-      "publishedAt": "2021-05-10T10:57:15Z",
-      "content": "© « » 2007 2021.16 \r\n «www.sportbox.ru»     ,   ().\r\n № 77-72613  04.04.2018\r\n — www.sportbox.ru\r\n () «www.sportbox.ru»: « »\r\n «www.sportbox.ru»: ..\r\n «www.sportbox.ru»: +7 (495) 653 8419\r\n «www.spor… [+27 chars]"
+      "title": "Sony ожидает, что дефицит PlayStation 5 продолжится и в 2022 году - Игромания",
+      "description": "Желающим стоит быть внимательнее.",
+      "url": "https://www.igromania.ru/news/104904/Sony_ozhidaet_chto_deficit_PlayStation_5_prodolzhitsya_i_v_2022_godu.html",
+      "urlToImage": "https://cdn.igromania.ru/mnt/news/a/8/7/3/6/b/104904/22b59dce46506dbf_1200xH.jpg",
+      "publishedAt": "2021-05-10T12:45:45Z",
+      "content": "10.05.2021 15:45  |  \r\n , PS5 PS4  — , Sony . PlayStation 5 ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.mk.ru"
+      },
+      "author": null,
+      "title": "В метро уборщик станции метнул нож в полицейского и ранил его - Московский Комсомолец",
+      "description": "Сотрудник полиции был ранен в понедельник утром на станции метро «Бульвар Рокоссовского»",
+      "url": "https://www.mk.ru/incident/2021/05/10/v-metro-uborshhik-stancii-metnul-nozh-v-policeyskogo-i-ranil-ego.html",
+      "urlToImage": "https://static.mk.ru/upload/entities/2021/05/10/15/articles/facebookPicture/43/e3/22/c7/d9b4c2a2d0906517b7e4767891e8f0fc.jpg",
+      "publishedAt": "2021-05-10T12:39:29Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "lenta",
+        "name": "Lenta"
+      },
+      "author": null,
+      "title": "Нефть подорожала после кибератаки на трубопровод в США - Lenta.ru",
+      "description": "Цены на нефть выросли после кибератаки на трубопровод Colonial Pipeline в США и перебоях в его работе. В ходе торгов в понедельник, 10 мая, эталонная Brent подорожала до 68,91 доллара за баррель. Об этом свидетельствуют данные Лондонской биржи ICE. Выроста и …",
+      "url": "https://lenta.ru/news/2021/05/10/neftup/",
+      "urlToImage": "https://icdn.lenta.ru/images/2021/05/10/15/20210510152546701/share_1deae21f70c956d785530bd352dacf36.jpg",
+      "publishedAt": "2021-05-10T12:28:00Z",
+      "content": "Colonial Pipeline . , 10 , Brent 68,91 . ICE.\r\n WTI: 65,43 . Brent 2,3 , WTI 2,1 .\r\n Colonial Pipeline, 45 , . 7 , .\r\n, DarkSide. , , , .\r\n , . The New York Times, : , . Infrastructure Capital Manage… [+113 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "У мечети Аль-Акса в Иерусалиме с новой силой вспыхнули беспорядки - Би-би-си Русская служба",
+      "description": "На территории мечети Аль-Акса в Иерусалиме произошли новые столкновения между израильской полицией и палестинцами в преддверии ожидаемого шествия, приуроченного к очередной годовщине перехода города под контроль Израиля после Шестидневной войны.",
+      "url": "https://www.bbc.com/russian/news-57055659",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_russian/1577E/production/_118443978_mediaitem118443977.jpg",
+      "publishedAt": "2021-05-10T12:25:59Z",
+      "content": ", Reuters\r\n- , . \r\n - - . .\r\n , . , , -.\r\n 20 - - . , .\r\n. \" \" , 270 . , 16 . \r\n153 , -, \"-\". \r\n \"-\" 80 .\r\n- . \r\n\" , -, - . - , , , -, \"\r\n , \" \".\r\n , , 1967 . \r\n . . .\r\n , .\r\n , . 70 , - . - .\r\n- , ,… [+117 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurosport.ru"
+      },
+      "author": "Павел Городницкий",
+      "title": "Пояс Хабиба в UFC разыграют Майкл Чендлер и Чарльз Оливейра. Болеть хочется за обоих - Eurosport RU",
+      "description": "Майкл Чендлер и Чарльз Оливейра проведут поединок за пояс UFC в легком весе. Титул раньше принадлежал Хабибу Нурмагомедову.",
+      "url": "https://www.eurosport.ru/mixed-martial-arts/story_sto8312301.shtml",
+      "urlToImage": "https://i.eurosport.com/2021/05/10/3129718-64150088-2560-1440.jpg",
+      "publishedAt": "2021-05-10T11:53:00Z",
+      "content": ": Getty Images\r\nUFC . « , , - : « ». , », . , : , - . , , . \r\n35- Bellator, : , , 200 . , , , . , , Bellator. \r\n : , ( 10%) . , - . , , . , , .\r\n . 2018 , . ( ), . 2020-: , . \r\n , UFC , , . , . , , ,… [+85 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "3dnews.ru"
+      },
+      "author": null,
+      "title": "Ethereum бьёт рекорды. Криптовалюта торгуется дороже $4000 за единицу - 3DNews",
+      "description": "Вторая по популярности в мире криптовалюта Ethereum продолжает демонстрировать уверенный рост, который привёл к взятию очередной значимой величины в $4000 за единицу цифровой валюты.",
+      "url": "https://3dnews.ru/1039217/ethereum-byot-rekordi-kriptovalyuta-torguetsya-doroge-4000-za-edinitsu",
+      "urlToImage": "https://3dnews.ru/assets/external/illustrations/2021/05/10/1039217/245.jpg",
+      "publishedAt": "2021-05-10T11:35:00Z",
+      "content": "Ethereum , $4000 . , Dogecoin .\r\n: Reuters\r\nBinance «» 6 %, $4000 . Ethereum $4098 . $59 603 , Dogecoin $0,54. , , «» — , Dogecoin — .\r\n Ethereum , , , DeFi ( ), . CoinMarketCap, Ethereum $477 ,  — $… [+89 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Коронавирус: Кипр открывается для привитых, ЕС отказался от AstraZeneca, в Британии разрешат обниматься - Би-би-си Русская служба",
+      "description": "Кипр с понедельника начинает впускать без тестов и карантина туристов из 65 стран, Европейский союз решил не заключать новый контракт с производителями вакцины AstraZeneca, а в Британии ждут нового этапа в постепенной отмене локдауна.",
+      "url": "https://www.bbc.com/russian/news-57057322",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_russian/532B/production/_118419212_gettyimages-1232740579-594x594.jpg",
+      "publishedAt": "2021-05-10T11:21:18Z",
+      "content": ", NurPhoto/Getty\r\n65 , AstraZeneca, , , , .\r\n Covid-19 - .\r\n 10 65 , .\r\n , 65 , , ( ) , .\r\n. \r\n 65 , , , , , .\r\n . , - .\r\n . \r\n - .\r\n , , - .\r\n - AstraZeneca, .\r\n , AstraZeneca , . \r\n , 8 , 1,8 - Pfi… [+340 chars]"
+    },
+    {
+      "source": {
+        "id": "lenta",
+        "name": "Lenta"
+      },
+      "author": null,
+      "title": "Российские власти задумали сменить способ сдерживания цен на продукты - Lenta.ru",
+      "description": "Сдерживание цен на продукты в России нельзя постоянно поддерживать на основе соглашений, какие сейчас действуют для сахара и подсолнечного масла. Российские власти указали на необходимость рыночного подхода. Такое мнение высказала российский вице-премьер Викт…",
+      "url": "https://lenta.ru/news/2021/05/10/sderjzen/",
+      "urlToImage": "https://icdn.lenta.ru/images/2021/05/10/13/20210510132641254/share_184eed4bda46695c4f46e260b46663d2.jpg",
+      "publishedAt": "2021-05-10T10:49:01Z",
+      "content": ", . . - , .\r\n« , , , . . - », .\r\n. , 6,82 , 13 10-20,6 . , . 20,1 9,6 .\r\n , , , . - , . 15-20 , .\r\n . 1 , 1 . . . - , - , ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Profinance.ru"
+      },
+      "author": null,
+      "title": "Рынок железной руды раскален до бела | ProFinance.Ru - ProFinance.Ru",
+      "description": "Фьючерсы на железную руду выросли более чем на 10%, а медь подскочила до рекордного уровня. Инвесторы полагают, что они будут лидерами сырьевого бума, который подогревает опасения по поводу инфляции во всем мире",
+      "url": "https://www.profinance.ru/news/2021/05/10/c23u-rynok-zheleznoj-rudy-raskalen-do-bela.html",
+      "urlToImage": "https://www.profinance.ru/img/top01-200x200.jpg",
+      "publishedAt": "2021-05-10T10:07:30Z",
+      "content": ",   , ,   . , ,  ,   ,    ,    , .\r\n  ,    . Commodity Spot Index Bloomberg      .\r\n   ,     , Goldman Sachs Group Inc.    7 .     .    ,    ,   ,      .\r\n  ,    Commonwealth Bank of Australia, «, ».… [+513 chars]"
     },
     {
       "source": {
@@ -60,50 +177,37 @@ news_ru = {
         "name": "Google News"
       },
       "author": null,
-      "title": "Путин предложил Жапарову помощь в преодолении последствий конфликта на киргизско-таджикской границе - Новости – Мир – Коммерсантъ - Коммерсантъ",
+      "title": "Эксперты прогнозирует новый мировой кризис в 2025–2026 годах - Новости – Экономика – Коммерсантъ - Коммерсантъ",
       "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiJWh0dHBzOi8vd3d3LmtvbW1lcnNhbnQucnUvZG9jLzQ4MDI3MDnSASVodHRwczovL3d3dy5rb21tZXJzYW50LnJ1L2FtcC80ODAyNzA5?oc=5",
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiJWh0dHBzOi8vd3d3LmtvbW1lcnNhbnQucnUvZG9jLzQ4MDI2OTjSASVodHRwczovL3d3dy5rb21tZXJzYW50LnJ1L2FtcC80ODAyNjk4?oc=5",
       "urlToImage": null,
-      "publishedAt": "2021-05-10T10:31:05Z",
+      "publishedAt": "2021-05-10T10:06:24Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Svoboda.org"
-      },
-      "author": "RFE/RL",
-      "title": "Рамзан Кадыров потребовал извинений от Израиля за беспорядки у Аль-Аксы - Радио Свобода ",
-      "description": "В столкновениях пострадали сотни людей",
-      "url": "https://www.svoboda.org/a/31247459.html",
-      "urlToImage": "https://gdb.rferl.org/fc219948-4fc4-42f2-875b-251a26eaf3f8_w1200_r1.jpg",
-      "publishedAt": "2021-05-10T09:45:02Z",
-      "content": ", -.\r\n\" , , , . , , !\" -. ..\r\n 7 . , , 20 . .\r\n , . 70 . 10 , . 30 .\r\n - . 10 . . .\r\n 1967 . ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mail.ru"
+        "name": "Vesti.ru"
       },
       "author": null,
-      "title": "Sony подтвердила, что дефицит PS5 продлится до 2022 года - Player One",
-      "description": null,
-      "url": "https://games.mail.ru/pc/news/2021-05-10/sony-podtverdila-chto-deficit-ps5-prodlitsya-do-2022-goda/",
-      "urlToImage": null,
-      "publishedAt": "2021-05-10T09:33:42Z",
-      "content": null
+      "title": "Премьера исторической драмы \"Обитель\" – уже сегодня на \"России 1\" - Вести.Ru",
+      "description": "10 мая на канале \"Россия 1\" начинается показ сериала, снятого по роману Захара Прилепина \"Обитель\". Главные роли в масштабной исторической драме, действие которой разворачивается в 1920-е, исполнили Сергей Безруков, Евгений Ткачук, Александра Ребенок и другие…",
+      "url": "https://www.vesti.ru/television/article/2560270",
+      "urlToImage": "https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/315/218/0.jpg",
+      "publishedAt": "2021-05-10T10:02:00Z",
+      "content": ", 21:20 \"\". . – . – , . – , .\r\n\" , , , \", – .\r\n\" , . . , , , , , – , , \", – .\r\n( – ) – . , , – , , 1920- – .\r\n\" , , 1938- . – , \", – .\r\n. , – , , .\r\n\" , \", – \"\" .\r\n . – ! , . .\r\n\" , , . , , ... ?\" – … [+31 chars]"
     },
     {
       "source": {
-        "id": "rt",
-        "name": "RT"
+        "id": null,
+        "name": "Znak.com"
       },
-      "author": "RT на Русском",
-      "title": "Эксперты назвали сроки нового мирового экономического кризиса - RT на русском",
-      "description": "Эксперты Центра макроэкономического анализа и краткосрочного прогнозирования (ЦМАКП) назвали сроки нового мирового экономического кризиса.",
-      "url": "https://russian.rt.com/business/news/860572-novyi-mirovoi-ekonomicheskii-krizis",
-      "urlToImage": "https://cdni.rt.com/russian/images/2021.05/article/6098f7c002e8bd628e5302d9.png",
-      "publishedAt": "2021-05-10T09:18:13Z",
+      "author": null,
+      "title": "СМИ: Ищенко, обвинившего Кожемяко в коррупции, поместили в психиатрическую клинику - znak.com",
+      "description": "Депутат Законодательного собрания Приморского края, экс-кандидат в губернаторы региона Андрей Ищенко госпитализирован в психоневрологический диспансер",
+      "url": "https://www.znak.com/2021-05-10/smi_ichenko_obvinivshego_kozhemyako_v_korrupcii_pomestili_v_psihiatricheskuyu_kliniku",
+      "urlToImage": "https://img.znak.com/og235037.png",
+      "publishedAt": "2021-05-10T09:09:58Z",
       "content": null
     },
     {
@@ -112,12 +216,12 @@ news_ru = {
         "name": "3dnews.ru"
       },
       "author": null,
-      "title": "Разработчиков Resident Evil Village обвинили в плагиате одного из монстров - 3DNews",
-      "description": "Режиссёр фильма &laquo;Армия Франкенштейна&raquo; Ричард Раапхорст (Richard Raaphorst) на своей странице в профессиональной социальной сети LinkedIn обвинил разработчиков Resident Evil Village в плагиате.",
-      "url": "https://3dnews.ru/1039200/razrabotchikov-resident-evil-village-obvinili-v-plagiate-odnogo-iz-monstrov",
-      "urlToImage": "https://3dnews.ru/assets/external/illustrations/2021/05/10/1039200/sm.00.750.jpg",
-      "publishedAt": "2021-05-10T08:59:00Z",
-      "content": "« » (Richard Raaphorst) LinkedInResident Evil Village . .\r\n , , , Capcom - .\r\n« 2013 “ ”. -, . — Resident Evil», — .\r\n. .\r\n , (, Silent Hill), .\r\n, Resident Evil . Resident Evil 7, , « », « », «» .\r\n… [+98 chars]"
+      "title": "Видео: сравнение стандартной версии Metro Exodus и Enhanced Edition на RTX 3080 в 4К - 3DNews",
+      "description": "Улучшенное издание Metro Exodus с подзаголовком Enhanced Edition вышло 6 мая 2021 года на ПК, а 18 июня доберётся до PS5, Xbox Series X и Series S.",
+      "url": "https://3dnews.ru/1039198/video-sravnenie-standartnoy-versii-metro-exodus-i-enhanced-edition-na-rtx-3080-v-4k",
+      "urlToImage": "https://3dnews.ru/assets/external/illustrations/2021/05/10/1039198/sm.Metro-Exodus-Enhanced-Edition-Visuals.750.jpg",
+      "publishedAt": "2021-05-10T08:55:00Z",
+      "content": "Metro Exodus Enhanced Edition 6 2021 , 18 PS5, Xbox Series X Series S. , — . YouTube- Cycu1 , . , Metro Exodus 4.\r\n . Cycu1 , Metro Exodus Enhanced Edition. . , , .\r\n- Enhanced Edition , RTX. , , - M… [+89 chars]"
     },
     {
       "source": {
@@ -131,32 +235,6 @@ news_ru = {
       "urlToImage": "https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/316/345/5.jpg",
       "publishedAt": "2021-05-10T08:50:00Z",
       "content": ". , \r\n Ctrl+Enter."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cybersport.ru"
-      },
-      "author": null,
-      "title": "В Steam стартовала распродажа игр Bethesda — скидки на Doom, Fallout, The Elder Scrolls и Prey - CyberSport.ru",
-      "description": "В цифровом магазине Steam началась распродажа игр издателя Bethesda Softworks со скидками до 75%. Акция продлится до 16 мая.",
-      "url": "https://www.cybersport.ru/games/news/v-steam-startovala-rasprodazha-igr-bethesda-skidki-na-doom-fallout-the-elder-scrolls-i-prey",
-      "urlToImage": "https://www.cybersport.ru/material/social/image/fb/569499",
-      "publishedAt": "2021-05-10T08:47:00Z",
-      "content": "Steam Bethesda Softworks 75%. 16 .\r\n<ul><li>Doom Eternal 659 1 999;</li><li>Fallout 4 429 859;</li><li>Prey 499 999;</li><li>Dishonored 2 574 1 149;</li><li>The Elder Scrolls V: Skyrim Special Editio… [+221 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Svoboda.org"
-      },
-      "author": "RFE/RL",
-      "title": "Чехия потребует от России миллиард крон за взрывы во Врбетице - Радио Свобода ",
-      "description": "О планах потребовать компенсацию сообщила министр финансов Чехии",
-      "url": "https://www.svoboda.org/a/31247353.html",
-      "urlToImage": "https://gdb.rferl.org/af6f291e-fe84-437e-a85a-c48985008925_w1200_r1.jpg",
-      "publishedAt": "2021-05-10T08:39:02Z",
-      "content": "( 47 ) 2014 . .\r\n .\r\n . , , .\r\n , , , , , . , , , . , . , , , \" \", \" \".\r\n 2014 . , , .\r\n- 18 , . 28 , , , , , , , , . - \" \" , , , .\r\n ."
     },
     {
       "source": {
@@ -183,84 +261,6 @@ news_ru = {
       "urlToImage": "https://cdn21.img.ria.ru/images/sharing/article/1731638957.jpg?16010638971620642628",
       "publishedAt": "2021-05-10T08:08:25Z",
       "content": "\" . ? , . , . , &lt;...&gt; \"\" , \", BFM TV."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Interfax.ru"
-      },
-      "author": null,
-      "title": "В России выявили еще 8 465 случаев заражения коронавирусом - Интерфакс",
-      "description": "Суточный прирост новых заболевших коронавирусной инфекцией в России составил более 8 465 случаев, следует из данных оперативного штаба, обнародованных в понедельник.",
-      "url": "https://www.interfax.ru/russia/765242",
-      "urlToImage": "https://www.interfax.ru/aspimg/765242.jpg",
-      "publishedAt": "2021-05-10T08:02:00Z",
-      "content": ". 10 . INTERFAX.RU - 8 465 , , .\r\n6 774 , 321 .\r\n8 419 , 334 7 517 .\r\n2 896 COVID-19 , 56 , 1 976 .\r\n 724 -, 649 - , 208 - , 135 - , 121 - , 118 - , 116 - , 115 - , 108 - , 107 - , 101 - . .\r\n4 888 .… [+37 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mobiltelefon.ru"
-      },
-      "author": null,
-      "title": "Как откидная, но круче: проект смартфона Xiaomi с уникальной камерой - Mobiltelefon.Ru",
-      "description": "В последние годы Xiaomi делает немалую ставку на собственные уникальные разработки и инновационные технологии, одна из которых недавно засветилась в п...",
-      "url": "https://mobiltelefon.ru/post_1620633228.html",
-      "urlToImage": "https://mobiltelefon.ru/photo/may21/10/kak_otkidnaa_no_kruche_proekt_smartfona_xiaomi_s_unikalnoj_kameroj_picture7_0_resize.jpg",
-      "publishedAt": "2021-05-10T07:53:00Z",
-      "content": "Xiaomi , WIPO. Flip-, , . , LetsGoDigital.\r\n , , , . , . , Xiaomi Mi 9. .\r\n© . Mobiltelefon\r\n nl.letsgodigital.org"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rsport.ria.ru"
-      },
-      "author": "",
-      "title": "Канадский пилот 'Формулы-1' оскорбил во время гонки Никиту Мазепина - Спорт РИА Новости",
-      "description": "Канадский пилот \"Астон Мартина\" Лэнс Стролл во время квалификационной гонки Гран-при Испании продемонстрировал Никите Мазепину неприличный жест. Спорт РИА Новости, 10.05.2021",
-      "url": "https://rsport.ria.ru/20210510/stroll-1731635422.html",
-      "urlToImage": "https://cdn21.img.ria.ru/images/sharing/article/1731635422.jpg?17315592041620636368",
-      "publishedAt": "2021-05-10T07:52:30Z",
-      "content": "https://rsport.ria.ru/20210510/stroll-1731635422.html\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdn25.img.ria.ru/images/07e5/05/09/1731559… [+569 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forklog.com"
-      },
-      "author": null,
-      "title": "Мнение: биткоин достигнет $250 000 в течение пяти лет - http://forklog.com/",
-      "description": "Глава Morgan Creek Capital Марк Юско в комментарии CNBC спрогнозировал рост курса цифрового золота до $250 000 в течение пяти лет. Он сравнил быстрое принятие биткоина с развитием Facebook, Apple, Amazon, Netflix и Google. Юско пояснил, что компании достигли …",
-      "url": "https://forklog.com/mnenie-bitkoin-dostignet-250-000-v-techenie-pyati-let/",
-      "urlToImage": "https://forklog.com/wp-content/uploads/bitcoin_king.jpg",
-      "publishedAt": "2021-05-10T07:13:42Z",
-      "content": "Morgan Creek Capital CNBC $250 000 .\r\n Facebook, Apple, Amazon, Netflix Google. , $1 15-20 , .\r\n , :\r\n« $4 , , ».\r\n- Dogecoin (DOGE) :\r\n« , DOGE , . , . ».\r\nDogecoin $1. , - , .\r\n, «Shark Tank» , , E… [+59 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fedpress.ru"
-      },
-      "author": "",
-      "title": "«Если играет Безруков, это успех»: зрители поделились эмоциями после просмотра новой исторической драмы | Москва - «ФедералПресс» ",
-      "description": "Актер Сергей Безруков в своем Инстаграме анонсировал выход сериала Обитель, снятого по одноименному роману Захара Прилепина. В этой картине любимец публики сыграл отрицательную роль, чем только подогрел интерес всех.",
-      "url": "https://fedpress.ru/news/77/society/2735960",
-      "urlToImage": "https://img2.fedpress.ru/thumbs/600x360-facebook/2021/05/57/f562ccb1d7593ee1efa65ee598a32ff4.jpg",
-      "publishedAt": "2021-05-10T07:08:00Z",
-      "content": "«» - -: , , . , , , . \r\n «. » ( \r\n , () 21.04.2011. 77 44703)\r\n: «»\r\n :, 620014, ., . , . , . 28, 6 .+7(499) 112-35-89, +7(495)928-77-67 E-mail: news@fedpress.ru\r\n 16 \r\n."
-    },
-    {
-      "source": {
-        "id": "lenta",
-        "name": "Lenta"
-      },
-      "author": null,
-      "title": "В США ввели режим ЧС после кибератаки на оператора трубопровода - Lenta.ru",
-      "description": "Министерство транспорта США ввело режим региональной чрезвычайной ситуации в ряде штатов после кибератаки в отношении оператора трубопроводной компании Colonial Pipeline. Данная мера направлена на предотвращение сбоев в поставках нефтепродуктов, говорится в з…",
-      "url": "https://lenta.ru/news/2021/05/10/ataka/",
-      "urlToImage": "https://icdn.lenta.ru/images/2021/05/10/10/20210510100929188/share_163c681df5d1e22cbb1567df8065fff0.jpg",
-      "publishedAt": "2021-05-10T07:07:00Z",
-      "content": "Colonial Pipeline. .\r\n, , , , , , , , , , -, -, , , , , , .\r\n , .\r\n , Colonial Pipeline , , .\r\n , -. 9 . , 100 . DarkSide, . - , 45 , .\r\nColonial 2,5 , , ."
     }
   ]
 }
