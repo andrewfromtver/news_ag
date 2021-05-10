@@ -106,6 +106,11 @@ loadNews = (lang) => {
     })
   }
 }
+// Get currencys
+loadCurrency = () => {
+  document.getElementById('usd').innerText = String(currency.quotes.USDRUB).substring(0, 5)
+  document.getElementById('eur').innerText = String(currency.quotes.USDRUB / currency.quotes.USDEUR).substring(0, 5)
+}
 // Open provided news page in frame
 goTo = (url, title) => {
   sideMenu(true)
@@ -131,4 +136,5 @@ refresh = () => {
 // Init
 window.onload = () => {
   loadNews(document.getElementById('lang').value)
+  loadCurrency()
 }

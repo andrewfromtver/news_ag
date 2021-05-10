@@ -262,3 +262,21 @@ button:active, select:active, .menu > h3:active {
 .share > a > img:hover {
     opacity: 1;
 }
+
+#menu > .currency {
+    padding: 0;
+    height: 48px;
+}
+
+.currency > table {
+    width: 100%;
+    font-weight: 900;
+    font-size: 16px;
+    color: #fff;
+    filter: drop-shadow(0 0 2px tomato);
+    border-radius: 4px;
+}
+
+.currency > table > tbody > tr > td {
+    padding-left: 8px;
+}
