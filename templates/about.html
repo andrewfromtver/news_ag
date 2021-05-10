@@ -1,0 +1,154 @@
+<body>
+    <h3>Andranik Sarkisyan</h3>
+    <div>
+        <p>Hi there!</p>
+        <p>My name is Andranik.</p>
+        <p>I am a web & mobile developer from Russia.</p>
+    </div>
+    <h3>I can help you to ...</h3>
+    <table>
+        <tr>
+            <td>
+                1. Create app conception
+            </td>
+        </tr>
+        <tr>
+            <td>
+                2. Develop MVP ... fast
+            </td>
+        </tr>
+        <tr>
+            <td>
+                3. Develop solution redy for production
+            </td>
+        </tr>
+        <tr>
+            <td>
+                4. Save you time and money
+            </td>
+        </tr>
+    </table>
+    <h3>If you want to create web app - better call Andranik =D</h3>
+    <div class="info" id="contacts">
+        <textarea class="msg" type="" placeholder="Message"></textarea>
+        <input class="name" type="text" placeholder="Name">
+        <input class="email" type="text" placeholder="e-mail">
+        <button class="send__btn" onclick="sendRequest()">Send</button>
+    </div>
+</body>
+
+<style>
+    * { font-family: sans-serif; }
+    html, body {
+        margin: 8px 0 0 0;
+        padding: 0;
+    }
+    h3, p, table {
+        filter: drop-shadow(0 0 8px #333);
+        padding-left: 16px;
+    }
+    .info {
+        font-size: 17px;
+        color: #fff;
+        background-color: #ccc;
+        padding: 16px;
+        box-shadow: 0 0 16px #ccc;
+    }
+    .msg {
+        resize: none;
+        width: -moz-available;
+        width: -webkit-fill-available;
+        height: 150px;
+        margin: 0;
+        padding: 2%;
+        margin: 15px 0 15px 0;
+        border: 5px solid #fff;
+    }
+    .name, .email {
+        width: -moz-available;
+        width: -webkit-fill-available;
+        height: 35px;
+        margin: 0;
+        padding: 0 2%;
+        border: 5px solid #fff;
+        margin-bottom: 15px;
+    }
+    .send__btn {
+        width: 50%;
+        max-width: 300px;
+        box-shadow: 1px 3px 3px #6699CC;
+        background-color: #6699CC;
+        border-width: 2px;
+        border-style: solid;
+        border-color: #6699CC;
+        color: #fff;
+        border-radius: 5px;
+        font-weight: 700;
+        padding: 10px;
+        cursor: pointer;
+    }
+    .send__btn:hover {
+        background-color: #fff;
+        color: #6699CC;
+    }
+    .send__btn:active {
+        box-shadow: none;
+        font-weight: 500;
+    }
+</style>
+
+<script>
+    function sendRequest() {
+        let msg = document.querySelector('.msg').value
+        let name = document.querySelector('.name').value
+        let email = document.querySelector('.email').value
+        if (msg && name && email) {
+            fetch('https://api.telegram.org/bot1070038475:AAGK8MbB_VNFpeYSapXQ1L458o1innmPWkk/' +
+                'sendMessage?chat_id=-1001490927690&text=' +
+                    'Заявка с landing page: ' +
+                    `Имя => ${name} ` +
+                    `Адрес эл. почты => ${email} ` +
+                    `Сообщение => ${msg}`)
+            document.body.style.overflow = "hidden"
+            document.querySelector('.msg').value = ""
+            document.querySelector('.name').value = ""
+            document.querySelector('.email').value = ""
+            setTimeout(leftFirst, 50)
+            setTimeout(leftSecond, 100)
+            setTimeout(() => {document.getElementById('contacts').remove()}, 200)
+        }
+        else {
+            function leftFirst() {
+                document.querySelector('#contacts').style = "margin-left: 50px;"
+            }
+            function leftSecond() {
+                document.querySelector('#contacts').style = "margin-left: 100px;"
+            }
+            function rightFirst() {
+                document.querySelector('#contacts').style = "margin-left: 50px;"
+            }
+            function rightSecond() {
+                document.querySelector('#contacts').style = ""
+            }
+            if (!document.querySelector('.msg').value) {
+                document.querySelector('.msg').style = "border-color: tomato;"
+            }
+            if (!document.querySelector('.name').value) {
+                document.querySelector('.name').style = "border-color: tomato;"
+            }
+            if (!document.querySelector('.email').value) {
+                document.querySelector('.email').style = "border-color: tomato;"
+            }
+            function clearColor() {
+                document.querySelector('.msg').style = ""
+                document.querySelector('.name').style = ""
+                document.querySelector('.email').style = ""
+            }
+            setTimeout(leftFirst, 50)
+            setTimeout(leftSecond, 100)
+            setTimeout(rightFirst, 150)
+            setTimeout(rightSecond, 200)
+            setTimeout(clearColor, 600)
+        }
+    }
+</script>
