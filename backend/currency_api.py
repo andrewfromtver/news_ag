@@ -5,7 +5,7 @@ import app_config
 currency_api_key = app_config.currency_api_key
 
 def CurrencyFetch():	
-	# USD currency api (source and apiKey)
+	# currency api (apiKey)
 	query_params = {
 	'access_key': currency_api_key
 	}
@@ -18,13 +18,15 @@ def CurrencyFetch():
 	text_file.close()
 	with open('./app-data/currency.js', 'a', encoding='utf-8') as f:
 		json.dump(currency_page, f, ensure_ascii=False, indent=2)
-    # getting all articles in a string article
+    # getting all currencys in a string currency
 	article = currency_page['quotes']
-	# empty list which will contain all trending news
+	# empty list which will contain all currencys
 	results = []
-	for a in article:		
-		# printing all trending news
-		print(a)
+	for a in article:
+		results.append(a)
+	for i in range(len(results)):		
+		# printing all currencys
+		print(i + 1, results[i])
 
 # Driver Code
 if __name__ == '__main__':
