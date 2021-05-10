@@ -62,7 +62,7 @@
         document.querySelector('.popup_placeholder').style.display = 'none';
         document.querySelector('.container').style.display = '';
         document.querySelector('.content').style.display = '';
-        document.querySelector('.detail').style.margin = '0 auto 60px auto';
+        document.querySelector('.detail').style.display = '';
     }
     /* Geolocation */
     function allowgeo() {
@@ -82,6 +82,7 @@
             document.querySelector('.detail').style.margin = '';
             document.querySelector('.popup_placeholder').style.display = '';
             document.querySelector('.container').style.display = 'none';
+            document.querySelector('.detail').style.display = 'none';
             document.querySelector('.content').style.display = 'none';
             inner = `
                 <div class="popup">
@@ -310,7 +311,7 @@
             if (forecasttemp.length > 0) {
                 document.querySelector('.detail').innerHTML += `
                     <div class="title">Сравнительный температурный график (завтра / послезавтра)</div>
-                    <canvas style="margin-bottom: 50px;" id="forecastChart"></canvas>
+                    <canvas style="margin-bottom: 8px;" id="forecastChart"></canvas>
                 `;
                 var ctx = document.getElementById('forecastChart').getContext('2d');
                 var chart = new Chart(ctx, {
@@ -740,7 +741,7 @@
         if (forecasttemp.length > 0) {
             document.querySelector('.detail').innerHTML = `
                 <div class="title">Прогноз погоды${key[day]}</div>
-                <canvas style="margin-bottom: 50px;" id="myChart"></canvas>
+                <canvas style="margin-bottom: 8px;" id="myChart"></canvas>
             `;
             var ctx = document.getElementById('myChart').getContext('2d');
             var chart = new Chart(ctx, {
@@ -820,6 +821,7 @@
     window.onload = function() {
         document.querySelector('.container').style.display = 'none';
         document.querySelector('.content').style.display = 'none';
+        document.querySelector('.detail').style.display = 'none';
         weather(null, null);
     };
 </script>
@@ -854,6 +856,7 @@
         flex-direction: row;
         justify-content: space-around;
         flex-wrap: wrap;
+        padding: 16px 0;
     }
     form > input {
         width: 63%;
@@ -920,7 +923,7 @@
     }
     .popup > button {
         width: 150px;
-        height: 35px;
+        height: 48px;
     }
     .container {
         background-color: #fff;
@@ -935,8 +938,9 @@
         max-width: 900px;
     }
     .detail{
-        background-color: #fff;
+        margin: 16px auto;
         max-width: 900px;
+        padding: 16px 0;
     }
     .title {
         text-align: start;
@@ -976,9 +980,10 @@
         flex-wrap: wrap;
     }
     .meteoinfo {
-        width: 96%;
+        width: 100%;
         overflow: hidden;
         margin: 4px;
+        margin: 16px 0;
     }
     .meteoinfo > p {
         padding: 10px 0 15px 0;
@@ -993,6 +998,9 @@
     .meteoinfo > p:active {
         background-color: #fff;
         cursor: pointer;
+    }
+    #map {
+        height: 256px;
     }
     #myChart {
         margin: 20px 0 30px 0;
