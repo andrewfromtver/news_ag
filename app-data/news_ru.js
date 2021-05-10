@@ -5,15 +5,93 @@ news_ru = {
     {
       "source": {
         "id": null,
-        "name": "Ria.ru"
+        "name": "Quote.rbc.ru"
       },
-      "author": "",
-      "title": "В Совфеде оценили планы Чехии получить компенсацию за взрывы во Врбетице - РИА НОВОСТИ",
-      "description": "Россия не собирается платить по абсурдным обвинениям Чехии, заявил РИА Новости первый заместитель главы международного комитета Совета Федерации, генерал ФСБ в... РИА Новости, 10.05.2021",
-      "url": "https://ria.ru/20210510/kompensatsiya-1731648039.html",
-      "urlToImage": "https://cdn24.img.ria.ru/images/sharing/article/1731648039.jpg?17291528981620642661",
-      "publishedAt": "2021-05-10T10:07:30Z",
-      "content": "https://ria.ru/20210510/kompensatsiya-1731648039.html\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdn25.img.ria.ru/images/07e5/04/14/1729152… [+713 chars]"
+      "author": null,
+      "title": "Индекс Мосбиржи впервые в истории превысил 3700 пунктов - РБК",
+      "description": "РБК Инвестиции :: котировки, курсы валют, новости, компании.",
+      "url": "https://quote.rbc.ru/news/article/606176359a7947864bc72bf7",
+      "urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/5/17/756206449126175.jpg",
+      "publishedAt": "2021-05-10T11:17:27Z",
+      "content": "0,58%, 3703,92 13:31 , . 3700 .\r\n 0,12%, 1579,42 .\r\n« : , «» , », — « » 10 .\r\n 3,9%, 3682,69 .  — 5, 6 7 . , . , , . \r\n « » , , : « , , , , . ».\r\n 1,88%, 73,78. , . $1800 .\r\n10 13:50 Brent 0,64%, $68… [+139 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Championat.com"
+      },
+      "author": "Чемпионат",
+      "title": "Аслан Карацев вышел во второй круг «Мастерса» в Риме, где сразится с Даниилом Медведевым - Чемпионат",
+      "description": "Российский теннисист Аслан Карацев одержал победу на старте турнира серии «Мастерс» в Риме (Италия). Отметим, что это 20-я победа россиянина в текущем сезоне.",
+      "url": "https://www.championat.com/tennis/news-4344771-aslan-karacev-vyshel-vo-vtoroj-krug-mastersa-v-rime-gde-srazitsya-s-daniilom-medvedevym.html",
+      "urlToImage": "https://img.championat.com/news2/social/b/3e/4344771.jpg",
+      "publishedAt": "2021-05-10T11:05:32Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "rbc",
+        "name": "RBC"
+      },
+      "author": null,
+      "title": "В Норвегии рекомендовали не прививать препаратами AstraZeneca и J&J - РБК",
+      "description": "Норвежские специалисты, как и датские, рекомендовали исключить препараты от AstraZeneca и Johnson & Johnson из прививочной кампании. Обе эти вакцины оказывались под подозрением из-за образования тромбов у пациентов",
+      "url": "https://www.rbc.ru/society/10/05/2021/609909639a7947c89c3a00ff",
+      "urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/9/30/756206442583309.jpg",
+      "publishedAt": "2021-05-10T10:57:37Z",
+      "content": ", , AstraZeneca Johnson &amp; Johnson . - \r\n , - AstraZeneca Johnson &amp; Johnson (J&amp;J) , COVID-19, NRK.\r\n (FHI) Janssen (Johnson &amp; Johnson). , , , , , , . FHI Janssen « » — .\r\n , NRK , , , … [+51 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportbox.ru"
+      },
+      "author": null,
+      "title": "Черчесов 11 мая назовет расширенный состав сборной России для подготовки к Евро-2020 - news.Sportbox.ru",
+      "description": "Главный тренер сборной России Станислав Черчесов 11 мая назовет список игроков, которые будут вызваны в национальную команду для подготовки к чемпионату Европы-2020.",
+      "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/national_teams/spbnews_NI1350701_Cherchesov_11_maja_nazovet_rasshirennyj_sostav_sbornoj_Rossii_dla_podgotovki_k_Jevro_2020",
+      "urlToImage": "https://s-cdn.sportbox.ru/images/shares/1200x600/node/55/1350701.jpg",
+      "publishedAt": "2021-05-10T10:57:15Z",
+      "content": "© « » 2007 2021.16 \r\n «www.sportbox.ru»     ,   ().\r\n № 77-72613  04.04.2018\r\n — www.sportbox.ru\r\n () «www.sportbox.ru»: « »\r\n «www.sportbox.ru»: ..\r\n «www.sportbox.ru»: +7 (495) 653 8419\r\n «www.spor… [+27 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Путин предложил Жапарову помощь в преодолении последствий конфликта на киргизско-таджикской границе - Новости – Мир – Коммерсантъ - Коммерсантъ",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiJWh0dHBzOi8vd3d3LmtvbW1lcnNhbnQucnUvZG9jLzQ4MDI3MDnSASVodHRwczovL3d3dy5rb21tZXJzYW50LnJ1L2FtcC80ODAyNzA5?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-05-10T10:31:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Svoboda.org"
+      },
+      "author": "RFE/RL",
+      "title": "Рамзан Кадыров потребовал извинений от Израиля за беспорядки у Аль-Аксы - Радио Свобода ",
+      "description": "В столкновениях пострадали сотни людей",
+      "url": "https://www.svoboda.org/a/31247459.html",
+      "urlToImage": "https://gdb.rferl.org/fc219948-4fc4-42f2-875b-251a26eaf3f8_w1200_r1.jpg",
+      "publishedAt": "2021-05-10T09:45:02Z",
+      "content": ", -.\r\n\" , , , . , , !\" -. ..\r\n 7 . , , 20 . .\r\n , . 70 . 10 , . 30 .\r\n - . 10 . . .\r\n 1967 . ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mail.ru"
+      },
+      "author": null,
+      "title": "Sony подтвердила, что дефицит PS5 продлится до 2022 года - Player One",
+      "description": null,
+      "url": "https://games.mail.ru/pc/news/2021-05-10/sony-podtverdila-chto-deficit-ps5-prodlitsya-do-2022-goda/",
+      "urlToImage": null,
+      "publishedAt": "2021-05-10T09:33:42Z",
+      "content": null
     },
     {
       "source": {
@@ -30,55 +108,55 @@ news_ru = {
     },
     {
       "source": {
-        "id": "rt",
-        "name": "RT"
+        "id": null,
+        "name": "3dnews.ru"
       },
-      "author": "RT на Русском",
-      "title": "Боррель оценил отношения России и ЕС - RT на русском",
-      "description": "Верховный представитель Евросоюза по внешней политике и политике безопасности Жозеп Боррель по прибытии на заседание министров иностранных дел 27 государств сообщества в Брюсселе оценил отношения России и ЕС.",
-      "url": "https://russian.rt.com/world/news/860573-borrel-rossiya-es",
-      "urlToImage": "https://cdni.rt.com/russian/images/2021.05/article/6098f825ae5ac906292c7dc6.png",
-      "publishedAt": "2021-05-10T09:15:44Z",
-      "content": null
+      "author": null,
+      "title": "Разработчиков Resident Evil Village обвинили в плагиате одного из монстров - 3DNews",
+      "description": "Режиссёр фильма &laquo;Армия Франкенштейна&raquo; Ричард Раапхорст (Richard Raaphorst) на своей странице в профессиональной социальной сети LinkedIn обвинил разработчиков Resident Evil Village в плагиате.",
+      "url": "https://3dnews.ru/1039200/razrabotchikov-resident-evil-village-obvinili-v-plagiate-odnogo-iz-monstrov",
+      "urlToImage": "https://3dnews.ru/assets/external/illustrations/2021/05/10/1039200/sm.00.750.jpg",
+      "publishedAt": "2021-05-10T08:59:00Z",
+      "content": "« » (Richard Raaphorst) LinkedInResident Evil Village . .\r\n , , , Capcom - .\r\n« 2013 “ ”. -, . — Resident Evil», — .\r\n. .\r\n , (, Silent Hill), .\r\n, Resident Evil . Resident Evil 7, , « », « », «» .\r\n… [+98 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Znak.com"
+        "name": "Vesti.ru"
       },
       "author": null,
-      "title": "Министра здравоохранения Омской области нашли живым - znak.com",
-      "description": "Пропавшего три дня назад министра здравоохранения Омской области Александра Мураховского нашли живым",
-      "url": "https://www.znak.com/2021-05-10/ministra_zdravoohraneniya_omskoy_oblasti_nashli_zhivym",
-      "urlToImage": "https://img.znak.com/og235036.png",
-      "publishedAt": "2021-05-10T08:49:40Z",
-      "content": null
+      "title": "Вышел сам: министр здравоохранения Омской области нашелся - Вести.Ru",
+      "description": "После трех дней поисков Александр Мураховский самостоятельно вышел к людям.",
+      "url": "https://www.vesti.ru/article/2560286",
+      "urlToImage": "https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/316/345/5.jpg",
+      "publishedAt": "2021-05-10T08:50:00Z",
+      "content": ". , \r\n Ctrl+Enter."
     },
     {
       "source": {
         "id": null,
-        "name": "Gazeta.ru"
+        "name": "Cybersport.ru"
       },
       "author": null,
-      "title": "Как «Милан» разгромил «Ювентус» и выбил его из зоны Лиги чемпионов - Газета.Ru",
-      "description": "«Ювентус» все дальше от попадания в групповой этап Лиги чемпионов в сезоне-2021/22. Туринцы впервые за десять лет уступили «Милану» на своем поле, пропустив «россонери» вперед в турнирной таблице и опустившись на пятое место, которое не позволяет сыграть в са…",
-      "url": "https://www.gazeta.ru/sport/2021/05/10/a_13587614.shtml",
-      "urlToImage": "https://img.gazeta.ru/files3/620/13587620/2021-05-09T205113Z_1252650483_UP1EH591JTEU9_RTRMADP_3_SOCCER-ITALY-JUV-MIL-REPORT-pic905-895x505-39291.jpg",
-      "publishedAt": "2021-05-10T08:20:12Z",
-      "content": "«» «» (0:3) -4 . «» , : .\r\n 69 , — «» (70), «» (72), «» ( 72 , «» ) «» (85).\r\n : «» -4 , «», «» «» . , , , «», , .\r\n«» «», : , , «» — .\r\n «» — 21- , «» «», , , 23- . , 58- .\r\n «» , — . , .\r\n , « » . … [+212 chars]"
+      "title": "В Steam стартовала распродажа игр Bethesda — скидки на Doom, Fallout, The Elder Scrolls и Prey - CyberSport.ru",
+      "description": "В цифровом магазине Steam началась распродажа игр издателя Bethesda Softworks со скидками до 75%. Акция продлится до 16 мая.",
+      "url": "https://www.cybersport.ru/games/news/v-steam-startovala-rasprodazha-igr-bethesda-skidki-na-doom-fallout-the-elder-scrolls-i-prey",
+      "urlToImage": "https://www.cybersport.ru/material/social/image/fb/569499",
+      "publishedAt": "2021-05-10T08:47:00Z",
+      "content": "Steam Bethesda Softworks 75%. 16 .\r\n<ul><li>Doom Eternal 659 1 999;</li><li>Fallout 4 429 859;</li><li>Prey 499 999;</li><li>Dishonored 2 574 1 149;</li><li>The Elder Scrolls V: Skyrim Special Editio… [+221 chars]"
     },
     {
       "source": {
-        "id": "rbc",
-        "name": "RBC"
+        "id": null,
+        "name": "Svoboda.org"
       },
-      "author": null,
-      "title": "Bitfarms проведет листинг акций на NASDAQ - РБК",
-      "description": "Ценные бумаги будут размещены в категории Global Select Market под тикером BITF, где уже торгуются акции компаний, связанных с добычей криптовалют",
-      "url": "https://www.rbc.ru/crypto/news/6098f5269a7947c41e20d544",
-      "urlToImage": "images/social-facebook.png",
-      "publishedAt": "2021-05-10T08:20:00Z",
-      "content": "Global Select Market BITF, , \r\n Bitfarms   NASDAQ. Global Select Market, , . , NASDAQ Bitfarms. BITF. Bitfarms .\r\nBitfarms   - 210 . , 55 . .\r\nBitfarms — . - 69 1420 PH/S .\r\n NASDAQ Coinbase. $381 $2… [+82 chars]"
+      "author": "RFE/RL",
+      "title": "Чехия потребует от России миллиард крон за взрывы во Врбетице - Радио Свобода ",
+      "description": "О планах потребовать компенсацию сообщила министр финансов Чехии",
+      "url": "https://www.svoboda.org/a/31247353.html",
+      "urlToImage": "https://gdb.rferl.org/af6f291e-fe84-437e-a85a-c48985008925_w1200_r1.jpg",
+      "publishedAt": "2021-05-10T08:39:02Z",
+      "content": "( 47 ) 2014 . .\r\n .\r\n . , , .\r\n , , , , , . , , , . , . , , , \" \", \" \".\r\n 2014 . , , .\r\n- 18 , . 28 , , , , , , , , . - \" \" , , , .\r\n ."
     },
     {
       "source": {
@@ -96,15 +174,15 @@ news_ru = {
     {
       "source": {
         "id": null,
-        "name": "Fontanka.ru"
+        "name": "Ria.ru"
       },
-      "author": null,
-      "title": "Рамзан Кадыров: последние новости на 10 мая 2021 г. - Общество - Новости Санкт-Петербурга - Фонтанка.Ру",
-      "description": "Глава Чечни Рамзан Кадыров потребовал от властей Израиля извинений за столкновения с палестинцами в Восточном Иерусалиме.",
-      "url": "https://www.fontanka.ru/2021/05/10/69907391/",
-      "urlToImage": "https://static.ngs.ru/news/2021/social/4c82df6a258c096f64dd5819c27c4f.png",
-      "publishedAt": "2021-05-10T08:10:22Z",
-      "content": "\"\" - -, , , , . , -, , , , . , , , , - , - . - \"\"! - , , ."
+      "author": "",
+      "title": "Глава МВД Франции раскритиковал обращение военных к властям - РИА НОВОСТИ",
+      "description": "Министр внутренних дел Франции Жеральд Дарманен заявил, что не считает смелым поступок военных, поддержавших генералов в отставке, которые подписали письмо об... РИА Новости, 10.05.2021",
+      "url": "https://ria.ru/20210510/obraschenie-1731638957.html",
+      "urlToImage": "https://cdn21.img.ria.ru/images/sharing/article/1731638957.jpg?16010638971620642628",
+      "publishedAt": "2021-05-10T08:08:25Z",
+      "content": "\" . ? , . , . , &lt;...&gt; \"\" , \", BFM TV."
     },
     {
       "source": {
@@ -135,28 +213,28 @@ news_ru = {
     {
       "source": {
         "id": null,
-        "name": "Quote.rbc.ru"
+        "name": "Rsport.ria.ru"
       },
-      "author": null,
-      "title": "Virgin Galactic, Coinbase и другие компании, которые отчитаются на неделе - РБК",
-      "description": "РБК Инвестиции :: котировки, курсы валют, новости, компании.",
-      "url": "https://quote.rbc.ru/card/609404429a7947347965efdb",
-      "urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/4/15/756203962349154.jpg",
-      "publishedAt": "2021-05-10T07:24:02Z",
-      "content": ": Virgin Galactic (SPCE)\r\n: : $4,65  9 : $19,61-: $37,20 : 23:00 : EPS — $-0,26 ( ), — $312 .\r\n<ul><li> ,   . Virgin Galactic 12%. , , . — 17%.</li><li>  VSS Imagine. SpaceShip, Virgin Galactic. Virg… [+704 chars]"
+      "author": "",
+      "title": "Канадский пилот 'Формулы-1' оскорбил во время гонки Никиту Мазепина - Спорт РИА Новости",
+      "description": "Канадский пилот \"Астон Мартина\" Лэнс Стролл во время квалификационной гонки Гран-при Испании продемонстрировал Никите Мазепину неприличный жест. Спорт РИА Новости, 10.05.2021",
+      "url": "https://rsport.ria.ru/20210510/stroll-1731635422.html",
+      "urlToImage": "https://cdn21.img.ria.ru/images/sharing/article/1731635422.jpg?17315592041620636368",
+      "publishedAt": "2021-05-10T07:52:30Z",
+      "content": "https://rsport.ria.ru/20210510/stroll-1731635422.html\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdn25.img.ria.ru/images/07e5/05/09/1731559… [+569 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Forklog.com"
       },
       "author": null,
-      "title": "СМИ: визит главы МОК в Японию перенесли на июнь - Новости – Спорт – Коммерсантъ - Коммерсантъ",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiJWh0dHBzOi8vd3d3LmtvbW1lcnNhbnQucnUvZG9jLzQ4MDI2NTbSASVodHRwczovL3d3dy5rb21tZXJzYW50LnJ1L2FtcC80ODAyNjU2?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2021-05-10T07:18:14Z",
-      "content": null
+      "title": "Мнение: биткоин достигнет $250 000 в течение пяти лет - http://forklog.com/",
+      "description": "Глава Morgan Creek Capital Марк Юско в комментарии CNBC спрогнозировал рост курса цифрового золота до $250 000 в течение пяти лет. Он сравнил быстрое принятие биткоина с развитием Facebook, Apple, Amazon, Netflix и Google. Юско пояснил, что компании достигли …",
+      "url": "https://forklog.com/mnenie-bitkoin-dostignet-250-000-v-techenie-pyati-let/",
+      "urlToImage": "https://forklog.com/wp-content/uploads/bitcoin_king.jpg",
+      "publishedAt": "2021-05-10T07:13:42Z",
+      "content": "Morgan Creek Capital CNBC $250 000 .\r\n Facebook, Apple, Amazon, Netflix Google. , $1 15-20 , .\r\n , :\r\n« $4 , , ».\r\n- Dogecoin (DOGE) :\r\n« , DOGE , . , . ».\r\nDogecoin $1. , - , .\r\n, «Shark Tank» , , E… [+59 chars]"
     },
     {
       "source": {
@@ -183,84 +261,6 @@ news_ru = {
       "urlToImage": "https://icdn.lenta.ru/images/2021/05/10/10/20210510100929188/share_163c681df5d1e22cbb1567df8065fff0.jpg",
       "publishedAt": "2021-05-10T07:07:00Z",
       "content": "Colonial Pipeline. .\r\n, , , , , , , , , , -, -, , , , , , .\r\n , .\r\n , Colonial Pipeline , , .\r\n , -. 9 . , 100 . DarkSide, . - , 45 , .\r\nColonial 2,5 , , ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurosport.ru"
-      },
-      "author": "Сурен Аванесьян",
-      "title": "«Лилль» – почти чемпион Франции. Обойти «ПСЖ» помогли защита и Кристоф Гальтье - Eurosport RU",
-      "description": "«Лилль» неожиданно идет на 1-м месте в Лиге 1. Команда Кристофа Гальтье – феномен, в котором сошлись умный тренер, грамотная тактика и странные владельцы.",
-      "url": "https://www.eurosport.ru/football/ligue-1/2020-2021/story_sto8311881.shtml",
-      "urlToImage": "https://i.eurosport.com/2021/04/15/3115164-63859008-2560-1440.jpg",
-      "publishedAt": "2021-05-10T07:00:00Z",
-      "content": "«»\r\n: Getty Images\r\n«» . -2020/21 1 (24,61, UnderStat). , «», «» xGA. -5 . xGA .\r\n4-4-2 «» «».\r\n: Other Agency\r\n«» 1 . , . Wyscout. «» , , .\r\n «» . , 4-4-2 ( ). , . 1 ( 73% ), 19- (68,6%).\r\n« , , . ,… [+269 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ura.news"
-      },
-      "author": null,
-      "title": "В российском регионе распространяется британский штамм COVID-19 - URA.Ru",
-      "description": "Читайте на URA.RU",
-      "url": "https://ura.news/news/1052484187",
-      "urlToImage": "https://s.ura.news/images/news/upload/smm/2021/05/10/facebook_92228e1de33cf64b5bc6aea2bc3f5cd8.jpg",
-      "publishedAt": "2021-05-10T06:26:00Z",
-      "content": ".      - ,    .\r\n« ,   . ,     », — .   YakutiaMedia. , , .\r\n ,    , RT. , , - ,        .\r\n  URA.RU  Google News\r\n, .\r\n     .\r\n,      telegram- URA.RU\r\n         ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gametech.ru"
-      },
-      "author": "Дмитрий Кривов - iXBT.games",
-      "title": "Режиссёр «Армии Франкенштейна» обвинил авторов Resident Evil: Village в краже персонажа - iXBT.games",
-      "description": "Несмотря на чрезвычайно успешную премьеру хоррора Resident Evil Village, у Capcom могут возникнуть проблемы.",
-      "url": "https://www.gametech.ru/news/2021/05/10/rezissyor-armii-frankensteina-obvinil-avtorov-resident-evil-village-v-kraze-personaza",
-      "urlToImage": "https://ixbt.online/gametech/covers/2021/05/10/JsFWjekxVLKLVwS9UB1bFfsba8QOADMXU2ytuAyN.jpg",
-      "publishedAt": "2021-05-10T06:09:57Z",
-      "content": "- , «», 2013 , . , , .\r\n , .\r\n!\r\n Linkedin « Resident Evil». .\r\nCapcom ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Echo.msk.ru"
-      },
-      "author": "echomsk",
-      "title": "Кинооператор Вадим Алисов, снявший «Жестокий романс» и «Вокзал для двоих», умер в возрасте 80-ти лет - Эхо Москвы",
-      "description": "Причина смерти не уточняется…",
-      "url": "https://echo.msk.ru/news/2835610-echo.html",
-      "urlToImage": "https://cdn.echo.msk.ru/files/3452462.jpg",
-      "publishedAt": "2021-05-10T06:05:10Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ria.ru"
-      },
-      "author": "Владимир Корнилов",
-      "title": "Выборы в Шотландии приблизили распад Соединенного Королевства - РИА НОВОСТИ",
-      "description": "\"Сторонники независимости Шотландии одержали историческую победу\" — примерно с такими заголовками на первых полосах вышли воскресные газеты этого северного... РИА Новости, 10.05.2021",
-      "url": "https://ria.ru/20210510/shotlandiya-1731588140.html",
-      "urlToImage": "https://cdn25.img.ria.ru/images/sharing/article/1731588140.jpg?17316346881620630184",
-      "publishedAt": "2021-05-10T05:01:30Z",
-      "content": "https://ria.ru/20210510/shotlandiya-1731588140.html\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdn25.img.ria.ru/images/07e5/05/0a/173163469… [+1994 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gazeta.ru"
-      },
-      "author": null,
-      "title": "Сет Роген отказался работать с Джеймсом Франко после обвинений в домогательствах - Газета.Ru",
-      "description": "Американский и канадский актер, сценарист Сет Роген заявил, что не планирует снова работать с Джеймсом Франко после того, как последнего обвинили в сексуальных домогательствах. Об этом он сказал в беседе с газетой The Sunday Times .",
-      "url": "https://www.gazeta.ru/culture/news/2021/05/10/n_15959690.shtml",
-      "urlToImage": "https://img.gazeta.ru/files3/360/13568360/upload-02-pic905v-895x505-40209.jpg",
-      "publishedAt": "2021-05-10T04:54:03Z",
-      "content": ", , , . The Sunday Times.\r\n , «» . , « ‑, , ‑ , ‑ ».\r\n , « : , », « 2013: -» «-».\r\n .\r\n, , 2017 Studio 4, .\r\n , - , 2019 , .\r\n , « , »."
     }
   ]
 }
