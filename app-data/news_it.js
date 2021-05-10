@@ -5,15 +5,28 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Gazzetta.it"
+        "name": "Rainews.it"
       },
-      "author": "Federica Cocchi",
-      "title": "Madrid: Berrettini k.o. da Zverev, sfuma il primo 1000 in carriera - La Gazzetta dello Sport",
-      "description": "Matteo alla prima finale di 1000 in carriera vince il primo set al tie break contro il tedesco che però lo supera in rimonta al terzo set 6-7 6-4 6-3",
-      "url": "https://www.gazzetta.it/Tennis/09-05-2021/atp-madrid-berrettini-zverev-semifinale-diretta-410871295484.shtml",
-      "urlToImage": "https://images2.gazzettaobjects.it/methode_image/2021/05/09/Varie/Foto_Varie_-_Trattate/e9e7442a1e005729103a4fdaf6cbb8b5_1200x675.jpg?v=202105092131",
-      "publishedAt": "2021-05-09T19:31:39Z",
-      "content": "Federica Cocchi\r\n9 mag 2021 | 18:37 \r\n - Milano\r\n (modificato 9 maggio 2021 | 21:31)\r\nMatteo Berrettini scende in campo per la partita più importante della carriera: la finale del Masters 1000 di Mad… [+1175 chars]"
+      "author": null,
+      "title": "Da oggi quasi tutta Italia in 'giallo'. Vaccini, in Lombardia già più di 270mila i prenotati over 50 - Rai News",
+      "description": "Ancora in vigore ovunque il coprifuoco, dalle 22 alle 5. Dal primo giugno, soltanto in zona gialla, i ristoranti potranno restare aperti anche al chiuso dalle 5 alle 18. Novità anche per piscine e palestre",
+      "url": "https://www.rainews.it/dl/rainews/articoli/covid-da-oggi-quasi-tutta-italia-in-zona-gialla-solo-sicilia-valle-aosta-e-sardegna-in-arancione-70ad16c0-3edf-4e3c-9e4a-82003de551b2.html",
+      "urlToImage": "https://www.rai.it/cropgd/476x249/dl/img/2021/05/1620388354393.rainews_20210507135202974_7d6c87d4638d7596d713eba9c6dd42c1.jpg",
+      "publishedAt": "2021-05-10T10:01:00Z",
+      "content": "10 maggio 2021Gran parte dell'Italia resta in area gialla. Sicilia e Sardegna restano in arancione, stesso colore a cui passa la Valle d'Aosta che lascia così il rosso. Queste, a partire da oggi, lun… [+8450 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fanpage.it"
+      },
+      "author": "Lorenzo Longhitano",
+      "title": "Entro sabato dovrai accettare le nuove regole di WhatsApp o non potrai usare l’app - Tech Fanpage",
+      "description": "Il 15 maggio entrerà in vigore il nuovo regolamento della piattaforma di messaggistica istantanea, che il gruppo Facebook sta cercando di far approvare da mesi. Si tratta di un cambiamento solo in parte marginale, ma in realtà molto importante per Facebook: i…",
+      "url": "https://tech.fanpage.it/entro-sabato-dovrai-accettare-le-nuove-regole-di-whatsapp-o-non-potrai-usare-lapp/",
+      "urlToImage": "https://static.fanpage.it/wp-content/uploads/sites/6/2017/03/aggiornamento-whatsapp.jpg",
+      "publishedAt": "2021-05-10T09:44:48Z",
+      "content": "Si avvicina inesorabilmente la data in cui gli utenti di WhatsApp dovranno decidere se accettare i nuovi termini di utilizzo del servizio oppure riununciare alle conversazioni e alle chiamate audio-v… [+2169 chars]"
     },
     {
       "source": {
@@ -21,38 +34,51 @@ news_it = {
         "name": "Mediaset.it"
       },
       "author": null,
-      "title": "Vaccini anti-Covid, l'Europa non rinnova il contratto con Astrazeneca - TGCOM",
-      "description": "Una mossa attesa dopo che Bruxelles aveva avviato un'azione legale per inaffidabilità contro l'azienda farmaceutica",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/vaccini-anti-covid-l-europa-non-rinnova-il-contratto-con-astrazeneca_32058724-202102k.shtml",
-      "urlToImage": "https://img-prod.tgcom24.mediaset.it/images/2021/05/09/183137054-da6f1ba0-c773-4849-9df5-1109a65c77f3.jpg",
-      "publishedAt": "2021-05-09T18:57:26Z",
-      "content": "Forte dei contratti siglati con gli altri rappresentanti di Big Pharma dimostratisi \"più affidabili\", l'Europa si prepara dunque a interrompere le forniture di AstraZeneca con la fine del semestre.\r\n… [+3723 chars]"
+      "title": "Voto Roma, Enrico Letta conferma il no del Pd alla Raggi e il sostegno a Gualtieri - TGCOM",
+      "description": "Calenda:  fine della pantomima, il candidato Pd è scelto dal M5s. L'ex premier Conte ribadisce il supporto al sindaco uscente",
+      "url": "https://www.tgcom24.mediaset.it/politica/voto-roma-letta-zingarettisarebbe-stato-un-ottimo-candidato-ma-fa-altro_32073937-202102k.shtml",
+      "urlToImage": "https://img-prod.tgcom24.mediaset.it/images/2021/05/10/084041156-460d5832-f60f-4496-9231-264ddcc80d37.jpg",
+      "publishedAt": "2021-05-10T09:37:36Z",
+      "content": "\"A Roma e Torino, quando io non c'ero, il Pd perse malamente nel 2016\", spiega Letta, e da allora \"hanno governato Appendino e Raggi con il Pd all'opposizione. A Roma e Torino è molto difficile, impo… [+2158 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Pianetamilan.it"
+        "name": "Ilpost.it"
       },
-      "author": "Renato Panno",
-      "title": "Juventus-Milan, Maldini: “Ci si gioca una stagione. Pioli rimarrà” - Pianeta Milan",
-      "description": "Paolo Maldini, dirigente rossonero, ha parlato a 'Sky Sport' prima del big match Juventus-Milan dell'Allianz Stadium di Torino",
-      "url": "https://www.pianetamilan.it/stagione/serie-a-news-e-risultati/juventus-milan-maldini-ci-si-gioca-una-stagione-pioli-rimarra/",
-      "urlToImage": "https://prd-images2-gazzanet.gazzettaobjects.it/_AcEdI1hCCZfblbFhC_BgS1KN80=/1200x627/smart/www.pianetamilan.it/assets/uploads/202002/intervista-maldini-dichiarazioni-pre-partita-milan-grafica.jpg",
-      "publishedAt": "2021-05-09T18:36:36Z",
-      "content": "Renato Panno\r\n9 maggio\r\n - Milano\r\nPaolo Maldini, direttore tecnico rossonero, ha parlato ai microfoni di 'Sky Sport' prima di Juventus-Milan, posticipo della 35^ giornata di Serie A. La gara è in pr… [+1510 chars]"
+      "author": null,
+      "title": "L’Unione Europea non ha rinnovato il contratto con AstraZeneca per ordinare altre dosi del suo vaccino - Il Post",
+      "description": "Il commissario europeo per il mercato interno e i servizi, Thierry Breton, ha detto che l'Unione Europea non ha rinnovato il suo contratto con l'azienda",
+      "url": "https://www.ilpost.it/2021/05/10/unione-europea-non-rinnova-contratto-astrazeneca-vaccini-coronavirus/",
+      "urlToImage": "https://cdn.ilpost.it/wp-content/uploads/2021/05/AP21125134262059.jpg?x72029",
+      "publishedAt": "2021-05-10T09:13:42Z",
+      "content": "Il commissario europeo per il mercato interno e i servizi, Thierry Breton, ha detto che l’Unione Europea non ha rinnovato il suo contratto con l’azienda farmaceutica britannico-svedese AstraZeneca, c… [+778 chars]"
     },
     {
       "source": {
-        "id": "la-repubblica",
-        "name": "La Repubblica"
+        "id": null,
+        "name": "Orizzontescuola.it"
       },
-      "author": "Francesco Carci",
-      "title": "Roma-Crotone 5-0, i giallorossi si riprendono il settimo posto grazie e Pellegrini e Borja Mayoral - la Repubblica",
-      "description": "Tutti i gol nella ripresa: doppiette per lo spagnolo e il centrocampista e gol di Mkhitaryan. La squadra di Fonseca torna al successo dopo un mese e contro-sor…",
-      "url": "https://www.repubblica.it/sport/calcio/serie-a/2021/05/09/news/roma-crotone_5-0_i_giallorossi_si_riprendono_il_settimo_posto-300206538/",
-      "urlToImage": "https://www.repstatic.it/content/nazionale/img/2021/05/09/201144396-e111fa7a-e3d4-455f-9a85-7dbda331e0e1.jpg",
-      "publishedAt": "2021-05-09T18:15:49Z",
-      "content": "ROMA - Dopo l'eliminazione dall'Europa League, la Roma si consola battendo 5-0 il Crotone. I giallorossi calano il pokerissimo sui già retrocessi calabresi tornando al successo che mancava da un mese… [+2474 chars]"
+      "author": null,
+      "title": "Alunno precipitato dalle scale della sua scuola: maestra condannata ad un anno di carcere - Orizzonte Scuola",
+      "description": "I fatti risalgono al 18 ottobre 2019. Erano le 9,30 del mattino quando il piccolo ebbe dalle maestre il permesso di uscire da solo dalla sua classe per andare in bagno. Probabilmente \"incuriosito dal vociare\" dei bambini di un'altra classe che stava andando i…",
+      "url": "https://www.orizzontescuola.it/alunno-precipitato-dalle-scale-della-sua-scuola-maestra-condannata-ad-un-anno-di-carcere/",
+      "urlToImage": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1736466005.jpg",
+      "publishedAt": "2021-05-10T08:33:28Z",
+      "content": "E’ stata condannata a un anno di carcere, con sospensione condizionale, la 43enne insegnante di italiano che risponde di omicidio colposo nel processo in abbreviato sulla morte di un bambino di cinqu… [+1981 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quotidiano.net"
+      },
+      "author": "LUIGI MANFREDI",
+      "title": "Zona arancione: ecco le regioni che rischiano di cambiare colore il 14 maggio - QUOTIDIANO NAZIONALE",
+      "description": "Da oggi la nuova mappa (solo 3 in arancione). Indice Rt e classificazione del rischio (dati in Pdf): chi potrebbe lasciare la zona gialla venerdì 14 maggio. Gimbe: \"Cambio parametri o molte rischieranno\"",
+      "url": "https://www.quotidiano.net/cronaca/zona-arancione-colori-regioni-1.6344457",
+      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6344528.1620633611%21%2FhttpImage%2Fimage.JPG_gen%2Fderivatives%2Fwidescreen%2Fimage.JPG&w=700&h=391",
+      "publishedAt": "2021-05-10T08:33:26Z",
+      "content": "Roma, 10 maggio 2021 - Da oggi lunedì 10 maggio è in vigore la nuova mappa colorata dell'Italia quasi tutta in giallo (solo 3 regioni in zona arancione: Sardegna, Valle d'Aosta e Sicilia). Considerat… [+4277 chars]"
     },
     {
       "source": {
@@ -60,25 +86,12 @@ news_it = {
         "name": "ANSA.it"
       },
       "author": "",
-      "title": "Incidente in pista al Mugello, morto un motociclista - Moto - ANSA Nuova Europa",
-      "description": "Durante la gara amatori di Coppa Italia, interrotta manifestazione (ANSA)",
-      "url": "https://www.ansa.it/sito/notizie/sport/moto/2021/05/09/incidente-in-pista-al-mugello-morto-un-motociclista_a43d68f5-7a13-4fcc-befd-411c2bbd03b1.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2020/8/28/c93503d1092bb2e80cf8ff8af9c64227.jpg",
-      "publishedAt": "2021-05-09T17:34:00Z",
-      "content": "Incidente mortale all'Autodromo del Mugello durante la Coppa Italia di motociclismo. La vittima un pilota di 59 anni, Stelvio Boaretto, impegnato nel Trofeo italiano amatori, categoria 1000 Avanzata.… [+784 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilgiornale.it"
-      },
-      "author": "Luca Sablone",
-      "title": "Il pressing di Salvini e la telefonata con Draghi: pronta la svolta sui migranti - ilGiornale.it",
-      "description": "Il leader della Lega scrive alla Lamorgese, che poi sente Draghi: si pensa a una cabina di regia condivisa per evitare il boom di sbarchi durante l'estate",
-      "url": "https://www.ilgiornale.it/news/politica/pressing-salvini-e-telefonata-draghi-pronta-svolta-sui-1945329.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2021/05/09/1620581749-draghiii.jpg?_=1620582993",
-      "publishedAt": "2021-05-09T17:29:00Z",
-      "content": "Non si fermano gli sbarchi sulle coste italiane: solamente nelle ultime ore quasi 1000 migranti sono sbarcati a Lampedusa, con l'hotspot dell'isola al largo di Agrigento che torna a riempirsi. E nel … [+2703 chars]"
+      "title": "Più Bandiere blu quest'anno, su 416 spiagge mare \"eccellente\" - Ambiente & Energia - Agenzia ANSA",
+      "description": "Il vessillo a 201 Comuni, al top la Liguria e la Campania scalza la Toscana\r\n\r\n(ANSA)",
+      "url": "https://www.ansa.it/canale_ambiente/notizie/vivere_green/2021/05/10/piu-bandiere-blu-questanno-su-416-spiagge-mare-eccellente-_a79419b2-ada6-4a7a-b39e-42d249d5a36b.html",
+      "urlToImage": "https://www.ansa.it/webimages/ch_700/2016/5/11/0435e287d13f5fc047f19f579cce4612.jpg",
+      "publishedAt": "2021-05-10T08:29:07Z",
+      "content": "Aumentano a 201, quest'anno, le località rivierasche (dalle 195 del 2020) che assieme a 81 porti turistici (erano 75 l'anno scorso) potranno fregiarsi della Bandiera Blu 2021, il riconoscimento della… [+2509 chars]"
     },
     {
       "source": {
@@ -86,168 +99,77 @@ news_it = {
         "name": "Formulapassion.it"
       },
       "author": null,
-      "title": "Perez verso Monte-Carlo: “Lì avremo chance di vincere” - FormulaPassion.it",
-      "description": "Quinta posizione al traguardo per il pilota messicano, che però non è riuscito a supportare Max Verstappen nella battaglia con le Mercedes",
-      "url": "http://www.formulapassion.it/motorsport/formula-1/f1-piloti/perez-verso-monte-carlo-li-avremo-chance-di-vincere-f1-red-bull-gp-spagna-ricciardo-mclaren-564614.html",
-      "urlToImage": "https://www.formulapassion.it/wp-content/uploads/2021/05/Ricciardo_Perez.jpeg",
-      "publishedAt": "2021-05-09T17:15:18Z",
-      "content": "Sergio Perez ha chiuso in quinta posizione il Gran Premio di Spagna, preceduto dalla Ferrari di Charles Leclerc e tanto – forse troppo – lontano dalla lotta per il vertice. Il messicano ex Racing Poi… [+1565 chars]"
+      "title": "Wolff: “Parlerò con Bottas, ha frenato Hamilton” - FormulaPassion.it",
+      "description": "Frecciata del direttore esecutivo Mercedes al suo pilota, reo di non aver agevolato la manovra di sorpasso del compagno di squadra",
+      "url": "http://www.formulapassion.it/motorsport/formula-1/f1-team/wolff-parlero-con-bottas-ha-frenato-hamilton-team-order-gp-spagna-564654.html",
+      "urlToImage": "https://www.formulapassion.it/wp-content/uploads/2021/05/Hamilton-Bottas-Barcellona-2021.jpg",
+      "publishedAt": "2021-05-10T08:15:49Z",
+      "content": "Al 53° dei 66 giri in programma sul tracciato di Barcellona, Lewis Hamilton ha completato il sorpasso sul compagno di squadra Valtteri Bottas, non senza qualche difficoltà. I due erano su strategie d… [+2098 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Corriere.it"
+        "name": "Ilfattoquotidiano.it"
       },
-      "author": "Redazione online",
-      "title": "Chernobyl, il reattore 4 si è risvegliato. Gli scienziati: «Riprese reazioni di fissione» - Corriere della Sera",
-      "description": "A riportarlo Science in un’intervista al chimico Neil Hyatt: «È come se ci fossero tizzoni in un barbecue». I tecnici ucraini non escludono la possibilità di un incidente (ma nulla a che vedere con il disastro nel 1986)",
-      "url": "https://www.corriere.it/cronache/21_maggio_09/chernobyl-reattore-4-si-risvegliato-scienziati-riprese-reazioni-fissione-f6d8f9d0-b0e5-11eb-b689-c19275a09659.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/09/f31736f2-b0e7-11eb-b689-c19275a09659.jpg",
-      "publishedAt": "2021-05-09T17:15:00Z",
-      "content": "Dentro le masse di uranio sepolte nel reattore numero quattro della centrale nucleare di Chernobyl, esploso nel 1986, sarebbero riprese reazioni di fissione nucleare. Lo ha riportato nei giorni scors… [+1707 chars]"
+      "author": "F. Q.",
+      "title": "Massa Carrara, “sei dosi di vaccino anti Covid per errore a una dottoressa 23enne - Il Fatto Quotidiano",
+      "description": "Quanto successo a Massa non ha un precedente specifico ma simile: in Germania dove sono state iniettate cinque dosi, mentre la sperimentazione del composto Pfizer relativa al sovradosaggio si fermerebbe a quota quattro",
+      "url": "https://www.ilfattoquotidiano.it/2021/05/10/massa-carrara-sei-dosi-di-vaccino-anti-covid-per-errore-a-una-dottoressa-23enne-ricoverata-e-monitorata/6192587/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/04/Anziana-vaccino-1200.jpg",
+      "publishedAt": "2021-05-10T08:13:25Z",
+      "content": "Un errore, una svista e un caso da studiare. Come racconta La Nazione a una 23enne, tirocinante in psicologia clinica. è stata iniettata una intera fiale del vaccino Pfizer ovvero sei dosi. È tutto a… [+1799 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Rainews.it"
+        "name": "Davidemaggio.it"
       },
       "author": null,
-      "title": "​Sileri: probabile slittamento coprifuoco tra 15 giorni - Rai News",
-      "description": "\"Stiamo andando incontro a riapertura completa tutte attività\"",
-      "url": "https://www.rainews.it/dl/rainews/articoli/sileri-probabile-slittamento-coprifuoco-tra-15-giorni-49cc85ff-e3d9-45f6-8d14-f32a5a2a62e4.html",
-      "urlToImage": "https://www.rai.it/cropgd/476x249/dl/img/2021/04/1617541205031.dddddd.PNG",
-      "publishedAt": "2021-05-09T16:34:00Z",
-      "content": "09 maggio 2021\"Resistiamo ancora qualche settimana e riapriremo anche i locali la sera, anche al chiuso. Se continuiamo con questi numeri sui vaccinati, tra 15 giorni si potrà spostare il coprifuoco … [+517 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quotidiano.net"
-      },
-      "author": "RITA BARTOLOMEI",
-      "title": "Vaccino agli over 50 in Italia: prenotazioni, regole, tempi - QUOTIDIANO NAZIONALE",
-      "description": "Molte Regioni hanno già iniziato, anticipando le indicazioni del commissario Figliuolo. L'organizzazione e il conto delle dosi anti-Covid",
-      "url": "https://www.quotidiano.net/cronaca/vaccino-over-50-1.6342511",
-      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6342584.1620577578%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700&h=391",
-      "publishedAt": "2021-05-09T16:26:18Z",
-      "content": "Roma, 9 maggio 2021 - Domani si parte: prenotazioni dei vaccini aperte ai 50enni. Anche se molte Regioni hanno giocato danticipo senza aspettare le indicazioni del commissario allemergenza Covid, gen… [+4702 chars]"
-    },
-    {
-      "source": {
-        "id": "la-repubblica",
-        "name": "La Repubblica"
-      },
-      "author": "Repubblica.it",
-      "title": "La battaglia per il Campidoglio, Gualtieri si candida a sindaco di Roma: \"Farò le primarie\". Conte: \"M5S c... - la Repubblica",
-      "description": "L'ex ministro pd dà l'annuncio su Twitter. E Letta subito dopo: \"Forza Roberto!\". Poco prima il leader in pectore grillino aveva rilan…",
-      "url": "https://www.repubblica.it/politica/2021/05/09/news/zingaretti_gualtieri_verso_le_elezioni_conte_m5s_con_raggi_a_roma_alleanza_con_il_pd_alla_regione_lazio-300177532/",
-      "urlToImage": "https://www.repstatic.it/content/nazionale/img/2021/05/09/164540260-c65aee56-1120-404b-8009-acfbb9e47d62.jpg",
-      "publishedAt": "2021-05-09T16:14:02Z",
-      "content": "Prima le 5S Roberta Lombardi e Valentina Corrado. Che, a una voce, parlano di \"paradosso\" dinanzi all'eventuale candidatura di Nicola Zingaretti, attuale governatore del Lazio in quota dem, a sindaco… [+4160 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dilei.it"
-      },
-      "author": "DiLei",
-      "title": "Domenica Live, Brando Giorgi e quel bacio a Valeria Marini: “Le chiedo scusa” - DiLei",
-      "description": "Brando Giorgi - ospite da Barbara D'Urso - ha spiegato un divertente retroscena riguardo a un bacio appassionato scambiato sul set con Valeria Marini.",
-      "url": "https://dilei.it/vip/video/domenica-live-brando-giorgi-bacio-valeria-marini-le-chiedo-scusa/1020890/",
-      "urlToImage": "https://dilei.it/wp-content/uploads/sites/3/2021/05/Brando-Giorgi.jpg",
-      "publishedAt": "2021-05-09T16:04:16Z",
-      "content": "A Domenica Live Barbara D’Urso ha accolto Brando Giorgi, accompagnato dalla moglie Daniela, dopo il delicato intervento subito all’occhio destro.\r\nL’attore ha un lunghissimo curriculum cinematografic… [+2454 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Corriere.it"
-      },
-      "author": "Redazione online",
-      "title": "Coronavirus in Italia, il bollettino di oggi 9 maggio: 8.292 nuovi casi e 139 morti - Corriere della Sera",
-      "description": "I dati del bollettino sulla pandemia di Covid-19 di domenica 9 maggio",
-      "url": "https://www.corriere.it/salute/21_maggio_09/coronavirus-italia-bollettino-oggi-9-maggio-8292-nuovi-casi-139-morti-ecb0290c-b0a8-11eb-b5e4-ce48dcf21aca.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/2021/05/09/Salute/Foto-Salute-Trattate/dfacasdasdasdx-koWF-U32601075134068f6F-526x284@Corriere-Web-Sezioni.PNG",
-      "publishedAt": "2021-05-09T15:36:05Z",
-      "content": "Sono 8.292 i nuovi casi di coronavirus in Italia* (ieri sono stati +10.176, qui il bollettino). Sale così ad almeno 4.111.210 il numero di persone che hanno contratto il virus Sars-CoV-2 (compresi gu… [+3496 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilgiornale.it"
-      },
-      "author": "Giorgia Meloni",
-      "title": "Dal caso Palamara alla Fiat, la mia ricetta per l'Italia - il Giornale",
-      "description": "A volte penso che all'Italia servirebbe un bravo \"mental coach\", di quelli che ti spiegano le cose semplici che dovresti capire da solo",
-      "url": "https://www.ilgiornale.it/news/cronache/caso-palamara-fiat-mia-ricetta-litalia-1945141.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2021/05/09/1620533537-12890496-large.jpg?_=1620533537",
-      "publishedAt": "2021-05-09T15:08:00Z",
-      "content": "A volte penso che all'Italia servirebbe un bravo «mental coach», di quelli che ti spiegano le cose semplici che dovresti capire da solo: «Pesi centoquaranta chili, sei forte come un toro, ma non part… [+9323 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilmessaggero.it"
-      },
-      "author": "Redazione Web",
-      "title": "Giovanna Botteri in Cina senza vaccino, la rivelazione a Domenica In: «Ecco perché non l'ho fatto» - Il Messaggero",
-      "description": "A Domenica In si parla di Covid e vaccini e in collegamento con lo studio di Mara Venier c'è anche Giovanna Botteri. La giornalista, inviata...",
-      "url": "https://www.ilmessaggero.it/persone/giovanna_botteri_vaccino_cina_rivelazione_domenica_in_perche_non_fatto_ultima_ora_9_maggio_2021-5949156.html",
-      "urlToImage": "https://www.ilmessaggero.it/photos/MED/91/56/5949156_1628_giovanna_botteri_vaccino_cina_rivelazione_domenica_in_perche_non_fatto_ultima_ora_9_maggio_2021.jpg",
-      "publishedAt": "2021-05-09T14:31:46Z",
-      "content": "A Domenica In si parla di Covid e vaccini e in collegamento con lo studio di Mara Venier c'è anche Giovanna Botteri. La giornalista, inviata Rai a Pechino, parla della propria situazione personale: «… [+1339 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rainews.it"
-      },
-      "author": null,
-      "title": "Elon Musk rivela: \"Ho la sindrome di Asperger\" - Rai News",
-      "description": "Il ceo di Tesla e fondatore di SpaceX: \"So che dico o posto cose strane, ma è così che funziona il mio cervello\"",
-      "url": "https://www.rainews.it/dl/rainews/articoli/Usa-Elon-Musk-rivela-ho-la-sindrome-di-Asperger-8cd2e36a-3806-45ff-859a-80c3cf40d9d8.html",
-      "urlToImage": "https://www.rai.it/cropgd/476x249/dl/img/2020/08/1598780203187.LP_11665920.jpg",
-      "publishedAt": "2021-05-09T14:17:00Z",
-      "content": "09 maggio 2021Il patron di Tesla e di SpaceX, Elon Musk, ha rivelato di avere \"la sindrome di Asperger\". Musk lo ha riferito  intervenendo al programma Tv americano Saturday Night Live.Ceo di Tesla, … [+2409 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Areanapoli.it"
-      },
-      "author": null,
-      "title": "Isola dei Famosi, Iva Zanicchi shock: 'Guardate la mia mano' (FOTO) - AreaNapoli.it",
-      "description": "L'opinionista del reality di Canale 5 condotto da Ilary Blasi, moglie di Totti, ha allarmato i suoi follower mostrando le sue condizioni dopo la puntura di vespa.",
-      "url": "https://www.areanapoli.it/interviste/isola-dei-famosi-iva-zanicchi-shock-guardate-la-mia-mano-foto_417434.html",
-      "urlToImage": "https://cdn.areanapoli.it/immagini/notizie/big/t/totti_ilary_blasi.jpg",
-      "publishedAt": "2021-05-09T13:48:00Z",
-      "content": "Durante l'ultima puntata dell'Isola dei Famosi, la nota cantante Iva Zanicchi, è stata costretta ad abbandonare anzitempo la trasmissione a causa di un problema alla mano. L'opinionista ha rivelato d… [+790 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilgiornale.it"
-      },
-      "author": "Valentina Dardari",
-      "title": "Occhio alla data: quando WhatsApp può smettere di funzionare - ilGiornale.it",
-      "description": "L’azienda avverte che dal 15 maggio chi non accetterà le nuove condizioni d’uso potrà subire il blocco delle funzioni",
-      "url": "https://www.ilgiornale.it/news/cronache/occhio-data-quando-whatsapp-pu-smettere-funzionare-1945286.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2021/04/21/1619004294-pexels-david-buchi-1143387.jpg?_=1619007911",
-      "publishedAt": "2021-05-09T13:31:00Z",
-      "content": "Se volete continuare a usare WhatsApp segnatevi sul calendario la data del 15 maggio. Dal prossimo sabato infatti potreste rischiare di non poter più utilizzare il servizio. Da quel giorno, lapp di m… [+2403 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "PS5, aumento della produzione? Sony non è ottimista sulle nuove scorte - Everyeye Videogiochi",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3LmV2ZXJ5ZXllLml0L25vdGl6aWUvcHM1LWF1bWVudG8tcHJvZHV6aW9uZS1zb255LW5vbi1vdHRpbWlzdGEtbnVvdmUtc2NvcnRlLTUxNjM3NS5odG1s0gFmaHR0cHM6Ly93d3cuZXZlcnlleWUuaXQvYW1wL25vdGl6aWUvcHM1LWF1bWVudG8tcHJvZHV6aW9uZS1zb255LW5vbi1vdHRpbWlzdGEtbnVvdmUtc2NvcnRlLTUxNjM3NS5odG1s?oc=5",
+      "title": "Ascolti TV | Domenica 9 maggio 2021. La Compagnia del Cigno 15.4%, Avanti un Altro crolla all’11.5%. Juve-Mila - DavideMaggio.it",
+      "description": "Nella serata di ieri, domenica 9 maggio 2021, su Rai1 in prima visione La Compagnia del Cigno 2 ha conquistato 3.424.000 spettatori pari al 15.4% di share.",
+      "url": "https://www.davidemaggio.it/archives/198663/ascolti-tv-domenica-9-maggio-2021",
       "urlToImage": null,
-      "publishedAt": "2021-05-09T13:30:00Z",
-      "content": null
+      "publishedAt": "2021-05-10T07:52:00Z",
+      "content": "La compagnia del cigno 2\r\nNella serata di ieri, domenica 9 maggio 2021, su Rai1 in prima visione La Compagnia del Cigno 2 ha conquistato 3.424.000 spettatori pari al 15.4% di share. Su Canale 5 Avant… [+9358 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilpost.it"
+      },
+      "author": null,
+      "title": "I violenti scontri sulla Spianata delle Moschee - Il Post",
+      "description": "Sono avvenuti lunedì tra palestinesi e poliziotti israeliani, e sono state le ennesime violenze a Gerusalemme degli ultimi giorni",
+      "url": "https://www.ilpost.it/2021/05/10/scontri-polizia-israeliana-palestinesi-spianata-delle-moschee/",
+      "urlToImage": "https://cdn.ilpost.it/wp-content/uploads/2021/05/israele.png?x72029",
+      "publishedAt": "2021-05-10T07:47:59Z",
+      "content": "Lunedì mattina ci sono stati violenti scontri tra polizia israeliana e palestinesi fuori e dentro la moschea di al Aqsa, nel complesso della Spianata delle Moschee a Gerusalemme, in Israele. Negli sc… [+2380 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilpost.it"
+      },
+      "author": null,
+      "title": "Gli ultimi grandi sbarchi a Lampedusa - Il Post",
+      "description": "Nel giro di 24 ore sono arrivati sull'isola italiana oltre 2mila migranti, per via della riapertura della rotta libica",
+      "url": "https://www.ilpost.it/2021/05/10/grandi-sbarchi-lampedusa/",
+      "urlToImage": "https://cdn.ilpost.it/wp-content/uploads/2021/05/lampedusa.jpg?x72029",
+      "publishedAt": "2021-05-10T07:40:16Z",
+      "content": "Nel giro di 24 ore a Lampedusa sono sbarcati 2.128 migranti, un numero molto alto e in crescita rispetto a quello registrato nelle ultime settimane. Gli ultimi quattro sbarchi sono avvenuti nella not… [+3912 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rainews.it"
+      },
+      "author": null,
+      "title": "Segnali dal reattore 4 di Chernobyl, in corso reazioni di fissione nucleare. Cosa sta succedendo? - Rai News",
+      "description": "Trentacinquenne anni dopo il disastro di Chernobyl si registrano fissioni nucleari nelle masse di uranio sepolte nel reattore 4, lo stesso dove si verificò la catastrofe nel 1986. Per ora gli scienziati avanzano delle ipotesi e non escludono un incidente",
+      "url": "https://www.rainews.it/dl/rainews/media/Segnali-dal-reattore-4-di-Chernobyl-in-corso-reazioni-di-fissione-nucleare-Cosa-sta-succedendo-0ef3734c-fed8-412c-ace0-0cd443247baa.html",
+      "urlToImage": "https://www.rainews.it/dl/img/2021/05/640x360_1620628541053.AP21114458905668.jpg",
+      "publishedAt": "2021-05-10T07:39:21Z",
+      "content": "Trentacinquenne anni dopo il disastro di Chernobyl si registrano fissioni nucleari nelle masse di uranio sepolte nel reattore 4, lo stesso dove si verificò la catastrofe nel 1986. Per ora gli scienzi… [+3023 chars]"
     },
     {
       "source": {
@@ -255,12 +177,90 @@ news_it = {
         "name": "Tuttosport.com"
       },
       "author": "La redazione",
-      "title": "Cristina Chiabotto è diventata mamma: festa in casa Juve - Tuttosport",
-      "description": "La showgirl, grande tifosa della Vecchia Signora, ha dato alla luce la sua bambina: tanti i \"mi piace\" su Instagram anche dal mondo bianconero",
-      "url": "https://www.tuttosport.com/news/attualit/spettacoli/2021/05/09-81526046/cristina_chiabotto_diventata_mamma_festa_in_casa_juve",
-      "urlToImage": "https://cdn.tuttosport.com/images/2021/05/09/151737651-e8a69809-d47c-47d1-b0dd-1d3cd0dca2dc.jpg",
-      "publishedAt": "2021-05-09T13:20:00Z",
-      "content": "L'edizione digitale del giornale, sempre con te\r\nOvunque ti trovi, tutte le informazioni su: partite, storie, approfondimenti, interviste, commenti, rubriche, classifiche, tabellini, formazioni, ante… [+31 chars]"
+      "title": "Juve- Milan, le pagelle dei bianconeri: Szczesny si riscatta solo col rigore - Tuttosport",
+      "description": "Morata stecca, McKennie sembra involuto e Chiesa è fuori dal gioco",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2021/05/10-81556629/juve-_milan_le_pagelle_dei_bianconeri_szczesny_si_riscatta_solo_col_rigore",
+      "urlToImage": "https://cdn.tuttosport.com/images/2021/05/10/092423682-409c2c8c-36bf-4c01-b749-632698198afe.jpg",
+      "publishedAt": "2021-05-10T07:24:00Z",
+      "content": "SZCZESNY 5.5 La sua uscita imperfetta propizia l1-0 del Milan. Ma nella ripresa evita il tracollo parando il rigore a Kessie.\r\nCUADRADO 5 Il dinamismo è perso, la sua presenza impalpabile. Specie qua… [+1428 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Huffingtonpost.it"
+      },
+      "author": "Silvia Renda",
+      "title": "Paola Ferrari: \"Ho sopportato sorrisi ironici di chi al campo ti vedeva come un’ochetta in cerca di gloria\" - L'HuffPost",
+      "description": "La giornalista si racconta in un'intervista: \"Salvai la vita a un mio compagno di scuola durante gli anni di piombo. Ho visto ragazzi cadere\"",
+      "url": "https://www.huffingtonpost.it/entry/paola-ferrari-ho-sopportato-sorrisi-ironici-di-chi-al-campo-ti-vedeva-come-unochetta-in-cerca-di-gloria_it_6098d06be4b0f73e530f4bab",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6098d91b2600001e6bb42991.jpg?cache=qSt05bVU93&ops=1200_630",
+      "publishedAt": "2021-05-10T07:19:58Z",
+      "content": "“Per me era inconcepibile avere love story con calciatori, avrei perso tutta la credibilità di giornalista che stavo costruendo con una fatica spaventosa. Non era facile sopportare i sorrisi ironici … [+477 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tg24.sky.it"
+      },
+      "author": "Redazione Sky TG24",
+      "title": "Covid, Galli a Sky TG24: \"Sui vaccini lontanissimi dal dato del Regno Unito\" - Sky Tg24 ",
+      "description": "Leggi su Sky TG24 l'articolo Covid, Galli a Sky TG24: 'Sui vaccini lontanissimi dal dato del Regno Unito'",
+      "url": "https://tg24.sky.it/salute-e-benessere/2021/05/10/massimo-galli-covid-intervista",
+      "urlToImage": "https://static.sky.it/images/skytg24/it/salute-e-benessere/2021/05/10/massimo-galli-covid-intervista/galli-skytg24.jpg",
+      "publishedAt": "2021-05-10T07:18:50Z",
+      "content": "Si deve lasciare che il Paese viva e respiri, ma si deve lasciare che vivano e respirino i cittadini che sono ancora a rischio: da medico mi devo preoccupare anche di loro, così a Sky TG24 Massimo Ga… [+3377 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hwupgrade.it"
+      },
+      "author": null,
+      "title": "SpaceX accetta Dogecoin per mandare il satellite DOGE-1 sulla Luna - Hardware Upgrade",
+      "description": "SpaceX di Elon Musk accetterà un pagamento in criptovaluta Dogecoin per lanciare un satellite chiamato DOGE-1 verso la Luna l'anno prossimo. DOGE-1 dimostrerà lapplicazione della criptovaluta oltre lorbita terrestre e getterà le basi per il commercio interp…",
+      "url": "https://www.hwupgrade.it/news/scienza-tecnologia/spacex-accetta-dogecoin-per-mandare-il-satellite-doge-1-sulla-luna_97594.html",
+      "urlToImage": "https://www.hwupgrade.it/i/n/dogecoin_720.jpg",
+      "publishedAt": "2021-05-10T07:02:47Z",
+      "content": "Chi se non SpaceX poteva accettare un pagamento in Dogecoin, la criptovaluta preferita di Elon Musk, per lanciare un satellite chiamato DOGE-1 verso la Luna? La notizia sembra una burla di qualche bu… [+2036 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gelocal.it"
+      },
+      "author": "Martina Trivigno",
+      "title": "Vaccini in Toscana, il mese della svolta: da 62 a 50 anni ecco il calendario aggiornato delle prenotazioni - Il Tirreno",
+      "description": "Ecco come la Regione prova a dare un'accelerata alla campagna di vaccinazione: le date di apertura per fascia di età (sono cinque per i cinquantenni). Novità nel portale",
+      "url": "https://iltirreno.gelocal.it/regione/toscana/2021/05/10/news/vaccini-in-toscana-il-mese-della-svolta-da-62-a-50-anni-ecco-il-calendario-aggiornato-delle-prenotazioni-1.40254667",
+      "urlToImage": "https://iltirreno.gelocal.it/image/contentid/policy:1.40254698:1620629143/142816182.jpg?f=detail_558&h=720&w=1280&$p$f$h$w=b2d353a",
+      "publishedAt": "2021-05-10T06:56:19Z",
+      "content": "Una settimana decisiva per premere il piede sullacceleratore della campagna vaccinale contro il Covid in Toscana: si comincia oggi con lapertura delle agende di prenotazione sul portale regionale tra… [+4482 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rainews.it"
+      },
+      "author": null,
+      "title": "Coronavirus. Allarme in Giappone, in India contagi in lieve calo - Rai News",
+      "description": "Secondo l'ultimo bilancio disponibile da parte dell'Oms, relativo alle 24 ore intercorse tra le 16 di sabato e la stessa ora di domenica, il numero dei nuovi contagi da Covid nel mondo è stato pari a 786.943, mentre i decessi sono aumentati di 12.994 unità",
+      "url": "https://www.rainews.it/dl/rainews/articoli/Coronavirus-mondo-Allarme-in-Giappone-in-India-contagi-in-lieve-calo-a1b4b332-191b-4e74-8ec6-c804c358c497.html",
+      "urlToImage": "https://www.rai.it/cropgd/476x249/dl/img/2021/05/1620628962684.AP21127099229230__1_.jpg",
+      "publishedAt": "2021-05-10T06:43:00Z",
+      "content": "Tokyo (Yuta Omori/Kyodo News via AP)\r\n10 maggio 2021Nelle ultime 24 ore sono stati registrati in India altri 366.161 casi di coronavirus e 3.754 morti, in lieve calo rispetto ai recenti picchi. Il Pa… [+508 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tg24.sky.it"
+      },
+      "author": "Redazione Sky TG24",
+      "title": "Covid, l’Europa riparte: Spagna e Belgio tolgono il coprifuoco, spiagge aperte in Grecia - Sky Tg24 ",
+      "description": "Leggi su Sky TG24 l'articolo Covid, l’Europa riparte: Spagna e Belgio tolgono il coprifuoco, spiagge aperte in Grecia",
+      "url": "https://tg24.sky.it/mondo/2021/05/10/riaperture-europa-coprifuoco",
+      "urlToImage": "https://static.sky.it/images/skytg24/it/mondo/2021/05/10/riaperture-europa-coprifuoco/00hero_riaperture_europa.jpg",
+      "publishedAt": "2021-05-10T06:39:26Z",
+      "content": "Atene spinge per un passaporto Covid\" a livello europeo e ha inserito le isole fra le priorità della sua campagna vaccinale, per rilanciare il turismo, ma anche per proteggere quelle popolazioni che … [+189 chars]"
     }
   ]
 }
