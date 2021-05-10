@@ -69,7 +69,7 @@
             document.querySelector('.content').style.display = 'none';
             inner = `
                 <div class="popup">
-                    <h1>Somethink went wrong...</h1>
+                    <h3>Somethink went wrong...</h3>
                     <p>It seems that your device do not have GPS or you prohibit using GPS for this app.</p>
                     <button onclick="hidepopup('off')">OK</button>
                 </div>
@@ -190,7 +190,7 @@
                         currentweather = JSON.stringify(output);
                         var inner = `
                             <div class="meteoinfo leftblock">
-                                <div class="title">Сегодня</div>
+                                <h3 class="title">Сегодня</h3>
                                 <p onclick="weather(null, null)">${JSON.parse(currentweather).weather[0].description}</p>
                                 <p onclick="addinfo('temp')">${'температура воздуха ' + JSON.parse(currentweather).main.temp + ' °C'}</p>
                                 <p onclick="addinfo('feeltemp')">${'ощущяется как ' + JSON.parse(currentweather).main.feels_like + ' °C'}</p>
@@ -218,7 +218,7 @@
                 currentweather = JSON.stringify(fetchweatherdata);
                 var inner = `
                     <div class="meteoinfo leftblock">
-                        <div class="title">Сегодня</div>
+                        <h3 class="title">Сегодня</h3>
                         <p onclick="weather(null, null)">${JSON.parse(currentweather).weather[0].description}</p>
                         <p onclick="addinfo('temp')">${'температура воздуха ' + JSON.parse(currentweather).main.temp + ' °C'}</p>
                         <p onclick="addinfo('feeltemp')">${'ощущяется как ' + JSON.parse(currentweather).main.feels_like + ' °C'}</p>
@@ -293,7 +293,7 @@
             }
             if (forecasttemp.length > 0) {
                 document.querySelector('.detail').innerHTML += `
-                    <div class="title">Сравнительный температурный график (завтра / послезавтра)</div>
+                    <h3 class="title">Сравнительный температурный график (завтра / послезавтра)</h3>
                     <canvas style="margin-bottom: 8px;" id="forecastChart"></canvas>
                 `;
                 var ctx = document.getElementById('forecastChart').getContext('2d');
@@ -354,7 +354,7 @@
                             inner = `
                                 <div class="weatherinfo">
                                     <div class="meteoinfo leftblock">
-                                        <div class="title">Завтра</div>
+                                        <h3 class="title">Завтра</h3>
                                         <p onclick="addinfo(null, 'right', true)">${output.daily[1].weather[0].description}</p>
                                         <p onclick="addinfo('temp')">${'температура воздуха ' + output.daily[1].temp.day + ' °C'}</p>
                                         <p onclick="addinfo('feeltemp')">${'ощущяется как ' + output.daily[1].feels_like.day + ' °C'}</p>
@@ -362,7 +362,7 @@
                                         <p onclick="addinfo('pres')">${'атмосферное давление ' + output.daily[1].pressure + ' мм рт. ст.'}</p>
                                     </div>
                                     <div class="meteoinfo rightblock">
-                                        <div class="title">Послезавтра</div>
+                                        <h3 class="title">Послезавтра</h3>
                                         <p onclick="addinfo(null, 'left', true)">${output.daily[2].weather[0].description}</p>
                                         <p onclick="addinfo('temp', 'left')">${'температура воздуха ' + output.daily[2].temp.day + ' °C'}</p>
                                         <p onclick="addinfo('feeltemp', 'left')">${'ощущяется как ' + output.daily[2].feels_like.day + ' °C'}</p>
@@ -382,37 +382,37 @@
                             inner = `
                                 <div class="weatherinfo">
                                     <div class="meteoinfo">
-                                        <div class="title">Завтра</div>
+                                        <h3 class="title">Завтра</h3>
                                         <p onclick="forecastinfo(1)">
                                         ${output.daily[1].weather[0].description + ' ' + output.daily[1].temp.day + ' °C'}
                                         </p>
                                     </div>
                                     <div class="meteoinfo">
-                                        <div class="title">Послезавтра</div>
+                                        <h3 class="title">Послезавтра</h3>
                                         <p onclick="forecastinfo(2)">
                                         ${output.daily[2].weather[0].description + ' ' + output.daily[2].temp.day + ' °C'}
                                         </p>
                                     </div>
                                     <div class="meteoinfo">
-                                        <div class="title">Яерез 3 дня</div>
+                                        <h3 class="title">Яерез 3 дня</h3>
                                         <p onclick="forecastinfo(3)">
                                         ${output.daily[3].weather[0].description + ' ' + output.daily[3].temp.day + ' °C'}
                                         </p>
                                     </div>
                                     <div class="meteoinfo">
-                                        <div class="title">Яерез 4 дня</div>
+                                        <h3 class="title">Яерез 4 дня</h3>
                                         <p onclick="forecastinfo(4)">
                                         ${output.daily[4].weather[0].description + ' ' + output.daily[4].temp.day + ' °C'}
                                         </p>
                                     </div>
                                     <div class="meteoinfo">
-                                        <div class="title">Яерез 5 дней</div>
+                                        <h3 class="title">Яерез 5 дней</h3>
                                         <p onclick="forecastinfo(5)">
                                         ${output.daily[5].weather[0].description + ' ' + output.daily[5].temp.day + ' °C'}
                                         </p>
                                     </div>
                                     <div class="meteoinfo">
-                                        <div class="title">Яерез 6 дней</div>
+                                        <h3 class="title">Яерез 6 дней</h3>
                                         <p onclick="forecastinfo(6)">
                                         ${output.daily[6].weather[0].description + ' ' + output.daily[6].temp.day + ' °C'}
                                         </p>
@@ -433,7 +433,7 @@
                     inner = `
                         <div class="weatherinfo">
                             <div class="meteoinfo leftblock">
-                                <div class="title">Завтра</div>
+                                <h3 class="title">Завтра</h3>
                                 <p onclick="addinfo(null, 'right', true)">${fetchforecastdata.daily[1].weather[0].description}</p>
                                 <p onclick="addinfo('temp')">${'температура воздуха ' + fetchforecastdata.daily[1].temp.day + ' °C'}</p>
                                 <p onclick="addinfo('feeltemp')">${'ощущяется как ' + fetchforecastdata.daily[1].feels_like.day + ' °C'}</p>
@@ -441,7 +441,7 @@
                                 <p onclick="addinfo('pres')">${'атмосферное давление ' + fetchforecastdata.daily[1].pressure + ' мм рт. ст.'}</p>
                             </div>
                             <div class="meteoinfo rightblock">
-                                <div class="title">Послезавтра</div>
+                                <h3 class="title">Послезавтра</h3>
                                 <p onclick="addinfo(null, 'left', true)">${fetchforecastdata.daily[2].weather[0].description}</p>
                                 <p onclick="addinfo('temp', 'left')">${'температура воздуха ' + fetchforecastdata.daily[2].temp.day + ' °C'}</p>
                                 <p onclick="addinfo('feeltemp', 'left')">${'ощущяется как ' + fetchforecastdata.daily[2].feels_like.day + ' °C'}</p>
@@ -461,37 +461,37 @@
                     inner = `
                         <div class="weatherinfo">
                             <div class="meteoinfo">
-                                <div class="title">Завтра</div>
+                                <h3 class="title">Завтра</h3>
                                 <p onclick="forecastinfo(1)">
                                 ${fetchforecastdata.daily[1].weather[0].description + ' ' + fetchforecastdata.daily[1].temp.day + ' °C'}
                                 </p>
                             </div>
                             <div class="meteoinfo">
-                                <div class="title">Послезавтра</div>
+                                <h3 class="title">Послезавтра</h3>
                                 <p onclick="forecastinfo(2)">
                                 ${fetchforecastdata.daily[2].weather[0].description + ' ' + fetchforecastdata.daily[2].temp.day + ' °C'}
                                 </p>
                             </div>
                             <div class="meteoinfo">
-                                <div class="title">Яерез 3 дня</div>
+                                <h3 class="title">Яерез 3 дня</h3>
                                 <p onclick="forecastinfo(3)">
                                 ${fetchforecastdata.daily[3].weather[0].description + ' ' + fetchforecastdata.daily[3].temp.day + ' °C'}
                                 </p>
                             </div>
                             <div class="meteoinfo">
-                                <div class="title">Яерез 4 дня</div>
+                                <h3 class="title">Яерез 4 дня</h3>
                                 <p onclick="forecastinfo(4)">
                                 ${fetchforecastdata.daily[4].weather[0].description + ' ' + fetchforecastdata.daily[4].temp.day + ' °C'}
                                 </p>
                             </div>
                             <div class="meteoinfo">
-                                <div class="title">Яерез 5 дней</div>
+                                <h3 class="title">Яерез 5 дней</h3>
                                 <p onclick="forecastinfo(5)">
                                 ${fetchforecastdata.daily[5].weather[0].description + ' ' + fetchforecastdata.daily[5].temp.day + ' °C'}
                                 </p>
                             </div>
                             <div class="meteoinfo">
-                                <div class="title">Яерез 6 дней</div>
+                                <h3 class="title">Яерез 6 дней</h3>
                                 <p onclick="forecastinfo(6)">
                                 ${fetchforecastdata.daily[6].weather[0].description + ' ' + fetchforecastdata.daily[6].temp.day + ' °C'}
                                 </p>
@@ -572,7 +572,7 @@
             }
             if (type == 'temp') {
                 document.querySelector('.' + position + 'block').innerHTML = `
-                    <div class="title">Температурный график</div>
+                    <h3 class="title">Температурный график</h3>
                     <canvas id="myChart"></canvas>
                 `;
                 var ctx = document.getElementById('myChart').getContext('2d');
@@ -600,7 +600,7 @@
             }
             if (type == 'feeltemp') {
                 document.querySelector('.' + position + 'block').innerHTML = `
-                    <div class="title">Температурный график (по ощущениям)</div>
+                    <h3 class="title">Температурный график (по ощущениям)</h3>
                     <canvas id="myChart"></canvas>
                 `;
                 var ctx = document.getElementById('myChart').getContext('2d');
@@ -628,7 +628,7 @@
             }
             if (type == 'hum') {
                 document.querySelector('.' + position + 'block').innerHTML = `
-                    <div class="title">График влажности</div>
+                    <h3 class="title">График влажности</h3>
                     <canvas id="myChart"></canvas>
                 `;
                 var ctx = document.getElementById('myChart').getContext('2d');
@@ -656,7 +656,7 @@
             }
             if (type == 'pres') {
                 document.querySelector('.' + position + 'block').innerHTML = `
-                    <div class="title">График атмосферного давления</div>
+                    <h3 class="title">График атмосферного давления</h3>
                     <canvas id="myChart"></canvas>
                 `;
             var ctx = document.getElementById('myChart').getContext('2d');
@@ -723,7 +723,7 @@
         var key = [' на сегодня', ' на завтра', ' на послезавтра', ' через 3 дня', ' через 4 дня', ' через 5 дней', ' через 6 дней'];
         if (forecasttemp.length > 0) {
             document.querySelector('.detail').innerHTML = `
-                <div class="title">Прогноз погоды${key[day]}</div>
+                <h3 class="title">Прогноз погоды${key[day]}</h3>
                 <canvas style="margin-bottom: 8px;" id="myChart"></canvas>
             `;
             var ctx = document.getElementById('myChart').getContext('2d');
@@ -812,6 +812,10 @@
 <style>
     * {
         font-family: sans-serif;
+    }
+    p, h3 {
+        filter: drop-shadow(0 0 2px #aaa);
+        color: #333;
     }
     body {
         margin: 0;
@@ -927,8 +931,7 @@
     }
     .title {
         text-align: start;
-        padding: 0 20px;
-        font-size: 20px;
+        padding: 0 24px;
         overflow: hidden;
     }
     .suggestions {
@@ -959,7 +962,7 @@
         font-size: 18px;
         display: flex;
         flex-direction: row;
-        justify-content: center;
+        text-align: start;
         flex-wrap: wrap;
     }
     .meteoinfo {
@@ -969,9 +972,7 @@
         margin: 16px 0;
     }
     .meteoinfo > p {
-        padding: 10px 0 15px 0;
-        font-size: 24px;
-        font-weight: 500;
+        padding: 8px 32px;
         margin: 0;
     }
     .meteoinfo > p:hover {
@@ -1053,7 +1054,7 @@
 <body>
     <div class="popup_placeholder">
         <div class="popup">
-            <h1>GPS warning</h1>
+            <h3>GPS warning</h3>
             <p>
                 This app needs GPS to provide weather info based on your location. 
                 Please turn on GPS on your device for better expirience.
