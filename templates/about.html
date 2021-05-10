@@ -1,44 +1,58 @@
-<body>
-    <h3>Andranik Sarkisyan</h3>
-    <div>
-        <p>Hi there!</p>
-        <p>My name is Andranik.</p>
-        <p>I am a web & mobile developer from Russia.</p>
-    </div>
-    <h3>I can help you to ...</h3>
-    <table>
-        <tr>
-            <td>
-                1. Create app conception
-            </td>
-        </tr>
-        <tr>
-            <td>
-                2. Develop MVP ... fast
-            </td>
-        </tr>
-        <tr>
-            <td>
-                3. Develop solution redy for production
-            </td>
-        </tr>
-        <tr>
-            <td>
-                4. Save you time and money
-            </td>
-        </tr>
-    </table>
-    <h3>If you want to create web app - better call Andranik =D</h3>
-    <div class="info" id="contacts">
-        <textarea class="msg" type="" placeholder="Message"></textarea>
-        <input class="name" type="text" placeholder="Name">
-        <input class="email" type="text" placeholder="e-mail">
-        <button class="send__btn" onclick="sendRequest()">Send</button>
-        <br>
-        <br>
-        <br>
-    </div>
-</body>
+<script>
+    function sendRequest() {
+        let msg = document.querySelector('.msg').value
+        let name = document.querySelector('.name').value
+        let email = document.querySelector('.email').value
+        if (msg && name && email) {
+            fetch('https://api.telegram.org/bot1070038475:AAGK8MbB_VNFpeYSapXQ1L458o1innmPWkk/' +
+                'sendMessage?chat_id=-1001490927690&text=' +
+                    'Заявка с landing page: ' +
+                    `Имя => ${name} ` +
+                    `Адрес эл. почты => ${email} ` +
+                    `Сообщение => ${msg}`)
+            document.body.style.overflow = "hidden"
+            document.querySelector('.msg').value = ""
+            document.querySelector('.name').value = ""
+            document.querySelector('.email').value = ""
+            setTimeout(leftFirst, 50)
+            setTimeout(leftSecond, 100)
+            setTimeout(() => {document.getElementById('contacts').remove()}, 200)
+        }
+        else {
+            function leftFirst() {
+                document.querySelector('#contacts').style = "margin-left: 50px;"
+            }
+            function leftSecond() {
+                document.querySelector('#contacts').style = "margin-left: 100px;"
+            }
+            function rightFirst() {
+                document.querySelector('#contacts').style = "margin-left: 50px;"
+            }
+            function rightSecond() {
+                document.querySelector('#contacts').style = ""
+            }
+            if (!document.querySelector('.msg').value) {
+                document.querySelector('.msg').style = "border-color: tomato;"
+            }
+            if (!document.querySelector('.name').value) {
+                document.querySelector('.name').style = "border-color: tomato;"
+            }
+            if (!document.querySelector('.email').value) {
+                document.querySelector('.email').style = "border-color: tomato;"
+            }
+            function clearColor() {
+                document.querySelector('.msg').style = ""
+                document.querySelector('.name').style = ""
+                document.querySelector('.email').style = ""
+            }
+            setTimeout(leftFirst, 50)
+            setTimeout(leftSecond, 100)
+            setTimeout(rightFirst, 150)
+            setTimeout(rightSecond, 200)
+            setTimeout(clearColor, 600)
+        }
+    }
+</script>
 
 <style>
     * { font-family: sans-serif; }
@@ -96,58 +110,44 @@
     }
 </style>
 
-<script>
-    function sendRequest() {
-        let msg = document.querySelector('.msg').value
-        let name = document.querySelector('.name').value
-        let email = document.querySelector('.email').value
-        if (msg && name && email) {
-            fetch('https://api.telegram.org/bot1070038475:AAGK8MbB_VNFpeYSapXQ1L458o1innmPWkk/' +
-                'sendMessage?chat_id=-1001490927690&text=' +
-                    'Заявка с landing page: ' +
-                    `Имя => ${name} ` +
-                    `Адрес эл. почты => ${email} ` +
-                    `Сообщение => ${msg}`)
-            document.body.style.overflow = "hidden"
-            document.querySelector('.msg').value = ""
-            document.querySelector('.name').value = ""
-            document.querySelector('.email').value = ""
-            setTimeout(leftFirst, 50)
-            setTimeout(leftSecond, 100)
-            setTimeout(() => {document.getElementById('contacts').remove()}, 200)
-        }
-        else {
-            function leftFirst() {
-                document.querySelector('#contacts').style = "margin-left: 50px;"
-            }
-            function leftSecond() {
-                document.querySelector('#contacts').style = "margin-left: 100px;"
-            }
-            function rightFirst() {
-                document.querySelector('#contacts').style = "margin-left: 50px;"
-            }
-            function rightSecond() {
-                document.querySelector('#contacts').style = ""
-            }
-            if (!document.querySelector('.msg').value) {
-                document.querySelector('.msg').style = "border-color: tomato;"
-            }
-            if (!document.querySelector('.name').value) {
-                document.querySelector('.name').style = "border-color: tomato;"
-            }
-            if (!document.querySelector('.email').value) {
-                document.querySelector('.email').style = "border-color: tomato;"
-            }
-            function clearColor() {
-                document.querySelector('.msg').style = ""
-                document.querySelector('.name').style = ""
-                document.querySelector('.email').style = ""
-            }
-            setTimeout(leftFirst, 50)
-            setTimeout(leftSecond, 100)
-            setTimeout(rightFirst, 150)
-            setTimeout(rightSecond, 200)
-            setTimeout(clearColor, 600)
-        }
-    }
-</script>
+<body>
+    <h3>Andranik Sarkisyan</h3>
+    <div>
+        <p>Hi there!</p>
+        <p>My name is Andranik.</p>
+        <p>I am a web & mobile developer from Russia.</p>
+    </div>
+    <h3>I can help you to ...</h3>
+    <table>
+        <tr>
+            <td>
+                1. Create app conception
+            </td>
+        </tr>
+        <tr>
+            <td>
+                2. Develop MVP ... fast
+            </td>
+        </tr>
+        <tr>
+            <td>
+                3. Develop solution redy for production
+            </td>
+        </tr>
+        <tr>
+            <td>
+                4. Save you time and money
+            </td>
+        </tr>
+    </table>
+    <h3>If you want to create web app - better call Andranik =D</h3>
+    <div class="info" id="contacts">
+        <textarea class="msg" type="" placeholder="Message"></textarea>
+        <input class="name" type="text" placeholder="Name">
+        <input class="email" type="text" placeholder="e-mail">
+        <button class="send__btn" onclick="sendRequest()">Send</button>
+        <br>
+        <br>
+        <br>
+    </div>
+</body>
