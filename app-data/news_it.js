@@ -5,15 +5,184 @@ news_it = {
     {
       "source": {
         "id": null,
+        "name": "Mediaset.it"
+      },
+      "author": null,
+      "title": "Tensioni a Gerusalemme, la Jihad islamica: \"Lanciati 30 razzi contro Israele\" - TGCOM",
+      "description": "Evacuati Muro del Piano e Knesset. Poche ore prima Hamas aveva posto un ultimatum chiedendo che le autorità israeliane sgomberassero la spianata delle moschee",
+      "url": "https://www.tgcom24.mediaset.it/mondo/jihad-islamica-lanciati-30-razzi-contro-israele_32096816-202102k.shtml",
+      "urlToImage": "https://img-prod.tgcom24.mediaset.it/images/2021/05/10/161023649-8f176e5d-0160-4c08-a281-0c01b8012656.jpg",
+      "publishedAt": "2021-05-10T16:13:10Z",
+      "content": "Regole per i commenti\r\nI commenti in questa pagina vengono controllatiTi invitiamo ad utilizzare un linguaggio rispettoso e non offensivo, anche per le critiche più aspre\r\nIn particolare, durante l'a… [+395 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Corriere.it"
+      },
+      "author": "Paola Caruso",
+      "title": "Coronavirus in Italia, il bollettino di oggi 10 maggio: 5.080 nuovi casi e 198 morti - Corriere della Sera",
+      "description": "I dati del bollettino sulla pandemia di Covid-19 di lunedì 10 maggio",
+      "url": "https://www.corriere.it/salute/21_maggio_10/coronavirus-italia-bollettino-oggi-10-maggio-5080-nuovi-casi-198-morti-44151c60-b177-11eb-97b4-aa5e7b1c1388.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/10/0de7e8c0-b1a4-11eb-97b4-aa5e7b1c1388.jpg",
+      "publishedAt": "2021-05-10T16:07:30Z",
+      "content": "Sono 5.080 i nuovi casi di coronavirus in Italia (ieri sono stati +8.292, qui il bollettino). Sale così ad almeno 4.116.287 il numero di persone che hanno contratto il virus Sars-CoV-2 (compresi guar… [+6870 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilgiornale.it"
+      },
+      "author": "Stefano Iannaccone",
+      "title": "Enrico Letta non sta sereno: ecco cosa sta succedendo nel Pd - il Giornale",
+      "description": "La modalità con cui si è arrivati alla scelta di Gualteri ha sollevato perplessità: \"Letta sbaglia a trattare Conte da interlocutore privilegiato\"",
+      "url": "https://www.ilgiornale.it/news/politica/letta-e-candidatura-roma-i-primi-mugugni-nel-pd-1945535.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2021/04/30/1619794627-12744050-small.jpg?_=1619794627",
+      "publishedAt": "2021-05-10T15:40:00Z",
+      "content": "La luna di miele è già finita, interrotta a Roma, ai piedi del Campidoglio. Con la candidatura di Roberto Gualtieri, arrivata dopo un lungo tira-e-molla, lo scenario per Enrico Letta è cambiato. Sono… [+3191 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Ilfattoquotidiano.it"
       },
       "author": "F. Q.",
-      "title": "Israele, nuovi scontri tra palestinesi e polizia a Gerusalemme: oltre 300 feriti - Il Fatto Quotidiano",
-      "description": "Sono riprese alle 8 della mattina le proteste sulla Spianata delle Moschee. Secondo la Mezzaluna Rossa, oltre 220 persone sono state trasportate in ospedale e 7 di queste sono gravi. I leader dell'Autorità nazionale palestinese parlano di \"aggressione crimina…",
-      "url": "https://www.ilfattoquotidiano.it/2021/05/10/israele-nuovi-scontri-tra-palestinesi-e-polizia-a-gerusalemme-oltre-300-feriti-razzi-da-gaza-chiuse-strade-e-sospesi-treni-al-confine-con-la-striscia/6192702/",
+      "title": "Israele, a Gerusalemme suonano le sirene antimissile dopo l’ultimatum di Hamas - Il Fatto Quotidiano",
+      "description": "Il movimento islamista aveva lanciato l'ultimatum, dando tempo fino alle 18 (le 17 in Italia) all'esercito di Tel Aviv per allontanarsi dalla Moschea di al-Aqsa e dal quartiere di Sheikh Jarrah. I leader dell'Autorità nazionale palestinese parlano di \"aggress…",
+      "url": "https://www.ilfattoquotidiano.it/2021/05/10/israele-sei-razzi-di-hamas-verso-gerusalemme-liberate-la-spianata-delle-moschee-scontri-tra-palestinesi-e-polizia-oltre-300-feriti/6192702/",
       "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/10/scontri-gerusalemme.jpg",
-      "publishedAt": "2021-05-10T14:03:45Z",
-      "content": "Continuano, violente, le proteste dei manifestanti palestinesi a Gerusalemme che da giorni si oppongono agli espropri per mano dei coloni israeliani nella zona est della Città Santa. Anche oggi si re… [+6390 chars]"
+      "publishedAt": "2021-05-10T15:22:30Z",
+      "content": "Le Brigate Ezzedin al-Qassam, il braccio armato di Hamas, ha rivendicato il lancio di razzi verso Gerusalemme. Secondo quanto riportano i media israeliani, in attesa di conferme da parte dell’esercit… [+7363 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mediaset.it"
+      },
+      "author": "Redazione Sportmediaset",
+      "title": "Giro d’Italia: super van der Hoorn si prende la terza tappa, Ganna rimane ancora in rosa - Sportmediaset - Sport Mediaset",
+      "description": "L&amp;rsquo;olandese della Intermarch&amp;eacute; Wanty Gobert fugge sin dall&amp;rsquo;inizio e non molla pi&amp;ugrave;, sul podio Cimolai e Sagan",
+      "url": "https://www.sportmediaset.mediaset.it/speciale/giroditalia2021/giro-ditalia-super-van-der-hoorn-si-prende-la-terza-tappa-ganna-rimane-ancora-in-rosa_32094831-202102k.shtml",
+      "urlToImage": "https://img-prod.sportmediaset.mediaset.it/images/2021/05/10/151124865-638eaeb8-1a62-434e-9d26-964561a3506e.jpg",
+      "publishedAt": "2021-05-10T15:15:01Z",
+      "content": "La terza tappa del Giro d’Italia 2021 da Biella a Canale d’Alba è un trionfo di van der Hoorn, strepitoso a fare parte del gruppo di fuggitivi in avvio e a tenere lontano il plotone nel tentativo di … [+2590 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mediaset.it"
+      },
+      "author": null,
+      "title": "Prato dice addio a Luana D'Orazio: tutti i colleghi al funerale | Il vescovo: \"Troppi morti sul lavoro, è ora di cambiare\" - TGCOM",
+      "description": "La cerimonia funebre per la giovane operaia nella parrocchia del Cristo Risorto di Agliana. Alle esequie anche la titolare della ditta in cui è avvenuto il tragico incidente. Giani proclama il \"lutto regionale\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/toscana/prato-operaia-morta-sul-lavoro-tutti-i-colleghi-ai-funerali_32089422-202102k.shtml",
+      "urlToImage": "https://img-prod.tgcom24.mediaset.it/images/2021/05/10/133523604-8201b3fc-522d-468f-a478-289745cf59c6.jpg",
+      "publishedAt": "2021-05-10T15:05:36Z",
+      "content": "Il vescovo: \"Tre morti al giorno sul lavoro, ora basta\" - \"Due, tre vittime al giorno - ha ripreso il vescovo -. Qualcosa di inaudito. Di inaccettabile. Ora siamo qui attorno al corpo straziato di Lu… [+2275 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Adnkronos.com"
+      },
+      "author": "moretti",
+      "title": "Covid Sardegna, oggi 31 contagi e 2 morti: bollettino 10 maggio - Adnkronos",
+      "description": "I dati della Regione",
+      "url": "https://www.adnkronos.com/covid-sardegna-oggi-31-contagi-e-2-morti-bollettino-10-maggio_5W0fMR0W9yL6YY70WMSnKG",
+      "urlToImage": "https://www.adnkronos.com/resources/0269-123e5104ac40-cbb6ef0ec504-1000/covid_drivein_ipa_fg.jpg",
+      "publishedAt": "2021-05-10T15:02:00Z",
+      "content": "Sono 31 i nuovi contagi da Coronavirus in Sardegna secondo il bollettino di oggi, 10 maggio. Nella tabella si fa riferimento ad altri due morti. Nelle ultime 24 ore sono stati 4.473 i test in più ese… [+402 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilfattoquotidiano.it"
+      },
+      "author": "Lorenzo Vendemiale",
+      "title": "La Salernitana torna in Serie A e si apre il caso della multiproprietà: adesso Claudio Lotito e il cognato… - Il Fatto Quotidiano",
+      "description": "È una prima volta in assoluto per il calcio italiano: non era mai successo che due squadre appartenenti allo stesso presidente si ritrovassero nella medesima categoria, circostanza vietata dalle norme. La Salernitana, infatti, è la seconda squadra del patron …",
+      "url": "https://www.ilfattoquotidiano.it/2021/05/10/la-salernitana-torna-in-serie-a-e-si-apre-il-caso-della-multiproprieta-adesso-claudio-lotito-e-il-cognato-mezzaroma-devono-vendere-la-societa/6193205/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/10/Lotito-Salernitana-Serie-A-.jpg",
+      "publishedAt": "2021-05-10T14:54:50Z",
+      "content": "Una cavalcata trionfale e per certi versi sorprendente, una grande festa in tutta la città: dopo oltre ventanni dattesa, la Salernitana torna in Serie A per la terza volta nella sua storia. Ma è una … [+4514 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Corriere.it"
+      },
+      "author": "Marco Gasperetti",
+      "title": "Pfizer Massa Carrara, la studentessa che ha ricevuto sei dosi di vaccino: «Ho paura e mi fa male tutto, ma... - Corriere della Sera",
+      "description": "Pisa, parla la studentessa di Psicologia che ha ricevuto per errore la maxi vaccinazione: «I sanitari erano agitatissimi e ho capito subito che qualcosa era andato storto. Mi hanno detto subito la verità, però l'ospedale non può permettersi certe disavventure»",
+      "url": "https://www.corriere.it/cronache/21_maggio_10/pfizer-massa-carrara-studentessa-che-ha-ricevuto-sei-dosi-vaccino-ho-paura-mi-fa-male-tutto-ma-perdono-infermiera-be3d40b4-b198-11eb-97b4-aa5e7b1c1388.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/2021/05/10/Interni/Foto-Interni-Trattate/16721739-kin-U32601136675236gUG-526x284@Corriere-Web-Sezioni.jpg",
+      "publishedAt": "2021-05-10T14:44:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Corriere.it"
+      },
+      "author": "Elisa Messina",
+      "title": "Michel Fourniret in fin di vita: è il serial killer «mostro delle Ardenne» che violentò e uccise nove ragazze - Corriere della Sera",
+      "description": "Condannato all’ergastolo nel 2008, nel marzo 2020 aveva confessato il delitto di una bimba di 9 anni",
+      "url": "https://www.corriere.it/cronache/21_maggio_10/michel-fourniret-fin-vita-serial-killer-mostro-ardenne-che-violento-uccise-nove-ragazze-66dc2762-b18a-11eb-97b4-aa5e7b1c1388.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/10/0d63500c-b199-11eb-97b4-aa5e7b1c1388.jpg",
+      "publishedAt": "2021-05-10T14:30:27Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gazzetta.it"
+      },
+      "author": "Nicolò Delvecchio",
+      "title": "Storica Salernitana: è Serie A. Monza ai playoff, Cosenza retrocesso - La Gazzetta dello Sport",
+      "description": "Il club di Lotito conquista la promozione, la squadra di Brocchi giocherà i playoff. I calabresi retrocedono in C",
+      "url": "https://www.gazzetta.it/Calcio/Serie-B/10-05-2021/serieb-38-giornata-salernitana-promossa-monza-playoff-410896135374.shtml",
+      "urlToImage": "https://images2.gazzettaobjects.it/methode_image/2021/05/10/Calcio/Foto_Calcio_-_Trattate/cc17d0da042d74f608cd27469b3c2152_1200x675.jpg?v=202105101714",
+      "publishedAt": "2021-05-10T14:28:39Z",
+      "content": "Nicolò Delvecchio \r\n &amp;commat;ndelvecchio8\r\n10 maggio\r\n - Milano\r\n Non lo avrebbe detto nessuno, a inizio campionato: eppure, dopo 23 anni, la Salernitana torna in Serie A. È stato un campionato d… [+5946 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lastampa.it"
+      },
+      "author": ".",
+      "title": "Coronavirus, aumento salariale d'oro per il ceo di AstraZeneca: è polemica - La Stampa",
+      "description": "Oltre 20 milioni di euro annui. Ma Soriot fa valere il boom di fatturato",
+      "url": "https://www.lastampa.it/economia/2021/05/10/news/coronavirus-aumento-salariale-d-oro-per-il-ceo-di-astrazeneca-e-polemica-1.40256045",
+      "urlToImage": "https://www.lastampa.it/image/contentid/policy:1.40256044:1620655909/reuters_xix_20210430_114556_003863.JPG?f=detail_558&h=720&w=1280&$p$f$h$w=d5a6253",
+      "publishedAt": "2021-05-10T14:13:34Z",
+      "content": "AstraZeneca nuovamente nell'occhio del ciclone, ma questa volta non per le tensioni con Bruxelles sulla tempistica delle forniture dei vaccini anti coronavirus bensì per il sostanzioso bonus salarial… [+1711 chars]"
+    },
+    {
+      "source": {
+        "id": "la-repubblica",
+        "name": "La Repubblica"
+      },
+      "author": "Repubblica.it",
+      "title": "Coronavirus Emilia-Romagna, il bollettino di oggi 10 maggio: 471 contagi, 9 decessi - La Repubblica",
+      "description": null,
+      "url": "https://bologna.repubblica.it/cronaca/2021/05/10/news/coronavirus_emilia_romagna_il_bollettino_di_oggi_10_maggio_contagi_morti_vaccini-300324014/",
+      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-bologna/2021/05/10/160805178-7e3739cd-6aa2-4a89-9fc9-8e924ca324bc.jpg",
+      "publishedAt": "2021-05-10T14:08:08Z",
+      "content": "BOLOGNA - Sono 471 i nuovi casi di positività intercettati nelle ultime 24 ore in Emilia-Romagna, a fronte di 11.029 tamponi. La percentuale dei nuovi positivi sul numero di tamponi fatti da ieri è d… [+1854 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Juventus - Milan 0 a 3: il commento di Adani a Deejay Chiama Italia - radiodeejay",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RHNaYi1rVEx2OUXSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-05-10T13:43:29Z",
+      "content": null
     },
     {
       "source": {
@@ -44,41 +213,28 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Mediaset.it"
+        "name": "Corriere.it"
       },
-      "author": null,
-      "title": "Chernobyl, si \"risveglia\" il reattore numero 4: registrate nuove fissioni nucleari - TGCOM",
-      "description": "La rivista \"Science\" raccoglie l'allarme di alcuni esperti. Ora bisognerà capire cosa ha innescato l'evento atomico",
-      "url": "https://www.tgcom24.mediaset.it/mondo/chernobyl-si-risveglia-il-reattore-numero-4-registrate-nuove-fissioni-nucleari_32089998-202102k.shtml",
-      "urlToImage": "https://img-prod.tgcom24.mediaset.it/images/2021/05/10/132636387-6251615d-9020-47aa-9e1b-d2a19956227d.jpg",
-      "publishedAt": "2021-05-10T13:33:11Z",
-      "content": "\"E' come la brace in un barbecue\", spiega Neil Hyatt, chimico dei materiali nucleari presso l'Università di Sheffield, nell'articolo pubblicato da Science. Ora, gli scienziati ucraini si stanno adope… [+635 chars]"
+      "author": "Fausta Chiesa",
+      "title": "BioNTech, le azioni volano in Borsa: oltre 2 miliardi di ricavi nel primo trimestre - Corriere della Sera",
+      "description": "La società tedesca di biotecnologie che ha sviluppato il vaccino anti-Covid con Pfizer ha chiuso il primo trimestre 2021 con 1,12 miliardi di utile. Il titolo sale del 10% a Francoforte",
+      "url": "https://www.corriere.it/economia/finanza/21_maggio_10/biontech-azioni-volano-borsa-oltre-2-miliardi-ricavi-primo-trimestre-0e24828a-b18b-11eb-97b4-aa5e7b1c1388.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/10/e93807fa-b18d-11eb-97b4-aa5e7b1c1388.jpg",
+      "publishedAt": "2021-05-10T13:25:50Z",
+      "content": "BioNTech annuncia i conti del primo trimestre e e vola in Borsa. La società tedesca di biotecnologie ha comunicato i risultati tra gennaio e marzo 2021 che mostrano 2,08 miliardi di euro di ricavi gr… [+1452 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Ilmessaggero.it"
+        "name": "Tg24.sky.it"
       },
-      "author": "Redazione Web",
-      "title": "Gravina: «Juve fuori dalla Serie A se resta nella Superlega» - ilmessaggero.it",
-      "description": "Ci sarà una Serie A senza Juventus se il club bianconero dovesse continuare nel braccio di ferro sulla Superlega. A confermarlo è stato il presidente della Figc Gabriele Gravina a...",
-      "url": "https://www.ilmessaggero.it/sport/calcio/juventus_superlega_gravina_fuori_serie_a_esclusa_ultime_notizie-5950834.html",
-      "urlToImage": "https://www.ilmessaggero.it/photos/MED/08/34/5950834_1507_ronaldo.jpg",
-      "publishedAt": "2021-05-10T13:25:37Z",
-      "content": "Ci sarà unaSerie A senza Juventus se il club bianconero dovesse continuare nel braccio di ferro sulla Superlega. A confermarlo è stato il presidente della Figc Gabriele Gravina a margine di un incont… [+3535 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quotidiano.net"
-      },
-      "author": "Quotidiano Nazionale",
-      "title": "Seconda dose Astrazeneca: cosa succede dopo stop Ue a rinnovo del contratto - QUOTIDIANO NAZIONALE",
-      "description": "Portavoce Commissione europea assicura: \"Contratto resta fino a invio di tutte le dosi\"",
-      "url": "https://www.quotidiano.net/cronaca/seconda-dose-astrazeneca-1.6345062",
-      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6345102.1620652649%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700&h=391",
-      "publishedAt": "2021-05-10T13:20:49Z",
-      "content": "Roma, 10 maggio 2021 - Astrazeneca: ancora uno stop, ancora chiarimenti necessari. Ieri la Commissione Europea ha annunciato di non rinnovare il contratto per il vaccino anti-Covid di Oxford, oltre l… [+1869 chars]"
+      "author": "Redazione Sky TG24",
+      "title": "Bandiere Blu 2021, sono 416 le spiagge premiate con il riconoscimento. FOTO - Sky Tg24 ",
+      "description": "Leggi su Sky TG24 l'articolo Bandiere Blu 2021, sono 416 le spiagge premiate con il riconoscimento. FOTO",
+      "url": "https://tg24.sky.it/ambiente/2021/05/10/bandiere-blu-2021-spiagge-piu-belle-italia",
+      "urlToImage": "https://static.sky.it/images/skytg24/it/ambiente/2021/05/10/bandiere-blu-2021-spiagge-piu-belle-italia/bandiere_blu_hero.jpg",
+      "publishedAt": "2021-05-10T13:02:38Z",
+      "content": "Il riconoscimento viene assegnato sulla base di criteri fra cui, oltre il mare risultato \"eccellente\" negli ultimi quattro anni, anche efficienza della depurazione delle acque reflue e della rete fog… [+169 chars]"
     },
     {
       "source": {
@@ -96,171 +252,15 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Ilgiornale.it"
-      },
-      "author": "Luca Sablone",
-      "title": "\"Ha ragione Meloni\", \"Sei confuso...\". Lite di fuoco Letta-Salvini - ilGiornale.it",
-      "description": "Il segretario del Pd ammette: \"Il Copasir va a Fratelli d'Italia\". Il leader della Lega replica: \"Ci metteremo d'accordo, ma non perchè ce lo chiede lui\"",
-      "url": "https://www.ilgiornale.it/news/politica/ha-ragione-meloni-sei-po-confuso-scontro-letta-salvini-sul-1945522.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2021/05/05/1620200153-axkjlvg7en1jenikwi3c-lapresse.jpg?_=1620200153",
-      "publishedAt": "2021-05-10T12:51:00Z",
-      "content": "Il Partito democratico e la Lega continuano ad animare lo scontro politico. Questa volta a dividere il Pd e il Carroccio è stata la questione relativa al Copasir. Fratelli d'Italia continua a pretend… [+2540 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ultimouomo.com"
-      },
-      "author": "Federico Aquè",
-      "title": "Il Milan ha affondato la Juventus di Pirlo - L'Ultimo Uomo",
-      "description": "Tre gol arrivati da tre grandi giocate estemporanee, ma una partita solida e dominata difensivamente.",
-      "url": "https://www.ultimouomo.com/juventus-milan-0-3-analisi-tattica/",
-      "urlToImage": "https://ultimouomo.imgix.net/wp-content/uploads/2021/05/10140215/IPA_IPA24499624-950x420.jpg",
-      "publishedAt": "2021-05-10T12:36:09Z",
-      "content": "Tre gol arrivati da tre grandi giocate estemporanee, ma una partita solida e dominata difensivamente.Oggi è facile dire che la vittoria contro la Juventus sia stata la più bella e importante della st… [+13014 chars]"
-    },
-    {
-      "source": {
-        "id": "il-sole-24-ore",
-        "name": "Il Sole 24 Ore"
+        "name": "Ilriformista.it"
       },
       "author": null,
-      "title": "Vaccini Pfizer: allerta scorte, in frigo meno di un milione di dosi - Il Sole 24 ORE",
-      "description": "Allarme di Lazio e Campania per l’esaurimento delle scorte Pfizer. In Lombardia aperte le prenotazioni per la fascia di età 50-59 anni: subito 341mila adesioni",
-      "url": "https://www.ilsole24ore.com/art/vaccini-pfizer-allerta-scorte-frigo-meno-un-milione-dosi-AE5pYMH",
-      "urlToImage": "https://i2.res.24o.it/images2010/2021/05/AE5pYMH/images/d4e041cc-b170-11eb-ae85-dd8bb23fd515-fotohome0.jpg",
-      "publishedAt": "2021-05-10T12:35:46Z",
-      "content": "3' di lettura\r\nScorte del vaccino anti-Covid Pfizer quasi esaurite in alcune Regioni, dosi AstraZeneca ferme nei frigoriferi. È la situazione della campagna vaccinale delle ultime ore, mentre sono st… [+3690 chars]"
-    },
-    {
-      "source": {
-        "id": "ansa",
-        "name": "ANSA.it"
-      },
-      "author": "",
-      "title": "Covid: allarme sull'Everest, Cina rafforza misure sicurezza - Ultima Ora - Agenzia ANSA",
-      "description": "La Cina installerà una \"linea di separazione\" sulla vetta del Monte Everest per evitare possibili\r\ninfezioni da Covid-19 da parte degli scalatori del Nepal, a seguito delle diverse decine di casi\r\nregistrati al campo base del Paese vicino, alle prese con una.…",
-      "url": "https://www.ansa.it/sito/notizie/topnews/2021/05/10/covid-allarme-sulleverest-cina-rafforza-misure-sicurezza_42c29d84-41e4-4137-8718-5a1f23ecc955.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2020/12/8/5f81ec21a555e042fb758812319b838f.jpg",
-      "publishedAt": "2021-05-10T12:30:00Z",
-      "content": "(ANSA) - PECHINO, 10 MAG - La Cina installerà una \"linea di\r\nseparazione\" sulla vetta del Monte Everest per evitare possibili\r\ninfezioni da Covid-19 da parte degli scalatori del Nepal, a\r\nseguito del… [+1688 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Adnkronos.com"
-      },
-      "author": "moretti",
-      "title": "AstraZeneca, Aifa: \"In Italia 34 casi trombosi rare dopo vaccino\" - Adnkronos",
-      "description": "Il 65% dei casi ha interessato donne con età media di 48 anni",
-      "url": "https://www.adnkronos.com/astrazeneca-aifa-in-italia-34-trombosi-rare-dopo-vaccino_4JeKXi7CfFYB4T13z6f3ia",
-      "urlToImage": "https://www.adnkronos.com/resources/0269-123e1a1524c7-3d483d5c5c29-1000/astrazeneca_flacone_sir_fg_ipa.jpg",
-      "publishedAt": "2021-05-10T12:29:00Z",
-      "content": "Sono 34 i casi di trombosi segnalati in Italia dopo la somministrazione di dosi del vaccino AstraZeneca. In 22 casi, secondo le news dell'Aifa, i soggetti coinvolti sono donne di età media di 48 anni… [+2798 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Leggo.it"
-      },
-      "author": "Redazione Web",
-      "title": "Amici, Tommaso Zorzi e Tommaso Stanzani beccati insieme: la foto fa il giro del web - leggo.it",
-      "description": "Tommaso Zorzi e Tommaso Stanzani di Amici 20 sono stati fotografati insieme mentre passeggiavano per Milano. La foto non è passata inosservata, è stata pubblicata su Twitter e sta...",
-      "url": "https://www.leggo.it/spettacoli/amici/amici_tommaso_zorzi_tommaso_stanzani_insieme_foto_oggi_10_maggio_2021-5950839.html",
-      "urlToImage": "https://www.leggo.it/photos/MED/08/39/5950839_1352_tommaso_zorzi_tommaso_stanzani_foto_insieme.jpg",
-      "publishedAt": "2021-05-10T12:20:00Z",
-      "content": "Tommaso Zorzi e Tommaso Stanzani di Amici 20 sono stati fotografati insieme mentre passeggiavano per Milano. La foto non è passata inosservata, è stata pubblicata su Twitter e sta facendo il giro del… [+992 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quotidiano.net"
-      },
-      "author": "Quotidiano Nazionale",
-      "title": "Covid: contagi oggi in Italia. Il bollettino Coronavirus del 10 maggio delle regioni - QUOTIDIANO NAZIONALE",
-      "description": "Tutti gli aggiornamenti in tempo reale su nuovi casi, morti, terapie intensive e ricoveri. Toscana +481, Emilia-Romagna +471, Veneto +247",
-      "url": "https://www.quotidiano.net/cronaca/covid-contagi-oggi-italia-1.6344796",
-      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6344868.1620648887%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700&h=391",
-      "publishedAt": "2021-05-10T12:14:47Z",
-      "content": "Roma, 10 maggio 2021 - Attesa per il nuovo bollettino del ministero della Salute sull'andamento del Covid in Italia, anche se come ogni lunedì il numero dei contagi potrebbe essere più basso visto ch… [+7311 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tuttomercatoweb.com"
-      },
-      "author": "Tommaso Maschio",
-      "title": "Grassadonia prima della gara: \"L'episodio di mia figlia non deve sporcare il nome di Salerno\" - TUTTO mercato WEB",
-      "description": "Il tecnico del Pescara Gianluca Grassadonia prima della sfida contro la Salernitana ha parlato alla Rai di quanto accaduto alla vigilia con le minacce subite da sua figlia: \"Ringrazio tutti coloro che",
-      "url": "https://www.tuttomercatoweb.com/serie-b/grassadonia-prima-della-gara-l-episodio-di-mia-figlia-non-deve-sporcare-il-nome-di-salerno-1532447",
-      "urlToImage": "https://tmw-storage.tccstatic.com/storage/tuttomercatoweb.com/img_notizie/thumb3/19a7d80b02930cf68f55dc6ea107e545-48981-95723157c8ebcac4750156d2b21ac04e.jpeg",
-      "publishedAt": "2021-05-10T12:05:21Z",
-      "content": "Il tecnico del Pescara Gianluca Grassadonia prima della sfida contro la Salernitana ha parlato alla Rai di quanto accaduto alla vigilia con le minacce subite da sua figlia: \"Ringrazio tutti coloro ch… [+607 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilrestodelcarlino.it"
-      },
-      "author": "LUIGI LUMINATI",
-      "title": "Bandiere blu Marche 2021, le spiagge da non perdere - il Resto del Carlino",
-      "description": "La regione ottiene 16 vessilli, uno in più dell'anno scorso. La new entry è Altidona. Ecco l'elenco delle località premiate",
-      "url": "https://www.ilrestodelcarlino.it/marche/bandiere-blu-marche-2021-1.6344869",
-      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6344895.1620646267%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700&h=391",
-      "publishedAt": "2021-05-10T11:43:31Z",
-      "content": "Ancona, 10 maggio 2021 - Le Marche incrementano il bottino del 2020 delle Bandiere Blu e ottengono 16 vessilli, uno in più dellanno scorso (Altidona-Lungomare Paolo Borsellino). La nuova bandiera Blu… [+3281 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Liberoquotidiano.it"
-      },
-      "author": "@libero_official",
-      "title": "Mascherine, Pierpaolo Sileri: \"Con 30 milioni di vaccinati stop all'obbligo di indossarla all'aperto\" - Liberoquotidiano.it",
-      "description": "Presto si potrà dire addio alla mascherina. La conferma arriva dal sottosegretario alla Salute  Pierpaolo Sileri : \"Quando saranno raggiun...",
-      "url": "https://www.liberoquotidiano.it/news/italia/27178066/mascherine-pierpaolo-sileri-trenta-milioni-vaccinati-stop-obbligo-indossarla-aperto.html",
-      "urlToImage": "https://img2.liberoquotidiano.it/images/2021/05/10/114526489-2b323eec-b76b-44b7-b601-998ac4699ca6.jpg",
-      "publishedAt": "2021-05-10T11:34:00Z",
-      "content": "Presto si potrà dire addio alla mascherina. La conferma arriva dal sottosegretario alla Salute Pierpaolo Sileri: \"Quando saranno raggiunti i 30 milioni di persone con almeno una dose di vaccino e sar… [+1390 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Liberoquotidiano.it"
-      },
-      "author": "@libero_official",
-      "title": "Matteo Bassetti, brutale sfogo sul vaccino a L'aria che tira: \"Non è un prosciutto, te lo prendi e basta. Altrimenti...\" - Liberoquotidiano.it",
-      "description": "Bisogna vaccinarsi. Punto. Con quale tipo di vaccino non deve avere importanza. E' una furia  Matteo Bassetti  a  L'aria che tira  su  La7.  L...",
-      "url": "https://www.liberoquotidiano.it/news/personaggi/27178314/matteo-bassetti-sfogo-vaccino-aria-che-tira-non-prosciutto-te-lo-prendi-basta-altrimenti-arrangi.html",
-      "urlToImage": "https://img2.liberoquotidiano.it/images/2021/05/10/114017908-fd2389dc-6c8b-4a32-a502-8be87ab58da8.jpg",
-      "publishedAt": "2021-05-10T11:32:00Z",
-      "content": "Bisogna vaccinarsi. Punto. Con quale tipo di vaccino non deve avere importanza. E' una furia Matteo Bassetti a L'aria che tira su La7. L'infettivologo dell'ospedale San Martino di Genova lo dice chia… [+1533 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mediaset.it"
-      },
-      "author": null,
-      "title": "Maschio o femmina? Paola Turani svela il sesso del bebè che aspetta - Foto Tgcom24 - TGCOM",
-      "description": "Paola Turani  ha organizzato proprio una bella festa, tra tanti palloncini colorati, per svelare ad amici e follower il sesso del bimbo che aspetta e che nascerà a settembre. Lei avrebbe preferito una femmina, il futuro papà Riccardo Sc...",
-      "url": "https://www.tgcom24.mediaset.it/people/foto/maschio-o-femmina-paola-turani-svela-il-sesso-del-bebe-che-aspetta_32084074-202102k.shtml",
-      "urlToImage": "https://img-prod.tgcom24.mediaset.it/images/2021/05/10/111834202-6c3878f4-dfca-4720-8633-483147d46e9c.jpg",
-      "publishedAt": "2021-05-10T11:17:00Z",
-      "content": "Regole per i commenti\r\nI commenti in questa pagina vengono controllatiTi invitiamo ad utilizzare un linguaggio rispettoso e non offensivo, anche per le critiche più aspre\r\nIn particolare, durante l'a… [+395 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Corriere.it"
-      },
-      "author": "Annalisa Grandi",
-      "title": "Coronavirus, le ultime notizie dall’Italia e dal mondo sul Covid - Corriere della Sera",
-      "description": "Gli aggiornamenti sul coronavirus di lunedì’ 10 maggio",
-      "url": "https://www.corriere.it/salute/21_maggio_10/coronavirus-ultime-notizie-dall-italia-mondo-covid-adb05fb6-b156-11eb-97b4-aa5e7b1c1388.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/2021/05/10/Salute/Foto-Salute-Trattate/c01fa2cde9838b9b983ebc0e69ddf093-0004-kYaE-U32601109442232bQG-526x284@Corriere-Web-Sezioni.jpg",
-      "publishedAt": "2021-05-10T11:15:45Z",
-      "content": "La situazione Covid-19 in Italia e nel mondo\r\nOre 14.42 - Usa, solo un terzo dei genitori vaccinerebbe i figli- Il 26% preferisce aspettare, un quarto non lo farà Negli Usa solo un genitore su tre è … [+11791 chars]"
+      "title": "Un parco per Anna Magnani e domani inaugura la piazza per Gabriella Ferri - Il Riformista",
+      "description": "Il presidente della Regione Lazio, Nicola Zingaretti, ha inaugurato il nuovo parco Anna Magnani e un murale dedicato alla grande […]",
+      "url": "https://www.ilriformista.it/un-parco-per-anna-magnani-e-domani-inaugura-la-piazza-per-gabriella-ferri-217628/",
+      "urlToImage": "https://www.ilriformista.it/wp-content/uploads/2021/05/sdsds-2-600x315.jpg",
+      "publishedAt": "2021-05-10T12:44:03Z",
+      "content": "Il presidente della Regione Lazio, Nicola Zingaretti, ha inaugurato il nuovo parco Anna Magnani e un murale dedicato alla grande attrice romana nel quartiere del Tiburtino III a Roma. All’evento hann… [+3244 chars]"
     }
   ]
 }
