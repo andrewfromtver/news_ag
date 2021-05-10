@@ -1,0 +1,1076 @@
+<body>
+    <div class="popup_placeholder">
+        <div class="popup">
+            <h1>GPS warning</h1>
+            <p>
+                This app needs GPS to provide weather info based on your location. 
+                Please turn on GPS on your device for better expirience.
+            </p>
+            <button onclick="hidepopup()">OK</button>
+        </div>
+    </div>
+    <div class="container"></div>
+    <div class="content"></div>
+    <div class="detail"></div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+</body>
+
+<script>
+    /* Service variables */
+    var token = "0189bfcb4a4ce7138b86123496301441";
+    var globallat = null;
+    var globallon = null;
+    var globalplace = '';
+    var weatherplace = '';
+    var friendsplace = '';
+    var statplace = '';
+    var activetab = 'weather';
+    var weathertab = '';
+    var friendstab = '';
+    var alarmstab = '';
+    var stattab = '';
+    var temp = [];
+    var tempday = [];
+    var tempnight = [];
+    var humidity = [];
+    var pressure = [];
+    var selectedchart = '';
+    var selectedstreem = '';
+    var currenttemp = [];
+    var currentfeeltemp = [];
+    var currenthum = [];
+    var currentpres = [];
+    var forecasttemp = [];
+    var nextforecasttemp = [];
+    var forecastfeeltemp = [];
+    var nextforecastfeeltemp = [];
+    var suggestions = [];
+    var fetchweatherdata = null;
+    var fetchaddinfodata = null;
+    var fetchforecastdata = null;
+    var fetchsecondforecastdata = null;
+    var fetchforecasttemp = null;
+    var fetchstat = null;
+    var currentweather = [];
+    var chartloaded = false;
+
+    /* Ui */
+    function hidepopup(geo = 'on') {
+        if (geo == 'on') {
+            allowgeo();
+        }
+        document.querySelector('.popup_placeholder').style.display = 'none';
+        document.querySelector('.container').style.display = '';
+        document.querySelector('.content').style.display = '';
+        document.querySelector('.detail').style.margin = '0 auto 60px auto';
+    }
+    /* Geolocation */
+    function allowgeo() {
+        var options = {
+            enableHighAccuracy: true,
+            timeout: 5000,
+            maximumAge: 0
+        };
+        function success(pos) {
+            var crd = pos.coords;
+            globallon = crd.latitude;
+            globallat = crd.longitude;
+            globalplace = 'По моим координатам';
+        }
+        function error(err) {
+            console.warn(`ERROR(${err.code}): ${err.message}`);
+            document.querySelector('.detail').style.margin = '';
+            document.querySelector('.popup_placeholder').style.display = '';
+            document.querySelector('.container').style.display = 'none';
+            document.querySelector('.content').style.display = 'none';
+            inner = `
+                <div class="popup">
+                    <h1>Somethink went wrong...</h1>
+                    <p>It seems that your device do not have GPS or you prohibit using GPS for this app.</p>
+                    <button onclick="hidepopup('off')">OK</button>
+                </div>
+            `;
+            document.querySelector('.popup_placeholder').innerHTML = inner;
+        }
+        navigator.geolocation.getCurrentPosition(success, error, options);
+    }
+    function writegeoloc(elem) {
+        fetchweatherdata = null;
+        fetchaddinfodata = null;
+        fetchforecastdata = null;
+        fetchsecondforecastdata = null;
+        fetchforecasttemp = null;
+
+        fetchstat = null;
+        
+        globallat = elem.id.split(',')[0];
+        globallon = elem.id.split(',')[1];
+        globalplace = elem.innerText;
+        if (globallat & globallon) {
+            weather(globallat, globallon, globalplace);
+        }
+    }
+    function bygeoloc(type) {
+        allowgeo();
+        if (type =='friends') {
+            friends(globallat, globallon, globalplace);
+        }
+        if (type =='weather') {
+            fetchweatherdata = null;
+            fetchaddinfodata = null;
+            fetchforecastdata = null;
+            fetchsecondforecastdata = null;
+            fetchforecasttemp = null;
+
+            weather(globallat, globallon, globalplace);
+        }
+        if (type =='stat') {
+            fetchstat = null;
+
+            statinfo(globallat, globallon, globalplace);
+        }
+    }
+    /* Address query DADATA API */
+    function query(input, type) {
+        var url = 'https://suggestions.dadata.ru/suggestions/api/4_1/rs/suggest/address';
+        var token = '0e16cee31b2f66a930741dcb0890816f4f9ecf15';
+        var query = String(input);
+        var options = {
+            method: 'POST',
+            mode: 'cors',
+            headers: {
+                'Content-Type': 'application/json',
+                'Accept': 'application/json',
+                'Authorization': 'Token ' + token
+            },
+            body: JSON.stringify({query: query})
+        };
+        if (input.length > 2) {
+            fetch(url, options)
+                .then(response => response.text())
+                .then(result => suggestions = JSON.parse(result).suggestions)
+                .catch(error => console.log('error', error));
+            var inner = `
+                <div class='loader_placeholder'>
+                    <div class='lds-ellipsis loader'><div></div><div></div><div></div><div></div></div>
+                </div>
+            `;
+            if (suggestions.length > 0) {
+                inner = '';
+            }
+            if (type == 'friends') {
+                suggestions.forEach(function(item) {
+                    if (item.data.geo_lat & item.data.geo_lon) {
+                        inner += `<p onclick='friends(${item.data.geo_lon}, ${item.data.geo_lat}, "${item.value}")'>${item.value}</p>`;
+                    }
+                });
+            }
+            if (type == 'weather') {
+                suggestions.forEach(function(item) {
+                    if (item.data.geo_lat & item.data.geo_lon) {
+                        inner += `<p id='${item.data.geo_lon},${item.data.geo_lat}' onclick="writegeoloc(this)">${item.value}</p>`;
+                    }
+                });
+            }
+            if (type == 'stat') {
+                suggestions.forEach(function(item) {
+                    if (item.data.geo_lat & item.data.geo_lon) {
+                        inner += `<p id='${item.data.geo_lon},${item.data.geo_lat}' onclick="statinfo(${item.data.geo_lon}, ${item.data.geo_lat}, '${item.value}')">${item.value}</p>`;
+                    }
+                });
+            }
+            document.querySelector('.suggestions').style.display = 'block';
+            document.querySelector('.suggestions').innerHTML = inner;
+        }
+        if (input.length < 4) {
+            suggestions = [];
+            document.querySelector('.suggestions').innerHTML = '';
+            document.querySelector('.suggestions').style.display = 'none';
+        }
+    }
+    /* Weather request OWM API */
+    function weatherrequest(lat, lon, mode, time = '') {
+        event.preventDefault();
+        if (lat & lon) {
+            if (!fetchweatherdata) {
+                var url = "https://api.openweathermap.org/data/2.5/weather";
+                fetch(url+`?lat=${lon}&lon=${lat}&appid=${token}&mode=${mode}&lang=RU&units=metric`)
+                    .then(function(value){
+                        if(value.status !== 200){
+                            return Promise.reject(new Error('Ошибка'));
+                        }
+                        return value.json();
+                    })
+                    .then(function(output){
+                        fetchweatherdata = output;
+                        currentweather = JSON.stringify(output);
+                        var inner = `
+                            <div class="meteoinfo leftblock">
+                                <div class="title">Сегодня</div>
+                                <p onclick="weather(null, null)">${JSON.parse(currentweather).weather[0].description}</p>
+                                <p onclick="addinfo('temp')">${'температура воздуха ' + JSON.parse(currentweather).main.temp + ' °C'}</p>
+                                <p onclick="addinfo('feeltemp')">${'ощущяется как ' + JSON.parse(currentweather).main.feels_like + ' °C'}</p>
+                                <p onclick="addinfo('hum')">${'влажность ' + JSON.parse(currentweather).main.humidity + ' %'}</p>
+                                <p onclick="addinfo('pres')">${'атмосферное давление ' + JSON.parse(currentweather).main.pressure + ' мм рт. ст.'}</p>
+                            </div>
+                        `;
+                        document.querySelector('.weatherinfo').innerHTML = inner;
+                        document.querySelector('.weatherinfo').innerHTML += `
+                            <div class="meteoinfo rightblock">
+                            <iframe
+                                id="map"
+                                width="100%"
+                                height="100%"
+                                frameborder="0"
+                                scrolling="no"
+                                src="https://www.openstreetmap.org/export/embed.html?bbox=${Number(lat) - 0.015},${Number(lon) - 0.015},${Number(lat) + 0.015},${Number(lon) + 0.015}&amp;layer=mapquest&amp;marker=${lon},${lat}">
+                            </iframe>
+                        `;
+                        weathertab = document.querySelector('.content').innerHTML;
+                    });
+            }
+            else {
+                
+                currentweather = JSON.stringify(fetchweatherdata);
+                var inner = `
+                    <div class="meteoinfo leftblock">
+                        <div class="title">Сегодня</div>
+                        <p onclick="weather(null, null)">${JSON.parse(currentweather).weather[0].description}</p>
+                        <p onclick="addinfo('temp')">${'температура воздуха ' + JSON.parse(currentweather).main.temp + ' °C'}</p>
+                        <p onclick="addinfo('feeltemp')">${'ощущяется как ' + JSON.parse(currentweather).main.feels_like + ' °C'}</p>
+                        <p onclick="addinfo('hum')">${'влажность ' + JSON.parse(currentweather).main.humidity + ' %'}</p>
+                        <p onclick="addinfo('pres')">${'атмосферное давление ' + JSON.parse(currentweather).main.pressure + ' мм рт. ст.'}</p>
+                    </div>
+                `;
+                document.querySelector('.weatherinfo').innerHTML = inner;
+                document.querySelector('.weatherinfo').innerHTML += `
+                    <div class="meteoinfo rightblock">
+                    <iframe
+                        width="100%"
+                        height="100%"
+                        frameborder="0"
+                        scrolling="no"
+                        src="https://www.openstreetmap.org/export/embed.html?bbox=${Number(lat) - 0.015},${Number(lon) - 0.015},${Number(lat) + 0.015},${Number(lon) + 0.015}&amp;layer=mapquest&amp;marker=${lon},${lat}">
+                    </iframe>
+                `;
+                weathertab = document.querySelector('.content').innerHTML;
+            }
+        }
+    }
+    /* Weather tab forecast OWM API */
+    function forecast(days, exclude = 'current,minutely,hourly,alerts') {
+        event.preventDefault();
+        var url = "https://api.openweathermap.org/data/2.5/onecall";
+        if (days == 2) {
+            forecasttemp = [];
+            forecastfeeltemp = [];
+            nextforecasttemp = [];
+            nextforecastfeeltemp = [];
+            document.querySelector('.detail').innerHTML = '';
+            if (globallat & globallon) {
+                if (!fetchsecondforecastdata) {
+                    fetch(url+`?lat=${globallon}&lon=${globallat}&exclude=current,minutely,hourly,alerts&appid=${token}&lang=RU&units=metric`)
+                        .then(function(value){
+                            if(value.status !== 200){
+                                return Promise.reject(new Error('Ошибка'));
+                            }
+                            return value.json();
+                        })
+                        .then(function(output){
+                            fetchsecondforecastdata = output;
+                            forecasttemp.push(output.daily[1].temp.day);
+                            forecasttemp.push(output.daily[1].temp.eve);
+                            forecasttemp.push(output.daily[1].temp.night);
+                            forecastfeeltemp.push(output.daily[1].feels_like.day);
+                            forecastfeeltemp.push(output.daily[1].feels_like.eve);
+                            forecastfeeltemp.push(output.daily[1].feels_like.night);
+                            nextforecasttemp.push(output.daily[2].temp.day);
+                            nextforecasttemp.push(output.daily[2].temp.eve);
+                            nextforecasttemp.push(output.daily[2].temp.night);
+                            nextforecastfeeltemp.push(output.daily[2].feels_like.day);
+                            nextforecastfeeltemp.push(output.daily[2].feels_like.eve);
+                            nextforecastfeeltemp.push(output.daily[2].feels_like.night);
+                        });
+                }
+                else {  
+                    forecasttemp.push(fetchsecondforecastdata.daily[1].temp.day);
+                    forecasttemp.push(fetchsecondforecastdata.daily[1].temp.eve);
+                    forecasttemp.push(fetchsecondforecastdata.daily[1].temp.night);
+                    forecastfeeltemp.push(fetchsecondforecastdata.daily[1].feels_like.day);
+                    forecastfeeltemp.push(fetchsecondforecastdata.daily[1].feels_like.eve);
+                    forecastfeeltemp.push(fetchsecondforecastdata.daily[1].feels_like.night);
+                    nextforecasttemp.push(fetchsecondforecastdata.daily[2].temp.day);
+                    nextforecasttemp.push(fetchsecondforecastdata.daily[2].temp.eve);
+                    nextforecasttemp.push(fetchsecondforecastdata.daily[2].temp.night);
+                    nextforecastfeeltemp.push(fetchsecondforecastdata.daily[2].feels_like.day);
+                    nextforecastfeeltemp.push(fetchsecondforecastdata.daily[2].feels_like.eve);
+                    nextforecastfeeltemp.push(fetchsecondforecastdata.daily[2].feels_like.night);
+                }
+            }
+            if (forecasttemp.length > 0) {
+                document.querySelector('.detail').innerHTML += `
+                    <div class="title">Сравнительный температурный график (завтра / послезавтра)</div>
+                    <canvas style="margin-bottom: 50px;" id="forecastChart"></canvas>
+                `;
+                var ctx = document.getElementById('forecastChart').getContext('2d');
+                var chart = new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: ['День', 'Вечер', 'Ночь'],
+                        datasets: [{
+                            label: 'Т завтра (°C)',
+                            backgroundColor: '#13926B',
+                            data: forecasttemp
+                        },{
+                            label: 'Т завтра (по ощущениям) (°C)',
+                            backgroundColor: '#CC1B41',
+                            data: forecastfeeltemp
+                        },{
+                            label: 'Т послезавтра (°C)',
+                            backgroundColor: '#13926B',
+                            data: nextforecasttemp
+                        },{
+                            label: 'Т послезавтра (по ощущениям) (°C)',
+                            backgroundColor: '#CC1B41',
+                            data: nextforecastfeeltemp
+                        }]
+                    },
+                    options: {
+                        layout: {
+                            padding: {
+                                left: 5,
+                                right: 15,
+                                top: 5,
+                                bottom: 5
+                            }
+                        }
+                    }
+                });
+                function intoview() {
+                    document.querySelector('#forecastChart').scrollIntoView({block: "center", inline: "center", behavior: "smooth"});
+                }
+                setTimeout(intoview, 250);
+            }
+        }
+        else {
+            document.querySelector('.detail').innerHTML = '';
+        }
+        if (globallat & globallon) {
+            if (!fetchforecastdata) {
+                fetch(url+`?lat=${globallon}&lon=${globallat}&exclude=${exclude}&appid=${token}&lang=RU&units=metric`)
+                    .then(function(value){
+                        if(value.status !== 200){
+                            return Promise.reject(new Error('Ошибка'));
+                        }
+                        return value.json();
+                    })
+                    .then(function(output){
+                        fetchforecastdata = output;
+                        if (days == 2) {
+                            inner = `
+                                <div class="weatherinfo">
+                                    <div class="meteoinfo leftblock">
+                                        <div class="title">Завтра</div>
+                                        <p onclick="addinfo(null, 'right', true)">${output.daily[1].weather[0].description}</p>
+                                        <p onclick="addinfo('temp')">${'температура воздуха ' + output.daily[1].temp.day + ' °C'}</p>
+                                        <p onclick="addinfo('feeltemp')">${'ощущяется как ' + output.daily[1].feels_like.day + ' °C'}</p>
+                                        <p onclick="addinfo('hum')">${'влажность ' + output.daily[1].humidity + ' %'}</p>
+                                        <p onclick="addinfo('pres')">${'атмосферное давление ' + output.daily[1].pressure + ' мм рт. ст.'}</p>
+                                    </div>
+                                    <div class="meteoinfo rightblock">
+                                        <div class="title">Послезавтра</div>
+                                        <p onclick="addinfo(null, 'left', true)">${output.daily[2].weather[0].description}</p>
+                                        <p onclick="addinfo('temp', 'left')">${'температура воздуха ' + output.daily[2].temp.day + ' °C'}</p>
+                                        <p onclick="addinfo('feeltemp', 'left')">${'ощущяется как ' + output.daily[2].feels_like.day + ' °C'}</p>
+                                        <p onclick="addinfo('hum', 'left')">${'влажность ' + output.daily[2].humidity + ' %'}</p>
+                                        <p onclick="addinfo('pres', 'left')">${'атмосферное давление ' + output.daily[2].pressure + ' мм рт. ст.'}</p>
+                                    </div>
+                                </div>
+                                <form>
+                                    <button onclick="weather(null, null)">Прогноз на сегодня</button>
+                                    <button onclick="forecast(2)">Прогноз на 2 дня</button>
+                                    <button onclick="forecast(6)">Прогноз на 6 дней</button>
+                                </form>
+                            `;
+                            document.querySelector('.content').innerHTML = inner;
+                        }
+                        if (days == 6) {
+                            inner = `
+                                <div class="weatherinfo">
+                                    <div class="meteoinfo">
+                                        <div class="title">Завтра</div>
+                                        <p onclick="forecastinfo(1)">
+                                        ${output.daily[1].weather[0].description + ' ' + output.daily[1].temp.day + ' °C'}
+                                        </p>
+                                    </div>
+                                    <div class="meteoinfo">
+                                        <div class="title">Послезавтра</div>
+                                        <p onclick="forecastinfo(2)">
+                                        ${output.daily[2].weather[0].description + ' ' + output.daily[2].temp.day + ' °C'}
+                                        </p>
+                                    </div>
+                                    <div class="meteoinfo">
+                                        <div class="title">Яерез 3 дня</div>
+                                        <p onclick="forecastinfo(3)">
+                                        ${output.daily[3].weather[0].description + ' ' + output.daily[3].temp.day + ' °C'}
+                                        </p>
+                                    </div>
+                                    <div class="meteoinfo">
+                                        <div class="title">Яерез 4 дня</div>
+                                        <p onclick="forecastinfo(4)">
+                                        ${output.daily[4].weather[0].description + ' ' + output.daily[4].temp.day + ' °C'}
+                                        </p>
+                                    </div>
+                                    <div class="meteoinfo">
+                                        <div class="title">Яерез 5 дней</div>
+                                        <p onclick="forecastinfo(5)">
+                                        ${output.daily[5].weather[0].description + ' ' + output.daily[5].temp.day + ' °C'}
+                                        </p>
+                                    </div>
+                                    <div class="meteoinfo">
+                                        <div class="title">Яерез 6 дней</div>
+                                        <p onclick="forecastinfo(6)">
+                                        ${output.daily[6].weather[0].description + ' ' + output.daily[6].temp.day + ' °C'}
+                                        </p>
+                                    </div>
+                                </div>
+                                <form>
+                                    <button onclick="weather(null, null)">Прогноз на сегодня</button>
+                                    <button onclick="forecast(2)">Прогноз на 2 дня</button>
+                                    <button onclick="forecast(6)">Прогноз на 6 дней</button>
+                                </form>
+                            `;
+                            document.querySelector('.content').innerHTML = inner;
+                        }
+                    });
+            }
+            else {
+                if (days == 2) {
+                    inner = `
+                        <div class="weatherinfo">
+                            <div class="meteoinfo leftblock">
+                                <div class="title">Завтра</div>
+                                <p onclick="addinfo(null, 'right', true)">${fetchforecastdata.daily[1].weather[0].description}</p>
+                                <p onclick="addinfo('temp')">${'температура воздуха ' + fetchforecastdata.daily[1].temp.day + ' °C'}</p>
+                                <p onclick="addinfo('feeltemp')">${'ощущяется как ' + fetchforecastdata.daily[1].feels_like.day + ' °C'}</p>
+                                <p onclick="addinfo('hum')">${'влажность ' + fetchforecastdata.daily[1].humidity + ' %'}</p>
+                                <p onclick="addinfo('pres')">${'атмосферное давление ' + fetchforecastdata.daily[1].pressure + ' мм рт. ст.'}</p>
+                            </div>
+                            <div class="meteoinfo rightblock">
+                                <div class="title">Послезавтра</div>
+                                <p onclick="addinfo(null, 'left', true)">${fetchforecastdata.daily[2].weather[0].description}</p>
+                                <p onclick="addinfo('temp', 'left')">${'температура воздуха ' + fetchforecastdata.daily[2].temp.day + ' °C'}</p>
+                                <p onclick="addinfo('feeltemp', 'left')">${'ощущяется как ' + fetchforecastdata.daily[2].feels_like.day + ' °C'}</p>
+                                <p onclick="addinfo('hum', 'left')">${'влажность ' + fetchforecastdata.daily[2].humidity + ' %'}</p>
+                                <p onclick="addinfo('pres', 'left')">${'атмосферное давление ' + fetchforecastdata.daily[2].pressure + ' мм рт. ст.'}</p>
+                            </div>
+                        </div>
+                        <form>
+                            <button onclick="weather(null, null)">Прогноз на сегодня</button>
+                            <button onclick="forecast(2)">Прогноз на 2 дня</button>
+                            <button onclick="forecast(6)">Прогноз на 6 дней</button>
+                        </form>
+                    `;
+                    document.querySelector('.content').innerHTML = inner;
+                }
+                if (days == 6) {
+                    inner = `
+                        <div class="weatherinfo">
+                            <div class="meteoinfo">
+                                <div class="title">Завтра</div>
+                                <p onclick="forecastinfo(1)">
+                                ${fetchforecastdata.daily[1].weather[0].description + ' ' + fetchforecastdata.daily[1].temp.day + ' °C'}
+                                </p>
+                            </div>
+                            <div class="meteoinfo">
+                                <div class="title">Послезавтра</div>
+                                <p onclick="forecastinfo(2)">
+                                ${fetchforecastdata.daily[2].weather[0].description + ' ' + fetchforecastdata.daily[2].temp.day + ' °C'}
+                                </p>
+                            </div>
+                            <div class="meteoinfo">
+                                <div class="title">Яерез 3 дня</div>
+                                <p onclick="forecastinfo(3)">
+                                ${fetchforecastdata.daily[3].weather[0].description + ' ' + fetchforecastdata.daily[3].temp.day + ' °C'}
+                                </p>
+                            </div>
+                            <div class="meteoinfo">
+                                <div class="title">Яерез 4 дня</div>
+                                <p onclick="forecastinfo(4)">
+                                ${fetchforecastdata.daily[4].weather[0].description + ' ' + fetchforecastdata.daily[4].temp.day + ' °C'}
+                                </p>
+                            </div>
+                            <div class="meteoinfo">
+                                <div class="title">Яерез 5 дней</div>
+                                <p onclick="forecastinfo(5)">
+                                ${fetchforecastdata.daily[5].weather[0].description + ' ' + fetchforecastdata.daily[5].temp.day + ' °C'}
+                                </p>
+                            </div>
+                            <div class="meteoinfo">
+                                <div class="title">Яерез 6 дней</div>
+                                <p onclick="forecastinfo(6)">
+                                ${fetchforecastdata.daily[6].weather[0].description + ' ' + fetchforecastdata.daily[6].temp.day + ' °C'}
+                                </p>
+                            </div>
+                        </div>
+                        <form>
+                            <button onclick="weather(null, null)">Прогноз на сегодня</button>
+                            <button onclick="forecast(2)">Прогноз на 2 дня</button>
+                            <button onclick="forecast(6)">Прогноз на 6 дней</button>
+                        </form>
+                    `;
+                    document.querySelector('.content').innerHTML = inner;
+                }
+            }
+        }
+    }
+    /* Weather tab forecast map & charts OWM API & OSM iframe */
+    function addinfo(type = null, position = 'right', map = false, day = 0) {
+        if (map) {
+            if (globallat & globallon) {
+                var divposition = ''
+                if (position == 'right') {
+                    divposition = 'left';
+                }
+                else if(position == 'left') {
+                    divposition = 'right';
+                }
+                document.querySelector('.' + position + 'block').innerHTML = `
+                    <iframe
+                        id="map"
+                        width="100%"
+                        height="100%"
+                        frameborder="0"
+                        scrolling="no"
+                        src="https://www.openstreetmap.org/export/embed.html?bbox=${Number(globallat) - 0.015},${Number(globallon) - 0.015},${Number(globallat) + 0.015},${Number(globallon) + 0.015}&amp;layer=mapquest&amp;marker=${globallon},${globallat}">
+                    </iframe>
+                `;
+            }
+        } else {
+            if (globallat & globallon) {
+                if (!fetchaddinfodata) {
+                    var url = "https://api.openweathermap.org/data/2.5/onecall";
+                    fetch(url+`?lat=${globallon}&lon=${globallat}&exclude=current,minutely,alerts&appid=${token}&lang=RU&units=metric`)
+                        .then(function(value){
+                            if(value.status !== 200){
+                                return Promise.reject(new Error('Ошибка'));
+                            }
+                            return value.json();
+                        })
+                        .then(function(output){
+                            fetchaddinfodata = output;
+                            var array = output.hourly;
+                            currenttemp = [];
+                            currentfeeltemp = [];
+                            currenthum = [];
+                            currentpres = [];
+                            for (let index = 0; index < array.length; index = index + 4) {
+                                currenttemp.push(array[index].temp);
+                                currentfeeltemp.push(array[index].feels_like);
+                                currenthum.push(array[index].humidity);
+                                currentpres.push(array[index].pressure);
+                            }
+                        });
+                }
+                else {
+                    var array = fetchaddinfodata.hourly;
+                            currenttemp = [];
+                            currentfeeltemp = [];
+                            currenthum = [];
+                            currentpres = [];
+                            for (let index = 0; index < array.length; index = index + 4) {
+                                currenttemp.push(array[index].temp);
+                                currentfeeltemp.push(array[index].feels_like);
+                                currenthum.push(array[index].humidity);
+                                currentpres.push(array[index].pressure);
+                            }
+                }
+            }
+            if (type == 'temp') {
+                document.querySelector('.' + position + 'block').innerHTML = `
+                    <div class="title">Температурный график</div>
+                    <canvas id="myChart"></canvas>
+                `;
+                var ctx = document.getElementById('myChart').getContext('2d');
+                var chart = new Chart(ctx, {
+                    type: 'radar',
+                    data: {
+                        labels: [0,2,4,6,8,10,12,14,16,18,20,22],
+                        datasets: [{
+                            label: 'Температура в течении дня (°C)',
+                            borderColor: '#CC1B41',
+                            data: currenttemp
+                        }]
+                        },
+                        options: {
+                            layout: {
+                                padding: {
+                                left: 5,
+                                right: 15,
+                                top: 0,
+                                bottom: 5
+                            }
+                        }
+                    }
+                });
+            }
+            if (type == 'feeltemp') {
+                document.querySelector('.' + position + 'block').innerHTML = `
+                    <div class="title">Температурный график (по ощущениям)</div>
+                    <canvas id="myChart"></canvas>
+                `;
+                var ctx = document.getElementById('myChart').getContext('2d');
+                var chart = new Chart(ctx, {
+                    type: 'radar',
+                    data: {
+                        labels: [0,2,4,6,8,10,12,14,16,18,20,22],
+                        datasets: [{
+                            label: 'Температура по ощущениям (°C)',
+                            borderColor: '#13926B',
+                            data: currentfeeltemp
+                        }]
+                        },
+                        options: {
+                            layout: {
+                                padding: {
+                                left: 5,
+                                right: 15,
+                                top: 0,
+                                bottom: 5
+                            }
+                        }
+                    }
+                });
+            }
+            if (type == 'hum') {
+                document.querySelector('.' + position + 'block').innerHTML = `
+                    <div class="title">График влажности</div>
+                    <canvas id="myChart"></canvas>
+                `;
+                var ctx = document.getElementById('myChart').getContext('2d');
+                var chart = new Chart(ctx, {
+                    type: 'radar',
+                    data: {
+                        labels: [0,2,4,6,8,10,12,14,16,18,20,22],
+                        datasets: [{
+                            label: 'Влажность в течении дня (%)',
+                            borderColor: '#CC1B41',
+                            data: currenthum
+                        }]
+                        },
+                        options: {
+                            layout: {
+                                padding: {
+                                left: 5,
+                                right: 15,
+                                top: 0,
+                                bottom: 5
+                            }
+                        }
+                    }
+                });
+            }
+            if (type == 'pres') {
+                document.querySelector('.' + position + 'block').innerHTML = `
+                    <div class="title">График атмосферного давления</div>
+                    <canvas id="myChart"></canvas>
+                `;
+            var ctx = document.getElementById('myChart').getContext('2d');
+            var chart = new Chart(ctx, {
+                type: 'radar',
+                data: {
+                    labels: [0,2,4,6,8,10,12,14,16,18,20,22],
+                    datasets: [{
+                        label: 'Атмосферное давление (мм рт. ст.)',
+                        borderColor: '#13926B',
+                        data: currentpres
+                    }]
+                    },
+                    options: {
+                        layout: {
+                            padding: {
+                            left: 5,
+                            right: 15,
+                            top: 0,
+                            bottom: 5
+                        }
+                    }
+                }
+            });
+            }
+        }
+    }
+    /* Weather tab forecast temp charts OWM API */
+    function forecastinfo(day = 0) {
+        document.querySelector('.detail').innerHTML = '';
+        var url = "https://api.openweathermap.org/data/2.5/onecall";
+        if (globallat & globallon) {
+            if (!fetchforecasttemp) {
+                fetch(url+`?lat=${globallon}&lon=${globallat}&exclude=current,minutely,hourly,alerts&appid=${token}&lang=RU&units=metric`)
+                    .then(function(value){
+                        if(value.status !== 200){
+                            return Promise.reject(new Error('Ошибка'));
+                        }
+                        return value.json();
+                    })
+                    .then(function(output){
+                        fetchforecasttemp = output;
+                        forecasttemp = [];
+                        forecastfeeltemp = [];
+                        forecasttemp.push(output.daily[day].temp.day);
+                        forecasttemp.push(output.daily[day].temp.eve);
+                        forecasttemp.push(output.daily[day].temp.night);
+                        forecastfeeltemp.push(output.daily[day].feels_like.day);
+                        forecastfeeltemp.push(output.daily[day].feels_like.eve);
+                        forecastfeeltemp.push(output.daily[day].feels_like.night);
+                    });
+            }
+            else {
+                forecasttemp = [];
+                forecastfeeltemp = [];
+                forecasttemp.push(fetchforecasttemp.daily[day].temp.day);
+                forecasttemp.push(fetchforecasttemp.daily[day].temp.eve);
+                forecasttemp.push(fetchforecasttemp.daily[day].temp.night);
+                forecastfeeltemp.push(fetchforecasttemp.daily[day].feels_like.day);
+                forecastfeeltemp.push(fetchforecasttemp.daily[day].feels_like.eve);
+                forecastfeeltemp.push(fetchforecasttemp.daily[day].feels_like.night);
+            }
+        }
+        var key = [' на сегодня', ' на завтра', ' на послезавтра', ' через 3 дня', ' через 4 дня', ' через 5 дней', ' через 6 дней'];
+        if (forecasttemp.length > 0) {
+            document.querySelector('.detail').innerHTML = `
+                <div class="title">Прогноз погоды${key[day]}</div>
+                <canvas style="margin-bottom: 50px;" id="myChart"></canvas>
+            `;
+            var ctx = document.getElementById('myChart').getContext('2d');
+            var chart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: ['День', 'Вечер', 'Ночь'],
+                    datasets: [{
+                        label: 'Температура (°C)',
+                        borderColor: '#13926B',
+                        backgroundColor: '#13926B',
+                        data: forecasttemp
+                    },{
+                        label: 'Температура (по ощущениям) (°C)',
+                        borderColor: '#CC1B41',
+                        backgroundColor: '#CC1B41',
+                        data: forecastfeeltemp
+                    }]
+                },
+                options: {
+                    layout: {
+                        padding: {
+                            left: 5,
+                            right: 15,
+                            top: 5,
+                            bottom: 5
+                        }
+                    }
+                }
+            });
+            function intoview() {
+                document.querySelector('.detail').scrollIntoView({block: "center", inline: "center", behavior: "smooth"});
+            }
+            setTimeout(intoview, 250);
+        }
+    }
+    /* Main function */
+    function weather(lat, lon, place = null) {
+        event.preventDefault();
+        document.querySelector('.detail').innerHTML = '';
+        document.querySelector('.container').innerHTML = `
+            <br>
+            <form>
+                <input class="input" type="text" placeholder="Введите название населенного пункта" maxlength="30" oninput="query(this.value, 'weather')">
+                <button onclick="bygeoloc('weather')">Погода по GPS</button>
+                <div class="suggestions"></div>
+                <div class="geoloc"></div>
+            </form>
+        `;
+        document.querySelector('.content').innerHTML = `
+            <div class="weatherinfo"></div>
+            <form>
+                <button onclick="weather(null, null)">Прогноз на сегодня</button>
+                <button onclick="forecast(2)">Прогноз на 2 дня</button>
+                <button onclick="forecast(6)">Прогноз на 6 дней</button>
+            </form>
+        `;
+        if (place) {
+            document.querySelector('.input').value = place;
+            weatherplace = place;
+        }
+        if (lat && lon) {
+            weatherrequest (lat, lon, 'json');
+        }
+        if (lat == null || lon == null) {
+            document.querySelector('.content').innerHTML = '';
+            if (weathertab.length > 1) {
+                document.querySelector('.content').innerHTML = weathertab;
+                document.querySelector('.input').value = weatherplace;
+            }
+        }
+        document.querySelector('.suggestions').style.display = 'none';
+        addinfo();
+    }
+
+
+    /* Init */
+    window.onload = function() {
+        document.querySelector('.container').style.display = 'none';
+        document.querySelector('.content').style.display = 'none';
+        weather(null, null);
+    };
+</script>
+
+<style>
+    * {
+        font-family: sans-serif;
+    }
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: #fff;
+        overflow-x: hidden;
+    }
+
+    .back {
+        padding:0;
+        margin:0;
+        position: fixed;
+        top: 0;
+        z-index: -100;
+    }
+    div.btnbg {
+        position:fixed;
+        left:0;
+        top:0;
+    }
+
+    form {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+    form > input {
+        width: 63%;
+        height: 50px;
+        min-width: 150px;
+        padding: 0 15px;
+    }
+    form > button {
+        padding: 0;
+        width: 30%;
+        height: 50px;
+        min-width: 75px;
+    }
+    button {
+        background-color: #FFDD7C;
+        color: #333;
+        border-style: none;
+        cursor: pointer;
+        box-shadow: 0px 2px 7px #aaa;
+        font-size: 18px;
+    }
+    button:hover {
+        box-shadow:0 2px 10px #777;
+    }
+    button:active, button:focus {
+        outline: none;
+        box-shadow: none;
+    }
+    input {
+        padding: 0 20px;
+        appearance: none;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        background-color: #3331;
+        border: none;
+        border-radius: 0px;
+        border-bottom: 2px solid #333;
+        box-shadow: 0px 2px 7px #aaa;
+    }
+    input:focus {    
+        outline: none;
+        border-color: darkorange;
+        box-shadow:0 2px 10px #777;
+    }
+    input:hover {    
+        box-shadow:0 2px 10px #777;
+    }
+    .popup_placeholder {
+        top: 0;
+        position: fixed;
+        height: 100vh;
+        width: 100vw;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .popup {
+        background-color: #fff;
+        border-radius: 2px;
+        box-shadow: 0px 2px 7px #aaa;
+        padding: 25px;
+        max-width: 300px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .popup > button {
+        width: 150px;
+        height: 35px;
+    }
+    .container {
+        background-color: #fff;
+        margin: 0 auto;
+        width: 100%;
+        max-width: 900px;
+    }
+    .content {
+        background-color: #fff;
+        margin: 0 auto;
+        width: 100%;
+        max-width: 900px;
+    }
+    .detail{
+        background-color: #fff;
+        max-width: 900px;
+    }
+    .nodata {
+        display: flex;
+        flex-direction: column;
+    }
+    .nodata > img {
+        margin: 25px auto;
+        max-width: 60%;
+    }
+    .title {
+        text-align: start;
+        padding: 0 20px;
+        font-size: 20px;
+        overflow: hidden;
+    }
+    .suggestions {
+        background-color: #fff;
+        width: 63%;
+        margin: -25px 0;
+        box-shadow: 0px 2px 7px #aaa;
+        z-index: 999;
+    }
+    .geoloc {
+        width: 30%;
+    }
+    .suggestions > p {
+        padding: 7px 15px;
+        margin: 0;
+    }
+    .suggestions > p:hover {
+        background-color: #eee;
+        cursor: pointer;
+    }
+    .nomap {
+        width: 100%;
+        max-height: 350px;
+    }
+    .weatherinfo {
+        text-align: center;
+        font-size: 18px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .meteoinfo {
+        min-width: 47%;
+        overflow: hidden;
+        margin: 0 10px 4% 10px;
+        box-shadow: 0px 2px 7px #aaa;
+    }
+    .meteoinfo:hover {
+        box-shadow: 0 2px 10px #777;
+    }
+    .meteoinfo > p {
+        padding: 10px 0 15px 0;
+        font-size: 24px;
+        font-weight: 500;
+        margin: 0;
+    }
+    .meteoinfo > p:hover {
+        background-color: #eee;
+        cursor: pointer;
+    }
+    .meteoinfo > p:active {
+        background-color: #fff;
+        cursor: pointer;
+    }
+    #myChart {
+        margin: 20px 0 30px 0;
+    }
+    #map {
+        height: 342px;
+    }
+    /* Loader animation */
+    .loader_placeholder{
+        display: flex;
+        justify-content: center;
+        margin-top: 15px;
+    }
+    .lds-ellipsis {
+        display: inline-block;
+        position: relative;
+        width: 80px;
+        height: 14px;
+    }
+    .lds-ellipsis div {
+        position: absolute;
+        top: 3px;
+        width: 13px;
+        height: 13px;
+        border-radius: 50%;
+        background: #333;
+        animation-timing-function: cubic-bezier(0, 1, 1, 0);
+    }
+    .lds-ellipsis div:nth-child(1) {
+        left: 8px;
+        animation: lds-ellipsis1 0.6s infinite;
+    }
+    .lds-ellipsis div:nth-child(2) {
+        left: 8px;
+        animation: lds-ellipsis2 0.6s infinite;
+    }
+    .lds-ellipsis div:nth-child(3) {
+        left: 32px;
+        animation: lds-ellipsis2 0.6s infinite;
+    }
+    .lds-ellipsis div:nth-child(4) {
+        left: 56px;
+        animation: lds-ellipsis3 0.6s infinite;
+    }
+    @keyframes lds-ellipsis1 {
+        0% {
+        transform: scale(0);
+        }
+        100% {
+        transform: scale(1);
+        }
+    }
+    @keyframes lds-ellipsis3 {
+        0% {
+        transform: scale(1);
+        }
+        100% {
+        transform: scale(0);
+        }
+    }
+    @keyframes lds-ellipsis2 {
+        0% {
+        transform: translate(0, 0);
+        }
+        100% {
+        transform: translate(24px, 0);
+        }
+    }
+</style>

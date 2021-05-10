@@ -19,7 +19,7 @@ sideButton = (type) => {
   if (type === 'weather') {
     document.querySelector('body').style.overflow = 'hidden'
     document.getElementById('popupplaceholder').style.display = ''
-    document.getElementById('newsframe').src = 'https://andrewfromtver.github.io/funny-weather/'
+    document.getElementById('newsframe').src = './templates/weather.html'
     document.getElementById('title').innerText = 'News AG - Weather'
   }
   else if (type === 'movies') {
