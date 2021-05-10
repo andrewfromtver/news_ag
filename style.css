@@ -269,13 +269,24 @@ button:active, select:active, .menu > h3:active {
 }
 
 .currency {
-    margin: 19px;
+    cursor: pointer;
+    opacity: 0.72;
+    margin: 18px;
     width: 100%;
     font-weight: 900;
     font-size: 16px;
-    color: #fff;
+    color: #333;
     filter: drop-shadow(0 0 2px #333);
     border-radius: 4px;
+}
+
+.currency:hover {
+    opacity: 1;
+}
+
+.currency:active {
+    opacity: 0.64;
+    color: #fff;
 }
 
 .currency tbody > tr > td {
