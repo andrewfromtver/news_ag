@@ -35,7 +35,7 @@ sideButton = (type) => {
     document.getElementById('title').innerText = 'News AG - About'
   }
 }
-// Generate news_cards 
+// Generate news cards 
 loadNews = (lang) => {
   document.querySelector('body').style.overflow = 'auto'
   document.getElementById('news').innerHTML = ``
