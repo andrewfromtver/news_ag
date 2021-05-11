@@ -4,120 +4,16 @@ news_us = {
   "articles": [
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      "author": "Kevin Collier",
-      "title": "Colonial pipeline hack claimed by Russian group Darkside spurs emergency order from White House - NBC News",
-      "description": "The federal government issued a rare emergency declaration on Sunday after a cyberattack on a major U.S. pipeline choked the transportation of oil.",
-      "url": "https://www.nbcnews.com/tech/security/colonial-pipeline-hack-claimed-russian-group-darkside-spurs-emergency-rcna878",
-      "urlToImage": "https://media1.s-nbcnews.com/j/rockcms/2021-05/1386/210510-colonial-pipeline-jm-0902-b76ed1_9b2a1c88fd7cc04d9359fdb2b6b18b836052b767.nbcnews-fp-1200-630.jpg",
-      "publishedAt": "2021-05-10T16:31:56Z",
-      "content": "The federal government issued a rare emergency declaration on Sunday after a cyberattack on a major U.S. pipeline choked the transportation of oil to the eastern U.S. \r\nThe Colonial Pipeline, respons… [+4362 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ESPN"
-      },
-      "author": "Mike Wells",
-      "title": "Indianapolis Colts find new starting LT, reach deal with ex-Kansas City Chief Eric Fisher, source says - ESPN",
-      "description": "Pro Bowl left tackle Eric Fisher is signing a one-year, $9.4 million deal with the Indianapolis Colts, a source told ESPN's Adam Schefter.",
-      "url": "https://www.espn.com/nfl/story/_/id/31421668/indianapolis-colts-find-new-starting-lt-reach-deal-ex-kansas-city-chief-eric-fisher-source-says",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0526%2Fr86712_1296x729_16%2D9.jpg",
-      "publishedAt": "2021-05-10T16:02:46Z",
-      "content": "INDIANAPOLIS -- The Colts are signing left tackle Eric Fisher to a one-year, $9.4 million deal to protect new starting quarterback Carson Wentz's blindside, a source told ESPN's Adam Schefter.\r\nThere… [+2556 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Phil Mattingly, CNN",
-      "title": "Biden to host two crucial Democratic senators Monday to talk infrastructure at start of critical week - CNN ",
-      "description": "President Joe Biden on Monday will host two critical Democratic senators for individual meetings at the White House as he enters a crucial week for his legislative agenda.",
-      "url": "https://www.cnn.com/2021/05/10/politics/biden-manchin-carper/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210429114426-01-joe-manchin-biden-joint-session-0428-super-tease.jpg",
-      "publishedAt": "2021-05-10T15:56:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": "Investor's Business Daily",
-      "title": "Dow Jones Rallies, Tech Stocks Dive As Covid Vaccine Maker Surges On Earnings; Apple, Tesla Sell Off - Investor's Business Daily",
-      "description": "The Dow Jones Industrial Average rallied 300 points as coronavirus vaccine maker BioNTech surged on earnings. Tesla stock skidded Monday.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-rallies-tech-stocks-dive-as-covid-vaccine-maker-biontech-surges-on-earnings-tesla-stock-skids/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2021/02/Tech-covidmutation-030121-shutt.jpg",
-      "publishedAt": "2021-05-10T15:50:00Z",
-      "content": "The Dow Jones Industrial Average rallied 300 points, while tech stocks dived Monday, as coronavirus vaccine maker BioNTech surged on earnings. Apple sold off, while Tesla stock skidded in morning tra… [+5263 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Times"
-      },
-      "author": "Karan Deep Singh",
-      "title": "Covid-19 and Vaccine News: Live Updates - The New York Times",
-      "description": "The Indian Medical Association calls for a lockdown to combat “agonizing crisis.” Experts say the illness will most likely become an ever-present threat globally.",
-      "url": "https://www.nytimes.com/live/2021/05/10/world/covid-19-coronavirus",
-      "urlToImage": "https://static01.nyt.com/images/2021/05/10/lens/10virus-brief-leadpromo/10virus-brief-leadpromo-facebookJumbo.jpg",
-      "publishedAt": "2021-05-10T15:43:25Z",
-      "content": "LiveUpdated May 10, 2021, 12:56 p.m. ET\r\nMay 10, 2021, 12:56 p.m. ET\r\nThe Indian Medical Association calls for a lockdown to combat agonizing crisis. Experts say the illness will most likely become a… [+23495 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Adam Taylor",
-      "title": "U.S. Navy shares photos of enormous Arabian Sea weapons seizure - The Washington Post",
-      "description": "The weapons may have been heading to Yemen, U.S. officials said.",
-      "url": "https://www.washingtonpost.com/world/2021/05/10/navy-arabian-sea-weapons-seizure/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/73WK5JVQVAI6XPEW7X2V3ZB354.jpg&w=1440",
-      "publishedAt": "2021-05-10T15:28:00Z",
-      "content": "In a statement, the 5th Fleet said the weapons included dozens of advanced Russian-made anti-tank guided missiles and thousands of Chinese Type 56 assault rifles, as well as hundreds of Kalashnikov m… [+1837 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Ryan Gaydos",
-      "title": "Bob Baffert asserts Medina Spirit's Kentucky Derby win was valid, invokes 'cancel culture' - Fox News",
-      "description": "Bob Baffert, the legendary horse racing trainer who has won seven Kentucky Derbies during his career, was adamant Monday his latest winner Medina Spirit was not treated with a drug he tested positive for in a post-race sample.",
-      "url": "https://www.foxnews.com/sports/bob-baffert-medina-spirits-kentucky-derby-win-valid-cancel-culture",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/Bob-Baffert2.jpg",
-      "publishedAt": "2021-05-10T15:10:13Z",
-      "content": "Bob Baffert, the legendary horse racing trainer who has won seven Kentucky Derbies during his career, was adamant Monday that his latest winner Medina Spirit was not treated with a drug he tested pos… [+5407 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "",
-      "title": "U.S. Will Protect Gay And Transgender People Against Discrimination In Health Care - NPR",
-      "description": "The announcement, which effectively reverses a Trump-era rule, springs from last summer's landmark Supreme Court decision banning employment discrimination against LGBTQ people.",
-      "url": "https://www.npr.org/2021/05/10/995418963/u-s-will-protect-gay-and-transgender-people-against-discrimination-in-health-car",
-      "urlToImage": "https://media.npr.org/assets/img/2021/05/10/ap21130440388099_wide-d8882755864a1a7ec3434782a1342ca522e6ab94.jpg?s=1400",
-      "publishedAt": "2021-05-10T15:07:27Z",
-      "content": "The Biden administration says the government will protect gay and transgender people against sex discrimination in health care. In this 2017 photo, Equality March for Unity and Pride participants mar… [+4090 chars]"
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Mychael Schnell",
-      "title": "Kinzinger says he warned McCarthy his words would lead to violence on Jan. 6 | TheHill - The Hill",
-      "description": "Rep. Adam Kinzinger (R-Ill.) on Monday said he warned House Minor...",
-      "url": "https://thehill.com/homenews/house/552624-kinzinger-says-he-warned-mccarthy-his-words-would-lead-to-violence-on-jan-6",
-      "urlToImage": "https://thehill.com/sites/default/files/kinzingeradam_091620getty.jpg",
-      "publishedAt": "2021-05-10T15:07:21Z",
-      "content": "Rep. Adam KinzingerAdam Daniel KinzingerGOP divided over expected Cheney ousterKinzinger compares Republican Party to the TitanicSunday shows preview: Coronavirus dominates as White House continues t… [+3487 chars]"
+      "author": "Shalini Nagarajan",
+      "title": "Dogecoin scammers netted millions by exploiting Elon Musk 'SNL': report - Markets Insider",
+      "description": "During the SNL telecast, viewers who searched for \"Elon Musk SNL\" on YouTube could see multiple livestreams that seemed to be hosted by the NBC show.",
+      "url": "https://markets.businessinsider.com/currencies/news/dogecoin-scam-elon-musk-snl-net-millions-exploiting-giveaway-scheme-2021-5-1030415416",
+      "urlToImage": "https://images2.markets.businessinsider.com/609a64fbba78eb001906e8fe?format=jpeg",
+      "publishedAt": "2021-05-11T16:25:31Z",
+      "content": "Elon Musk with his mother, Maye, on \"Saturday Night Live.\"\r\nWill Heath/NBC/NBCU Photo Bank via Getty Images\r\nDogecoin investors eagerly awaited Elon Musk's \"Saturday Night Live\" appearance, expecting… [+3179 chars]"
     },
     {
       "source": {
@@ -125,90 +21,77 @@ news_us = {
         "name": "NASA"
       },
       "author": null,
-      "title": "NASA, Axiom Agree to First Private Astronaut Mission on Space Station - NASA",
-      "description": "NASA and Axiom Space have signed an order for the first private astronaut mission to the International Space Station to take place no earlier than January 2022.",
-      "url": "https://www.nasa.gov/press-release/nasa-axiom-agree-to-first-private-astronaut-mission-on-space-station/",
-      "urlToImage": "http://www.nasa.gov/sites/default/files/thumbnails/image/44911461494_2d46902c0e_k.jpeg",
-      "publishedAt": "2021-05-10T15:02:17Z",
-      "content": null
+      "title": "Perseverance's Robotic Arm Starts Conducting Science – NASA's Mars Exploration Program - NASA Mars Exploration",
+      "description": "NASA’s newest Mars rover is beginning to study the floor of an ancient crater that once held a lake.",
+      "url": "https://mars.nasa.gov/news/8944/perseverances-robotic-arm-starts-conducting-science/",
+      "urlToImage": "https://mars.nasa.gov/system/news_items/main_images/8944_1-PIA24546-1280.jpg",
+      "publishedAt": "2021-05-11T16:22:26Z",
+      "content": "NASA’s newest Mars rover is beginning to study the floor of an ancient crater that once held a lake.\r\nNASA’s Perseverance rover has been busy serving as a communications base station for the Ingenuit… [+4014 chars]"
     },
     {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
-      "author": "Chad Pergram",
-      "title": "How Liz Cheney lost Republican support ahead of Stefanik vote this week - Fox News",
-      "description": "House Republicans are expected to bounce Conference Chairwoman Liz Cheney, R-Wyo., from her post and install Rep. Elise Stefanik, R-N.Y. But the fight over Stefanik or Cheney frankly has very little to do with either of them.",
-      "url": "https://www.foxnews.com/politics/liz-cheney-lost-republican-support-stefanik-vote-trump",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/Cheney-Stefanik-.jpg",
-      "publishedAt": "2021-05-10T15:00:19Z",
-      "content": "Rep. Elise Stefanik, R-N.Y., will likely become the highest-ranking female Republican in American government by midday Wednesday. It's all but a fait accompli that the House GOPers will bounce House … [+8021 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Elizabeth Palmer",
-      "title": "Hundreds of Palestinians wounded as religious tension boils over in Jerusalem - CBS News",
-      "description": "Palestinians angry over restrictions at one of their holiest sites during Ramadan were infuriated by the planned eviction of families in contested East Jerusalem, and it could get worse.",
-      "url": "https://www.cbsnews.com/news/israel-jerusalem-violence-palestinians-wounded-2021-05-10/",
-      "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/10/a285b61b-1bc7-4a3f-b6b8-b63186de2213/thumbnail/1200x630/cae8fad90e9e6035df8ca50839f9ca49/jerusalem-al-aqsa-protest.jpg",
-      "publishedAt": "2021-05-10T14:57:00Z",
-      "content": "Confrontations between Israeli security forces and protesters have been escalating for weeks. The clashes started at the beginning of Ramadan, almost a month ago, when Israeli police put up barriers … [+5333 chars]"
+      "author": "Paulina Dedaj",
+      "title": "Kentucky Derby winner Medina Spirit was treated with ointment including betamethasone, Bob Baffert reveals - Fox News",
+      "description": "Just days after it was revealed that Bob Baffert’s latest winner Medina Spirit failed a post-race drug test, the legendary horse trainer pointed to a “possible source” for the drug which Baffert has vehemently denied treating his horse with.",
+      "url": "https://www.foxnews.com/sports/kentucky-derby-medina-spirit-treated-ointment-betamethasone-bob-baffert",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/baffert.jpg",
+      "publishedAt": "2021-05-11T15:48:50Z",
+      "content": "Just days after it was revealed that Bob Bafferts latest winner Medina Spirit failed a post-race drug test, the legendary trainer pointed to a \"possible source\" for the drug which Baffert has vehemen… [+3114 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Rolling Stone"
+        "name": "CNBC"
       },
-      "author": "Claire Shaffer",
-      "title": "Seth Rogen Says He Won’t Work With James Franco After Sexual Misconduct Allegations - Rolling Stone",
-      "description": "Rogen also apologized for joke he made about allegations during his 2014 Saturday Night Live monologue",
-      "url": "https://www.rollingstone.com/movies/movie-news/seth-rogen-james-franco-sexual-misconduct-1167343/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2021/05/seth-rogen-on-james-franco.jpg",
-      "publishedAt": "2021-05-10T14:52:24Z",
-      "content": "Seth Rogen stated he would no longer be working with his close friend and frequent collaborator James Franco following years of allegations of inappropriate behavior.\r\nRogen was asked about his relat… [+2143 chars]"
+      "author": "Lorie Konish",
+      "title": "Californians could see new stimulus checks, renter assistance under this proposal. Here's who would qualify - CNBC",
+      "description": "A budget surplus in the Golden State could lead to more help for residents in the form of stimulus checks, renter assistance and utility payments.",
+      "url": "https://www.cnbc.com/2021/05/11/california-residents-may-see-new-stimulus-checks-renter-assistance.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106879904-1620402286307-bar.jpg?v=1620402359",
+      "publishedAt": "2021-05-11T15:21:28Z",
+      "content": "Californians could see an extra financial boost after Gov. Gavin Newsom unveiled a proposal to send new stimulus checks and renter assistance to residents on Monday.\r\nThe $100 billion comeback plan a… [+1146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Peter Bradshaw",
+      "title": "It’s not just racism and sexism. The Golden Globes have been sunk by sheer stupidity - The Guardian",
+      "description": "The preposterous Hollywood Foreign Press Association gravy train might have chugged on for ever if its members had just swallowed their pride and done more for diversity",
+      "url": "https://amp.theguardian.com/film/2021/may/11/its-not-just-racism-and-sexism-the-golden-globes-have-been-sunk-by-sheer-stupidity",
+      "urlToImage": null,
+      "publishedAt": "2021-05-11T15:21:00Z",
+      "content": "The HFPA is famed for having a bizarre voting membership of 87 people; some write for credible publications, but most are a hilarious ragbag of sub-Norma-Desmond has-beens with the most reactionary w… [+2532 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Alex Guillén",
+      "title": "EPA moves to boost gasoline availability in mid-Atlantic states after Colonial cyberattack - POLITICO",
+      "description": "The waiver covers Pennsylvania, Maryland, Virginia and D.C. through May 18.",
+      "url": "https://www.politico.com/news/2021/05/11/epa-gas-waiver-colonial-cyberattack-487015",
+      "urlToImage": "https://static.politico.com/aa/43/145d050444199ca7c6f5e5a52671/210511-gas-ap-773.jpg",
+      "publishedAt": "2021-05-11T15:03:26Z",
+      "content": "Fuel suppliers can temporarily sell their stockpiles of lower-grade gasoline that normally could not be sold in those regions through May 18. Any lower-grade fuel in the distribution system on that d… [+1586 chars]"
     },
     {
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "Scottie Andrew, CNN",
-      "title": "An NYPD officer sprinted through Times Square to get a 4-year-old shooting victim to safety - CNN ",
-      "description": "NYPD Officer Alyssa Vogel was filmed bolting through Times Square on Saturday with an injured child in her arms. The girl had been shot in the leg, and Vogel was moving as fast as she could to get the child in an ambulance.",
-      "url": "https://www.cnn.com/2021/05/10/us/nypd-officer-saves-girl-times-square-shooting-trnd/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210510092123-officer-alyssa-vogel-super-tease.jpg",
-      "publishedAt": "2021-05-10T14:41:00Z",
-      "content": "(CNN)A New York police officer sprang into action when a shooting erupted in Times Square over the weekend, wounding two women and a 4-year-old girl. \r\nNYPD Officer Alyssa Vogel -- a new mother herse… [+2325 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Www.https"
-      },
-      "author": "New York Post",
-      "title": "Gal Gadot confirms Joss Whedon ‘threatened’ her career during 'Justice League' reshoots - Fox News",
-      "description": "Whedon has been under fire for months for misconduct and creating \"toxic\" working environments on the set of past projects.",
-      "url": "https://www.https://pagesix.com/2021/05/08/gal-gadot-confirms-joss-whedon-threatened-her-career/",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/gadot-whedon-getty.jpg",
-      "publishedAt": "2021-05-10T14:20:29Z",
-      "content": "Dont mess with Wonder Woman.\r\nActress Gal Gadot said she \"took care of it\" when \"Justice League\" director Joss Whedon became nasty with her during filming of the 2017 movie, according to remarks she … [+1198 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Victoria Song",
-      "title": "The PS5 Shortage Will Likely Stretch Into 2022 - Gizmodo",
-      "description": "Want to know when you can buy a PlayStation 5, Sony’s got some bad news for you. In a call with analysts, Sony warned that they likely won’t be able to meet PS5 demand through 2022.",
-      "url": "https://gizmodo.com/the-ps5-shortage-will-likely-stretch-into-2022-1846858158",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/393dbb95ed9c6b921f8097d251928284.jpg",
-      "publishedAt": "2021-05-10T14:15:00Z",
-      "content": "If you were hoping itd get easier to snag a PlayStation 5, Sonys got some bad news for you. In a call with analysts, Sony warned that they likely wont be able to meet PS5 demand and restock stores th… [+2197 chars]"
+      "author": "Amy Woodyatt, CNN",
+      "title": "Voyager spacecraft detects 'persistent hum' beyond our solar system - CNN",
+      "description": "One of the Earth's longest-flying spacecraft has detected a \"persistent hum\" beyond our solar system, according to a new study.",
+      "url": "https://www.cnn.com/2021/05/11/world/nasa-voyager-1-intl-scli-scn/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210511091124-file-illustration-nasa-voyager-1-super-tease.jpg",
+      "publishedAt": "2021-05-11T14:43:00Z",
+      "content": "(CNN)One of the Earth's longest-flying spacecraft has detected a \"persistent hum\" beyond our solar system, according to a new study.\r\nNASA's Voyager 1 launched on September 5 1977, from Cape Canavera… [+2642 chars]"
     },
     {
       "source": {
@@ -216,51 +99,168 @@ news_us = {
         "name": "CBS Sports"
       },
       "author": "",
-      "title": "Aaron Rodgers trade rumors: Broncos will reportedly pursue Packers quarterback if he becomes available - CBS Sports",
-      "description": "The Broncos will be players for Rodgers if the Packers are willing to deal him",
-      "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-trade-rumors-broncos-will-reportedly-pursue-packers-quarterback-if-he-becomes-available/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/01/20/fdb73700-8079-49bd-a3af-f8c503d4fe9f/thumbnail/1200x675/68c06f532a9b06c8aabd5f3780830cc1/aaron-rodgers.jpg",
-      "publishedAt": "2021-05-10T14:05:11Z",
-      "content": "Count the Denver Broncos in the Aaron Rodgers sweepstakes, if the Green Bay Packers make him available. Per NFL Network's James Palmer, there's a \"real possibility\" Rodgers could end up with the Bron… [+2198 chars]"
+      "title": "2021 NFL Draft: Aaron Rodgers leads veterans who immensely benefited; Cam Newton's stock takes huge dive - CBS Sports",
+      "description": "Rodgers leads the veterans helped by the draft, while Newton was among the veterans hurt",
+      "url": "https://www.cbssports.com/nfl/news/2021-nfl-draft-aaron-rodgers-leads-veterans-who-immensely-benefited-cam-newtons-stock-takes-huge-dive/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2020/09/28/f2f0332d-7d5e-409e-98a1-a40947d304e5/thumbnail/1200x675/da6329dd788788197d718a09bebf1f24/aaron-rodgers-packers.jpg",
+      "publishedAt": "2021-05-11T14:42:00Z",
+      "content": "Aaron Rodgers stole the show at the 2021 NFL Draft -- and the Green Bay Packers quarterback didn't even change teams. Rodgers wanting to get out of Green Bay changed the landscape of the draft, along… [+10693 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
       "author": null,
-      "title": "NASA probe begins journey to earth after collecting asteroid samples | DW News - DW News",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9M2FqRHNNVjRpQ3PSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2021-05-10T13:24:42Z",
-      "content": null
+      "title": "Scores of dead bodies found floating in India's Ganges River - The Associated Press",
+      "description": "NEW DELHI (AP) — Scores of dead bodies have been found floating down the Ganges River in eastern India as the country battles a ferocious surge in coronavirus infections. Authorities said Tuesday they haven't yet determined the cause of death...",
+      "url": "https://apnews.com/article/india-coronavirus-pandemic-health-1836d194eb36c16f39b1d5227ed8063a",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/0830cf228c3541b9ba60bdcc68849798/3000.jpeg",
+      "publishedAt": "2021-05-11T14:25:18Z",
+      "content": "NEW DELHI (AP) Scores of dead bodies have been found floating down the Ganges River in eastern India as the country battles a ferocious surge in coronavirus infections. Authorities said Tuesday they … [+1453 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Mychael Schnell",
+      "title": "Senate Republicans attack Democratic bill as 'politically motivated ... takeover' of election system | TheHill - The Hill",
+      "description": "Senate Republicans denounced a sweeping elections bill backe...",
+      "url": "https://thehill.com/homenews/senate/552812-senate-republicans-attack-democratic-bill-as-politically-motivated-takeover",
+      "urlToImage": "https://thehill.com/sites/default/files/bluntroy_032321gn4_lead.jpg",
+      "publishedAt": "2021-05-11T14:22:02Z",
+      "content": "Senate Republicans denounced a sweeping elections bill backed by Democrats as a politically motivated federal takeover of the election system, setting up a high-stakes battle ahead of a debate Tuesda… [+3161 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "SamMobile"
+        "name": "MarketWatch"
       },
-      "author": "SamMobile",
-      "title": "Galaxy S21 FE, Z Fold 3, and Z Flip 3 could launch in August 2021 - SamMobile",
-      "description": "After launching the Galaxy S21 series earlier this year, the company is ready to launch three new high-end smartphones in ...",
-      "url": "https://www.sammobile.com/news/galaxy-s21-fe-z-fold-3-z-flip-3-launch-august-2021/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2021/05/Samsung-Galaxy-Z-Fold-3-Concept-Render-Image-720x405.jpg",
-      "publishedAt": "2021-05-10T13:09:00Z",
-      "content": "After launching the Galaxy S21 series earlier this year, the company is ready to launch three new high-end smartphones in the second half of 2021. The Galaxy S21 FE, Galaxy Z Fold 3, and the Galaxy Z… [+1805 chars]"
+      "author": "Jeffry Bartash",
+      "title": "U.S. job openings soar to record 8.1 million, but businesses can't find enough workers - MarketWatch",
+      "description": "Slowdown in hiring sparks debate over whether extra unemployment benefits are keeping people from taking jobs",
+      "url": "https://www.marketwatch.com/story/u-s-job-openings-soar-to-record-8-2-million-but-businesses-say-they-cant-find-enough-workers-to-hire-11620742194",
+      "urlToImage": "https://images.mktw.net/im-336655/social",
+      "publishedAt": "2021-05-11T14:09:00Z",
+      "content": "Businesses have a record 8.1 million jobs to fill. The problem, they say, is getting enough people to fill them. Job openings in the U.S. topped 8 million in March for the first time ever, the Labor … [+4879 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GamesRadar+"
+      },
+      "author": "https://www.facebook.com/totalfilm/",
+      "title": "Army of the Dead review: \"Zack Snyder's high as a kite Netflix zombie movie\" - GamesRadar+",
+      "description": "",
+      "url": "https://www.gamesradar.com/army-of-the-dead-review-netflix/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RExAq3GMabaJii8Tr6nBbY-1200-80.jpg",
+      "publishedAt": "2021-05-11T14:00:00Z",
+      "content": "You might call it a Zack attack: riding the cape-tails of Snyders four-hour cut of Justice League comes his two-and-a-half-hour zombie heist movie Army Of The Dead. But its an action-thriller hes bee… [+2245 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Paul Farhi",
+      "title": "Sally Buzbee of the Associated Press named executive editor of The Washington Post, the first woman to lead the newsroom - The Washington Post",
+      "description": "The longtime journalist has led the news service since 2017, serving as Washington bureau chief before that. She succeeds Martin Baron, who retired in February.",
+      "url": "https://www.washingtonpost.com/lifestyle/media/sally-buzbee-washington-post-editor/2021/05/11/63491212-b25d-11eb-ab43-bebddc5a0f65_story.html",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3DNSENVSCII6XPEW7X2V3ZB354.jpg&w=1440",
+      "publishedAt": "2021-05-11T13:45:00Z",
+      "content": "She succeeds Martin Baron, who retired at the end of February after serving as editor since 2013. Her appointment ended a search that began 10 weeks ago, following Barons retirement.\r\nBuzbee, 55, has… [+7464 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Dow Jones Today, Futures Slide As Tesla Leads Tech Stock Retreat; These 5 High RS Leaders In Buy Ranges - Investor's Business Daily",
+      "description": "Tesla and Apple fell hard, Nike led the Dow Jones today, as tech stocks opened to another sharp pullback at the starting bell on Tuesday.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-today-futures-slide-as-tesla-leads-tech-stock-retreat-these-5-high-rs-leaders-in-buy-ranges/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2016/03/MUT-leverage-032816-shutterstock.jpg",
+      "publishedAt": "2021-05-11T13:29:00Z",
+      "content": "Tech stocks sharpened their correction Tuesday, with the Nasdaq angling toward its sixth decline in seven recent sessions. Tesla and Apple both weighed heavily on early action, as chipmakers and grow… [+7881 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "Jaylen Brown injury update: Celtics All-Star needs season-ending surgery to repair torn ligament in wrist - CBS Sports",
+      "description": "Brown had the best season of his career for the Celtics",
+      "url": "https://www.cbssports.com/nba/news/jaylen-brown-injury-update-celtics-all-star-needs-season-ending-surgery-to-repair-torn-ligament-in-wrist/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/05/10/f4dace82-7542-47f3-96d3-a6e07d365f2e/thumbnail/1200x675/a202dd62d45b6a8432fb20fa7cf93ac9/jaylen-brown.jpg",
+      "publishedAt": "2021-05-11T13:24:00Z",
+      "content": "Boston Celtics forward Jaylen Brown is out for the rest of the season with a torn ligament in his left wrist, the team announced Monday. Brown is expected to have surgery to repair the torn ligament … [+2214 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "Meghan Moravcik Walbert",
+      "title": "Our Kids Aren't Wearing Enough Sunscreen - Lifehacker",
+      "description": "The tricky thing about sunscreen is that, if applied properly, it’s invisible. So how can we tell when enough of an invisible thing is enough? In general, we can probably start with the assumption that the amount we’re applying isn’t enough—because, according…",
+      "url": "https://offspring.lifehacker.com/our-kids-arent-wearing-enough-sunscreen-1846859441",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a6f650262330cbabf9b9260f91ad8036.jpg",
+      "publishedAt": "2021-05-11T13:00:00Z",
+      "content": "The tricky thing about sunscreen is that, if applied properly, its invisible. So how can we tell when enough of an invisible thing is enough? In general, we can probably start with the assumption tha… [+3475 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Drew Weisholtz",
+      "title": "Matt Damon talks about Ben Affleck and Jennifer Lopez on TODAY show - Today.com",
+      "description": "Matt Damon talked to TODAY about what he thinks about the rumors buddy Ben Affleck and Jennifer Lopez are dating again.",
+      "url": "https://www.today.com/popculture/matt-damon-talks-possible-ben-affleck-jennifer-lopez-romance-t218006",
+      "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2021_19/1715108/matt-damon-te-main-210511_5ffd8e9a08a6f2249f3dbf58872dd8c1.social_share_1200x630_center.jpg",
+      "publishedAt": "2021-05-11T12:49:00Z",
+      "content": "Is this a sequel Matt Damon wants to see?\r\nWhile appearing on TODAY Tuesday, the Oscar winner weighed in on the rumors his pal Ben Affleck may be back together with ex-fiancée Jennifer Lopez chatter … [+2403 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Martin Pengelly",
+      "title": "Republican Joni Ernst accuses party of cancel culture over Liz Cheney ousting - The Guardian",
+      "description": "Senator says McCarthy ‘trying to silence others in the party’ in service of Trump",
+      "url": "https://amp.theguardian.com/us-news/2021/may/11/joni-ernst-liz-cheney-ousting-trump-republicans-cancel-culture",
+      "urlToImage": "https://i.guim.co.uk/img/media/dff7dea5e3547a18170ff24bd9e0edf4b6977a9d/0_267_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0854594aa00151a84d2f1459949f6e4a",
+      "publishedAt": "2021-05-11T12:30:00Z",
+      "content": "The only woman in Republican Senate leadership complained about cancel culture on Monday, regarding the imminent removal of Liz Cheney, the only woman in Republican House leadership, because she oppo… [+3316 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "Ron Dicker",
+      "title": "Tom Cruise Gives Golden Globes The Ultimate Diss As NBC Cancels Awards Show - HuffPost",
+      "description": "The \"Top Gun\" star reportedly took action to protest the Hollywood Foreign Press Association, under fire for its stunning lack of diversity.",
+      "url": "https://www.huffpost.com/entry/tom-cruise-returns-golden-globes_n_609a61c1e4b063dccea106a6",
+      "urlToImage": "https://img.huffingtonpost.com/asset/609a647a210000f9627f13be.png?ops=1778_1000",
+      "publishedAt": "2021-05-11T12:30:00Z",
+      "content": "Longtime Hollywood golden boy Tom Cruise is a little less golden now.\r\nThe Mission Impossible actor gave back his three Golden Globes to protest the awards shows organizer, the Hollywood Foreign Pres… [+750 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "New York Times"
       },
-      "author": "Ephrat Livni",
-      "title": "Elon Musk's SpaceX Takes Dogecoin as Payment for Moon Mission - The New York Times",
-      "description": "SpaceX will launch a satellite called Doge-1 on a mission paid for with Dogecoin, an announcement that came a day after Mr. Musk dropped some Dogecoin references on “Saturday Night Live.”",
-      "url": "https://www.nytimes.com/2021/05/10/business/dogecoin-had-an-eventful-weekend-thanks-to-elon-musk.html",
-      "urlToImage": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-      "publishedAt": "2021-05-10T13:03:59Z",
-      "content": "Away from the memes and manias, the cryptocurrency industry is maturing, as shown by its growing contingent of lobbyists in Washington and a recent hiring spree of former regulators. This month, the … [+677 chars]"
+      "author": "Mark Landler",
+      "title": "Queen's Speech: Johnson Presses Advantage in U.K. Government Program - The New York Times",
+      "description": "The government plans laid out in the Queen’s Speech suggest that Prime Minister Boris Johnson intends to make full use of favorable political conditions.",
+      "url": "https://www.nytimes.com/2021/05/11/world/europe/queens-speech-boris-johnson.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/05/11/world/11uk-speech01/11uk-speech01-facebookJumbo.jpg",
+      "publishedAt": "2021-05-11T12:19:57Z",
+      "content": "LONDON Prime Minister Boris Johnson hoped to use the opening of Britains Parliament on Tuesday to galvanize his governments agenda after striking victories in regional elections in England last week.… [+1277 chars]"
     }
   ]
 }
