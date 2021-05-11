@@ -239,28 +239,10 @@ button:active, select:active, .menu > h3:active {
 
 .popup > iframe {
     width: 100%;
-    height: calc(100% - 84px);
+    height: calc(100% - 44px);
     background-color: #fff;
     border: none;
     overflow-x: hidden;
-}
-
-.share {
-    background-color: #ccc;
-    box-shadow: 0 0 4px #ccc;
-    display: flex;
-    justify-content: center;
-    overflow-x: auto;
-}
-
-.share > a > img {
-    margin: 8px;
-    opacity: 0.72;
-    border-radius: 6px;
-}
-
-.share > a > img:hover {
-    opacity: 1;
 }
 
 #menu > .currency {

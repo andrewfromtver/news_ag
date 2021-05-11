@@ -36,7 +36,6 @@
     var fetchstat = null;
     var currentweather = [];
     var chartloaded = false;
-
     /* Ui */
     function hidepopup(geo = 'on') {
         if (geo == 'on') {
@@ -46,6 +45,7 @@
         document.querySelector('.container').style.display = '';
         document.querySelector('.content').style.display = '';
         document.querySelector('.detail').style.display = '';
+        document.querySelector('.share').style.display = '';
     }
     /* Geolocation */
     function allowgeo() {
@@ -64,6 +64,7 @@
             console.warn(`ERROR(${err.code}): ${err.message}`);
             document.querySelector('.detail').style.margin = '';
             document.querySelector('.popup_placeholder').style.display = '';
+            document.querySelector('.share').style.display = 'none';
             document.querySelector('.container').style.display = 'none';
             document.querySelector('.detail').style.display = 'none';
             document.querySelector('.content').style.display = 'none';
@@ -173,7 +174,7 @@
                                 <p onclick="addinfo('temp')">${'Real temperature ' + JSON.parse(currentweather).main.temp + ' °C'}</p>
                                 <p onclick="addinfo('feeltemp')">${'Feels like ' + JSON.parse(currentweather).main.feels_like + ' °C'}</p>
                                 <p onclick="addinfo('hum')">${'Humidity ' + JSON.parse(currentweather).main.humidity + ' %'}</p>
-                                <p onclick="addinfo('pres')">${'Atmosphere pressure ' + JSON.parse(currentweather).main.pressure + ' мм рт. ст.'}</p>
+                                <p onclick="addinfo('pres')">${'Atmosphere pressure ' + JSON.parse(currentweather).main.pressure + ' mmHg'}</p>
                             </div>
                         `;
                         document.querySelector('.weatherinfo').innerHTML = inner;
@@ -201,7 +202,7 @@
                         <p onclick="addinfo('temp')">${'Real temperature ' + JSON.parse(currentweather).main.temp + ' °C'}</p>
                         <p onclick="addinfo('feeltemp')">${'Feels like ' + JSON.parse(currentweather).main.feels_like + ' °C'}</p>
                         <p onclick="addinfo('hum')">${'Humidity ' + JSON.parse(currentweather).main.humidity + ' %'}</p>
-                        <p onclick="addinfo('pres')">${'Atmosphere pressure ' + JSON.parse(currentweather).main.pressure + ' мм рт. ст.'}</p>
+                        <p onclick="addinfo('pres')">${'Atmosphere pressure ' + JSON.parse(currentweather).main.pressure + ' mmHg'}</p>
                     </div>
                 `;
                 document.querySelector('.weatherinfo').innerHTML = inner;
@@ -269,50 +270,6 @@
                     nextforecastfeeltemp.push(fetchsecondforecastdata.daily[2].feels_like.night);
                 }
             }
-            if (forecasttemp.length > 0) {
-                document.querySelector('.detail').innerHTML += `
-                    <h3 class="title">Comparative temperature chart (tomorrow / the day after tomorrow)</h3>
-                    <canvas style="margin-bottom: 8px;" id="forecastChart"></canvas>
-                `;
-                var ctx = document.getElementById('forecastChart').getContext('2d');
-                var chart = new Chart(ctx, {
-                    type: 'bar',
-                    data: {
-                        labels: ['Day', 'Evening', 'Night'],
-                        datasets: [{
-                            label: 'Т tomorrow (°C)',
-                            backgroundColor: '#13926B',
-                            data: forecasttemp
-                        },{
-                            label: 'Т tomorrow (feels like) (°C)',
-                            backgroundColor: '#CC1B41',
-                            data: forecastfeeltemp
-                        },{
-                            label: 'Т the day after tomorrow (°C)',
-                            backgroundColor: '#13926B',
-                            data: nextforecasttemp
-                        },{
-                            label: 'Т the day after tomorrow (feels like) (°C)',
-                            backgroundColor: '#CC1B41',
-                            data: nextforecastfeeltemp
-                        }]
-                    },
-                    options: {
-                        layout: {
-                            padding: {
-                                left: 5,
-                                right: 15,
-                                top: 5,
-                                bottom: 5
-                            }
-                        }
-                    }
-                });
-                function intoview() {
-                    document.querySelector('#forecastChart').scrollIntoView({block: "center", inline: "center", behavior: "smooth"});
-                }
-                setTimeout(intoview, 250);
-            }
         }
         else {
             document.querySelector('.detail').innerHTML = '';
@@ -337,7 +294,7 @@
                                         <p onclick="addinfo('temp')">${'Temperature ' + output.daily[1].temp.day + ' °C'}</p>
                                         <p onclick="addinfo('feeltemp')">${'Feels like ' + output.daily[1].feels_like.day + ' °C'}</p>
                                         <p onclick="addinfo('hum')">${'Humidity ' + output.daily[1].humidity + ' %'}</p>
-                                        <p onclick="addinfo('pres')">${'Atmospheric pressure ' + output.daily[1].pressure + ' мм рт. ст.'}</p>
+                                        <p onclick="addinfo('pres')">${'Atmospheric pressure ' + output.daily[1].pressure + ' mmHg'}</p>
                                     </div>
                                     <div class="meteoinfo rightblock">
                                         <h3 class="title">The day after tomorrow</h3>
@@ -345,7 +302,7 @@
                                         <p onclick="addinfo('temp', 'left')">${'Temperature ' + output.daily[2].temp.day + ' °C'}</p>
                                         <p onclick="addinfo('feeltemp', 'left')">${'Feels like ' + output.daily[2].feels_like.day + ' °C'}</p>
                                         <p onclick="addinfo('hum', 'left')">${'Humidity ' + output.daily[2].humidity + ' %'}</p>
-                                        <p onclick="addinfo('pres', 'left')">${'Atmospheric pressure ' + output.daily[2].pressure + ' мм рт. ст.'}</p>
+                                        <p onclick="addinfo('pres', 'left')">${'Atmospheric pressure ' + output.daily[2].pressure + ' mmHg'}</p>
                                     </div>
                                 </div>
                                 <form>
@@ -416,7 +373,7 @@
                                 <p onclick="addinfo('temp')">${'Temperature ' + fetchforecastdata.daily[1].temp.day + ' °C'}</p>
                                 <p onclick="addinfo('feeltemp')">${'Feels like ' + fetchforecastdata.daily[1].feels_like.day + ' °C'}</p>
                                 <p onclick="addinfo('hum')">${'Humidity ' + fetchforecastdata.daily[1].humidity + ' %'}</p>
-                                <p onclick="addinfo('pres')">${'Atmospheric pressure ' + fetchforecastdata.daily[1].pressure + ' мм рт. ст.'}</p>
+                                <p onclick="addinfo('pres')">${'Atmospheric pressure ' + fetchforecastdata.daily[1].pressure + ' mmHg'}</p>
                             </div>
                             <div class="meteoinfo rightblock">
                                 <h3 class="title">The day after tomorrow</h3>
@@ -424,7 +381,7 @@
                                 <p onclick="addinfo('temp', 'left')">${'Temperature ' + fetchforecastdata.daily[2].temp.day + ' °C'}</p>
                                 <p onclick="addinfo('feeltemp', 'left')">${'Feels like ' + fetchforecastdata.daily[2].feels_like.day + ' °C'}</p>
                                 <p onclick="addinfo('hum', 'left')">${'Humidity ' + fetchforecastdata.daily[2].humidity + ' %'}</p>
-                                <p onclick="addinfo('pres', 'left')">${'Atmospheric pressure ' + fetchforecastdata.daily[2].pressure + ' мм рт. ст.'}</p>
+                                <p onclick="addinfo('pres', 'left')">${'Atmospheric pressure ' + fetchforecastdata.daily[2].pressure + ' mmHg'}</p>
                             </div>
                         </div>
                         <form>
@@ -508,7 +465,8 @@
                     </iframe>
                 `;
             }
-        } else {
+        }
+        else {
             if (globallat & globallon) {
                 if (!fetchaddinfodata) {
                     var url = "https://api.openweathermap.org/data/2.5/onecall";
@@ -643,7 +601,7 @@
                 data: {
                     labels: [0,2,4,6,8,10,12,14,16,18,20,22],
                     datasets: [{
-                        label: 'Atmospheric pressure (мм рт. ст.)',
+                        label: 'Atmospheric pressure (mmHg)',
                         borderColor: '#13926B',
                         data: currentpres
                     }]
@@ -776,9 +734,14 @@
         document.querySelector('.suggestions').style.display = 'none';
         addinfo();
     }
-
     /* Init */
     window.onload = function() {
+        let url = window.location.href
+        document.getElementById('facebook').href = 'https://facebook.com/sharer/sharer.php?u=' + url
+        document.getElementById('vkontakte').href = 'https://vk.com/share.php?url=' + url
+        document.getElementById('whatsapp').href = 'whatsapp://send?text=' + url
+        document.getElementById('telegram').href = 'https://t.me/share/url?url=' + url
+        document.querySelector('.share').style.display = 'none';
         document.querySelector('.container').style.display = 'none';
         document.querySelector('.content').style.display = 'none';
         document.querySelector('.detail').style.display = 'none';
@@ -799,6 +762,10 @@
         padding: 0;
         background-color: #fff;
         overflow-x: hidden;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        min-height: 100vh;
     }
     .back {
         padding:0;
@@ -812,9 +779,7 @@
         left:0;
         top:0;
     }
-
     form {
-        margin-top: 16px;
         width: 100%;
         display: flex;
         flex-direction: row;
@@ -868,6 +833,7 @@
         box-shadow: 0 0 8px #6699CC;
     }
     .popup_placeholder {
+        background-color: #ccc;
         top: 0;
         position: fixed;
         height: 100vh;
@@ -902,14 +868,14 @@
         max-width: 900px;
     }
     .detail{
-        margin: 16px auto;
+        margin: 0 auto;
         max-width: 900px;
-        padding: 16px 0;
     }
     .title {
         text-align: start;
         padding: 0 24px;
         overflow: hidden;
+        margin: 0;
     }
     .suggestions {
         background-color: #fff;
@@ -945,8 +911,7 @@
     .meteoinfo {
         width: 100%;
         overflow: hidden;
-        margin: 4px;
-        margin: 16px 0;
+        margin-bottom: 16px;
     }
     .meteoinfo > p {
         padding: 8px 32px;
@@ -1026,6 +991,22 @@
         transform: translate(24px, 0);
         }
     }
+    .share {
+        box-shadow: 0 0 16px #ccc;
+        display: flex;
+        justify-content: center;
+        overflow-x: auto;
+    }
+
+    .share > a > img {
+        margin: 8px;
+        opacity: 0.72;
+        border-radius: 6px;
+    }
+
+    .share > a > img:hover {
+        opacity: 1;
+    }
 </style>
 
 <body>
@@ -1042,5 +1023,35 @@
     <div class="container"></div>
     <div class="detail"></div>
     <div class="content"></div>
+    <div class="share">
+        <!-- Sharingbutton Facebook -->
+        <a id="facebook" target="_blank" rel="noopener">
+            <img
+                height="24px" width="24px" 
+                src="../assets/fb.png" alt="sharedmedia"
+            >
+        </a>
+        <!-- Sharingbutton Vkontakte -->
+        <a id="vkontakte" target="_blank" rel="noopener">
+            <img
+                height="24px" width="24px" 
+                src="../assets/vk.png" alt="sharedmedia"
+            >
+        </a>
+        <!-- Sharingbutton WhatsApp -->
+        <a id="whatsapp" target="_blank" rel="noopener">
+            <img
+                height="24px" width="24px" 
+                src="../assets/wp.png" alt="sharedmedia"
+            >
+        </a>
+        <!-- Sharingbutton Telegram -->
+        <a id="telegram" target="_blank" rel="noopener">
+            <img
+                height="24px" width="24px" 
+                src="../assets/tm.png" alt="sharedmedia"
+            >
+        </a>  
+    </div>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
 </body>

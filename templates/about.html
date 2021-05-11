@@ -52,6 +52,13 @@
             setTimeout(clearColor, 600)
         }
     }
+    window.onload = () => {
+        let url = window.location.href
+        document.getElementById('facebook').href = 'https://facebook.com/sharer/sharer.php?u=' + url
+        document.getElementById('vkontakte').href = 'https://vk.com/share.php?url=' + url
+        document.getElementById('whatsapp').href = 'whatsapp://send?text=' + url
+        document.getElementById('telegram').href = 'https://t.me/share/url?url=' + url
+    }
 </script>
 
 <style>
@@ -59,6 +66,12 @@
     html, body {
         margin: 8px 0 0 0;
         padding: 0;
+    }
+    body {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        min-height: 100vh;
     }
     h3, p, table {
         padding-left: 16px;
@@ -68,7 +81,6 @@
     .info {
         font-size: 17px;
         color: #fff;
-        background-color: #ccc;
         padding: 16px;
         box-shadow: 0 0 16px #ccc;
     }
@@ -110,6 +122,22 @@
         box-shadow: none;
         font-weight: 500;
     }
+    .share {
+        box-shadow: 0 0 16px #ccc;
+        display: flex;
+        justify-content: center;
+        overflow-x: auto;
+    }
+
+    .share > a > img {
+        margin: 8px;
+        opacity: 0.72;
+        border-radius: 6px;
+    }
+
+    .share > a > img:hover {
+        opacity: 1;
+    }
 </style>
 
 <body>
@@ -150,6 +178,35 @@
         <button class="send__btn" onclick="sendRequest()">Send</button>
         <br>
         <br>
-        <br>
+    </div>
+    <div class="share">
+        <!-- Sharingbutton Facebook -->
+        <a id="facebook" target="_blank" rel="noopener">
+            <img
+                height="24px" width="24px" 
+                src="../assets/fb.png" alt="sharedmedia"
+            >
+        </a>
+        <!-- Sharingbutton Vkontakte -->
+        <a id="vkontakte" target="_blank" rel="noopener">
+            <img
+                height="24px" width="24px" 
+                src="../assets/vk.png" alt="sharedmedia"
+            >
+        </a>
+        <!-- Sharingbutton WhatsApp -->
+        <a id="whatsapp" target="_blank" rel="noopener">
+            <img
+                height="24px" width="24px" 
+                src="../assets/wp.png" alt="sharedmedia"
+            >
+        </a>
+        <!-- Sharingbutton Telegram -->
+        <a id="telegram" target="_blank" rel="noopener">
+            <img
+                height="24px" width="24px" 
+                src="../assets/tm.png" alt="sharedmedia"
+            >
+        </a>  
     </div>
 </body>
