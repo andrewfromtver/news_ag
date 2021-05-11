@@ -113,10 +113,6 @@ goTo = (url, title) => {
   document.getElementById('popupplaceholder').style.display = ''
   document.getElementById('newsframe').src = url
   document.getElementById('title').innerText = title
-  document.getElementById('facebook').href = "https://facebook.com/sharer/sharer.php?u=" + url
-  document.getElementById('vkontakte').href = 'https://vk.com/share.php?url=' + url
-  document.getElementById('whatsapp').href="whatsapp://send?text=" + url
-  document.getElementById('telegram').href="https://t.me/share/url?url=" + url
 }
 // Close popup
 closePopup = () => {
