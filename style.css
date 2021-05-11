@@ -262,10 +262,6 @@ button:active, select:active, .menu > h3:active {
     border-radius: 4px;
 }
 
-.currency:hover {
-    opacity: 1;
-}
-
 .currency:active {
     opacity: 0.64;
     color: #fff;
