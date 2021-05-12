@@ -5,93 +5,132 @@ news_us = {
     {
       "source": {
         "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Melissa Koenig",
+      "title": "Times Square gunman is arrested eating fries at Florida McDonald's 'after his car ran out of gas' - Daily Mail",
+      "description": "Farrakhan Muhammad was arrested near Jacksonville, Florida, on Wednesday, four days after the shooting in the tourist hotspot. He is said to have been nabbed after his can ran out of gas.",
+      "url": "https://www.dailymail.co.uk/news/article-9571867/Times-Square-gunman-arrested-Florida-four-days-shot-wounded-three-people.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2021/05/12/21/42913382-0-image-a-74_1620850920622.jpg",
+      "publishedAt": "2021-05-12T20:12:53Z",
+      "content": "A Times Square CD seller accused of shooting and wounding three people has been arrested almost 1,000 miles away after his car reportedly ran out of gas due to shortages caused by a pipeline hack. \r\n… [+10589 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Page Six"
+      },
+      "author": "Eileen Reslen",
+      "title": "Chrissy Teigen 'ashamed' over past Courtney Stodden bullying: 'I'm so sorry' - Page Six",
+      "description": "The former model says she was “an insecure, attention seeking troll” and is now apologizing for cyber-bullying Stodden.",
+      "url": "https://pagesix.com/2021/05/12/chrissy-teigen-ashamed-over-past-courtney-stodden-bullying/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2021/05/chrissy-teigen-courtney-stodden-1.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2021-05-12T19:39:00Z",
+      "content": "Chrissy Teigen is sorry for being a bully.\r\nThe model atoned in a lengthy Twitter thread on Wednesday for cyber-bullying Courtney Stodden in the past after the reality star accused Teigen, 35, of onc… [+1691 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "N'dea Yancey-Bragg",
+      "title": "Derek Chauvin may face longer sentence after judge rules on aggravating factors in George Floyd's death - USA TODAY",
+      "description": "Former police officer Derek Chauvin may face a longer sentence after a Minnesota judge ruled there were several aggravating factors in George Floyd's murder.",
+      "url": "https://www.usatoday.com/story/news/nation/2021/05/12/derek-chauvin-longer-sentence-judge-aggravating-factors-george-floyd-murder/5054635001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2021/04/20/USAT/25aff67e-cdd4-4260-8947-ca8a265cfca7-AP_George_Floyd_Officer_Trial.jpg?crop=1856,1044,x1,y0&width=1600&height=800&fit=bounds",
+      "publishedAt": "2021-05-12T19:30:00Z",
+      "content": "The Black community in Minneapolis, connected through trauma, is activated by the Derek Chauvin verdict in the ongoing battle for justice. Watch the full documentary on USA TODAY.\r\nUSA TODAY\r\nFormer … [+3939 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Erika Edwards",
+      "title": "CDC panel recommends Pfizer Covid vaccine for 12- to 15-year-olds - NBC News",
+      "description": "Can kids get Covid-19 vaccines? A CDC panel has recommended the agency expand vaccine recommendations to 12- to 15-year-olds.",
+      "url": "https://www.nbcnews.com/health/health-news/cdc-panel-recommends-pfizer-covid-vaccine-12-15-year-olds-n1267129",
+      "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2021_19/3472380/210512-teenagers-pfizer-mb-1814_25ecab95d72f53a81c61ab483713e287.nbcnews-fp-1200-630.jpg",
+      "publishedAt": "2021-05-12T19:20:00Z",
+      "content": "An advisory panel to the Centers for Disease Control and Prevention voted Wednesday to recommend Pfizer's Covid-19 vaccine for use in kids ages 12 to 15. The vote was 14-0, with one abstention.\r\nThe … [+5690 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lorie Konish",
+      "title": "New batch of $1,400 stimulus checks includes 'plus-up' and first-time payments - CNBC",
+      "description": "A ninth batch of federal stimulus checks has been sent, bringing the total number of payments to about 165 million, worth $388 billion.",
+      "url": "https://www.cnbc.com/2021/05/12/new-1400-stimulus-checks-include-plus-up-and-first-time-payments.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106867074-1618254842341-gettyimages-1256202464-01804004.jpeg?v=1619104448",
+      "publishedAt": "2021-05-12T19:08:21Z",
+      "content": "A new batch of $1,400 stimulus checks has been issued to Americans, bringing the total number of payments sent to about 165 million, or $388 billion.\r\nThis marks the ninth set of payments since the $… [+2506 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Chia-Yi Hou",
+      "title": "Rare 'black fungus' increasingly found in COVID-19 patients in India | TheHill - The Hill",
+      "description": "The fungus can be inhaled and infect the brain.",
+      "url": "https://thehill.com/changing-america/well-being/prevention-cures/553165-rare-black-fungus-increasingly-found-in-covid",
+      "urlToImage": "https://thehill.com/sites/default/files/ca_india_covid_patient_051021gettyimages-1232804940.jpg",
+      "publishedAt": "2021-05-12T19:01:05Z",
+      "content": "Medical experts working in hospitals in India are getting slammed with COVID-19 patients. The situation has been worsening for several weeks, and a new report also notes a rise in cases of a rare fun… [+2845 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Dareh Gregorian",
+      "title": "House Republican Leader McCarthy: No one 'questioning the legitimacy' of 2020 election - NBC News",
+      "description": "Rep. Kevin McCarthy, R-Calif., told reporters \"I don’t think anyone is questioning the legitimacy of the presidential election\" despite Trump's insistence that he won",
+      "url": "https://www.nbcnews.com/politics/congress/house-republican-leader-mccarthy-no-one-questioning-legitimacy-2020-election-n1267140",
+      "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2021_19/3472393/210512-kevin-mccarthy-mb-1841_805d523d1ab1f8bf55164c6809ecdd55.nbcnews-fp-1200-630.JPG",
+      "publishedAt": "2021-05-12T18:58:00Z",
+      "content": "Hours after Rep. Liz Cheney was ousted from her Republican leadership position for rebuking former President Donald Trump's ongoing claim that the election was \"stolen\" from him, House Minority Leade… [+2635 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Yaron Steinbuch",
+      "title": "What is the Iron Dome and how does it protect Israel from rocket attacks? - New York Post ",
+      "description": "The Israeli military’s ace in the hole against the ongoing rocket attacks by Palestinian militants in Gaza is its vaunted Iron Dome air-defense system.",
+      "url": "https://nypost.com/article/what-is-iron-dome-israel-rocket-defense-system/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/05/israel-iron-dome-06.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2021-05-12T18:52:00Z",
+      "content": "The Israeli militarys ace in the hole against the ongoing rocket attacks by Palestinian militants in Gaza is its vaunted Iron Dome air defense system.\r\nMore than 1,050 rockets have been fired towards… [+3709 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "NPR"
       },
       "author": "",
-      "title": "Judge Finds Aggravating Factors In Chauvin Case, Paving Way For Longer Sentence - NPR",
-      "description": "The judge found that Chauvin abused a position of trust, treated George Floyd with \"particular cruelty,\" committed the crime as part of a group, and the offense occurred in front of children.",
-      "url": "https://www.npr.org/2021/05/12/996158514/judge-finds-aggravating-factors-in-chauvin-case-opening-path-for-longer-sentence",
-      "urlToImage": "https://media.npr.org/assets/img/2021/05/12/ap21117775527013_wide-f72de3de36199deb03704fc3cfcff838f96536ed.jpg?s=1400",
-      "publishedAt": "2021-05-12T15:12:46Z",
-      "content": "Former Minneapolis police officer Derek Chauvin, seen here in an April 21 booking photo, may face a longer sentence after Judge Peter Cahill found aggravating factors in the case.\r\nMinnesota Departme… [+2024 chars]"
+      "title": "Will Vaccines Work On Coronavirus Variant From India? : Goats and Soda - NPR",
+      "description": "A coronavirus variant is spreading quickly in India, causing a massive surge in cases. Scientists are rushing to see if vaccines will be effective against this variant. So far, the news is hopeful.",
+      "url": "https://www.npr.org/sections/goatsandsoda/2021/05/12/995855343/will-covid-19-vaccines-still-work-against-the-variant-from-india",
+      "urlToImage": "https://media.npr.org/assets/img/2021/05/12/indian-13_wide-165b85101cb29fcc644c1f36167bdf395740498a.jpg?s=1400",
+      "publishedAt": "2021-05-12T18:22:47Z",
+      "content": "Amit Sonawane, 35, an engineer at a district health office, gets his first vaccine dose in Palghar, India.\r\nViraj Nayar for NPR\r\nThe world has a new coronavirus mutant spreading from one continent to… [+4298 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "The Guardian"
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
       },
-      "author": "Peter Bradshaw",
-      "title": "Those Who Wish Me Dead review – Angelina Jolie feels the heat in forest fire thriller - The Guardian",
-      "description": "Angry, boozy and haunted by her past, a smoke-jumper faces unexpected dangers in this fierce action film set in the Montana wilderness",
-      "url": "https://amp.theguardian.com/film/2021/may/12/those-who-wish-me-dead-review-angelina-jolie-firefighter-thriller",
-      "urlToImage": null,
-      "publishedAt": "2021-05-12T15:00:00Z",
-      "content": "Angelina Jolie is back in a meaty action role for this watchable western thriller: playing a firefighter in the Montana wilderness, of all the wildly improbable things. But her natural queenly hauteu… [+3534 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": null,
-      "title": "2021 Preakness Stakes odds, Medina Spirit predictions: Expert who nailed 9 winners lists picks - CBS Sports",
-      "description": "Jody Demling has called the winners of the Preakness Stakes nine times in the past 16 years",
-      "url": "https://www.cbssports.com/general/news/2021-preakness-stakes-odds-medina-spirit-predictions-expert-who-nailed-9-winners-lists-picks/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2020/09/05/74ca96c5-87bf-427f-a317-f4a40216466a/thumbnail/1200x675/2c2166ccfeedbec8245e1652fa3c6fa2/horse.jpg",
-      "publishedAt": "2021-05-12T14:28:30Z",
-      "content": "There's been plenty of drama surrounding Saturday's 2021 Preakness Stakes at Pimlico Race Course. Three days ago, word broke that Kentucky Derby winner Medina Spirit failed a post-race drug test in L… [+3247 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "Lacey Rose",
-      "title": "Ellen DeGeneres to End Talk Show: “I Need Something New to Challenge Me” (Exclusive) - Hollywood Reporter",
-      "description": "Ellen DeGeneres is signing off. Daytime’s most recognizable face has decided her upcoming season, the show’s nineteenth, will be the last. The decision, which fell to DeGeneres, is said to have been several years in the making. She informed her staff May 11, …",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/ellen-degeneres-show-end-1234951571/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2021/05/Rozman_20210428_18110_1013r-copy.jpg?w=1024",
-      "publishedAt": "2021-05-12T14:21:41Z",
-      "content": "Ellen DeGeneres is signing off.\r\nDaytime’s most recognizable face has decided her upcoming season, the show’s nineteenth, will be the last. The decision, which fell to DeGeneres, is said to have been… [+16567 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": null,
-      "title": "Report: Galaxy Watch 4 runs Wear OS in Google ‘expansion,’ drops blood glucose sensor - 9to5Google",
-      "description": "According to a new report, Samsung is using Wear OS on its Galaxy Watch 4 to improve apps while Google may have bigger plans.",
-      "url": "https://9to5google.com/2021/05/12/galaxy-watch-4-wear-os-expansion-report/",
-      "urlToImage": "https://i2.wp.com/9to5google.com/wp-content/uploads/sites/4/2020/09/samsung_galaxy_watch_3_3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2021-05-12T14:21:00Z",
-      "content": "Samsung’s Galaxy Watch 4 might be one of the most important smartwatches outside of the Apple Watch in quite some time as it merges Samsung’s hardware with Google’s Wear OS, and now yet another repor… [+1850 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Www.https"
-      },
-      "author": "Variety",
-      "title": "Rock & Roll Hall of Fame's 2021 inductees include Tina Turner, Foo Fighters and Jay-Z - Fox News",
-      "description": "The 36th annual ceremony is set for Oct. 30 at Cleveland’s Rocket Mortgage Fieldhouse.",
-      "url": "https://www.https://variety.com/2021/music/news/rock-roll-hall-of-fame-to-induct-jay-z-carole-king-go-gos-tina-turner-todd-rundgren-and-foo-fighters-1234971224/",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/turner-grohl-jay-z.jpg",
-      "publishedAt": "2021-05-12T14:04:49Z",
-      "content": "The Rock &amp; Roll Hall of Fame has pulled the curtain back on six inductees wholl be formally ushered in as the class of 2021, with Jay-Z, the Go-Gos, Tina Turner, Todd Rundgren, Carole King and Fo… [+5096 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "San Francisco Chronicle"
-      },
-      "author": "Trapper Byrne, Aidin Vaziri",
-      "title": "California likely to end most mask requirements after June 15 reopening, Newsom says - San Francisco Chronicle",
-      "description": "The state will require masks after its envisioned June 15 reopening only in “massively...",
-      "url": "https://www.sfchronicle.com/health/article/California-likely-to-end-most-mask-requirements-16170984.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/17/15/17/20763638/9/rawImage.jpg",
-      "publishedAt": "2021-05-12T14:03:45Z",
-      "content": "Gov. Gavin Newsom removes his mask before speaking during a news conference at Ruby Bridges Elementary School in Alameda on March 16, 2021. Newsom said Tuesday that the state is likely to remove its … [+1748 chars]"
+      "author": "Rob Goldberg",
+      "title": "Packers Rumors: Aaron Rodgers Wants Security, Guarantees as Starter in New Contract - Bleacher Report",
+      "description": "As Aaron Rodgers seeks a new contract with the Green Bay Packers, the quarterback is looking for security in his role going forward. Ian Rapoport of NFL...",
+      "url": "https://bleacherreport.com/articles/10002469-packers-rumors-aaron-rodgers-wants-security-guarantees-as-starter-in-new-contract",
+      "urlToImage": "https://media.bleacherreport.com/image/upload/v1620842985/ifazculj4fmthqf6wsgg.jpg",
+      "publishedAt": "2021-05-12T18:20:20Z",
+      "content": "Dylan Buell/Getty Images\r\nAs Aaron Rodgers seeks a new contract with the Green Bay Packers, the quarterback is looking for security in his role going forward.\r\nIan Rapoport of NFL Network provided th… [+1603 chars]"
     },
     {
       "source": {
@@ -99,168 +138,129 @@ news_us = {
         "name": "Investor's Business Daily"
       },
       "author": "Investor's Business Daily",
-      "title": "Dow Jones Today, Stocks Slide As Inflation Data Accelerates; Electronic Arts, MasterCraft Eye Buy Points - Investor's Business Daily",
-      "description": "NortonLifeLock and MasterCraft rose, Chevron led the Dow Jones today, but stocks fell early Wednesday following April inflation data.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-today-futures-lower-ahead-of-inflation-data-electronic-arts-mastercraft-eye-buy-points-china-energy-stocks-climb/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/07/stock-NYSE-facade-03-shutter.jpg",
-      "publishedAt": "2021-05-12T13:56:00Z",
-      "content": "Stocks headed for another round of losses Wednesday, as bond yields surged after an April inflation gauge rose more than expected. Banks, some biotechs and oil-related stocks rallied. Earnings news l… [+8465 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Shira Rubin, Steve Hendrix",
-      "title": "Death toll climbs and Arab-Israeli protests intensify as Israel and Gaza slip toward war - The Washington Post",
-      "description": "Mass Arab protests raged in Israeli cities, while Hamas fired more than 1,000 rockets into Israel and Israeli airstrikes destroyed several multilevel buildings in Gaza.",
-      "url": "https://www.washingtonpost.com/world/middle_east/israel-gaza-hamas-idf-rockets/2021/05/12/7989b49c-b28e-11eb-bc96-fdf55de43bef_story.html",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3CG2FDFTAEI6XK2DX265YWQPMU.jpg&w=1440",
-      "publishedAt": "2021-05-12T13:55:00Z",
-      "content": "\"It brings to mind scenes from our past, and we cannot accept it certainly not in our country,\" said Israeli Prime Minister Benjamin Netanyahu. \"I call on all public leaders, especially Arab leaders,… [+7288 chars]"
+      "title": "Dow Jones Dips, Nasdaq Dives; Fed Official Makes Inflation Pledge; Bears Maul Tech Stocks - Investor's Business Daily",
+      "description": "The Dow Jones sold off as inflation worries intensify. The bears mauled tech stocks such as Microsoft and Apple. A senior Fed official spoke on inflation.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-battered-nasdaq-dives-fed-official-makes-inflation-pledge-bears-maul-tech-stocks/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/11/stock-bear-wave-04-adobe.jpg",
+      "publishedAt": "2021-05-12T17:44:00Z",
+      "content": "The Dow Jones Industrial Average was off lows, but remained deep in the red as inflation worries intensified. The Nasdaq was selling off hardest as the bears mauled tech stocks such as Nvidia (NVDA),… [+5254 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "NBCSports.com"
+        "name": "Live Science"
       },
-      "author": "Myles Simmons",
-      "title": "NFL returns to London with Falcons-Jets, Jaguars-Dolphins in 2021 - NBC Sports - NFL",
-      "description": "The NFL’s international series is officially back with a pair of October games. The Falcons will host the Jets in Week Five and the Jaguars will host the Dolphins in Week Six. Both games will be played at 9:30 a.m. ET. The Jets-Falcons matchup on Oct. 10 will…",
-      "url": "https://profootballtalk.nbcsports.com/2021/05/12/nfl-returns-to-london-with-falcons-jets-jaguars-dolphins-in-2021/",
-      "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2021/05/GettyImages-1179458663-e1620827557157.jpg",
-      "publishedAt": "2021-05-12T13:54:00Z",
-      "content": "The NFL’s international series is officially back with a pair of October games.\r\nThe Falcons will host the Jets in Week Five and the Jaguars will host the Dolphins in Week Six.\r\nBoth games will be pl… [+950 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "Gas prices soar, panic buying and hoarding ensue as Colonial Pipeline shutdown drags on - CBS News",
-      "description": "Frustration is growing for many motorists. Some compared things to what they found at stores at the start of the COVID pendemic.",
-      "url": "https://www.cbsnews.com/news/gas-prices-colonial-pipeline-shutdown-panic-buying-hoarding-long-lines-outages/",
-      "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/12/9d242dc2-d715-4493-98fb-0de231942e04/thumbnail/1200x630/8b9e3dfcdaf9653b8e67f862bdb0a694/ap21131586369775.jpg",
-      "publishedAt": "2021-05-12T13:48:23Z",
-      "content": "The company that runs the Colonial Pipeline hopes to restore much of its operations by the end of the week. Until then, reports CBS News' Laura Podesta, government officials and industry experts are … [+2536 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "",
-      "title": "2021 NFL schedule release: Ranking all the Week 1 games, from Bucs vs. Cowboys to Chiefs vs. Browns - CBS Sports",
-      "description": "Sorting through the best of the Opening Weekend slate",
-      "url": "https://www.cbssports.com/nfl/news/2021-nfl-schedule-release-ranking-all-the-week-1-games-from-bucs-vs-cowboys-to-chiefs-vs-browns/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2020/12/14/c27dfe4f-0447-48f5-b395-d61d16dd768b/thumbnail/1200x675/9fb69b036f1a0d3d7e74f072e5996067/mahomes-2.jpg",
-      "publishedAt": "2021-05-12T13:17:00Z",
-      "content": "The biggest schedule release in NFL history will occur Wednesday night at 8 p.m. Eastern on NFL Network, with the first 17-game slate set to be unveiled in full. Earlier Wednesday, though, every majo… [+5284 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "John Bacon, Elinor Aspegren",
-      "title": "Johnson & Johnson vaccine deliveries delayed; 'black fungus' appearing in India; US deaths lowest in 14 months: Latest COVID-19 updates - USA TODAY",
-      "description": "After weeks of the U.S. reporting around 700 deaths per day, the country is now averaging about 600 deaths a day. Latest COVID-19 news.",
-      "url": "https://www.usatoday.com/story/news/health/2021/05/12/covid-pfizer-vaccine-variant-deaths-hesitancy-cases/5046377001/",
-      "urlToImage": "https://www.gannett-cdn.com/presto/2021/05/12/USAT/f1718a84-e8f8-4fa4-95a2-729411511302-AP21131792607869.jpg?crop=5327,2996,x0,y186&width=3200&height=1680&fit=bounds",
-      "publishedAt": "2021-05-12T13:06:09Z",
-      "content": "How \"conspiracy theories\" are working against the goal of getting Americans vaccinated for COVID-19.\r\nUSA TODAY\r\nA federal advisory committee meeting today is expected to sign off on allowing one vac… [+10270 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CoinDesk"
-      },
-      "author": "Damanick Dantes",
-      "title": "US CPI Report Shows April Inflation Faster Than Expected - CoinDesk - CoinDesk",
-      "description": "The April Consumer Price Index report from the Bureau of Labor Statistics shows prices rising at the fastest 12-month pace since 2008.",
-      "url": "https://www.coindesk.com/us-cpi-report-faster-inflation-april",
-      "urlToImage": "https://static.coindesk.com/wp-content/uploads/2014/11/inflation-research-shutterstock_1500px-1200x628.jpg",
-      "publishedAt": "2021-05-12T13:04:57Z",
-      "content": "U.S. consumer prices rose to 4.2% in the 12 months through April, the fastest pace since 2008, the Labor Department’s Bureau of Labor Statistics (BLS) reported Wednesday. \r\nThe latest reading on the … [+1758 chars]"
+      "author": "Stephanie Pappas",
+      "title": "A mysterious 'hum' vibrates interstellar space. Voyager 1 has a recording of it. - Livescience.com",
+      "description": "Interstellar plasma is vibrating out there past the edges of the solar system.",
+      "url": "https://www.livescience.com/voyager-hum-interstellar-space.html",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7FpLzsQyVKUTRZUuh8V6UC-1200-80.jpg",
+      "publishedAt": "2021-05-12T17:39:41Z",
+      "content": "Forty-four years after it rocketed off from Earth, the Voyager 1 spacecraft is detecting the background \"hum\" of interstellar space for the first time.\r\nVoyager 1, launched in 1977, left the bounds o… [+3414 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Dieter Bohn",
-      "title": "Amazon updates the Echo Show 8 and 5 with better cameras - The Verge",
-      "description": "The Echo Show 8 is better for video calls now, with a 13-megapixel camera that can automatically pan to keep you in frame. The smaller Show 5 also has a new camera, but the main news for it is the price drop.",
-      "url": "https://www.theverge.com/2021/5/12/22429549/amazon-echo-show-8-5-camera-update-price-kids-edition",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/XxHS1msRRAbUjTG5kbgdGvz0qxA=/0x326:2880x1834/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22505315/Echo_Show_8_Kitchen.jpg",
-      "publishedAt": "2021-05-12T13:00:00Z",
-      "content": "Plus a price drop for the Echo Show 5\r\nAmazon is refreshing a handful of products in its Echo line: the Echo Show 8 and Echo Show 5, plus its adding a Kids Edition of the Echo Show 5. The big new fea… [+2400 chars]"
+      "author": "Allison Johnson",
+      "title": "Asus introduces ZenFone 8 and ZenFone 8 Flip - The Verge",
+      "description": "The ZenFone 8 Flip includes Asus’ unusual forward-rotating camera module, while the ZenFone 8 is a compact flagship designed for easy one-handed use. Both include a top-of-the-line Snapdragon 888 processor and 5G connectivity.",
+      "url": "https://www.theverge.com/2021/5/12/22430948/asus-zenfone-8-flip-price-specs-availability",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Ug8JCx03v3T7aL1URG1f3-PrMtM=/0x144:2000x1191/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22508009/ZenFone8_group_01.jpg",
+      "publishedAt": "2021-05-12T17:30:00Z",
+      "content": "The smaller ZenFone 8 loses the rotating camera mechanism \r\nThe larger, pricier ZenFone 8 Flip includes a camera module that rotates forward for selfies.\r\nPhoto: Asus\r\nAsus is taking a slightly diffe… [+2710 chars]"
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Amy Sood",
-      "title": "Bodies found floating in the Ganges as India's Covid death toll passes 250,000 - NBC News",
-      "description": "A slew of bodies have been found floating in the Ganges river amid India’s rampant second wave of Covid-19.",
-      "url": "https://www.nbcnews.com/news/world/bodies-found-floating-ganges-india-s-covid-death-toll-passes-n1267059",
-      "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2021_18/3470323/210505-india-covid-mc-13084_7dab1d94c36dd4482180777e8f755102.nbcnews-fp-1200-630.JPG",
-      "publishedAt": "2021-05-12T12:05:00Z",
-      "content": "Dozens of bodies have been washing up on the banks of the Ganges river as hospitals and crematoriums across India remain overwhelmed by the country's rampant second wave of Covid-19.\r\nOfficials in th… [+4007 chars]"
+      "author": "Wesley LeBlanc",
+      "title": "PlayStation Working on 25 PS5 Games, Half are New Franchises - IGN - IGN",
+      "description": "PlayStation Studios head, Hermen Hulst, has revealed that it's working on more than 25 new titles, half of which are entirely new IP.",
+      "url": "https://www.ign.com/articles/playstation-working-on-25-ps5-games-half-are-new-franchises",
+      "urlToImage": "https://assets1.ignimgs.com/2016/06/21/untitled-3jpg-485315.jpg?width=1280",
+      "publishedAt": "2021-05-12T17:06:46Z",
+      "content": "PlayStation Studios head, Hermen Hulst, says they have more than 25 PlayStation 5 games in development, half of which are new IP.As reported by Wired, Hulst says PlayStation Studios which is comprise… [+2063 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Josh Gerstein",
+      "title": "‘I have reassessed’: Former Pentagon official now says Trump may not have incited riot - POLITICO",
+      "description": "Sparks flew between Democrats on the panel and the Trump appointees.",
+      "url": "https://www.politico.com/news/2021/05/12/miller-trump-didnt-incite-capitol-riot-487576",
+      "urlToImage": "https://static.politico.com/21/f5/9887ff58480aa1c598c4b0583a2a/20210512-raja-krishnamoorthi-ap-773.jpg",
+      "publishedAt": "2021-05-12T17:05:17Z",
+      "content": "Miller echoed the same message.\r\nI had all the authority I needed, and I knew what had to happen, the former Defense official said, adding that Trump had given him that authority in the days before t… [+5116 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "NewOrleansSaints.com"
+        "name": "The A.V. Club"
       },
-      "author": null,
-      "title": "New Orleans Saints will host Green Bay Packers to open the 2021 NFL season - NewOrleansSaints.com",
-      "description": "Fox announces 3:25 p.m. game on Sept. 12 at Mercedes-Benz Superdome between two of the best in the NFC",
-      "url": "https://www.neworleanssaints.com/news/new-orleans-saints-will-host-green-bay-packers-to-open-the-2021-nfl-season",
-      "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/saints/jih6eoc1ffd50cxhug27",
-      "publishedAt": "2021-05-12T12:03:17Z",
-      "content": "The New Orleans Saints will open the 2021 NFL season at home against one of the top teams in the NFC, the Green Bay Packers.\r\nFox announced Wednesday, May 12 that the Saints will host the Packers at … [+597 chars]"
+      "author": "Tatiana Tenreyro",
+      "title": "Tina Turner, Todd Rundgren, Foo Fighters, Jay-Z, and more to be inducted into the The Rock and Roll Hall Of Fa - The A.V. Club",
+      "description": "Tina Turner, Jay-Z, Foo Fighters, and more to be inducted into the Rock And Roll Hall Of Fame this year.",
+      "url": "https://music.avclub.com/tina-turner-todd-rundgren-foo-fighters-jay-z-and-mo-1846878116",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/81ab170fef1ec4ef2db8376265575efa.jpg",
+      "publishedAt": "2021-05-12T16:45:00Z",
+      "content": "The Rock and Roll Hall Of Fame announced this years inductees, and some great names are getting the honor this year. As revealed on Today, the honorees are Tina Turner, The Go-Gos, Carole King, Jay-Z… [+1328 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston.com"
+      },
+      "author": "dialynn-dwyer",
+      "title": "Mass. is seeing an increase in fatal opioid overdoses, and deaths are surging among Black men - Boston.com",
+      "description": "\"This is the first increase in annual opioid-related deaths in Massachusetts in three years.\"",
+      "url": "https://www.boston.com/news/health/2021/05/12/overdose-deaths-rising-massachusetts-2020",
+      "urlToImage": "https://www.boston.com/wp-content/uploads/2019/06/unnamed-file-850x478.jpeg",
+      "publishedAt": "2021-05-12T16:44:27Z",
+      "content": "Overdose deaths in Massachusetts are rising again, with the most drastic increase in deaths occurring among Black non-Hispanic men in the state.\r\nPublic health officials announced Wednesday that opio… [+4215 chars]"
     },
     {
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "Lianne Kolirin, CNN",
-      "title": "Andra Day lost 40 pounds to play Billie Holiday -- but she didn't feel any prettier - CNN ",
-      "description": "Golden Globe-winner Andra Day has revealed that she lost 40 pounds to play jazz legend Billie Holiday -- but it didn't make her feel more beautiful.",
-      "url": "https://www.cnn.com/2021/05/12/entertainment/andra-day-billie-weight-scli-intl/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210512061444-02-andra-day-billie-holiday-super-tease.jpg",
-      "publishedAt": "2021-05-12T11:57:00Z",
-      "content": null
+      "author": "Stella Chan, CNN",
+      "title": "California to effectively end mask mandate when state fully reopens next month, Gov. Newsom says - CNN",
+      "description": "Gov. Gavin Newsom said California will effectively end its mask mandate next month when the state plans to fully reopen after more than a year of Covid-19 restrictions.",
+      "url": "https://www.cnn.com/2021/05/12/us/california-mask-mandate/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210217233754-01-us-coronavirus-0217-super-tease.jpg",
+      "publishedAt": "2021-05-12T16:43:00Z",
+      "content": "(CNN)Gov. Gavin Newsom said California will effectively end its mask mandate next month when the state plans to fully reopen after more than a year of Covid-19 restrictions.\r\nIn an on-camera intervie… [+2384 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Minneapolis Star Tribune"
+        "name": "BBC News"
       },
-      "author": "Jeremy Olson",
-      "title": "Long-haul COVID-19 patients surprise Mayo researchers - Minneapolis Star Tribune",
-      "description": "Fatigue and continued breathing problems were most common symptoms along with neurological and cognitive issues.",
-      "url": "https://www.startribune.com/long-haul-covid-19-patients-surprise-mayo-researchers/600056266/",
-      "urlToImage": "https://chorus.stimg.co/22508757/1mayo051221.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
-      "publishedAt": "2021-05-12T11:47:18Z",
-      "content": "Lingering breathing problems and complications in the weeks and months after suffering COVID-19 illnesses were most common in women and in patients who didn't need hospitalizations or suffer severe i… [+2598 chars]"
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "No 10 seeks to cancel county court debt judgment against Boris Johnson - BBC News",
+      "description": "The claim - made against the PM over an alleged unpaid debt of £535 - is without merit, says Downing Street.",
+      "url": "https://www.bbc.com/news/uk-politics-57087274",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/36E9/production/_118475041_mediaitem118475037.jpg",
+      "publishedAt": "2021-05-12T16:23:18Z",
+      "content": "Downing Street is seeking to cancel a county court judgment against Prime Minister Boris Johnson that cites an unpaid bill of £535.\r\nThe order was made against Mr Johnson, of 10 Downing Street, on 26… [+3554 chars]"
     },
     {
       "source": {
-        "id": "engadget",
-        "name": "Engadget"
+        "id": null,
+        "name": "New York Times"
       },
-      "author": "https://www.engadget.com/about/editors/steve-dent",
-      "title": "EU court says Amazon won't have to pay its $300 million tax bill - Engadget",
-      "description": "Amazon has won an EU appeal after being hit with a €250 million ($303 million) tax bill by the European Commission in 2017..",
-      "url": "https://www.engadget.com/amazon-wins-appeal-after-the-eu-hit-it-with-a-300-million-tax-bill-114511406.html",
-      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/1b2621d0-b30e-11eb-a9af-6356352fc333",
-      "publishedAt": "2021-05-12T11:38:05Z",
-      "content": "Amazon has won an EU appeal after being hit with a 250 million ($303 million) tax bill by the European Commission (EC) in 2017, the WSJ has reported. After a similar decision in favor of Apple, the j… [+1799 chars]"
+      "author": "Julie Turkewitz, Sofía Villamil, Federico Rios",
+      "title": "Colombia Protests: Police Force, Built for War, Finds a New One - The New York Times",
+      "description": "Police spent decades fighting left-wing guerrillas and paramilitaries. Now, they’re cracking down on protesters, and igniting a wider demonstration movement in response.",
+      "url": "https://www.nytimes.com/2021/05/12/world/americas/colombia-protests-police-brutality.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/05/10/world/00colombia-police1-promo/00colombia-police1-promo-facebookJumbo-v2.jpg",
+      "publishedAt": "2021-05-12T16:23:04Z",
+      "content": "At the time, the government hoped to professionalize and depoliticize the job by consolidating a fragmented system into a national force, said Juan Carlos Ruíz, a professor and security expert at Col… [+1844 chars]"
     }
   ]
 }

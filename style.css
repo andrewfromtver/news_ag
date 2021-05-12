@@ -211,7 +211,7 @@ button:active, select:active, .menu > h3:active {
     left: 0;
     z-index: 9999;
     width: 100%;
-    height: calc(100% - 8px);
+    height: calc(100% - 6px);
 }
 
 .popup {
@@ -229,7 +229,15 @@ button:active, select:active, .menu > h3:active {
     justify-content: space-between;
 }
 
-.popup > header > img {
+#popupactions > img {
+    height: 28px;
+    width: 28px;
+    border-radius: 4px;
+    margin: 7px 10px;
+    cursor: pointer;
+}
+
+#redirect {
     height: 24px;
     width: 24px;
     border-radius: 4px;

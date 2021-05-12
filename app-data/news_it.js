@@ -7,6 +7,214 @@ news_it = {
         "id": null,
         "name": "Corriere.it"
       },
+      "author": "Maria Strada",
+      "title": "Sinner-Nadal agli Internazionali di tennis di Roma. La diretta: vince Nadal 4-7, 4-6 - Corriere della Sera",
+      "description": "L’azzurro, 19 anni e n. 18 del mondo, sfida lo spagnolo n. 3, già nove volte re del Foro Italico",
+      "url": "https://www.corriere.it/sport/21_maggio_12/sinner-nadal-internazionali-tennis-roma-cronaca-diretta-partita-321b4264-b339-11eb-a8d8-6fa95675e8be.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/12/333ab204-b34f-11eb-a8d8-6fa95675e8be.jpg",
+      "publishedAt": "2021-05-12T19:22:09Z",
+      "content": "Jannik Sinner si arrende in due set a Rafa Nadal n. 3 del mondo e n. 2 degli Internazionali di tennis di Roma, nei sedicesimi di finale. Lo spagnolo vince 7-5, 6-4 dopo aver subito ben tre break (due… [+7565 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilfattoquotidiano.it"
+      },
+      "author": "F. Q.",
+      "title": "Gaza, razzi e bombe. Tel Aviv abbatte un altro palazzo di 10 piani sede anche delle redazioni di media locali - Il Fatto Quotidiano",
+      "description": "Prosegue l'escalation di violenze in Medio Oriente, che finora hanno provocato 56 morti palestinesi e 6 israeliani. Tensione sulla Spianata delle Moschee, scontri anche a Lod, definito dal presidente Rivlin un \"pogrom\" e dove stanotte per la prima volta nella…",
+      "url": "https://www.ilfattoquotidiano.it/2021/05/12/gaza-razzi-e-bombe-tel-aviv-abbatte-un-altro-palazzo-di-10-piani-sede-anche-delle-redazioni-di-media-locali-bambino-israeliano-di-6-anni-ucciso-da-un-missile-a-sderot/6195025/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/12/gaza-1.jpg",
+      "publishedAt": "2021-05-12T19:07:30Z",
+      "content": "È ormai guerra aperta tra Israele e le milizie di Hamas e del Jihad Islamico che operano nella Striscia di Gaza. In 36 ore di conflitto, dall’enclave sono stati lanciati oltre mille razzi verso Ashke… [+12387 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Corriere.it"
+      },
+      "author": "Federica Bandirali",
+      "title": "Filippo Magnini e Giorgia Palmas si sono sposati a Milano. In segreto - Corriere della Sera",
+      "description": "La cornice è stata quella di Palazzo Reale e alla cerimonia, come hanno rivelato i due neosposi sui social presenti solo i testimoni e i rappresentati delle loro famiglie",
+      "url": "https://www.corriere.it/moda/21_maggio_12/filippo-magnini-giorgia-palmas-si-sono-sposati-milano-segreto-605165e4-b34f-11eb-98bc-a84b336dc8e1.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/2021/05/12/Moda/Foto-Moda-Trattate/fgd-ku1B-RAbvb254B8aTa6Zjsunsa7K-526x284@Corriere-Web-Sezioni.jpg",
+      "publishedAt": "2021-05-12T18:52:46Z",
+      "content": "Una foto in bianco e nero per dare l’annuncio: Filippo Magnini e Giorgia Palmas si sono sposati oggi pomeriggio, 12 maggio 2021: «Abbiamo detto Sì», hanno scritto sui loro profili Instagram i due spo… [+666 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Adnkronos.com"
+      },
+      "author": "lalli",
+      "title": "Per Mario Draghi nessun compenso come premier - Adnkronos",
+      "description": "E' quanto emerge dai dati pubblicati sul sito della presidenza del Consiglio. Nel 2019 per l'ex numero uno della Bce reddito di oltre 581 mila euro",
+      "url": "https://www.adnkronos.com/per-mario-draghi-nessun-compenso-come-premier_512GuLoeHTXTGCKqGGseBc",
+      "urlToImage": "https://www.adnkronos.com/resources/0269-1242a3d2d737-6d5539083f0a-1000/draghi25_afp.jpg",
+      "publishedAt": "2021-05-12T18:37:00Z",
+      "content": "E' quanto emerge dai dati pubblicati sul sito della presidenza del Consiglio. Nel 2019 per l'ex numero uno della Bce reddito di oltre 581 mila euroNessun compenso per la carica di Mario Draghi a pres… [+1055 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Libero.it"
+      },
+      "author": null,
+      "title": "Buone notizie per Xiaomi: non è più in black list - Libero Tecnologia",
+      "description": "Non c'è ancora l'accordo definitivo, ma quasi: Xiaomi esce dalla lista nera delle compagnie sospettate di legami con l'esercito cinese.",
+      "url": "https://tecnologia.libero.it/buone-notizie-per-xiaomi-non-e-piu-in-black-list-44315",
+      "urlToImage": "https://wips.plug.it/cips/tecnologia/cms/2021/03/xiaomi-mi-11-5g.jpg",
+      "publishedAt": "2021-05-12T18:30:00Z",
+      "content": "Xiaomi e il Governo degli Stati Uniti hanno trovato l’accordo: il colosso cinese dell’elettronica non è più nella lista nera stilata dall’amministrazione Trump (ed ereditata da quella Biden) delle co… [+2125 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Violanews.com"
+      },
+      "author": "Simone Bargellini",
+      "title": "Cagliari-Fiorentina, le pagelle VN: Kouame pasticcione, non brilla nessuno - Viola News",
+      "description": "Cagliari-Fiorentina finisce 0-0: una partita da sbadigli che avvicina entrambe alla salvezza. Le nostre pagelle",
+      "url": "https://www.violanews.com/news-viola/cagliari-fiorentina-le-pagelle-vn/",
+      "urlToImage": "https://prd-images2-gazzanet.gazzettaobjects.it/GPXqX_AUEizQf3uQH__-U8GyV2U=/1200x627/smart/www.violanews.com/assets/uploads/202105/261c501ee0357ebc52cc74e4984e9d59-scaled.jpg",
+      "publishedAt": "2021-05-12T18:24:45Z",
+      "content": "Testata giornalistica Autorizzazione Tribunale di Firenze n. 5931 del 03/09/2013 Editore: Fab Four 2013 Srl. Partita IVA: 06342490486 Direttore Responsabile: Saverio Pestuggia\r\nIl sito ViolaNews.com … [+432 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dday.it"
+      },
+      "author": "Roberto Pezzali",
+      "title": "Recensione Asus Zenfone 8. Davide prende a schiaffi Golia - DDay.it - Digital Day",
+      "description": "Dopo mesi di smartphone grandi e ingombranti lo Zenfone 8 sembra un miraggio: schermo da 5.9\", costruzione da vero top di gamma e pochissimi compromessi. Ad un prezzo tutto sommato abbordabile. Un prodotto che ci ha sorpreso: l'outsider porta a spasso i grand…",
+      "url": "https://www.dday.it/redazione/39465/recensione-asus-zenfone-8-davide-prende-a-schiaffi-golia",
+      "urlToImage": "https://dday.imgix.net/system/uploads/news/main_image/39465/870d73_P1077502.jpg?w=1000&h=500&fit=crop&crop=entropy&auto=format%2Ccompress&s=092e208ef1c182d65e3c557712997dff",
+      "publishedAt": "2021-05-12T18:13:38Z",
+      "content": "Asus, almeno nel segmento smartphone, non ci ha mai colpito più di tanto. Sarà che non abbiamo mai digerito quella \"tamarrata\" tutto marketing e niente arrosto del Rog Phone, sarà che la fotocamera r… [+28667 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Liberoquotidiano.it"
+      },
+      "author": "@libero_official",
+      "title": "Denise Pipitone, \"test del Dna subito a questa ragazza di Scalea\": ecco di chi si tratta - Liberoquotidiano.it",
+      "description": "Il caso di  Denise Pipitone  si fa sempre più intricato. La bambina di Mazara Del Vallo, scomparsa quando aveva solo 4 anni nel 2004, non &egra...",
+      "url": "https://www.liberoquotidiano.it/news/italia/27208664/denise-pipitone-test-dna-subito-questa-ragazza-scalea-ecco-di-chi-si-tratta.html",
+      "urlToImage": "https://img2.liberoquotidiano.it/images/2021/05/12/185346579-6f1565b1-c8bc-46fa-8311-a3d40e929e32.jpg",
+      "publishedAt": "2021-05-12T18:05:00Z",
+      "content": "Il caso di Denise Pipitone si fa sempre più intricato. La bambina di Mazara Del Vallo, scomparsa quando aveva solo 4 anni nel 2004, non è mai stata trovata. Una nuova pista dopo 17 anni sembrerebbe p… [+1443 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Proiezionidiborsa.it"
+      },
+      "author": "Lorenzo Masini",
+      "title": "Quello che è accaduto oggi in Borsa è veramente eccezionale e potrebbe costituire una svolta importantis ... - Proiezioni di Borsa",
+      "description": "Quando è suonata la campana della fine delle contrattazioni in Europa, molti operatori professionali si sono stropicciati gli occhi. Facevano fatica a",
+      "url": "https://www.proiezionidiborsa.it/quello-che-e-accaduto-oggi-in-borsa-e-veramente-eccezionale-e-potrebbe-costituire-una-svolta-importantissima-per-i-risparmiatori/",
+      "urlToImage": "https://www.proiezionidiborsa.it/site/wp-content/uploads/2021/05/mercati-2.jpg",
+      "publishedAt": "2021-05-12T17:56:00Z",
+      "content": "Quando è suonata la campana della fine delle contrattazioni in Europa, molti operatori professionali si sono stropicciati gli occhi. Facevano fatica a credere a quello che i monitor riportavano, a qu… [+2120 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilgiorno.it"
+      },
+      "author": "Il Giorno",
+      "title": "Vaccini, Figliuolo: \"Via alle prenotazioni per gli over 40\". Ecco quando si parte - IL GIORNO",
+      "description": "La comunicazione inviata alle Regioni: \"Dosi disponibili per i nati fino al 1981\". Intanto entro fine settimana sono in arrivo 3 milioni di fiale in Italia",
+      "url": "https://www.ilgiorno.it/cronaca/vaccini-prenotazioni-over-40-figliuolo-1.6354493",
+      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6314003.1620840888%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700&h=391",
+      "publishedAt": "2021-05-12T17:39:36Z",
+      "content": "Roma - Svolta nella campagna vaccinale in Italia. Il commissario per l'emergenza, Francesco Figliuolo, ha inviato alle Regioni una lettera per dare il via libera alle prenotazioni da lunedì 17 maggio… [+2790 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Corriere.it"
+      },
+      "author": "Fiorenza Sarzanini",
+      "title": "Elisabetta Belloni prima donna al vertice dei servizi segreti - Corriere della Sera",
+      "description": "La scelta del premier Draghi. Sostituirà il prefetto Gennaro Vecchione al vertice del Dipartimento delle informazioni per la Sicurezza",
+      "url": "https://www.corriere.it/politica/21_maggio_12/elisabetta-belloni-nuovo-capo-servizi-segreti-18bf7ac2-b345-11eb-a8d8-6fa95675e8be.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/12/96e16690-b345-11eb-a8d8-6fa95675e8be.jpg",
+      "publishedAt": "2021-05-12T17:37:30Z",
+      "content": "Il presidente del Consiglio, Mario Draghi, ha nominato l’ambasciatore Elisabetta Belloni Direttore generale del Dipartimento delle informazioni per la sicurezza, in sostituzione dell’attuale Direttor… [+603 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Calciomercatonews.com"
+      },
+      "author": null,
+      "title": "Calciomercato Juventus, l’ex squadra lo chiama | Suggestione shock - Calciomercatonews.com",
+      "description": "Lo Sporting Club de Portugal vince il campionato portoghese e arrivano i complimenti di Cristiano Ronaldo: possibile indizio di mercato",
+      "url": "https://www.calciomercatonews.com/2021/05/12/calciomercato-juventus-sporting-club-portugal-suggestione-cristiano-ronaldo/",
+      "urlToImage": "https://www.calciomercatonews.com/wp-content/uploads/2021/04/GettyImages-1297489368-1.jpg",
+      "publishedAt": "2021-05-12T16:30:06Z",
+      "content": "Lo Sporting Club de Portugal vince il campionato portoghese e subito arrivano i complimenti di un ex: possibile indizio di mercato\r\nIl campionato vinto dallo Sporting club de Portugal porta degli ind… [+1283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilfattoquotidiano.it"
+      },
+      "author": "Davide Turrini",
+      "title": "Indiana Jones 5, riprese in Sicilia per il quinto film della saga - Il Fatto Quotidiano",
+      "description": "Spielberg sarà esclusivamente produttore, mentre alla regia ci sarà James Mangold che, vista la performance dietro l’ottimo Le Mans ’66 – La grande sfida, potrebbe riservare saettante vigore alle gesta di Indy&co",
+      "url": "https://www.ilfattoquotidiano.it/2021/05/12/indiana-jones-5-riprese-in-sicilia-per-il-quinto-film-della-saga-nel-cast-anche-mads-mikkelsen-un-onore/6195918/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/12/Mads-Mikkelsen.jpg",
+      "publishedAt": "2021-05-12T16:08:21Z",
+      "content": "Indiana Jones5 avrà come set la località siciliana di Segesta e unaltra preziosa star in scena come Mads Mikkelsen. È stata ledizione di Repubblica Palermo a pubblicare la notizia di maestranze e cas… [+1600 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "esquire.com"
+      },
+      "author": "Redazione",
+      "title": "Il trucco per leggere un messaggio cancellato su WhatsApp - esquire.com",
+      "description": "Per chi è troppo curioso.",
+      "url": "https://www.esquire.com/it/lifestyle/tecnologia/a36396167/leggere-messaggio-cancellato-whatsapp/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1253805460-1-1620746933.jpg?crop=1.00xw:0.753xh;0,0.164xh&resize=1200:*",
+      "publishedAt": "2021-05-12T16:00:52Z",
+      "content": "Quante volte vi è capitato di sentire la notifica di un messaggio, raggiungere il cellulare, aprirlo, aprire WhatsApp e osservare con terribile sorpresa che il messaggio è stato cancellato (!). Il pi… [+1114 chars]"
+    },
+    {
+      "source": {
+        "id": "il-sole-24-ore",
+        "name": "Il Sole 24 Ore"
+      },
+      "author": null,
+      "title": "Inflazione Usa transitoria o strutturale? Dalle auto usate arriva un indizio per le Borse - Il Sole 24 ORE",
+      "description": "Notizie di economia, cronaca italiana ed estera, quotazioni borsa in tempo reale e di finanza, norme e tributi, fondi e obbligazioni, mutui, prestiti e lavoro a cura de Il Sole 24 Ore.",
+      "url": "https://www.ilsole24ore.com/",
+      "urlToImage": null,
+      "publishedAt": "2021-05-12T15:53:18Z",
+      "content": "Non solo rinnovabili\r\nLa sfida fra le tecnologie energetiche si gioca su molti piani in competizione fra loro e finora sia nel mondo sia in Italia l'unico insieme di tecnologie che nel mondo offre mi… [+213 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rainews.it"
+      },
+      "author": null,
+      "title": "Crimini di guerra: Karadzic sconterà ergastolo in Gb - Rai News",
+      "description": "Il Regno Unito ha accettato il trasferimento sul suo territorio dell'ex leader serbo-bosniaco Radovan Karadzic affinché sconti la sua condanna all'ergastolo per genocidio, crimini di guerra e crimini contro l'umanità. Karadzic, che ha 75 anni, è incarcerato n…",
+      "url": "https://www.rainews.it/dl/rainews/articoli/karadzic-ergastolo-gran-bretagna-ef65dd42-dbac-4465-8d57-5a8f4f652987.html",
+      "urlToImage": "https://www.rai.it/cropgd/476x249/dl/img/2021/05/1620835007577.rainews_20210512175612628_1fb48fd2bc805802e3fd2c0f21d4bb85.jpg",
+      "publishedAt": "2021-05-12T15:52:00Z",
+      "content": "12 maggio 2021Il Regno Unito ha accettato il trasferimento sul suo territorio dell'ex leader serbo-bosniaco Radovan Karadzic affinché sconti la sua condanna all'ergastolo per genocidio, crimini di gu… [+1779 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Corriere.it"
+      },
       "author": "Paola Caruso",
       "title": "Coronavirus in Italia, il bollettino di oggi 12 maggio: 7.852 nuovi casi e 262 morti - Corriere della Sera",
       "description": "I dati del bollettino sulla pandemia di Covid-19 di mercoledì 12 maggio",
@@ -31,236 +239,28 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Rainews.it"
+        "name": "Tuttobiciweb.it"
       },
       "author": null,
-      "title": "Sinagoghe e negozi in fiamme a Lod. \"E' stato un pogrom\", dice il presidente Israeliano Rivlin - Rai News",
-      "description": "Durissimo il capo dello stato che accusa \"una folla di arabi assetati di sangue e esaltati\".  Decine di arresti, proclamato lo stato d'emergenza Netanyahu: \"Useremo il pugno di ferro se necessario\", Stanotte scatta il coprifuoco",
-      "url": "https://www.rainews.it/dl/rainews/articoli/Lod-sinagoghe-in-fiamme-presidente-rivlin-pogrom-stato-emergenza-e3f5e6c5-cc98-4a89-8a14-23714e5221dc.html",
-      "urlToImage": "https://www.rai.it/cropgd/476x249/dl/img/2021/05/1620819200317.AP21131777565546.jpg",
-      "publishedAt": "2021-05-12T15:19:00Z",
-      "content": "12 maggio 2021Quello che sta succedendo a Lod città di poco più di 60mila abitanti nel centro di Israele non ha precedenti nella storia recente della pur tormentata vicenda mediorientale. Il presiden… [+3363 chars]"
+      "title": "GIRO D'ITALIA 2021. CALEB EWAN BRUCIA NIZZOLO. LANDA KO - TUTTOBICIWEB.it",
+      "description": "Volata serratissima sul traguardo di Cattolica al termine di una tappa nervosissima",
+      "url": "https://www.tuttobiciweb.it/article/2021/05/12/1620822330/giro-italia-2021-5-tappa-vittoria-ewan-classifica",
+      "urlToImage": "https://www.tuttobiciweb.it/article/1620822330/photo-social.jpg?1906721188",
+      "publishedAt": "2021-05-12T15:30:00Z",
+      "content": "Caleb Ewan torna a colpire al Giro d'Italia e per la quarta volta mette la sua ruota davanti a tutti. L'australiano della Lotto Soudal ha sfoderato una delle sue proverbiali accelerazioni rimontando … [+29107 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Ilfattoquotidiano.it"
+        "name": "Fanpage.it"
       },
-      "author": "F. Q.",
-      "title": "Dall’alleanza con il Pd al doppio mandato per gli eletti M5s, fino all’incontro tra Renzi e lo… - Il Fatto Quotidiano",
-      "description": "FORUM DEL FATTO QUOTIDIANO L'ex premier Giuseppe Conte intervistato da Antonio Padellaro, Gad Lerner e Paola Zanca. Guarda il video integrale",
-      "url": "https://www.ilfattoquotidiano.it/2021/05/12/dallalleanza-con-il-pd-al-doppio-mandato-per-gli-eletti-m5s-fino-allincontro-tra-renzi-e-lo-007-lintegrale-di-conte-al-forum-del-fatto-video/6194788/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/12/item_conte4.png",
-      "publishedAt": "2021-05-12T15:08:22Z",
-      "content": "Il video integrale del confronto tra l’ex presidente del Consiglio Giuseppe Conte, ospite del Forum de Il Fatto Quotidiano, il fondatore del giornale Antonio Padellaro, Gad Lerner e Paola Zanca.\r\nTan… [+1395 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Liberoquotidiano.it"
-      },
-      "author": "@libero_official",
-      "title": "Al Bano Carrisi contro Fedez: \"Nelle sue vecchie canzoni parole che non voglio ripetere, mi hanno sconcertato\" - Liberoquotidiano.it",
-      "description": "“Ho letto cose che cantava nei suoi pezzi di qualche anno fa.  Parole che non voglio neanche ripetere e che mi hanno sconcertato ”:  Al Ba...",
-      "url": "https://www.liberoquotidiano.it/news/personaggi/27206690/al-bano-carrisi-fedez-vecchie-canzoni-parole-non-voglio-ripetere-sconcertato.html",
-      "urlToImage": "https://img2.liberoquotidiano.it/images/2021/05/12/145730114-2c59c74f-e0b9-4431-b02f-4ac684b07620.jpeg",
-      "publishedAt": "2021-05-12T14:53:00Z",
-      "content": "“Ho letto cose che cantava nei suoi pezzi di qualche anno fa. Parole che non voglio neanche ripetere e che mi hanno sconcertato”: Al Bano Carrisi bacchetta Fedez – in un’intervista al settimanale Ogg… [+1438 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Palermotoday.it"
-      },
-      "author": "Redazione",
-      "title": "Vaccini, in Sicilia in arrivo 160 mila dosi Pfizer e due nuovi hub nel Palermitano - PalermoToday",
-      "description": "I centri apriranno le porte entro domenica: uno nascerà a Bagheria e l'altro a Cefalù. Regione al lavoro per predisporre le procedure per la vaccinazione di...",
-      "url": "https://www.palermotoday.it/cronaca/vaccini-sicilia-apertura-hub-cefalu-bagheria.html",
-      "urlToImage": "https://www.palermotoday.it/~media/horizontal-hi/42024981840933/centro-vaccini-bagheria-2.jpeg",
-      "publishedAt": "2021-05-12T14:30:00Z",
-      "content": "\"Oggi arriveranno da Roma altre 160 mila dosi di vaccini Pfizer\". Ad annunciare la notizia è la Presidenza della Regione che fa il punto sulla campagna vaccinale. Complessivamente nei frigoriferi deg… [+2589 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Romatoday.it"
-      },
-      "author": "Redazione",
-      "title": "Coronavirus a Roma e nel Lazio, il bollettino dei nuovi contagi: i dati del 12 maggio - RomaToday",
-      "description": "D'Amato: \"Continua la frenata, oggi nuovo record di diminuzione numero di nuovi postivi\"",
-      "url": "https://www.romatoday.it/attualita/coronavirus-roma-notizie-contagi-aggiornamenti-12-maggio-2021.html",
-      "urlToImage": "https://www.romatoday.it/~media/horizontal-hi/68092414292455/coronavirus-roma-dati-contagi-di-oggi-2.jpg",
-      "publishedAt": "2021-05-12T14:26:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilmessaggero.it"
-      },
-      "author": "Redazione Web",
-      "title": "Vaccini Lazio, prenotazioni 52-53 anni da sabato: i centri con AstraZeneca, Pfizer, J&J e Moderna - ilmessaggero.it",
-      "description": "Da sabato nel Lazio partono le prenotazioni per i vaccini anti covid per chi ha 52-53 anni (nati nel 1968 e 1969). Si potrà fissare un appuntamento dalla mezzanotte del 15...",
-      "url": "https://www.ilmessaggero.it/roma/news/prenotazione_lazio_vaccini_52_53_anni_astrazeneca_pfizer_johnson_moderna_news_oggi_ultima_ora-5955397.html",
-      "urlToImage": "https://www.ilmessaggero.it/photos/MED/53/97/5955397_1653_vaccino_lazio_5253anni.jpg",
-      "publishedAt": "2021-05-12T14:12:19Z",
-      "content": "Da sabato nel Lazio partono le prenotazioni per i vaccini anti covid per chi ha 52-53 anni (nati nel 1968 e 1969). Si potrà fissare un appuntamento dalla mezzanotte del 15 maggio. Un giorno in cui ci… [+13365 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Huffingtonpost.it"
-      },
-      "author": "Giulia Belardelli",
-      "title": "Usa, Liz Cheney rimossa dai vertici del partito repubblicano per le critiche a The Donald - L'HuffPost",
-      "description": "La deputata promette: \"Continuerò a battermi contro le bugie di Trump\". Lui gongola: \"Una leader mediocre, senza personalità\"",
-      "url": "https://www.huffingtonpost.it/entry/usa-liz-cheney-rimossa-dai-vertici-del-partito-repubblicano_it_609bdbefe4b099ba75313e27",
-      "urlToImage": "https://img.huffingtonpost.com/asset/609bdfb4260000fb6db42d5c.jpeg?ops=1200_630",
-      "publishedAt": "2021-05-12T14:07:51Z",
-      "content": "Liz Cheney, terza carica del partito repubblicano alla Camera dei Rappresentanti del Congresso americano, è stata rimossa dal suo incarico per aver criticato l’ex presidente Donald Trump. “Continuerò… [+3783 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilfattoquotidiano.it"
-      },
-      "author": "F. Q.",
-      "title": "Gaza, razzi e bombe: il conflitto continua a oltranza. Israele: “Eliminati alti comandanti di… - Il Fatto Quotidiano",
-      "description": "Prosegue l'escalation di violenze in Medio Oriente, che finora hanno provocato 56 morti palestinesi e 6 israeliani. Tensione sulla Spianata delle Moschee, scontri anche a Lod, definito dal presidente Rivlin un \"pogrom\", e nel campo profughi di Fawwar. All'alb…",
-      "url": "https://www.ilfattoquotidiano.it/2021/05/12/gaza-razzi-e-bombe-il-conflitto-continua-a-oltranza-israele-eliminati-alti-comandanti-di-hamas-di-maio-serve-moderazione-lancio-di-razzi-inaccettabile/6195025/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/12/gaza.jpg",
-      "publishedAt": "2021-05-12T13:52:30Z",
-      "content": "È ormai guerra aperta tra Israele e le milizie di Hamas e del Jihad Islamico che operano nella Striscia di Gaza. In 36 ore di conflitto, dall’enclave sono stati lanciati oltre mille razzi verso Ashke… [+9547 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Adnkronos.com"
-      },
-      "author": "mrtrepetto",
-      "title": "Draghi: \"Su matrimoni ci vuole pazienza, riaperture in sicurezza\" - Adnkronos",
-      "description": "Il settore wedding all'attenzione della prossima Cabina di Regia: 'Capisco la preoccupazione delle coppie, daremo certezze al comparto'. Lungo",
-      "url": "https://www.adnkronos.com/matrimoni-2021-draghi-ci-vuole-pazienza-lunedi-ne-discuteremo_3wAVsZpzhHqTRrVDIXBKxY",
-      "urlToImage": "https://www.adnkronos.com/resources/0269-12423f562ebd-4ee08b9e2b31-1000/draghi_camera_fg.jpg",
-      "publishedAt": "2021-05-12T13:37:00Z",
-      "content": "Il settore wedding all'attenzione della prossima Cabina di Regia: \"Capisco la preoccupazione delle coppie, daremo certezze al comparto\". Lungo applauso dopo il ricordo di Luana, morta sul lavoroRiape… [+2698 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GPone English"
-      },
-      "author": "Marco Caregnato",
-      "title": "MotoGP, Dovizioso ed il futuro: Wild card? Per ora non sono nei miei programmi - GPOne.com",
-      "description": "\"Siamo stati sfortunati, ma abbiamo sfruttato il tempo disponibile per sistemare la posizione in sella. Servirebbe un altro test, ma per adesso non ha senso parlare di gare\"",
-      "url": "https://www.gpone.com/it/2021/05/12/motogp/dovizioso-ed-il-futuro-wild-card-per-ora-non-sono-nei-miei-programmi.html",
-      "urlToImage": "https://www.gpone.com/sites/default/files/images/2021/article/foto/05/MotoGP/generic/dovi-2-1620824691.jpg",
-      "publishedAt": "2021-05-12T13:04:51Z",
-      "content": "Al Mugello si è conclusa la due giorni di test di Andrea Dovizioso in sella all'Aprilia RS-GP ed il vero protagonista è stato purtroppo un meteo particolarmente avverso. Pioggia e freddo non hanno da… [+6028 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilrestodelcarlino.it"
-      },
-      "author": "DONATELLA BARBETTA",
-      "title": "Prenotazione online vaccino Emilia Romagna over 50: quando e come fare - il Resto del Carlino",
-      "description": "Da giovedì 13 maggio chi appartiene alla fascia d’età 50-54 anni può farlo via web oppure può chiamare il proprio medico di base",
-      "url": "https://www.ilrestodelcarlino.it/emilia-romagna/prenotazione-online-vaccino-emilia-romagna-over-50-1.6353873",
-      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6353884.1620824220%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700&h=391",
-      "publishedAt": "2021-05-12T13:00:20Z",
-      "content": "Bologna, 12 maggio 2021 Da mezzanotte chi appartiene alla fascia detà 50-54 anni può autocandidarsi alla vaccinazione anti Covid collegandosi al sito della Regione Emilia Romagna  http://salute.regio… [+1989 chars]"
-    },
-    {
-      "source": {
-        "id": "la-repubblica",
-        "name": "La Repubblica"
-      },
-      "author": "Andrea Montanari",
-      "title": "Scala, tra Riccardo Muti e Riccardo Chailly scintille in camerino dopo la doppia riapertura del teatro - La Repubblica",
-      "description": "Tensione tra i due direttori d'orchestra all'indomani dei due concerti che hanno segnato la riapertura del Piermarin dopo 200 giorni di restrizioni ant…",
-      "url": "https://milano.repubblica.it/cronaca/2021/05/12/news/scala_muti_chailly_riapertura_polemiche_camerino-300616594/",
-      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-milano/2021/05/12/125016897-e47e84fc-da8d-4167-83a1-832096111850.jpg",
-      "publishedAt": "2021-05-12T12:31:54Z",
-      "content": "Scintille tra Riccardo Muti e Riccardo Chailly alla Scala dopo il concerto dei Wiener Philharmoniker. A raccontare quanto è accaduto ieri in prossimità dei camerini del Piermarini  sono i testimoni o… [+244 chars]"
-    },
-    {
-      "source": {
-        "id": "ansa",
-        "name": "ANSA.it"
-      },
-      "author": "",
-      "title": "Superlega, la Uefa apre un'inchiesta disciplinare su Real, Barcellona e Juve - ANSA Nuova Europa",
-      "description": "Sono stati nominati ispettori etici e disciplinari per una 'potenziale violazione del quadro\r\ngiuridico' (ANSA)",
-      "url": "https://www.ansa.it/sito/notizie/sport/2021/05/12/superlega-inchiesta-disciplinare-uefa-su-real-barcellona-e-juve_29c44062-290e-4eea-bbea-7fb71fbac296.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2021/4/18/24b65b79eeef89ebe502ea776c118692.jpg",
-      "publishedAt": "2021-05-12T12:14:39Z",
-      "content": "La Uefa ha aperto una inchiesta disciplinare contro Real Madrid, Barcellona e Juventus in merito all'adesione al progetto della Superlega. L'organismo europeo ha nominato \"ispettori etici e disciplin… [+349 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Calcionapoli24.it"
-      },
-      "author": "Redazione",
-      "title": "\"Spettacolare frate\". Insigne show, arrivano i complimenti di Raul Albiol! [FOTO] - CalcioNapoli24",
-      "description": "L'ex difensore del Napoli Raul Albiol si complimenta con il capitano Lorenzo Insigne dopo la vittoria in campionato sull'Udinese",
-      "url": "https://www.calcionapoli24.it/social/spettacolare-frate-insigne-show-arrivano-i-complimenti-di-raul-albiol-foto-n481292.html",
-      "urlToImage": "http://resource.calcionapoli24.it/www/thumbs/643x350/1585211142_44.jpg",
-      "publishedAt": "2021-05-12T11:58:00Z",
-      "content": "Ultimissime notizie Napoli. Ieri gli azzurri hanno stravinto contro l'Udinese facendo un passo in avanti decisivo nella corsa alla Champions League. I calciatori si godono il secondo posto momentaneo… [+501 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Adnkronos.com"
-      },
-      "author": "mrtrepetto",
-      "title": "Vaccini Covid, \"nessuna dose al Veneto dal Sud\" - Adnkronos",
-      "description": "La smentita di Zaia e della struttura del commissario all'emergenza Covid Figliuolo",
-      "url": "https://www.adnkronos.com/vaccini-covid-nessuna-dose-al-veneto-dal-sud_21U6E1ZIYHsTSvTYp5eNho",
-      "urlToImage": "https://www.adnkronos.com/resources/0269-12421739004b-21478c89eb7c-1000/zaia7_fg.jpg",
-      "publishedAt": "2021-05-12T11:49:00Z",
-      "content": "La smentita di Zaia e della struttura del commissario all'emergenza Covid FigliuoloVaccini anti covid inutilizzati al Sud e traferiti in Veneto? Nessuna dose in arrivo. Lo spiega il presidente della … [+2261 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Corriere.it"
-      },
-      "author": "Giulio Gori",
-      "title": "Vaccini Toscana, prenotazioni per tutti gli over 50: 20 mila prenotazioni in un’ora e mezza - Corriere Fiorentino",
-      "description": "Oggi portale aperto per i nati nel 1964 e 1965, giovedì 13 maggio partiranno le prenotazioni per i nati nel 1966 e 1967; venerdì 14 maggio per i nati nel 1968 e 1969; sabato 15 maggio per i nati nel 1970 e 1971",
-      "url": "https://corrierefiorentino.corriere.it/firenze/notizie/cronaca/21_maggio_12/vaccini-toscana-prenotazioni-tutti-over-50-si-parte-oggi-15-0d273ce0-b30e-11eb-9d81-90e44f23d001.shtml",
-      "urlToImage": "https://images2-corrierefiorentino.corriereobjects.it/methode_image/socialshare/2021/05/12/a0f0e8ae-b340-11eb-9d81-90e44f23d001.jpg",
-      "publishedAt": "2021-05-12T11:02:00Z",
-      "content": "Un calendario di quattro giorni per aprire le prenotazioni a tutti i cinquantenni. Lo ha deciso la Regione Toscana che alle 16 di oggi, mercoledì 12 maggio, ha aperto le agende sul portale Prenota Va… [+1319 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Open.online"
-      },
-      "author": "https://www.facebook.com/Opengiornaleonline/",
-      "title": "«Madonna mia, aiutatemi!». l’emozione di Sophia Loren davanti alla standing ovation ai David – Il video - Open",
-      "description": "L'attrice ha vinto il premio grazie al ruolo in \"La vita davanti a sé\" prodotto da Netflix",
-      "url": "https://www.open.online/2021/05/12/david-donatello-sophia-loren-standing-ovation-video/",
-      "urlToImage": "https://www.open.online/wp-content/uploads/2021/05/GOLF_20210512112834205_7ab23f1162e5a5fed7f49c4cbf1d9a92.jpg",
-      "publishedAt": "2021-05-12T10:41:00Z",
-      "content": "Al Teatro dell’Opera di Roma è standing ovation per Sophia Loren, che ha vinto il premio come “Miglior attrice” agli ultimi David di Donatello grazie al ruolo da co-protagonista in “La vita davanti a… [+983 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quifinanza.it"
-      },
-      "author": "QuiFinanza",
-      "title": "Dichiarazione precompilata 2021: tutte le novità per i modelli 730 e Redditi - QuiFinanza",
-      "description": "La nuova dichiarazione dei redditi precompilata 2021 è online sul sito dell'Agenzia delle entrate, con importanti novità su spese deducibili, sanitarie e relative agli eredi.",
-      "url": "https://quifinanza.it/fisco-tasse/video/dichiarazione-precompilata-2021-novita/489832/",
-      "urlToImage": "https://quifinanza.it/wp-content/uploads/sites/5/2021/05/730-2.jpg",
-      "publishedAt": "2021-05-12T10:01:16Z",
-      "content": "È finalmente online, sul sito dell’Agenzia delle entrate, la dichiarazione dei redditi precompilata 2021, a disposizione di tutti i contribuenti, sia per coloro che presentano il 730 sia per chi deve… [+8181 chars]"
+      "author": "Valerio Papadia",
+      "title": "Richiamo Pfizer e Moderna dopo 30 giorni, la Campania cambia le regole sui vaccini Covid - Fanpage.it",
+      "description": "Non più 40 giorni, bensì 30 giorni, per i richiami dei vaccini Covid Pfizer e Moderna. La Regione Campania, contrariamente a quanto disposto dal Ministero della Salute, cambia le regole per le seconde dosi dei vaccini a mRNA. Le nuove regole, in Campania, and…",
+      "url": "https://www.fanpage.it/napoli/richiamo-pfizer-e-moderna-dopo-30-giorni-la-campania-cambia-le-regole-sui-vaccini-covid/",
+      "urlToImage": "https://static.fanpage.it/wp-content/uploads/sites/30/2021/02/vaccino-vaccini-covid-coronavirus-pfizer-2.jpg",
+      "publishedAt": "2021-05-12T14:48:04Z",
+      "content": "La Regione Campania cambia nuovamente le regole per quanto riguarda i richiami dei vaccini Covid a mRNA, vale a dire Pfizer-Biontech e Moderna: la seconda dose, a partire da domani, 13 maggio, non sa… [+1464 chars]"
     }
   ]
 }

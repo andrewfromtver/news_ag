@@ -116,6 +116,9 @@ goTo = (url, title) => {
 }
 // Close popup
 closePopup = () => {
+  document.getElementById('popupactions').innerHTML = `
+      <img src="./assets/close.png" alt="close" onclick="closePopup()">
+    `
   document.querySelector('body').style.overflow = 'auto'
   document.getElementById('popupplaceholder').style.display = 'none'
   document.getElementById('newsframe').src = './templates/loader.html'
@@ -127,7 +130,12 @@ refresh = () => {
 // CORS detection
 corsCheck = (url) => {
     document.getElementById('newsframe').src = url
-    
+    document.getElementById('popupactions').innerHTML = `
+      <a href="${url}" target="blank">
+        <img id="redirect" src="./assets/redirect.png">
+      </a>
+      <img src="./assets/close.png" alt="close" onclick="closePopup()">
+    `
 }
 // Init
 window.onload = () => {
