@@ -111,8 +111,8 @@ goTo = (url, title) => {
   sideMenu(true)
   document.querySelector('body').style.overflow = 'hidden'
   document.getElementById('popupplaceholder').style.display = ''
-  document.getElementById('newsframe').src = url
   document.getElementById('title').innerText = title
+  corsCheck(url)
 }
 // Close popup
 closePopup = () => {
@@ -123,6 +123,11 @@ closePopup = () => {
 // Refresh page
 refresh = () => {
   window.location.reload()
+}
+// CORS detection
+corsCheck = (url) => {
+    document.getElementById('newsframe').src = url
+    
 }
 // Init
 window.onload = () => {
