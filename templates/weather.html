@@ -45,7 +45,6 @@
         document.querySelector('.container').style.display = '';
         document.querySelector('.content').style.display = '';
         document.querySelector('.detail').style.display = '';
-        document.querySelector('.share').style.display = '';
     }
     /* Geolocation */
     function allowgeo() {
@@ -64,7 +63,6 @@
             console.warn(`ERROR(${err.code}): ${err.message}`);
             document.querySelector('.detail').style.margin = '';
             document.querySelector('.popup_placeholder').style.display = '';
-            document.querySelector('.share').style.display = 'none';
             document.querySelector('.container').style.display = 'none';
             document.querySelector('.detail').style.display = 'none';
             document.querySelector('.content').style.display = 'none';
@@ -741,7 +739,6 @@
         document.getElementById('vkontakte').href = 'https://vk.com/share.php?url=' + url
         document.getElementById('whatsapp').href = 'whatsapp://send?text=' + url
         document.getElementById('telegram').href = 'https://t.me/share/url?url=' + url
-        document.querySelector('.share').style.display = 'none';
         document.querySelector('.container').style.display = 'none';
         document.querySelector('.content').style.display = 'none';
         document.querySelector('.detail').style.display = 'none';
@@ -993,6 +990,7 @@
         }
     }
     .share {
+        z-index: 999;
         box-shadow: 0 0 16px #ccc;
         display: flex;
         justify-content: center;
@@ -1011,19 +1009,6 @@
 </style>
 
 <body>
-    <div class="popup_placeholder">
-        <div class="popup">
-            <h3>GPS warning</h3>
-            <p>
-                This app needs GPS to provide weather info based on your location. 
-                Please turn on GPS on your device for better expirience.
-            </p>
-            <button onclick="hidepopup()">OK</button>
-        </div>
-    </div>
-    <div class="container"></div>
-    <div class="detail"></div>
-    <div class="content"></div>
     <div class="share">
         <!-- Sharingbutton Facebook -->
         <a id="facebook" target="_blank" rel="noopener">
@@ -1054,5 +1039,18 @@
             >
         </a>  
     </div>
+    <div class="popup_placeholder">
+        <div class="popup">
+            <h3>GPS warning</h3>
+            <p>
+                This app needs GPS to provide weather info based on your location. 
+                Please turn on GPS on your device for better expirience.
+            </p>
+            <button onclick="hidepopup()">OK</button>
+        </div>
+    </div>
+    <div class="container"></div>
+    <div class="detail"></div>
+    <div class="content"></div>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
 </body>

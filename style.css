@@ -194,6 +194,11 @@ button:hover, select:hover, .menu > h3:hover {
     box-shadow: 0 0 24px #6699CC;
 }
 
+select:hover {
+    background-color: #fff;
+    color: #6699CC;
+}
+
 button:active, select:active, .menu > h3:active {
     box-shadow: 0 0 8px #6699CC;
     color: #6699CC;
