@@ -5,262 +5,262 @@ news_us = {
     {
       "source": {
         "id": null,
-        "name": "Daily Mail"
+        "name": "TVLine"
       },
-      "author": "Melissa Koenig",
-      "title": "Times Square gunman is arrested eating fries at Florida McDonald's 'after his car ran out of gas' - Daily Mail",
-      "description": "Farrakhan Muhammad was arrested near Jacksonville, Florida, on Wednesday, four days after the shooting in the tourist hotspot. He is said to have been nabbed after his can ran out of gas.",
-      "url": "https://www.dailymail.co.uk/news/article-9571867/Times-Square-gunman-arrested-Florida-four-days-shot-wounded-three-people.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2021/05/12/21/42913382-0-image-a-74_1620850920622.jpg",
-      "publishedAt": "2021-05-12T20:12:53Z",
-      "content": "A Times Square CD seller accused of shooting and wounding three people has been arrested almost 1,000 miles away after his car reportedly ran out of gas due to shortages caused by a pipeline hack. \r\n… [+10589 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Page Six"
-      },
-      "author": "Eileen Reslen",
-      "title": "Chrissy Teigen 'ashamed' over past Courtney Stodden bullying: 'I'm so sorry' - Page Six",
-      "description": "The former model says she was “an insecure, attention seeking troll” and is now apologizing for cyber-bullying Stodden.",
-      "url": "https://pagesix.com/2021/05/12/chrissy-teigen-ashamed-over-past-courtney-stodden-bullying/",
-      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2021/05/chrissy-teigen-courtney-stodden-1.jpg?quality=90&strip=all&w=1200",
-      "publishedAt": "2021-05-12T19:39:00Z",
-      "content": "Chrissy Teigen is sorry for being a bully.\r\nThe model atoned in a lengthy Twitter thread on Wednesday for cyber-bullying Courtney Stodden in the past after the reality star accused Teigen, 35, of onc… [+1691 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "N'dea Yancey-Bragg",
-      "title": "Derek Chauvin may face longer sentence after judge rules on aggravating factors in George Floyd's death - USA TODAY",
-      "description": "Former police officer Derek Chauvin may face a longer sentence after a Minnesota judge ruled there were several aggravating factors in George Floyd's murder.",
-      "url": "https://www.usatoday.com/story/news/nation/2021/05/12/derek-chauvin-longer-sentence-judge-aggravating-factors-george-floyd-murder/5054635001/",
-      "urlToImage": "https://www.gannett-cdn.com/presto/2021/04/20/USAT/25aff67e-cdd4-4260-8947-ca8a265cfca7-AP_George_Floyd_Officer_Trial.jpg?crop=1856,1044,x1,y0&width=1600&height=800&fit=bounds",
-      "publishedAt": "2021-05-12T19:30:00Z",
-      "content": "The Black community in Minneapolis, connected through trauma, is activated by the Derek Chauvin verdict in the ongoing battle for justice. Watch the full documentary on USA TODAY.\r\nUSA TODAY\r\nFormer … [+3939 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Erika Edwards",
-      "title": "CDC panel recommends Pfizer Covid vaccine for 12- to 15-year-olds - NBC News",
-      "description": "Can kids get Covid-19 vaccines? A CDC panel has recommended the agency expand vaccine recommendations to 12- to 15-year-olds.",
-      "url": "https://www.nbcnews.com/health/health-news/cdc-panel-recommends-pfizer-covid-vaccine-12-15-year-olds-n1267129",
-      "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2021_19/3472380/210512-teenagers-pfizer-mb-1814_25ecab95d72f53a81c61ab483713e287.nbcnews-fp-1200-630.jpg",
-      "publishedAt": "2021-05-12T19:20:00Z",
-      "content": "An advisory panel to the Centers for Disease Control and Prevention voted Wednesday to recommend Pfizer's Covid-19 vaccine for use in kids ages 12 to 15. The vote was 14-0, with one abstention.\r\nThe … [+5690 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Lorie Konish",
-      "title": "New batch of $1,400 stimulus checks includes 'plus-up' and first-time payments - CNBC",
-      "description": "A ninth batch of federal stimulus checks has been sent, bringing the total number of payments to about 165 million, worth $388 billion.",
-      "url": "https://www.cnbc.com/2021/05/12/new-1400-stimulus-checks-include-plus-up-and-first-time-payments.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106867074-1618254842341-gettyimages-1256202464-01804004.jpeg?v=1619104448",
-      "publishedAt": "2021-05-12T19:08:21Z",
-      "content": "A new batch of $1,400 stimulus checks has been issued to Americans, bringing the total number of payments sent to about 165 million, or $388 billion.\r\nThis marks the ninth set of payments since the $… [+2506 chars]"
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Chia-Yi Hou",
-      "title": "Rare 'black fungus' increasingly found in COVID-19 patients in India | TheHill - The Hill",
-      "description": "The fungus can be inhaled and infect the brain.",
-      "url": "https://thehill.com/changing-america/well-being/prevention-cures/553165-rare-black-fungus-increasingly-found-in-covid",
-      "urlToImage": "https://thehill.com/sites/default/files/ca_india_covid_patient_051021gettyimages-1232804940.jpg",
-      "publishedAt": "2021-05-12T19:01:05Z",
-      "content": "Medical experts working in hospitals in India are getting slammed with COVID-19 patients. The situation has been worsening for several weeks, and a new report also notes a rise in cases of a rare fun… [+2845 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Dareh Gregorian",
-      "title": "House Republican Leader McCarthy: No one 'questioning the legitimacy' of 2020 election - NBC News",
-      "description": "Rep. Kevin McCarthy, R-Calif., told reporters \"I don’t think anyone is questioning the legitimacy of the presidential election\" despite Trump's insistence that he won",
-      "url": "https://www.nbcnews.com/politics/congress/house-republican-leader-mccarthy-no-one-questioning-legitimacy-2020-election-n1267140",
-      "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2021_19/3472393/210512-kevin-mccarthy-mb-1841_805d523d1ab1f8bf55164c6809ecdd55.nbcnews-fp-1200-630.JPG",
-      "publishedAt": "2021-05-12T18:58:00Z",
-      "content": "Hours after Rep. Liz Cheney was ousted from her Republican leadership position for rebuking former President Donald Trump's ongoing claim that the election was \"stolen\" from him, House Minority Leade… [+2635 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Yaron Steinbuch",
-      "title": "What is the Iron Dome and how does it protect Israel from rocket attacks? - New York Post ",
-      "description": "The Israeli military’s ace in the hole against the ongoing rocket attacks by Palestinian militants in Gaza is its vaunted Iron Dome air-defense system.",
-      "url": "https://nypost.com/article/what-is-iron-dome-israel-rocket-defense-system/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/05/israel-iron-dome-06.jpg?quality=90&strip=all&w=1200",
-      "publishedAt": "2021-05-12T18:52:00Z",
-      "content": "The Israeli militarys ace in the hole against the ongoing rocket attacks by Palestinian militants in Gaza is its vaunted Iron Dome air defense system.\r\nMore than 1,050 rockets have been fired towards… [+3709 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "",
-      "title": "Will Vaccines Work On Coronavirus Variant From India? : Goats and Soda - NPR",
-      "description": "A coronavirus variant is spreading quickly in India, causing a massive surge in cases. Scientists are rushing to see if vaccines will be effective against this variant. So far, the news is hopeful.",
-      "url": "https://www.npr.org/sections/goatsandsoda/2021/05/12/995855343/will-covid-19-vaccines-still-work-against-the-variant-from-india",
-      "urlToImage": "https://media.npr.org/assets/img/2021/05/12/indian-13_wide-165b85101cb29fcc644c1f36167bdf395740498a.jpg?s=1400",
-      "publishedAt": "2021-05-12T18:22:47Z",
-      "content": "Amit Sonawane, 35, an engineer at a district health office, gets his first vaccine dose in Palghar, India.\r\nViraj Nayar for NPR\r\nThe world has a new coronavirus mutant spreading from one continent to… [+4298 chars]"
-    },
-    {
-      "source": {
-        "id": "bleacher-report",
-        "name": "Bleacher Report"
-      },
-      "author": "Rob Goldberg",
-      "title": "Packers Rumors: Aaron Rodgers Wants Security, Guarantees as Starter in New Contract - Bleacher Report",
-      "description": "As Aaron Rodgers seeks a new contract with the Green Bay Packers, the quarterback is looking for security in his role going forward. Ian Rapoport of NFL...",
-      "url": "https://bleacherreport.com/articles/10002469-packers-rumors-aaron-rodgers-wants-security-guarantees-as-starter-in-new-contract",
-      "urlToImage": "https://media.bleacherreport.com/image/upload/v1620842985/ifazculj4fmthqf6wsgg.jpg",
-      "publishedAt": "2021-05-12T18:20:20Z",
-      "content": "Dylan Buell/Getty Images\r\nAs Aaron Rodgers seeks a new contract with the Green Bay Packers, the quarterback is looking for security in his role going forward.\r\nIan Rapoport of NFL Network provided th… [+1603 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": "Investor's Business Daily",
-      "title": "Dow Jones Dips, Nasdaq Dives; Fed Official Makes Inflation Pledge; Bears Maul Tech Stocks - Investor's Business Daily",
-      "description": "The Dow Jones sold off as inflation worries intensify. The bears mauled tech stocks such as Microsoft and Apple. A senior Fed official spoke on inflation.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-battered-nasdaq-dives-fed-official-makes-inflation-pledge-bears-maul-tech-stocks/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/11/stock-bear-wave-04-adobe.jpg",
-      "publishedAt": "2021-05-12T17:44:00Z",
-      "content": "The Dow Jones Industrial Average was off lows, but remained deep in the red as inflation worries intensified. The Nasdaq was selling off hardest as the bears mauled tech stocks such as Nvidia (NVDA),… [+5254 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Stephanie Pappas",
-      "title": "A mysterious 'hum' vibrates interstellar space. Voyager 1 has a recording of it. - Livescience.com",
-      "description": "Interstellar plasma is vibrating out there past the edges of the solar system.",
-      "url": "https://www.livescience.com/voyager-hum-interstellar-space.html",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7FpLzsQyVKUTRZUuh8V6UC-1200-80.jpg",
-      "publishedAt": "2021-05-12T17:39:41Z",
-      "content": "Forty-four years after it rocketed off from Earth, the Voyager 1 spacecraft is detecting the background \"hum\" of interstellar space for the first time.\r\nVoyager 1, launched in 1977, left the bounds o… [+3414 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Allison Johnson",
-      "title": "Asus introduces ZenFone 8 and ZenFone 8 Flip - The Verge",
-      "description": "The ZenFone 8 Flip includes Asus’ unusual forward-rotating camera module, while the ZenFone 8 is a compact flagship designed for easy one-handed use. Both include a top-of-the-line Snapdragon 888 processor and 5G connectivity.",
-      "url": "https://www.theverge.com/2021/5/12/22430948/asus-zenfone-8-flip-price-specs-availability",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Ug8JCx03v3T7aL1URG1f3-PrMtM=/0x144:2000x1191/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22508009/ZenFone8_group_01.jpg",
-      "publishedAt": "2021-05-12T17:30:00Z",
-      "content": "The smaller ZenFone 8 loses the rotating camera mechanism \r\nThe larger, pricier ZenFone 8 Flip includes a camera module that rotates forward for selfies.\r\nPhoto: Asus\r\nAsus is taking a slightly diffe… [+2710 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Wesley LeBlanc",
-      "title": "PlayStation Working on 25 PS5 Games, Half are New Franchises - IGN - IGN",
-      "description": "PlayStation Studios head, Hermen Hulst, has revealed that it's working on more than 25 new titles, half of which are entirely new IP.",
-      "url": "https://www.ign.com/articles/playstation-working-on-25-ps5-games-half-are-new-franchises",
-      "urlToImage": "https://assets1.ignimgs.com/2016/06/21/untitled-3jpg-485315.jpg?width=1280",
-      "publishedAt": "2021-05-12T17:06:46Z",
-      "content": "PlayStation Studios head, Hermen Hulst, says they have more than 25 PlayStation 5 games in development, half of which are new IP.As reported by Wired, Hulst says PlayStation Studios which is comprise… [+2063 chars]"
-    },
-    {
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "Josh Gerstein",
-      "title": "‘I have reassessed’: Former Pentagon official now says Trump may not have incited riot - POLITICO",
-      "description": "Sparks flew between Democrats on the panel and the Trump appointees.",
-      "url": "https://www.politico.com/news/2021/05/12/miller-trump-didnt-incite-capitol-riot-487576",
-      "urlToImage": "https://static.politico.com/21/f5/9887ff58480aa1c598c4b0583a2a/20210512-raja-krishnamoorthi-ap-773.jpg",
-      "publishedAt": "2021-05-12T17:05:17Z",
-      "content": "Miller echoed the same message.\r\nI had all the authority I needed, and I knew what had to happen, the former Defense official said, adding that Trump had given him that authority in the days before t… [+5116 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The A.V. Club"
-      },
-      "author": "Tatiana Tenreyro",
-      "title": "Tina Turner, Todd Rundgren, Foo Fighters, Jay-Z, and more to be inducted into the The Rock and Roll Hall Of Fa - The A.V. Club",
-      "description": "Tina Turner, Jay-Z, Foo Fighters, and more to be inducted into the Rock And Roll Hall Of Fame this year.",
-      "url": "https://music.avclub.com/tina-turner-todd-rundgren-foo-fighters-jay-z-and-mo-1846878116",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/81ab170fef1ec4ef2db8376265575efa.jpg",
-      "publishedAt": "2021-05-12T16:45:00Z",
-      "content": "The Rock and Roll Hall Of Fame announced this years inductees, and some great names are getting the honor this year. As revealed on Today, the honorees are Tina Turner, The Go-Gos, Carole King, Jay-Z… [+1328 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Boston.com"
-      },
-      "author": "dialynn-dwyer",
-      "title": "Mass. is seeing an increase in fatal opioid overdoses, and deaths are surging among Black men - Boston.com",
-      "description": "\"This is the first increase in annual opioid-related deaths in Massachusetts in three years.\"",
-      "url": "https://www.boston.com/news/health/2021/05/12/overdose-deaths-rising-massachusetts-2020",
-      "urlToImage": "https://www.boston.com/wp-content/uploads/2019/06/unnamed-file-850x478.jpeg",
-      "publishedAt": "2021-05-12T16:44:27Z",
-      "content": "Overdose deaths in Massachusetts are rising again, with the most drastic increase in deaths occurring among Black non-Hispanic men in the state.\r\nPublic health officials announced Wednesday that opio… [+4215 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Stella Chan, CNN",
-      "title": "California to effectively end mask mandate when state fully reopens next month, Gov. Newsom says - CNN",
-      "description": "Gov. Gavin Newsom said California will effectively end its mask mandate next month when the state plans to fully reopen after more than a year of Covid-19 restrictions.",
-      "url": "https://www.cnn.com/2021/05/12/us/california-mask-mandate/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210217233754-01-us-coronavirus-0217-super-tease.jpg",
-      "publishedAt": "2021-05-12T16:43:00Z",
-      "content": "(CNN)Gov. Gavin Newsom said California will effectively end its mask mandate next month when the state plans to fully reopen after more than a year of Covid-19 restrictions.\r\nIn an on-camera intervie… [+2384 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "No 10 seeks to cancel county court debt judgment against Boris Johnson - BBC News",
-      "description": "The claim - made against the PM over an alleged unpaid debt of £535 - is without merit, says Downing Street.",
-      "url": "https://www.bbc.com/news/uk-politics-57087274",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/36E9/production/_118475041_mediaitem118475037.jpg",
-      "publishedAt": "2021-05-12T16:23:18Z",
-      "content": "Downing Street is seeking to cancel a county court judgment against Prime Minister Boris Johnson that cites an unpaid bill of £535.\r\nThe order was made against Mr Johnson, of 10 Downing Street, on 26… [+3554 chars]"
+      "author": "Michael Ausiello",
+      "title": "NBC Fall Lineup 2021: 'Law & Order' Thursdays, 'This Is Us' Delayed - TVLine",
+      "description": "NBC is the first broadcast network to unveil its 2021-22 game plan and, um, funny story: For the first time (ever?) there is not a single sitcom on the network’s fall schedule. The prime culprit? The resurgent Law & Order franchise! Read on for more… ♦ NBC is…",
+      "url": "https://tvline.com/2021/05/14/nbc-fall-lineup-2021-law-and-order-thursday-this-is-us-final-season/",
+      "urlToImage": "https://tvline.com/wp-content/uploads/2021/05/nbc-schedule-flipped.jpg?w=620",
+      "publishedAt": "2021-05-14T18:15:00Z",
+      "content": "NBC is the first broadcast network to unveil its 2021-22 game plan and, um, funny story: For the first time (ever?) there is not a single sitcom on the network’s fall schedule. The prime culprit? The… [+1639 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "New York Times"
       },
-      "author": "Julie Turkewitz, Sofía Villamil, Federico Rios",
-      "title": "Colombia Protests: Police Force, Built for War, Finds a New One - The New York Times",
-      "description": "Police spent decades fighting left-wing guerrillas and paramilitaries. Now, they’re cracking down on protesters, and igniting a wider demonstration movement in response.",
-      "url": "https://www.nytimes.com/2021/05/12/world/americas/colombia-protests-police-brutality.html",
-      "urlToImage": "https://static01.nyt.com/images/2021/05/10/world/00colombia-police1-promo/00colombia-police1-promo-facebookJumbo-v2.jpg",
-      "publishedAt": "2021-05-12T16:23:04Z",
-      "content": "At the time, the government hoped to professionalize and depoliticize the job by consolidating a fragmented system into a national force, said Juan Carlos Ruíz, a professor and security expert at Col… [+1844 chars]"
+      "author": "Sheera Frenkel",
+      "title": "How Lies on Social Media Are Inflaming the Israeli-Palestinian Conflict - The New York Times",
+      "description": "Misinformation has flourished on Twitter, TikTok, Facebook and other social media about the violence between Israelis and Palestinians.",
+      "url": "https://www.nytimes.com/2021/05/14/technology/israel-palestine-misinformation-lies-social-media.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/05/13/business/00misinfo-israel1/merlin_187656186_cd542978-8cac-45e2-b0b5-add38ff8691f-facebookJumbo.jpg",
+      "publishedAt": "2021-05-14T18:12:24Z",
+      "content": "The lies have been amplified as they have been shared thousands of times on Twitter and Facebook, spreading to WhatsApp and Telegram groups that have thousands of members, according to an analysis by… [+1099 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Christina Wilkie",
+      "title": "Next week will be a major test in Biden’s quest for a bipartisan infrastructure deal - CNBC",
+      "description": "The bipartisan infrastructure deal that President Joe Biden hopes to reach with Republicans gained steam this week.",
+      "url": "https://www.cnbc.com/2021/05/14/biden-infrastructure-bill-progress-in-talks-with-gop-senators.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106882781-16209287162021-05-13t175238z_22812338_rc25fn9mbeck_rtrmadp_0_usa-biden.jpeg?v=1620928777",
+      "publishedAt": "2021-05-14T17:48:11Z",
+      "content": "U.S. President Joe Biden gestures toward Senator Shelley Capito (R-WV) during an infrastructure meeting with Republican Senators at the White House in Washington, May 13, 2021.\r\nWASHINGTON The bipart… [+5917 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Michael S. Schmidt",
+      "title": "Joel Greenberg, Former Matt Gaetz Confidant, Pleads Guilty - The New York Times",
+      "description": "Joel Greenberg, a former tax collector in Florida, admitted to sex trafficking a minor and agreed to help in prosecutions of others.",
+      "url": "https://www.nytimes.com/2021/05/14/us/politics/joel-greenberg-matt-gaetz.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/05/14/us/14dc-greenberg/14dc-greenberg-facebookJumbo.jpg",
+      "publishedAt": "2021-05-14T17:39:02Z",
+      "content": "Defense lawyers often attack the credibility of such cooperators when the government uses them as witnesses at trials, sometimes arguing that they are simply testifying to what the government wants i… [+4184 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "nj.com"
+      },
+      "author": "Brent Johnson | NJ Advance Media for NJ.com, Matt Arco | NJ Advance Media for NJ.com",
+      "title": "N.J. to keep indoor mask mandates despite CDC change, Murphy says. But vaccinated people can ditch masks outd - NJ.com",
+      "description": "Fully vaccinated New Jersey residents don’t need to wear a mask outside, Murphy announced. But the governor won’t pull back the indoor mandate.",
+      "url": "https://www.nj.com/coronavirus/2021/05/nj-to-keep-indoor-mask-mandates-despite-cdc-change-murphy-says-but-vaccinated-people-ditch-masks-outdoors.html",
+      "urlToImage": "https://www.nj.com/resizer/IQMVE-Ubc3vPRFBMKBTYr6Kq5JU=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4OKJSWFCSZCX5JPBD5RS4BBQUY.jpg",
+      "publishedAt": "2021-05-14T17:28:06Z",
+      "content": "Insisting were not there yet, Gov. Phil Murphy said Friday that New Jersey will still require all people vaccinated or not to wear masks indoors in public to protect against the coronavirus, even aft… [+6554 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Jeremy Layton",
+      "title": "Aaron Rodgers worked with Jordan Love every day despite rift: Aaron Jones - New York Post ",
+      "description": "It seems hard to believe, but there was a time this offseason where an Aaron not named Rodgers was the biggest story in Green Bay. Re-signing running back Aaron Jones to a four-year, $48 million de…",
+      "url": "https://nypost.com/2021/05/14/aaron-rodgers-worked-with-jordan-love-every-day-despite-rift-aaron-jones/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/05/rodgers-love-jones.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2021-05-14T17:26:00Z",
+      "content": "It seems hard to believe, but there was a time this offseason where an Aaron not named Rodgers was the biggest story in Green Bay. Re-signing running back Aaron Jones to a four-year, $48 million deal… [+2293 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
+      "author": "Justin Rohrlich",
+      "title": "Andre Hill's Family to Get $10 Million for Columbus Police Shooting - The Daily Beast",
+      "description": "The City of Columbus will also rename a gym in Hill’s honor.",
+      "url": "https://www.thedailybeast.com/city-of-columbus-to-pay-andre-hills-family-dollar10-million-settlement",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_915,w_1628,x_8,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1621012160/Screen_Shot_2021-05-14_at_1.09.01_PM_elpx05",
+      "publishedAt": "2021-05-14T17:20:49Z",
+      "content": "The family of Andre Hill, an unarmed Ohio man shot and killed by Columbus Police officer Adam Coy last December, will get a $10 million settlement from the city. City Attorney Zach Klein said Friday … [+590 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Matt Clinch",
+      "title": "Covid variant from India more transmissible and threatens England lockdown easing, Boris Johnson says - CNBC",
+      "description": "U.K. Prime Minister Boris Johnson warned Friday that the coronavirus variant first discovered in India has the potential to derail the lockdown easing currently underway in the country.",
+      "url": "https://www.cnbc.com/2021/05/14/boris-johnson-says-covid-variants-could-pose-serious-disruption.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106843818-1614022574458-boris.jpg?v=1614022588",
+      "publishedAt": "2021-05-14T17:14:59Z",
+      "content": "LONDON U.K. Prime Minister Boris Johnson warned Friday that the coronavirus variant first discovered in India has the potential to derail the lockdown easing currently underway in the country.\r\nThe U… [+2087 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Alexandria Hein",
+      "title": "Coronavirus lab leak theory should not be ruled out until there is 'sufficient data,' scientists say - Fox News",
+      "description": "A group of 18 scientists from all over the world has written an open letter calling for an investigation into the origins of coronavirus, imploring that accidental release from a lab not be ruled out “until we have sufficient data.”",
+      "url": "https://www.foxnews.com/health/coronavirus-lab-leak-theory-should-not-be-ruled-out-until-sufficient-data-scientists",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/WHO.jpg",
+      "publishedAt": "2021-05-14T16:59:16Z",
+      "content": "A group of 18 scientists from all over the world has written an open letter calling for an investigation into the origins of coronavirus, imploring that accidental release from a lab not be ruled out… [+1556 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Jessica Napoli",
+      "title": "Jennifer Lopez is 'in touch' with Ben Affleck 'everyday' since Montana reunion: report - Fox News",
+      "description": "The pair were spotted in Big Sky, Montana last week where Affleck has a home.",
+      "url": "https://www.foxnews.com/entertainment/jennifer-lopez-in-touch-ben-affleck-everyday-montana-reunion",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/affleck-lopez.jpg",
+      "publishedAt": "2021-05-14T16:35:28Z",
+      "content": "Jennifer Lopez and Ben Affleckreunited in Montana last week heightening rumors the former exes have rekindled their romance.\r\nNow, a source told People magazine, the 51-year-old singer-actress \"is in… [+2012 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Sam Machkovech",
+      "title": "After Epic v. Apple namecheck, Itch.io runs one-day-only dev-friendly promo - Ars Technica",
+      "description": "Similar to \"Bandcamp Fridays\"—comes after Itch.io was disparaged in Epic v. Apple.",
+      "url": "https://arstechnica.com/gaming/2021/05/today-only-itch-io-waives-devs-fees-for-your-drm-free-game-purchases/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/itchio-logo-black-760x380.png",
+      "publishedAt": "2021-05-14T16:31:07Z",
+      "content": "33 with 23 posters participating, including story author\r\nItch.io, a digital download storefront that largely sells indie video games, launched its first-ever \"Creator Day\" on Friday. This one-day-on… [+4725 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TribLIVE"
+      },
+      "author": "Steven Adams",
+      "title": "Covid cases continue to drop across Pennsylvania as more get vaccinated - TribLIVE",
+      "description": "Reported cases of covid-19 and related deaths and hospitalizations continued their downward trend in Pennsylvania as the number of vaccinated residents marched upward. Pennsylvania on Friday added 1,643 cases of covid-19, pulling the seven-day case average do…",
+      "url": "https://triblive.com/news/pennsylvania/covid-cases-continue-to-drop-across-pennsylvania-as-more-get-vaccinated/",
+      "urlToImage": "https://triblive.com/wp-content/uploads/2021/05/3850263_web1_PTR-LO-Point002-051421.jpg",
+      "publishedAt": "2021-05-14T16:20:50Z",
+      "content": "Reported cases of covid-19 and related deaths and hospitalizations continued their downward trend in Pennsylvania as the number of vaccinated residents marched upward.\r\nPennsylvania on Friday added 1… [+3400 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Jacob Knutson",
+      "title": "DarkSide claims it's shutting down after Colonial Pipeline hack - Axios",
+      "description": "The group claimed it had lost access to the infrastructure it uses to carry out its extortion operations.",
+      "url": "https://www.axios.com/hackers-darkside-shutting-down-colonial-pipeline-6e11766f-3d41-438a-9e21-dc06d1c3816f.html",
+      "urlToImage": "https://images.axios.com/KEmbJ-WdIptGaI2bUhaaO13qACY=/0x206:4947x2989/1366x768/2021/05/14/1621007695360.jpg",
+      "publishedAt": "2021-05-14T16:20:49Z",
+      "content": "The hacker group DarkSide, which was responsible for a ransomware attack that shut down the Colonial Pipeline and led to fuel shortages in multiple states this week, claims to be shutting down, Krebs… [+1759 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MMA Fighting"
+      },
+      "author": "Alexander K. Lee",
+      "title": "UFC 262 weigh-in results: Michael Chandler, Charles Oliveira on point for vacant lightweight championship mai… - MMA Fighting",
+      "description": "Lightweight title hopefuls Michael Chandler and Charles Oliveira are official for Saturday’s card in Houston.",
+      "url": "https://www.mmafighting.com/2021/5/14/22436048/ufc-262-weigh-in-results-michael-chandler-charles-oliveira-lightweight-championship-main-event",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/1xHZmzGpNLJ-9OdPSmZqXn5VhSE=/0x0:6036x3160/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22514498/1317984776.jpg",
+      "publishedAt": "2021-05-14T16:15:56Z",
+      "content": "The UFC is on track to have a new lightweight champion.\r\nCharles Oliveira and Michael Chandler successfully made weight for Saturdays vacant lightweight title bout, which headlines UFC 262 at Toyota … [+2092 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Denise Petski",
+      "title": "‘Black-ish’ Renewed For Eighth & Final Season On ABC - Deadline",
+      "description": "The end is in sight for ABC’s black-ish. The network has renewed the praised comedy series for an eighth and final season. Creator executive producer Kenya Barris announced the news Friday morning on social media (see below). He said, “This show has changed m…",
+      "url": "https://deadline.com/2021/05/black-ish-renewed-eighth-final-season-abc-kenya-barris-anthony-anderson-tracee-ellis-ross-1234754305/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2021/01/black-ish.jpg?w=1000",
+      "publishedAt": "2021-05-14T16:12:00Z",
+      "content": "The end is in sight for ABC’s black-ish. The network has renewed the praised comedy series for an eighth and final season.\r\nCreator executive producer Kenya Barris announced the news Friday morning o… [+1830 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Eric Berger",
+      "title": "China is about to attempt a highly ambitious landing on Mars - Ars Technica",
+      "description": "There is a lot of intrigue surrounding the mission. Will the lander survive?",
+      "url": "https://arstechnica.com/science/2021/05/china-is-about-to-attempt-a-highly-ambitious-landing-on-mars/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/GettyImages-1232536260-760x380.jpg",
+      "publishedAt": "2021-05-14T16:02:55Z",
+      "content": "Enlarge/ Photo taken on Dec. 4, 2020, shows the model of China's first Mars probe Tianwen-1 lander and Zhurong rover at the Zhejiang International Intelligent Transportation Industry Expo 2020.\r\n33 w… [+2703 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Sam Schechner",
+      "title": "Facebook Loses Bid to Block Ruling on EU-U.S. Data Flows - The Wall Street Journal",
+      "description": "Company fails to block a privacy decision that could suspend its ability to send information about European users to U.S.",
+      "url": "https://www.wsj.com/articles/facebook-faces-irish-ruling-on-suspension-of-eu-u-s-data-flows-11620983614",
+      "urlToImage": "https://images.wsj.net/im-337942/social",
+      "publishedAt": "2021-05-14T15:57:00Z",
+      "content": "Facebook Inc. lost a bid to block a European Union privacy decision that could suspend its ability to send information about European users to U.S. computer servers, opening a pathway toward a preced… [+1518 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
+      "author": "Pilar Melendez",
+      "title": "‘I Wanted Trump to Win’: Husband Charged in Wife’s Murder Also Used Her Name to Vote - Yahoo News",
+      "description": "“I just thought, give him… another vote. I figured all these other guys are cheating,” Barry Lee Morphew admitted in April, just days before he was arrested in his wife’s murder.",
+      "url": "https://www.thedailybeast.com/barry-lee-morphew-voted-for-trump-on-behalf-of-his-missing-wife-suzanne-morphew",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1621006896/Blank_3000_x_1688_71_rugddy",
+      "publishedAt": "2021-05-14T15:42:52Z",
+      "content": "Five months after Suzanne Morphew vanished without a trace while out on a bike ride last Mothers Day, the Chaffee County Clerks Office in Colorado received a bizarre notification: a mail-in ballot fo… [+3604 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Bloomberg",
+      "title": "Elon Musk Tweet Sends Dogecoin Surging - Yahoo Finance",
+      "description": "May.14 -- Dogecoin jumped on renewed support from Elon Musk, adding to a volatile week for digital currencies that’s been whipped up largely by the...",
+      "url": "https://finance.yahoo.com/video/elon-musk-tweet-sends-dogecoin-154108119.html",
+      "urlToImage": "https://s.yimg.com/hd/cp-video-transcode/prod/2021-05/14/609ea08160b4aa6168ac5194/609ea08160b4aa6168ac5195_o_U_v2.jpg",
+      "publishedAt": "2021-05-14T15:41:08Z",
+      "content": "(Bloomberg) -- A crack in a bridge over the Mississippi River has stranded more than 700 barges, cutting off the biggest route for U.S. agricultural exports when the critical waterway is at its busie… [+6169 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Claudia Miller",
+      "title": "Nicki Minaj’s Plunging Jumpsuit, Logo-Coated Bralette & Neon Heels Master Monochrome Styling - Yahoo Lifestyle",
+      "description": "The rapper celebrated the release of her new album in style.",
+      "url": "https://www.yahoo.com/lifestyle/nicki-minaj-plunging-jumpsuit-logo-142404980.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/X3H7Yw6ovnn_XM9Hj2WyGQ--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/footwear_news_642/8c7d29ebefb15bb290bf51e2e1618741",
+      "publishedAt": "2021-05-14T14:24:04Z",
+      "content": "Nicki Minaj debuted her new album in bold fashion after surprising fans with 23 new songs. The rapper dropped her Beam Me Up Scotty album at midnight including hit tracks with Drake, Gucci Mane and L… [+2846 chars]"
     }
   ]
 }

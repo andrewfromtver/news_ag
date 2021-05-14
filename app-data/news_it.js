@@ -5,15 +5,54 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Corriere.it"
+        "name": "Mediaset.it"
       },
-      "author": "Maria Strada",
-      "title": "Sinner-Nadal agli Internazionali di tennis di Roma. La diretta: vince Nadal 4-7, 4-6 - Corriere della Sera",
-      "description": "L’azzurro, 19 anni e n. 18 del mondo, sfida lo spagnolo n. 3, già nove volte re del Foro Italico",
-      "url": "https://www.corriere.it/sport/21_maggio_12/sinner-nadal-internazionali-tennis-roma-cronaca-diretta-partita-321b4264-b339-11eb-a8d8-6fa95675e8be.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/12/333ab204-b34f-11eb-a8d8-6fa95675e8be.jpg",
-      "publishedAt": "2021-05-12T19:22:09Z",
-      "content": "Jannik Sinner si arrende in due set a Rafa Nadal n. 3 del mondo e n. 2 degli Internazionali di tennis di Roma, nei sedicesimi di finale. Lo spagnolo vince 7-5, 6-4 dopo aver subito ben tre break (due… [+7565 chars]"
+      "author": "Redazione Sportmediaset",
+      "title": "Schwazer, niente Olimpiadi: \"Non ho rimpianti, ci ho provato in tutti i modi\" - Sportmediaset - Sport Mediaset",
+      "description": "Il Tas non ha accolto il suo ricorso: &amp;quot;Ringrazio tutti quelli che mi hanno sostenuto&amp;quot;",
+      "url": "https://www.sportmediaset.mediaset.it/altrisport/atletica/schwazer-niente-olimpiadi-non-ho-rimpianti-ci-ho-provato-in-tutti-i-modi_32288175-202102k.shtml",
+      "urlToImage": "https://img-prod.sportmediaset.mediaset.it/images/2021/05/14/171829787-cdbd900d-c5c5-4505-83db-d813df1731c3.jpg",
+      "publishedAt": "2021-05-14T17:33:17Z",
+      "content": "Regole per i commenti\r\nI commenti in questa pagina vengono controllati\r\nTi invitiamo ad utilizzare un linguaggio rispettoso e non offensivo, anche per le critiche più aspre\r\nIn particolare, durante l… [+413 chars]"
+    },
+    {
+      "source": {
+        "id": "ansa",
+        "name": "ANSA.it"
+      },
+      "author": "",
+      "title": "Covid: Cina, primi contagi locali in più di 3 settimane - Ultima Ora - Agenzia ANSA",
+      "description": "La Cina ha segnalato 12 nuovi casi di Covid-19, incluse le prime trasmissioni locali in più di tre\r\nsettimane: 4 infezioni, infatti, sono state individuate oggi nella provincia di Anhui, tutte\r\ncollegati a un'unica persona, secondo le autorità locali. (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2021/05/14/covid-cina-primi-contagi-locali-in-piu-di-3-settimane_e4f066ea-19bd-4140-8407-5a1489fe973a.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2021/5/14/2fb52e5b1a3c1cb477b0962f7c2e376c.jpg",
+      "publishedAt": "2021-05-14T16:39:00Z",
+      "content": "(ANSA) - PECHINO, 15 MAG - La Cina ha segnalato 12 nuovi casi\r\ndi Covid-19, incluse le prime trasmissioni locali in più di tre\r\nsettimane: 4 infezioni, infatti, sono state individuate oggi\r\nnella pro… [+556 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lanazione.it"
+      },
+      "author": "La Nazione",
+      "title": "Vaccini Covid, la Toscana apre ai 40enni: il calendario - LA NAZIONE",
+      "description": "Giorno per giorno ecco chi potrà prenotarsi nella prossima settimana",
+      "url": "https://www.lanazione.it/cronaca/vaccini-covid-toscana-40enni-1.6363153",
+      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6363156.1621010144%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700&h=391",
+      "publishedAt": "2021-05-14T16:37:58Z",
+      "content": "Firenze, 14 maggio 2021 - Pronto il calendario per le vaccinazioni Covid per i quarantenni in Toscana. E' stato direttamente il presidente Eugenio Giani a diffondere il messaggio sui social: lunedì 1… [+1032 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilmessaggero.it"
+      },
+      "author": "Redazione Web",
+      "title": "Pfizer Lazio, seconda dose a 35 giorni, ma non per i fragili. Sms in arrivo: cosa succede - ilmessaggero.it",
+      "description": "Per i fragili rimane a 21. Nel Lazio non ci sarà nessuno spostamento della seconda dose Pfizer per gli estremamente vulnerabili di cui alla tabella 1 del Piano Nazionale Vaccini. Lo...",
+      "url": "https://www.ilmessaggero.it/roma/news/pfizer_news_lazio_seconda_dose_35_giorni_cosa_succede_messaggi_sms_regione_lazio_news_oggi_ultima_ora-5960076.html",
+      "urlToImage": "https://www.ilmessaggero.it/photos/MED/00/76/5960076_1827_pfizer_seconda_dose.jpg",
+      "publishedAt": "2021-05-14T16:31:58Z",
+      "content": "Per i fragili rimane a 21. Nel Lazio non ci sarà nessuno spostamento della seconda dose Pfizer per gli estremamente vulnerabili di cui alla tabella 1 del Piano Nazionale Vaccini. Lo conferma la regio… [+1228 chars]"
     },
     {
       "source": {
@@ -21,207 +60,168 @@ news_it = {
         "name": "Ilfattoquotidiano.it"
       },
       "author": "F. Q.",
-      "title": "Gaza, razzi e bombe. Tel Aviv abbatte un altro palazzo di 10 piani sede anche delle redazioni di media locali - Il Fatto Quotidiano",
-      "description": "Prosegue l'escalation di violenze in Medio Oriente, che finora hanno provocato 56 morti palestinesi e 6 israeliani. Tensione sulla Spianata delle Moschee, scontri anche a Lod, definito dal presidente Rivlin un \"pogrom\" e dove stanotte per la prima volta nella…",
-      "url": "https://www.ilfattoquotidiano.it/2021/05/12/gaza-razzi-e-bombe-tel-aviv-abbatte-un-altro-palazzo-di-10-piani-sede-anche-delle-redazioni-di-media-locali-bambino-israeliano-di-6-anni-ucciso-da-un-missile-a-sderot/6195025/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/12/gaza-1.jpg",
-      "publishedAt": "2021-05-12T19:07:30Z",
-      "content": "È ormai guerra aperta tra Israele e le milizie di Hamas e del Jihad Islamico che operano nella Striscia di Gaza. In 36 ore di conflitto, dall’enclave sono stati lanciati oltre mille razzi verso Ashke… [+12387 chars]"
+      "title": "Berlusconi ricoverato, la senatrice Ronzulli: “Sta guarendo, sarà dimesso in questi giorni” - Il Fatto Quotidiano",
+      "description": "Uscendo dal San Raffaele, dove l'ex premier è ricoverato da martedì, la parlamentare ha spiegato che \"si sta risolvendo un quadro infiammatorio per il quale si è reso necessario il ricovero. Ha ancora un po' di febbre ma è in via di guarigione\". Telefonate di…",
+      "url": "https://www.ilfattoquotidiano.it/2021/05/14/berlusconi-ricoverato-la-senatrice-ronzulli-sta-guarendo-sara-dimesso-in-questi-giorni-zangrillo-tutti-i-miei-pazienti-stanno-bene/6198246/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2020/09/26/berlusconi-mascherina-1200.jpg",
+      "publishedAt": "2021-05-14T16:22:34Z",
+      "content": "Per ore sono circolate voci discordanti sullo stato di salute di Silvio Berlusconi, ricoverato da martedì al San Raffaele di Milano per nuovi accertamenti legati agli strascichi del post Covid, ma or… [+1926 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Corriere.it"
+        "name": "Gazzetta.it"
       },
-      "author": "Federica Bandirali",
-      "title": "Filippo Magnini e Giorgia Palmas si sono sposati a Milano. In segreto - Corriere della Sera",
-      "description": "La cornice è stata quella di Palazzo Reale e alla cerimonia, come hanno rivelato i due neosposi sui social presenti solo i testimoni e i rappresentati delle loro famiglie",
-      "url": "https://www.corriere.it/moda/21_maggio_12/filippo-magnini-giorgia-palmas-si-sono-sposati-milano-segreto-605165e4-b34f-11eb-98bc-a84b336dc8e1.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/2021/05/12/Moda/Foto-Moda-Trattate/fgd-ku1B-RAbvb254B8aTa6Zjsunsa7K-526x284@Corriere-Web-Sezioni.jpg",
-      "publishedAt": "2021-05-12T18:52:46Z",
-      "content": "Una foto in bianco e nero per dare l’annuncio: Filippo Magnini e Giorgia Palmas si sono sposati oggi pomeriggio, 12 maggio 2021: «Abbiamo detto Sì», hanno scritto sui loro profili Instagram i due spo… [+666 chars]"
+      "author": "Simone Golia",
+      "title": "Ewan, c'è il bis: la volata è di nuovo sua! Beffato Gaviria, Attila Valter resta in rosa - La Gazzetta dello Sport",
+      "description": "L'australiano ancora davanti a tutti dopo la vittoria di Cattolica. Il colombiano anticipa troppo presto e si pianta. Sul podio anche Cimolai e Merlier",
+      "url": "https://www.gazzetta.it/Giroditalia/14-05-2021/giro-italia-7-tappa-notaresco-termoli-vince-ewan-attila-valter-maglia-rosa-4101018255316.shtml",
+      "urlToImage": "https://images2.gazzettaobjects.it/methode_image/2021/05/14/Ciclismo/Foto_Ciclismo_-_Trattate/7b713bab6e614085a3dcad4f5e6e6e12_1200x675.jpg?v=202105141857",
+      "publishedAt": "2021-05-14T16:20:30Z",
+      "content": "Simone Golia\r\n14 maggio\r\n - Milano\r\nL'australiano Caleb Ewan (team Lotto Soudal) fa il bis e, dopo aver vinto due giorni fa a Cattolica, trionfa anche nella settima tappa del Giro d'Italia, la Notare… [+2891 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Adnkronos.com"
+        "name": "Multiplayer.it"
       },
-      "author": "lalli",
-      "title": "Per Mario Draghi nessun compenso come premier - Adnkronos",
-      "description": "E' quanto emerge dai dati pubblicati sul sito della presidenza del Consiglio. Nel 2019 per l'ex numero uno della Bce reddito di oltre 581 mila euro",
-      "url": "https://www.adnkronos.com/per-mario-draghi-nessun-compenso-come-premier_512GuLoeHTXTGCKqGGseBc",
-      "urlToImage": "https://www.adnkronos.com/resources/0269-1242a3d2d737-6d5539083f0a-1000/draghi25_afp.jpg",
-      "publishedAt": "2021-05-12T18:37:00Z",
-      "content": "E' quanto emerge dai dati pubblicati sul sito della presidenza del Consiglio. Nel 2019 per l'ex numero uno della Bce reddito di oltre 581 mila euroNessun compenso per la carica di Mario Draghi a pres… [+1055 chars]"
+      "author": "Giorgio Melani",
+      "title": "Xbox Series X|S: FPS Boost testato su 15 giochi nell'analisi video di Digital Foundry - Multiplayer.it",
+      "description": "L'FPS Boost di Xbox Series X|S è stato testato su 15 giochi nella nuova analisi video di Digital Foundry, con ottimi risultati.",
+      "url": "https://multiplayer.it/articoli/xbox-series-xs-fps-boost-testato-15-giochi-analisi-video-digital-foundry.html",
+      "urlToImage": "https://multiplayer.net-cdn.it/thumbs/images/2020/11/13/fanmosaichero_jpg_750x400_crop_upscale_q85.jpg",
+      "publishedAt": "2021-05-14T16:12:05Z",
+      "content": "Xbox Series X e Series S sono state messe un po' sotto torchio da Digital Foundry che ha effettuato un'analisi/maratona su 15 giochi con modalità FPS Boost attivata, per vedere come se la cavano le c… [+1474 chars]"
+    },
+    {
+      "source": {
+        "id": "la-repubblica",
+        "name": "La Repubblica"
+      },
+      "author": "Repubblica.it",
+      "title": "Coronavirus Italia, il bollettino di oggi 14 maggio: 7.567 nuovi casi e 182 decessi - la Repubblica",
+      "description": "Ieri i nuovi contagi sono stati 8.085 e i decessi 201. Con 298mila tamponi eseguiti, il tasso di positività si conferma stabile al 2,5%. Calano i ricove…",
+      "url": "https://www.repubblica.it/cronaca/2021/05/14/news/coronavirus_italia_il_bollettino_di_oggi_14_maggio_nuovi_casi_e_decessi_-_la_repubblica-300781984/",
+      "urlToImage": "https://www.repstatic.it/content/nazionale/img/2021/05/13/120305120-a0e94295-93d6-4a40-bcab-1ddf6160232e.jpg",
+      "publishedAt": "2021-05-14T16:00:09Z",
+      "content": "Oggi si registrano 7.567 nuovi casi e 182 decessi da coronavirus. Lo comunica il ministero della Sanità nel suo bollettino quotidiano. Ieri i nuovi contagi sono stati 8.085 e i decessi 201. I tamponi… [+16540 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Libero.it"
+        "name": "Multiplayer.it"
       },
-      "author": null,
-      "title": "Buone notizie per Xiaomi: non è più in black list - Libero Tecnologia",
-      "description": "Non c'è ancora l'accordo definitivo, ma quasi: Xiaomi esce dalla lista nera delle compagnie sospettate di legami con l'esercito cinese.",
-      "url": "https://tecnologia.libero.it/buone-notizie-per-xiaomi-non-e-piu-in-black-list-44315",
-      "urlToImage": "https://wips.plug.it/cips/tecnologia/cms/2021/03/xiaomi-mi-11-5g.jpg",
-      "publishedAt": "2021-05-12T18:30:00Z",
-      "content": "Xiaomi e il Governo degli Stati Uniti hanno trovato l’accordo: il colosso cinese dell’elettronica non è più nella lista nera stilata dall’amministrazione Trump (ed ereditata da quella Biden) delle co… [+2125 chars]"
+      "author": "Simone Tagliaferri",
+      "title": "Le microtransazioni hanno vinto, come ci racconta la banana di Fortnite - Multiplayer.it",
+      "description": "Le microtransazioni hanno vinto, come ci raccontano la banana Peely al processo Epic Games e Apple, e i resoconti finanziari dei grandi editori videoludici.",
+      "url": "https://multiplayer.it/notizie/microtransazioni-hanno-vinto-come-ci-racconta-banana-di-fortnite.html",
+      "urlToImage": "https://multiplayer.net-cdn.it/thumbs/images/2021/05/14/news-art-home-page-2020_jpg_750x400_crop_upscale_q85.jpg",
+      "publishedAt": "2021-05-14T16:00:06Z",
+      "content": "Gli ultimi resoconti finanziari dei grandi editori di videogiochi hanno mostrato un quadro inquietante nella sua uniformità: le microtransazioni sono diventate la prima fonte di guadagno dei videogio… [+3024 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Violanews.com"
+        "name": "Ilrestodelcarlino.it"
       },
-      "author": "Simone Bargellini",
-      "title": "Cagliari-Fiorentina, le pagelle VN: Kouame pasticcione, non brilla nessuno - Viola News",
-      "description": "Cagliari-Fiorentina finisce 0-0: una partita da sbadigli che avvicina entrambe alla salvezza. Le nostre pagelle",
-      "url": "https://www.violanews.com/news-viola/cagliari-fiorentina-le-pagelle-vn/",
-      "urlToImage": "https://prd-images2-gazzanet.gazzettaobjects.it/GPXqX_AUEizQf3uQH__-U8GyV2U=/1200x627/smart/www.violanews.com/assets/uploads/202105/261c501ee0357ebc52cc74e4984e9d59-scaled.jpg",
-      "publishedAt": "2021-05-12T18:24:45Z",
-      "content": "Testata giornalistica Autorizzazione Tribunale di Firenze n. 5931 del 03/09/2013 Editore: Fab Four 2013 Srl. Partita IVA: 06342490486 Direttore Responsabile: Saverio Pestuggia\r\nIl sito ViolaNews.com … [+432 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dday.it"
-      },
-      "author": "Roberto Pezzali",
-      "title": "Recensione Asus Zenfone 8. Davide prende a schiaffi Golia - DDay.it - Digital Day",
-      "description": "Dopo mesi di smartphone grandi e ingombranti lo Zenfone 8 sembra un miraggio: schermo da 5.9\", costruzione da vero top di gamma e pochissimi compromessi. Ad un prezzo tutto sommato abbordabile. Un prodotto che ci ha sorpreso: l'outsider porta a spasso i grand…",
-      "url": "https://www.dday.it/redazione/39465/recensione-asus-zenfone-8-davide-prende-a-schiaffi-golia",
-      "urlToImage": "https://dday.imgix.net/system/uploads/news/main_image/39465/870d73_P1077502.jpg?w=1000&h=500&fit=crop&crop=entropy&auto=format%2Ccompress&s=092e208ef1c182d65e3c557712997dff",
-      "publishedAt": "2021-05-12T18:13:38Z",
-      "content": "Asus, almeno nel segmento smartphone, non ci ha mai colpito più di tanto. Sarà che non abbiamo mai digerito quella \"tamarrata\" tutto marketing e niente arrosto del Rog Phone, sarà che la fotocamera r… [+28667 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Liberoquotidiano.it"
-      },
-      "author": "@libero_official",
-      "title": "Denise Pipitone, \"test del Dna subito a questa ragazza di Scalea\": ecco di chi si tratta - Liberoquotidiano.it",
-      "description": "Il caso di  Denise Pipitone  si fa sempre più intricato. La bambina di Mazara Del Vallo, scomparsa quando aveva solo 4 anni nel 2004, non &egra...",
-      "url": "https://www.liberoquotidiano.it/news/italia/27208664/denise-pipitone-test-dna-subito-questa-ragazza-scalea-ecco-di-chi-si-tratta.html",
-      "urlToImage": "https://img2.liberoquotidiano.it/images/2021/05/12/185346579-6f1565b1-c8bc-46fa-8311-a3d40e929e32.jpg",
-      "publishedAt": "2021-05-12T18:05:00Z",
-      "content": "Il caso di Denise Pipitone si fa sempre più intricato. La bambina di Mazara Del Vallo, scomparsa quando aveva solo 4 anni nel 2004, non è mai stata trovata. Una nuova pista dopo 17 anni sembrerebbe p… [+1443 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Proiezionidiborsa.it"
-      },
-      "author": "Lorenzo Masini",
-      "title": "Quello che è accaduto oggi in Borsa è veramente eccezionale e potrebbe costituire una svolta importantis ... - Proiezioni di Borsa",
-      "description": "Quando è suonata la campana della fine delle contrattazioni in Europa, molti operatori professionali si sono stropicciati gli occhi. Facevano fatica a",
-      "url": "https://www.proiezionidiborsa.it/quello-che-e-accaduto-oggi-in-borsa-e-veramente-eccezionale-e-potrebbe-costituire-una-svolta-importantissima-per-i-risparmiatori/",
-      "urlToImage": "https://www.proiezionidiborsa.it/site/wp-content/uploads/2021/05/mercati-2.jpg",
-      "publishedAt": "2021-05-12T17:56:00Z",
-      "content": "Quando è suonata la campana della fine delle contrattazioni in Europa, molti operatori professionali si sono stropicciati gli occhi. Facevano fatica a credere a quello che i monitor riportavano, a qu… [+2120 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilgiorno.it"
-      },
-      "author": "Il Giorno",
-      "title": "Vaccini, Figliuolo: \"Via alle prenotazioni per gli over 40\". Ecco quando si parte - IL GIORNO",
-      "description": "La comunicazione inviata alle Regioni: \"Dosi disponibili per i nati fino al 1981\". Intanto entro fine settimana sono in arrivo 3 milioni di fiale in Italia",
-      "url": "https://www.ilgiorno.it/cronaca/vaccini-prenotazioni-over-40-figliuolo-1.6354493",
-      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6314003.1620840888%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700&h=391",
-      "publishedAt": "2021-05-12T17:39:36Z",
-      "content": "Roma - Svolta nella campagna vaccinale in Italia. Il commissario per l'emergenza, Francesco Figliuolo, ha inviato alle Regioni una lettera per dare il via libera alle prenotazioni da lunedì 17 maggio… [+2790 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Corriere.it"
-      },
-      "author": "Fiorenza Sarzanini",
-      "title": "Elisabetta Belloni prima donna al vertice dei servizi segreti - Corriere della Sera",
-      "description": "La scelta del premier Draghi. Sostituirà il prefetto Gennaro Vecchione al vertice del Dipartimento delle informazioni per la Sicurezza",
-      "url": "https://www.corriere.it/politica/21_maggio_12/elisabetta-belloni-nuovo-capo-servizi-segreti-18bf7ac2-b345-11eb-a8d8-6fa95675e8be.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/12/96e16690-b345-11eb-a8d8-6fa95675e8be.jpg",
-      "publishedAt": "2021-05-12T17:37:30Z",
-      "content": "Il presidente del Consiglio, Mario Draghi, ha nominato l’ambasciatore Elisabetta Belloni Direttore generale del Dipartimento delle informazioni per la sicurezza, in sostituzione dell’attuale Direttor… [+603 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Calciomercatonews.com"
-      },
-      "author": null,
-      "title": "Calciomercato Juventus, l’ex squadra lo chiama | Suggestione shock - Calciomercatonews.com",
-      "description": "Lo Sporting Club de Portugal vince il campionato portoghese e arrivano i complimenti di Cristiano Ronaldo: possibile indizio di mercato",
-      "url": "https://www.calciomercatonews.com/2021/05/12/calciomercato-juventus-sporting-club-portugal-suggestione-cristiano-ronaldo/",
-      "urlToImage": "https://www.calciomercatonews.com/wp-content/uploads/2021/04/GettyImages-1297489368-1.jpg",
-      "publishedAt": "2021-05-12T16:30:06Z",
-      "content": "Lo Sporting Club de Portugal vince il campionato portoghese e subito arrivano i complimenti di un ex: possibile indizio di mercato\r\nIl campionato vinto dallo Sporting club de Portugal porta degli ind… [+1283 chars]"
+      "author": "il Resto del Carlino",
+      "title": "Prenotazione vaccino over 40: in Emilia Romagna si parte il 17 maggio - il Resto del Carlino",
+      "description": "Il presidente Bonaccini perplesso sulle indicazioni del commissario Figliuolo, ma si adegua. Oltre 696mila i residenti interessati in regione. Cosa fare per iscriversi",
+      "url": "https://www.ilrestodelcarlino.it/emilia-romagna/prenotazione-vaccino-over-40-1.6362848",
+      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6362878.1621001843%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700&h=391",
+      "publishedAt": "2021-05-14T15:56:15Z",
+      "content": "Bologna, 14 maggio 2021 - Prima chi rischia la vita. Stefano Bonaccini ha manifestato perplessità riguardo all'indicazione data dal commissario Figliuolo, secondo cui da lunedì parte la prenotazione … [+7537 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Ilfattoquotidiano.it"
       },
-      "author": "Davide Turrini",
-      "title": "Indiana Jones 5, riprese in Sicilia per il quinto film della saga - Il Fatto Quotidiano",
-      "description": "Spielberg sarà esclusivamente produttore, mentre alla regia ci sarà James Mangold che, vista la performance dietro l’ottimo Le Mans ’66 – La grande sfida, potrebbe riservare saettante vigore alle gesta di Indy&co",
-      "url": "https://www.ilfattoquotidiano.it/2021/05/12/indiana-jones-5-riprese-in-sicilia-per-il-quinto-film-della-saga-nel-cast-anche-mads-mikkelsen-un-onore/6195918/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/12/Mads-Mikkelsen.jpg",
-      "publishedAt": "2021-05-12T16:08:21Z",
-      "content": "Indiana Jones5 avrà come set la località siciliana di Segesta e unaltra preziosa star in scena come Mads Mikkelsen. È stata ledizione di Repubblica Palermo a pubblicare la notizia di maestranze e cas… [+1600 chars]"
+      "author": "F. Q.",
+      "title": "Formigli si infuria due volte con Dino Giarrusso: “Se ritieni che trucchiamo i sondaggi su Virginia Raggi,… - Il Fatto Quotidiano",
+      "description": "\"Ti querelo\", Formigli si infuria con Giarrusso. Guardate cosa è successo in diretta tv [Video]",
+      "url": "https://www.ilfattoquotidiano.it/2021/05/14/formigli-si-infuria-due-volte-con-dino-giarrusso-se-ritieni-che-trucchiamo-i-sondaggi-su-virginia-raggi-dillo-cosi-ti-querelo/6198197/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/14/giarrusso_formigli_1200.jpg",
+      "publishedAt": "2021-05-14T15:45:56Z",
+      "content": "Doppia sfuriata di Corrado Formigli allindirizzo delleuroparlamentare del M5s, Dino Giarrusso, durante la diretta del talk show politico Piazzapulita, su La7.Nel primo scontro, il politico pentastell… [+1097 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "esquire.com"
+        "name": "3bmeteo.com"
       },
-      "author": "Redazione",
-      "title": "Il trucco per leggere un messaggio cancellato su WhatsApp - esquire.com",
-      "description": "Per chi è troppo curioso.",
-      "url": "https://www.esquire.com/it/lifestyle/tecnologia/a36396167/leggere-messaggio-cancellato-whatsapp/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1253805460-1-1620746933.jpg?crop=1.00xw:0.753xh;0,0.164xh&resize=1200:*",
-      "publishedAt": "2021-05-12T16:00:52Z",
-      "content": "Quante volte vi è capitato di sentire la notifica di un messaggio, raggiungere il cellulare, aprirlo, aprire WhatsApp e osservare con terribile sorpresa che il messaggio è stato cancellato (!). Il pi… [+1114 chars]"
+      "author": "Lorenzo Badellino",
+      "title": "CRONACA METEO. Fioriscono i TEMPORALI su parte del Centro-Nord, localmente FORTI. Situazione e previsioni - 3bmeteo",
+      "description": "LOMBARDIA, FRANA IN VAL BREMBANA Le abbondanti piogge degli ultimi giorni e quelle in corso oggi sono la causa di una frana in Val Brembana avvenuta questa mattina che ha sfiorato l'abitato di Carona",
+      "url": "https://www.3bmeteo.com/giornale-meteo/cronaca-meteo--fioriscono-i-temporali-su-parte-del-centro-nord--localmente-forti--situazione-e-previsioni-473412",
+      "urlToImage": "https://image.3bmeteo.com/images/newarticles/w_1280/cronaca-meteo-italia-3bmeteo-117128.jpg",
+      "publishedAt": "2021-05-14T15:22:30Z",
+      "content": "Fronte in arrivo sulle regioni centro-settentrionali con piogge e temporali in intensificazione.\r\nCronaca meteo Italia\r\nLOMBARDIA, FRANA IN VAL BREMBANA. Le abbondanti piogge degli ultimi giorni e qu… [+4522 chars]"
     },
     {
       "source": {
-        "id": "il-sole-24-ore",
-        "name": "Il Sole 24 Ore"
+        "id": null,
+        "name": "Ilgazzettino.it"
+      },
+      "author": "Marco Corazza",
+      "title": "Violenta grandinata tra Treviso e Veneto Orientale: chicchi grandi come noci, auto e coltivazioni... - ilgazzettino.it",
+      "description": "TREVISO/VENEZIA - Dal Veneto Orientale alla provincia di Treviso violenta grandinata oggi pomeriggio, 14 maggio, che ha imbiancato strade e campagne. Tutto è successo in pochi...",
+      "url": "https://www.ilgazzettino.it/nordest/venezia/grandinata_danni_treviso_veneto_orientale-5959955.html",
+      "urlToImage": "https://www.ilgazzettino.it/photos/MED/99/55/5959955_1707_grandinata.jpg",
+      "publishedAt": "2021-05-14T15:11:00Z",
+      "content": "TREVISO/VENEZIA - Dal Veneto Orientale alla provincia di Trevisoviolenta grandinata oggi pomeriggio, 14 maggio, che ha imbiancato strade e campagne. Tutto è successo in pochi minuti, all'improvviso a… [+543 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
       },
       "author": null,
-      "title": "Inflazione Usa transitoria o strutturale? Dalle auto usate arriva un indizio per le Borse - Il Sole 24 ORE",
-      "description": "Notizie di economia, cronaca italiana ed estera, quotazioni borsa in tempo reale e di finanza, norme e tributi, fondi e obbligazioni, mutui, prestiti e lavoro a cura de Il Sole 24 Ore.",
-      "url": "https://www.ilsole24ore.com/",
+      "title": "JUVENTUS vs INTER | ANTONIO CONTE INTER TV EXCLUSIVE PRE-MATCH INTERVIEW [SUB ENG] - Inter",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9c2YxZjhpV01kZGPSAQA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2021-05-12T15:53:18Z",
-      "content": "Non solo rinnovabili\r\nLa sfida fra le tecnologie energetiche si gioca su molti piani in competizione fra loro e finora sia nel mondo sia in Italia l'unico insieme di tecnologie che nel mondo offre mi… [+213 chars]"
+      "publishedAt": "2021-05-14T15:04:20Z",
+      "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "Rainews.it"
+        "id": "la-repubblica",
+        "name": "La Repubblica"
       },
-      "author": null,
-      "title": "Crimini di guerra: Karadzic sconterà ergastolo in Gb - Rai News",
-      "description": "Il Regno Unito ha accettato il trasferimento sul suo territorio dell'ex leader serbo-bosniaco Radovan Karadzic affinché sconti la sua condanna all'ergastolo per genocidio, crimini di guerra e crimini contro l'umanità. Karadzic, che ha 75 anni, è incarcerato n…",
-      "url": "https://www.rainews.it/dl/rainews/articoli/karadzic-ergastolo-gran-bretagna-ef65dd42-dbac-4465-8d57-5a8f4f652987.html",
-      "urlToImage": "https://www.rai.it/cropgd/476x249/dl/img/2021/05/1620835007577.rainews_20210512175612628_1fb48fd2bc805802e3fd2c0f21d4bb85.jpg",
-      "publishedAt": "2021-05-12T15:52:00Z",
-      "content": "12 maggio 2021Il Regno Unito ha accettato il trasferimento sul suo territorio dell'ex leader serbo-bosniaco Radovan Karadzic affinché sconti la sua condanna all'ergastolo per genocidio, crimini di gu… [+1779 chars]"
+      "author": "Repubblica.it",
+      "title": "Rula Jebreal rifiuta 'Propaganda Live': \"Non vado perché sarei l'unica donna su sette ospiti\" - la Repubblica",
+      "description": "La giornalista affida il suo sfogo a un post su twitter: \"La sottorappresentazione femminile nei media italiani è parte centrale del problema\"",
+      "url": "https://www.repubblica.it/spettacoli/tv-radio/2021/05/14/news/rula_jebreal_rifiuta_propaganda_live_non_vado_perche_sarei_l_unica_donna_su_sette_ospiti_-300990973/",
+      "urlToImage": "https://www.repstatic.it/content/nazionale/img/2021/05/14/160933891-d6203e73-4396-4607-9185-aeaba68e3e21.jpg",
+      "publishedAt": "2021-05-14T14:41:33Z",
+      "content": "Sette ospitisolo una donna. Come mai?? Con rammarico devo declinare linvito, come scelta professionale non partecipo a nessun evento che non implementa la parità e l'inclusione. Queste le parole util… [+1741 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Corriere.it"
       },
-      "author": "Paola Caruso",
-      "title": "Coronavirus in Italia, il bollettino di oggi 12 maggio: 7.852 nuovi casi e 262 morti - Corriere della Sera",
-      "description": "I dati del bollettino sulla pandemia di Covid-19 di mercoledì 12 maggio",
-      "url": "https://www.corriere.it/salute/21_maggio_12/coronavirus-italia-bollettino-oggi-12-maggio-7852-nuovi-casi-262-morti-c7bcba1a-b30b-11eb-a8d8-6fa95675e8be.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/12/a986e4ca-b334-11eb-a8d8-6fa95675e8be.jpg",
-      "publishedAt": "2021-05-12T15:32:01Z",
-      "content": "Sono 7.852 i nuovi casi di coronavirus in Italia (ieri sono stati +6.946, qui il bollettino). Sale così ad almeno 4.131.078 il numero di persone che hanno contratto il virus Sars-CoV-2 (compresi guar… [+6840 chars]"
+      "author": "Stefania Chiale",
+      "title": "Vaccini Lombardia, prenotazioni per over 40, 30enni e under 20: date e calendario - Corriere della Sera",
+      "description": "Il nuovo calendario della campagna di profilassi. Bertolaso all’attacco su «vax day» e anticipo delle prenotazioni: «Copre i ritardi delle altre regioni»",
+      "url": "https://milano.corriere.it/notizie/cronaca/21_maggio_14/vaccini-lombardia-prenotazioni-40enni-20-maggio-trentenni-27-under-20-2-giugno-9e227888-b4ab-11eb-a3a5-b3729d611502.shtml",
+      "urlToImage": "https://images2-milano.corriereobjects.it/methode_image/2021/05/14/Milano/Foto-Milano-Trattate/pizzarellid76d414c0-7a9f-4ba9-8af1-dd7aa705d7c017AgenziaFotogrammaFGR319834-0016-k6CD-U32601361019089JfF-526x284@Corriere-Web-Milano.jpg",
+      "publishedAt": "2021-05-14T14:34:16Z",
+      "content": "Le certezze sull’arrivo di nuove scorte di vaccino per ora non sono arrivate: questa è la premessa. La Lombardia aprirà le prenotazioni ai suoi 40enni il 20 maggio (qui tutte le date e i grafici del … [+7407 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilgiornale.it"
+      },
+      "author": "Ignazio Riccio",
+      "title": "La furia degli attivisti 5S su Travaglio: \"Cosa ha fatto...\" - ilGiornale.it",
+      "description": "A dare spazio alla lamentela e all'integrale della lettera è il Blog delle Stelle, che apre quindi un nuovo fronte polemico con la galassia di riferimento pentastellata",
+      "url": "https://www.ilgiornale.it/news/politica/attivisti-m5s-sulla-piattaforma-rousseau-fatto-quotidiano-ci-1946650.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2021/04/27/1619522802-7643448-large.jpeg?_=1619522802",
+      "publishedAt": "2021-05-14T14:32:00Z",
+      "content": "Hanno chiesto ospitalità al Blog delle Stelle, lorgano di comunicazione ufficiale della piattaforma Rousseau. Sono ventitré gli attivisti che hanno apposto la loro firma in calce alla lettera inviata… [+2695 chars]"
     },
     {
       "source": {
@@ -229,38 +229,38 @@ news_it = {
         "name": "Ilfattoquotidiano.it"
       },
       "author": "F. Q.",
-      "title": "Covid, ecco lo spray nasale made in Italy. “Eliminato Sars-Cov-2 in meno di un minuto nei test di… - Il Fatto Quotidiano",
-      "description": "La sperimentazione verificherà la sicurezza e l’efficacia dello spray (AOS2020), inalato nelle due narici per 3/5 volte al giorno, nel ridurre la carica virale nelle alte vie respiratorie",
-      "url": "https://www.ilfattoquotidiano.it/2021/05/12/covid-ecco-lo-spray-nasale-made-in-italy-eliminato-sars-cov-2-in-meno-di-un-minuto-nei-test-di-laboratorio/6195781/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/12/Icardi-spray.jpg",
-      "publishedAt": "2021-05-12T15:31:30Z",
-      "content": "L’idea di uno spray nasale anti coronavirusha già avuto i primi riscontri positivi in Israele e Gran Bretagna. Ora anche in Italia sono partiti i primi test sull’uomo per uno spray nasale allospedale… [+4351 chars]"
+      "title": "Gaza, 119 vittime palestinesi e 7 israeliane. Save the Children: “Raid di Tel Aviv su 31 scuole” - Il Fatto Quotidiano",
+      "description": "In totale sono oltre 2mila i razzi partiti dall'enclave dall'inizio delle ostilità. Dall'altra parte, per tutta la notte circa 160 aerei dell’Esercito israeliano hanno colpito oltre 150 \"obiettivi sotterranei\" nel nord della Striscia di Gaza, come si legge in…",
+      "url": "https://www.ilfattoquotidiano.it/2021/05/14/gaza-119-vittime-palestinesi-e-7-israeliane-save-the-children-raid-di-tel-aviv-su-31-scuole-smentita-linvasione-di-terra-nella-striscia/6197507/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/14/gaza-4.jpg",
+      "publishedAt": "2021-05-14T14:03:45Z",
+      "content": "Dopo il rientrato allarme su un’invasione di terra da parte dell’esercito israeliano a Gaza, prima annunciata e successivamente smentita in nottata dal portavoce militare Jonathan Conricus, continuan… [+5352 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Tuttobiciweb.it"
+        "name": "Ilpost.it"
       },
       "author": null,
-      "title": "GIRO D'ITALIA 2021. CALEB EWAN BRUCIA NIZZOLO. LANDA KO - TUTTOBICIWEB.it",
-      "description": "Volata serratissima sul traguardo di Cattolica al termine di una tappa nervosissima",
-      "url": "https://www.tuttobiciweb.it/article/2021/05/12/1620822330/giro-italia-2021-5-tappa-vittoria-ewan-classifica",
-      "urlToImage": "https://www.tuttobiciweb.it/article/1620822330/photo-social.jpg?1906721188",
-      "publishedAt": "2021-05-12T15:30:00Z",
-      "content": "Caleb Ewan torna a colpire al Giro d'Italia e per la quarta volta mette la sua ruota davanti a tutti. L'australiano della Lotto Soudal ha sfoderato una delle sue proverbiali accelerazioni rimontando … [+29107 chars]"
+      "title": "L’azienda turca di energia Karpowership ha chiuso la sua fornitura di elettricità al Libano - Il Post",
+      "description": "L'azienda turca Karpowership, che distribuisce energia elettrica, ha chiuso i suoi rifornimenti al Libano, dicendo che il paese non ha pagato i suoi conti",
+      "url": "https://www.ilpost.it/2021/05/14/karpowership-libano-chiuso-fornitura-elettricita/",
+      "urlToImage": "https://cdn.ilpost.it/wp-content/uploads/2021/05/AP21134288523145.jpg?x72029",
+      "publishedAt": "2021-05-14T13:50:19Z",
+      "content": "L’azienda turca Karpowership, che distribuisce energia elettrica, ha chiuso i suoi rifornimenti al Libano, dicendo che il paese non ha pagato i suoi conti negli ultimi 18 mesi e che in tutto le dovre… [+989 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Fanpage.it"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Valerio Papadia",
-      "title": "Richiamo Pfizer e Moderna dopo 30 giorni, la Campania cambia le regole sui vaccini Covid - Fanpage.it",
-      "description": "Non più 40 giorni, bensì 30 giorni, per i richiami dei vaccini Covid Pfizer e Moderna. La Regione Campania, contrariamente a quanto disposto dal Ministero della Salute, cambia le regole per le seconde dosi dei vaccini a mRNA. Le nuove regole, in Campania, and…",
-      "url": "https://www.fanpage.it/napoli/richiamo-pfizer-e-moderna-dopo-30-giorni-la-campania-cambia-le-regole-sui-vaccini-covid/",
-      "urlToImage": "https://static.fanpage.it/wp-content/uploads/sites/30/2021/02/vaccino-vaccini-covid-coronavirus-pfizer-2.jpg",
-      "publishedAt": "2021-05-12T14:48:04Z",
-      "content": "La Regione Campania cambia nuovamente le regole per quanto riguarda i richiami dei vaccini Covid a mRNA, vale a dire Pfizer-Biontech e Moderna: la seconda dose, a partire da domani, 13 maggio, non sa… [+1464 chars]"
+      "author": null,
+      "title": "Allarme variante indiana in Gran Bretagna. Johnson: accelerare su seconde dosi vaccini - Rai News",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMif2h0dHBzOi8vd3d3LnJhaW5ld3MuaXQvZGwvcmFpbmV3cy9hcnRpY29saS9jb3JvbmF2aXJ1cy1HcmFuLUJyZXRhZ25hLXZhcmlhbnRlLWluZGlhbmEtYzYyNzc5YmUtNzZiZC00MjA5LTk4NzEtOGNmOWY1YjZjMjIyLmh0bWzSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-05-14T13:50:00Z",
+      "content": null
     }
   ]
 }
