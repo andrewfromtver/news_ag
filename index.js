@@ -141,4 +141,7 @@ corsCheck = (url) => {
 window.onload = () => {
   loadNews(document.getElementById('lang').value)
   loadCurrency()
+  setTimeout(()=>{
+    document.querySelector('.init').remove()
+  }, 250)
 }
