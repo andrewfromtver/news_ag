@@ -1,6 +1,10 @@
 <script>
-    /* Service variables */
     var token = "0189bfcb4a4ce7138b86123496301441";
+    var sug_token = '0e16cee31b2f66a930741dcb0890816f4f9ecf15';
+</script>
+
+<script>
+    /* Service variables */
     var globallat = null;
     var globallon = null;
     var globalplace = '';
@@ -108,7 +112,7 @@
     /* Address query DADATA API */
     function query(input, type) {
         var url = 'https://suggestions.dadata.ru/suggestions/api/4_1/rs/suggest/address';
-        var token = '0e16cee31b2f66a930741dcb0890816f4f9ecf15';
+        var token = sug_token;
         var query = String(input);
         var options = {
             method: 'POST',
