@@ -4,15 +4,41 @@ news_gb = {
   "articles": [
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "The Guardian"
       },
-      "author": null,
-      "title": "NEWCASTLE UNTIED V MAN CITY | PREMIER LEAGUE | WNRH PRE MATCH LIVE SHOW - Man City",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MFFVc0ptekNyOGfSAQA?oc=5",
+      "author": "Rob Davies",
+      "title": "Small breweries work flat out for the UK’s grand pub reopening - The Guardian",
+      "description": "Return of indoor service on 17 May promises a sorely needed fillip for craft brewers fighting for survival amid Covid crisis",
+      "url": "https://amp.theguardian.com/business/2021/may/15/small-breweries-work-flat-out-for-the-uks-grand-pub-reopening",
       "urlToImage": null,
-      "publishedAt": "2021-05-14T17:57:19Z",
+      "publishedAt": "2021-05-15T06:00:00Z",
+      "content": "Food &amp; drink industryReturn of indoor service on 17 May promises a sorely needed fillip for craft brewers fighting for survival amid Covid crisis \r\nThe beery aroma in the air at the Gipsy Hill br… [+5881 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Manchester Evening News"
+      },
+      "author": "Richard Fay",
+      "title": "The £3million Manchester United signing who was compared to Cristiano Ronaldo... and it ended in failure - Manchester Evening News",
+      "description": "\"I spent two good years in Manchester but it was a bit difficult with the competition and I really needed a club where I could play more games.\"",
+      "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-gabriel-obertan-news-20577012",
+      "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article20600335.ece/ALTERNATES/s1200/0_GettyImages-102939484.jpg",
+      "publishedAt": "2021-05-15T06:00:00Z",
+      "content": "\"At Cristiano's request - who has again expressed his desire to leave - and after discussions with the player's representatives, United have agreed to give Real Madrid permission to talk to the playe… [+10716 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky.com"
+      },
+      "author": "Connor Sephton",
+      "title": "'Nine minutes of terror' as China becomes second country to land on Mars - Sky News",
+      "description": "The Tianwen-1 vessel has landed in an icy area known as Utopia Planitia, about 1,200 miles away from America's Perseverance rover.",
+      "url": "https://news.sky.com/story/nine-minutes-of-terror-as-china-becomes-second-country-to-land-on-mars-12306745",
+      "urlToImage": "https://e3.365dm.com/21/05/1600x900/skynews-mars-zhurong_5382052.jpg?20210515045630",
+      "publishedAt": "2021-05-15T04:40:29Z",
       "content": null
     },
     {
@@ -20,234 +46,169 @@ news_gb = {
         "id": null,
         "name": "The Guardian"
       },
-      "author": "Jonathan Freedland",
-      "title": "Once this violence in Israel and Gaza ends, there can be no return to ‘normal’ - The Guardian",
-      "description": "The cycle of bloodshed will keep repeating, as long as the status quo remains comfortable for everyone except ordinary Palestinians, says Guardian columnist Jonathan Freedland",
-      "url": "https://amp.theguardian.com/commentisfree/2021/may/14/violence-israel-gaza-bloodshed-palestinians",
-      "urlToImage": "https://i.guim.co.uk/img/media/eee5eeddeca2dd604e925f2ea248734dc80b9f05/0_204_3180_1908/master/3180.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=2e2b6b95ee9154e5a68f1f5a02add297",
-      "publishedAt": "2021-05-14T17:46:00Z",
-      "content": "If Groundhog Day were a horror movie, it would look like this. The deadly violence shaking the Middle East Israeli airstrikes on Gaza, Hamas rocket attacks on Israel seems to play out the same way, a… [+6553 chars]"
+      "author": "Oliver Holmes",
+      "title": "Israel warplanes target Gaza as army says rockets fired ‘non-stop’ over southern border - The Guardian",
+      "description": "Twelve Palestinians killed as US envoy arrives in Israel as part of mediation efforts",
+      "url": "https://amp.theguardian.com/world/2021/may/15/israel-gaza-west-bank-rockets-jerusalem-warplanes",
+      "urlToImage": "https://i.guim.co.uk/img/media/03bcdf3ee72eb25475ad830ec6e72e981c351f38/0_204_4212_2528/master/4212.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e74d7a4c73a589dff11c4260f3ebd181",
+      "publishedAt": "2021-05-15T04:34:00Z",
+      "content": "Israeli fighter jets have hit targets in central Gaza, the military said on Saturday, and Palestinian militants fired rockets in retaliation after a day of deadly violence rocked the West Bank and un… [+5514 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Guardian"
+        "name": "Express"
       },
-      "author": "Libby Brooks",
-      "title": "‘A special day’: how a Glasgow community halted immigration raid - The Guardian",
-      "description": "Activists and local people tell how they forced the release of two men detained in an enforcement van",
-      "url": "https://amp.theguardian.com/uk-news/2021/may/14/a-special-day-how-glasgow-community-halted-immigration-raid",
-      "urlToImage": null,
-      "publishedAt": "2021-05-14T17:25:00Z",
-      "content": "Immigration and asylumActivists and local people tell how they forced the release of two men detained in an enforcement van\r\nFri 14 May 2021 10.51 EDT\r\nIt was just after 9am on Thursday and he was fi… [+5891 chars]"
+      "author": "Manon Dark",
+      "title": "Channel crossings: Nigel Farage predicts 20,000 illegal migrants will make journey in 2021 - Express",
+      "description": "NIGEL FARAGE has predicted that 20,000 migrants will cross the English Channel in 2021, a huge jump from last year's figures.",
+      "url": "https://www.express.co.uk/news/uk/1436455/Channel-crossings-nigel-farage-news-English-illegal-migrants-youtube-latest-ont",
+      "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/1/750x445/1436455.jpg",
+      "publishedAt": "2021-05-15T04:28:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky.com"
+      },
+      "author": "Connor Sephton",
+      "title": "COVID-19: Calls for Monday's lockdown easing to be delayed, as SAGE warns variant could pressure hospitals - Sky News",
+      "description": "Boris Johnson says the Indian variant may delay the fourth stage of easing lockdown in June but Monday's relaxation will go ahead.",
+      "url": "https://news.sky.com/story/covid-19-calls-for-mondays-lockdown-easing-to-be-delayed-as-sage-warns-variant-could-pressure-hospitals-12306738",
+      "urlToImage": "https://e3.365dm.com/21/05/1600x900/skynews-lockdown-roadmap_5382046.jpg?20210515023232",
+      "publishedAt": "2021-05-15T02:26:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Sam Blewett",
+      "title": "Johnson’s Mustique holiday ‘was worth double the amount declared’ - The Independent",
+      "description": "The PM had declared the value of the holiday to be £15,000",
+      "url": "https://www.independent.co.uk/news/uk/home-news/boris-johnson-holiday-cost-paid-b1847969.html",
+      "urlToImage": "https://static.independent.co.uk/2021/05/15/01/PRI189639340.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2021-05-15T02:17:30Z",
+      "content": "Parliaments standards watchdog is said to believe that Boris Johnsons holiday to Mustique was worth more than double the £15,000 he declared in the Commons register.\r\nKathryn Stone, the commissioner … [+1749 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Biden revokes Trump order to punish statue vandals - BBC News",
+      "description": "Also scrapped is a Trump plan for a sculpture garden to US heroes, such as Whitney Houston.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-57124887",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E789/production/_112837295_061899500-1.jpg",
+      "publishedAt": "2021-05-15T01:46:04Z",
+      "content": "image copyrightGetty Images\r\nimage captionChristopher Columbus is celebrated by some, and reviled by others in the US\r\nPresident Joe Biden has revoked a string of proclamations by Donald Trump, inclu… [+2138 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky.com"
+      },
+      "author": "Gemma Peplow",
+      "title": "Raging Bull: How Robert De Niro, Martin Scorsese and Joe Pesci have retold the film's story - Sky News",
+      "description": "Writer Jay Glennie is a Robert De Niro fan who now calls him a friend. Here's how he came to tell how Raging Bull was made.",
+      "url": "https://news.sky.com/story/raging-bull-how-robert-de-niro-martin-scorsese-and-joe-pesci-have-retold-the-films-story-12302896",
+      "urlToImage": "https://e3.365dm.com/21/05/1600x900/skynews-robert-de-niro-joe-pesci_5370726.jpg?20210505125140",
+      "publishedAt": "2021-05-15T01:41:48Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky.com"
+      },
+      "author": "Ashna Hurynag",
+      "title": "A Green wave overtook Bristol in the election, and it appears climate change wasn't the only reason - Sky News",
+      "description": "Councillors tell Sky News that the Green Party struck a chord with voters tired of Labour's infighting on a national level.",
+      "url": "https://news.sky.com/story/a-green-wave-overtook-bristol-in-the-election-and-it-appears-climate-change-wasnt-the-only-reason-12306692",
+      "urlToImage": "https://e3.365dm.com/21/05/1600x900/skynews-green-party-elections_5377011.jpg?20210510152822",
+      "publishedAt": "2021-05-15T00:20:54Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Graeme Massie",
+      "title": "Co-creator of Dogecoin lashes out at ‘self-absorbed grifter’ Elon Musk over bitcoin stand - The Independent",
+      "description": "Jackson Palmer helped create the cryptocurrency as a joke in 2013",
+      "url": "https://www.independent.co.uk/life-style/gadgets-and-tech/musk-dogecoin-tesla-crypto-palmer-b1847956.html",
+      "urlToImage": "https://static.independent.co.uk/2021/05/15/00/GettyImages-1229892421.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2021-05-14T23:34:10Z",
+      "content": "One of Dogecoins co-creators labelled Elon Musk a self-absorbed grifter after Tesla stopped taking bitcoin for its electric cars.\r\nJackson Palmer hit out at the billionaire entrepreneur, who has nick… [+1932 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Ferran Torres: Could Man City forward be replacement for Sergio Aguero up front? - BBC Sport",
+      "description": "The pursuit of a striker was expected to be a focus for Manchester City this summer, but do they already have the answer in Ferran Torres?",
+      "url": "https://www.bbc.co.uk/sport/football/57124687",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/7D3D/production/_118516023_ferrantorres.jpg",
+      "publishedAt": "2021-05-14T23:22:02Z",
+      "content": "Ferran Torres joined Manchester City for £20.87m from Valencia in August 2020\r\nManchester City's search for a striker was supposed to be the big transfer story of the coming summer, as the Premier Le… [+4663 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Mirror Online"
       },
-      "author": "Verity Sulway",
-      "title": "Kate Garraway slams 'entitled' Prince Harry for 'devastating' Prince Charles remarks - Mirror Online",
-      "description": "Kate Garraway slammed Prince Harry for his \"devastating\" remarks about his upbringing with father Prince Charles, branding him \"entitled and without empathy\"",
-      "url": "https://www.mirror.co.uk/tv/tv-news/kate-garraway-slams-entitled-prince-24112671",
-      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article24112704.ece/ALTERNATES/s1200/0_Kate-Garraway-calls-out-Prince-Harry-on-GMB-over-devastating-comments.jpg",
-      "publishedAt": "2021-05-14T17:07:40Z",
-      "content": "Good Morning Britain host Kate Garraway has criticised Prince Harry for his recent remarks about his father Prince Charles, claiming they will have a \"devastating impact\". \r\n Harry, who is expecting … [+2538 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "China prepares to land its Zhurong rover on Mars - BBC News",
-      "description": "The six-wheeled robot is ready to make the hazardous descent to the surface of the Red Planet.",
-      "url": "https://www.bbc.co.uk/news/science-environment-57122914",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/46C9/production/_118512181_zhurong-china-mars-lander.jpg",
-      "publishedAt": "2021-05-14T17:05:11Z",
-      "content": "By Jonathan AmosBBC Science Correspondent\r\nimage captionArtwork of the Zhurong robot: It's a daunting prospect landing on Mars\r\nChina says it will attempt to land its Mars rover in the coming days.\r\n… [+2844 chars]"
+      "author": "Mark Jefferies",
+      "title": "Piers Morgan returns to ITV to interview Labour leader Keir Starmer after quitting GMB - Mirror Online",
+      "description": "EXCLUSIVE: Former Good Morning Britain host Piers Morgan quit the series following a row about Prince Harry and Meghan Markle",
+      "url": "https://www.mirror.co.uk/3am/celebrity-news/piers-morgan-returns-itv-interview-24113006",
+      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article24110626.ece/ALTERNATES/s1200/0_MAP_CHP_140521-Piers_25188-Piers.jpg",
+      "publishedAt": "2021-05-14T23:00:00Z",
+      "content": "Two months after forcing him to quit Good Morning Britain, ITV is welcoming back Piers Morgan, who will interview Labour leader Keir Starmer in an episode of his Life Stories. \r\n ITV boss Kevin Lygo … [+1970 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Manchester Evening News"
+        "name": "Liverpool Echo"
       },
-      "author": "Seamus McDonnell",
-      "title": "Boris Johnson says lockdown easing will NOT be delayed in Bolton as he issues message to town - Manchester Evening News",
-      "description": "Local leaders had urged the government not to put extra rules in place despite rising infection rates.",
-      "url": "https://www.manchestereveningnews.co.uk/news/boris-johnson-says-lockdown-easing-20602323",
-      "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article20584537.ece/ALTERNATES/s1200/0_Covid-19-testing-centre.jpg",
-      "publishedAt": "2021-05-14T17:02:44Z",
-      "content": "Boris Johnson has confirmed that lockdown restrictions will be eased in Bolton and across England on Monday despite rising coronavirus infection rates.\r\nSpeaking at a briefing this afternoon, the Pri… [+2186 chars]"
+      "author": "Theo Squires, Mark Wakefield",
+      "title": "Liverpool transfer news - Ibrahima Konate agrees terms, Mohamed Salah and Dusan Vlahovic exit - Liverpool Echo",
+      "description": "Liverpool transfer news, rumours, gossip and speculation including latest on Ibrahima Konate, Mohamed Salah, Dusan Vlahovic and more",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-rumours-news-konate-20592426",
+      "urlToImage": "https://i2-prod.liverpoolecho.co.uk/incoming/article20521666.ece/ALTERNATES/s1200/0_GettyImages-1230177478.jpg",
+      "publishedAt": "2021-05-14T22:30:00Z",
+      "content": "Leipzig chief makes Ibrahima Konate clause admission\r\nRB Leipzig chief Oliver Mintzlaff has opened up on the future of Ibrahima Konate amid interest from Liverpool.\r\nThe ECHO understands that Reds ha… [+1008 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Manchester Evening News"
+        "id": "talksport",
+        "name": "TalkSport"
       },
-      "author": "Daniel Murphy, Steven Railston",
-      "title": "Manchester United news and transfers RECAP Bruno Fernandes latest and Man Utd vs Liverpool FC highlights - Manchester Evening News",
-      "description": "A recap of the day's Man Utd team news, injury latest and transfer gossip after the Premier League defeat to Liverpool FC.",
-      "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-transfer-news-recap-20594389",
-      "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article20594441.ece/ALTERNATES/s1200/1_UtdBlogPic.jpg",
-      "publishedAt": "2021-05-14T16:43:00Z",
-      "content": "“Bissouma’s making it clear now he wants to leave,” Wright said on Ringer FC’s Wright’s House podcast. “Bissouma at United… that fits. He’s very good.\r\n“You look at Bissouma, and he’s looking at Live… [+604 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Telegraph.co.uk"
-      },
-      "author": "Ambrose Evans-Pritchard",
-      "title": "The lords of global finance smile again on Britain's economy - Telegraph.co.uk",
-      "description": "The UK is poised for blistering growth this year as we reopen, but the unknown question is whether that will spark serious inflation",
-      "url": "https://www.telegraph.co.uk/business/2021/05/14/lords-global-finance-smile-britains-economy/",
-      "urlToImage": "https://www.telegraph.co.uk/content/dam/business/2021/05/14/TELEMMGLPICT000255784756_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay",
-      "publishedAt": "2021-05-14T16:21:00Z",
-      "content": "Global banks are scrambling to raise their UK growth forecasts for this year, expecting the British economy to roar back to life over coming months and regain pre-pandemic levels of output much soone… [+1840 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sky.com"
-      },
-      "author": "Sky",
-      "title": "Martin Bashir: Journalist quits BBC 'to focus on his health' - Sky News",
-      "description": "Mr Bashir had previously contracted COVID-19, and recently underwent major surgery.",
-      "url": "https://news.sky.com/story/martin-bashir-journalist-quits-bbc-to-focus-on-his-health-12306454",
-      "urlToImage": "https://e3.365dm.com/21/04/1600x900/skynews-martin-bashir-bafta_5352317.jpg?20210514180544",
-      "publishedAt": "2021-05-14T16:18:45Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "David Luiz: Brazilian defender to leave Arsenal at end of season - BBC Sport",
-      "description": "Brazil centre-back David Luiz will leave Arsenal this summer after two years at Emirates Stadium.",
-      "url": "https://www.bbc.co.uk/sport/football/57121776",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/11AD1/production/_118510427_gettyimages-1315880891.jpg",
-      "publishedAt": "2021-05-14T15:58:06Z",
-      "content": "David Luiz joined Arsenal from London rivals Chelsea in 2019\r\nBrazilian centre-back David Luiz will leave Arsenal this summer.\r\nThe 34-year-old met with club officials on Friday when it was decided t… [+483 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sky.com"
-      },
-      "author": "Lucia Binding",
-      "title": "COVID-19: Glasgow and Moray to remain in Level 3 amid new cases linked to Indian variant - Sky News",
+      "author": "Josh Fordham",
+      "title": "Thomas Tuchel ‘would rather win FA Cup’ with Chelsea than finish in top four as Blues boss explains hunger... - talkSPORT.com",
       "description": "",
-      "url": "https://news.sky.com/story/covid-19-glasgow-and-moray-to-remain-in-level-3-amid-new-cases-linked-to-indian-variant-12306467",
-      "urlToImage": "https://e3.365dm.com/21/01/1600x900/skynews-coronavirus-covid-uk_5227815.jpg?20210105095430",
-      "publishedAt": "2021-05-14T15:57:42Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sky.com"
-      },
-      "author": "David Blevins",
-      "title": "Northern Ireland: Edwin Poots beats Sir Jeffrey Donaldson to succeed Arlene Foster as DUP leader - Sky News",
-      "description": "Mrs Foster announced her resignation following an internal revolt over her leadership.",
-      "url": "https://news.sky.com/story/northern-ireland-edwin-poots-beats-sir-jeffrey-donaldson-to-succeed-arlene-foster-as-dup-leader-12306297",
-      "urlToImage": "https://e3.365dm.com/21/05/1600x900/skynews-dup-edwin-poots-northern-ireland_5365159.jpg?20210503134611",
-      "publishedAt": "2021-05-14T15:56:15Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Manchester Evening News"
-      },
-      "author": "Charlotte Dobson",
-      "title": "Latest Greater Manchester infection rates for every borough as cases continue to soar in Bolton - Manchester Evening News",
-      "description": "Bolton's surge in cases is thought to be driven by the B.1.617.2 strain of the virus, often called the Indian variant",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/latest-greater-manchester-infection-rates-20600946",
-      "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article20601216.ece/ALTERNATES/s1200/0_ABM_7091.jpg",
-      "publishedAt": "2021-05-14T15:40:18Z",
-      "content": "The coronavirus infection rate has soared above 200 in Bolton, the latest data shows.\r\nThe town still has the highest infection rate in the country with 228.5 cases per 100,000 people in the week end… [+3581 chars]"
+      "url": "http://talksport.com/football/fa-cup/881210/thomas-tuchel-rather-fa-cup-top-four-chelsea-silverware/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2021/05/TALKSPORT-TUCHEL-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+      "publishedAt": "2021-05-14T22:24:30Z",
+      "content": "Thomas Tuchel would rather win the FA Cup than finish in the top four this season, according to Darren Bent.\r\nTuchel has made quite the impact since joining the Blues in January and plays in the firs… [+2470 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Daily Mail"
       },
-      "author": "Ian Randall",
-      "title": "Breathing: Rats and pigs can survive on oxygen fed through their RECTUM, study finds - Daily Mail",
-      "description": "WARNING: GRAPHIC CONTENT Experts in Tokyo have demonstrated that mice, rats and pigs can take in oxygen delivered by means of a special liquid enema.",
-      "url": "https://www.dailymail.co.uk/sciencetech/article-9578901/Breathing-Rats-pigs-survive-oxygen-fed-RECTUM-study-finds.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2021/05/14/13/42986560-0-image-a-24_1620995377369.jpg",
-      "publishedAt": "2021-05-14T15:00:50Z",
-      "content": "We all know at least one person who metaphorically talks out of their rear end, but it may be possible to literally breathe via your behind, a study has determined.\r\nThis is a trick employed by certa… [+9267 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Evening Standard"
-      },
-      "author": "Brian Farmer",
-      "title": "Countdown presenter Rachel Riley loses latest round of libel battle - Evening Standard",
-      "description": "Blogger Mike Sivier won an appeal after three judges ruled that his public interest defence should be assessed at a trial.",
-      "url": "https://www.standard.co.uk/news/uk/rachel-riley-libel-battle-jeremy-corbyn-supporter-b935223.html",
-      "urlToImage": "https://static.standard.co.uk/2021/05/14/15/6a9416a7bbe941f1565baf87ceda4a05Y29udGVudHNlYXJjaGFwaSwxNjIxMDg2MTkx-2.59685442.jpg?width=1200&width=1200&auto=webp&quality=75",
-      "publishedAt": "2021-05-14T14:46:55Z",
-      "content": "Television presenter Rachel Riley has lost the latest round of a libel battle with a political blogger and Jeremy Corbyn supporter over an article which alleged that she engaged in a campaign of onli… [+3202 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Hamas launch bomb-laden SUICIDE DRONES into Israel as fighter jets filmed blasting them out the sky - The Sun",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Tk5FckYxbFNyRTTSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2021-05-14T14:40:07Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Steven Morris",
-      "title": "Wales to launch pilot universal basic income scheme - The Guardian",
-      "description": "Campaigners hail ‘huge moment’ as first minister commits to trials of payments to cover living costs",
-      "url": "https://amp.theguardian.com/society/2021/may/14/wales-to-launch-universal-basic-income-pilot-scheme",
-      "urlToImage": null,
-      "publishedAt": "2021-05-14T14:38:00Z",
-      "content": "Universal basic incomeCampaigners hail huge moment as first minister commits to trials of payments to cover living costs\r\nA pilot universal basic income (UBI) scheme is to be launched in Wales, the f… [+4060 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Evening Standard"
-      },
-      "author": "Tom Ambrose",
-      "title": "R number in England increases slightly as concerns grow about Indian variant - Evening Standard",
-      "description": "",
-      "url": "https://www.standard.co.uk/news/uk/r-number-range-england-increased-slightly-b935203.html",
-      "urlToImage": "https://static.standard.co.uk/2021/03/24/14/2fa4b6cd9a63a91bc9d5379fb5066cc6Y29udGVudHNlYXJjaGFwaSwxNjE2NjgwMTAz-2.58762520.jpg?width=1200&width=1200&auto=webp&quality=75",
-      "publishedAt": "2021-05-14T14:28:56Z",
-      "content": "The estimated R number range in England has increased slightly from 0.8-1.0 to 0.8-1.1, according to the Scientific Advisory Group for Emergencies (Sage).\r\nIt means that on average every 10 people in… [+1537 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Oliver Milman",
-      "title": "Trump loyalist Elise Stefanik wins Republican vote to replace Liz Cheney - The Guardian",
-      "description": "New York congresswoman and ardent Trump backer wins vote after Cheney removed for criticizing former president’s election lies",
-      "url": "https://amp.theguardian.com/us-news/2021/may/14/elise-stefanik-republican-vote-liz-cheney-trump",
-      "urlToImage": "https://i.guim.co.uk/img/media/13abdbe4609299524bb6609a5c851f97ad5ab87a/0_186_5568_3341/master/5568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04fae87746d864688230ad84caaccfe1",
-      "publishedAt": "2021-05-14T13:53:00Z",
-      "content": "Elise Stefanik has been elected by Republican House representatives to replace Liz Cheney as the partys conference chair, following the rancorous removal of Cheney over her criticism of Donald Trumps… [+2309 chars]"
+      "author": "Adam Schrader, Valerie Edwards",
+      "title": "US Navy pilots saw UFOs off the coast of Virginia so frequently they got used to them - Daily Mail",
+      "description": "US Naval personnel had a close encounter with a UFO - this time a spherical object that makes a controlled descent into the ocean off the coast of San Diego in July 2019.",
+      "url": "https://www.dailymail.co.uk/news/article-9580733/US-Navy-pilots-saw-UFOs-coast-Virginia-frequently-got-used-them.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2021/05/15/03/43010470-0-image-a-20_1621044231854.jpg",
+      "publishedAt": "2021-05-14T22:23:08Z",
+      "content": "Yet another video has leaked showing US Naval personnel having a close encounter with a UFO - this time a spherical object that makes a controlled descent into the ocean. \r\nThe object was filmed by a… [+12901 chars]"
     },
     {
       "source": {
@@ -255,12 +216,51 @@ news_gb = {
         "name": "BBC News"
       },
       "author": "https://www.facebook.com/bbcnews",
-      "title": "British tourists allowed into Portugal from Monday - BBC News",
-      "description": "The government in Lisbon says anyone arriving will need to take a negative PCR test before departure.",
-      "url": "https://www.bbc.co.uk/news/business-57117918",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/70BC/production/_118506882_hi039251302.jpg",
-      "publishedAt": "2021-05-14T13:18:07Z",
-      "content": "British tourists will be allowed to enter Portugal from next Monday, the Portuguese authorities have announced.\r\nPortugal is on the UK's \"green\" list for unrestricted travel from then, but there had … [+3495 chars]"
+      "title": "Is there a future for Alex Salmond? - BBC News",
+      "description": "The former Scottish first minister and SNP leader gambled on a breakaway new party and lost. Is this the end?",
+      "url": "https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57087207",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11C99/production/_118475827_gettyimages-1232439479-1.jpg",
+      "publishedAt": "2021-05-14T22:06:19Z",
+      "content": "By Nick EardleyBBC political correspondent\r\nimage copyrightGetty Images\r\nimage captionAlex Salmond has been a major figure in Scottish politics for more than 30 years\r\nFor the past few months, a civi… [+8688 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Frances Hardy",
+      "title": "From privilege to penitentiary: One of the infamous 'NatWest three' opens up about US prison hell - Daily Mail",
+      "description": "Giles Darby traded life as a £1 million-a-year City banker with a Hertfordshire mansion and a swimming pool for a harsh U.S. penitentiary in Pennsylvania after pleading guilty to fraud.",
+      "url": "https://www.dailymail.co.uk/news/article-9580549/From-privilege-penitentiary-One-infamous-NatWest-three-opens-prison-hell.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2021/05/14/21/43003474-0-image-a-42_1621025324810.jpg",
+      "publishedAt": "2021-05-14T21:00:10Z",
+      "content": "Nothing about Giles Darby's life as a £1 million-a-year City banker the Hertfordshire home with swimming pool in three manicured acres, the first-class travel; the well-cut suit and chauffeur-driven … [+15400 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky.com"
+      },
+      "author": "Adam Parsons, news correspondent",
+      "title": "Trump supporter to replace Liz Cheney in top Republican role - Sky News",
+      "description": "Ms Cheney, a vocal critic of the former president, was ousted as House Conference Chair earlier this week by the party.",
+      "url": "https://news.sky.com/story/trump-supporter-to-replace-liz-cheney-in-top-republican-role-12306637",
+      "urlToImage": "https://e3.365dm.com/21/05/1600x900/skynews-elise-stefanik-republican-party_5381880.jpg?20210514203008",
+      "publishedAt": "2021-05-14T20:47:55Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "digitalspy.com"
+      },
+      "author": "Justin Harp",
+      "title": "Netflix gives Bridgerton a spin-off and reveals season 3 changes - digitalspy.com",
+      "description": "Queen Charlotte is getting a prequel.",
+      "url": "https://www.digitalspy.com/tv/ustv/a36433686/bridgerton-netflix-spinoff-charlotte/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bridgerton-queen-charlotte-1607956196.jpg?crop=0.793xw:0.595xh;0.115xw,0.0456xh&resize=1200:*",
+      "publishedAt": "2021-05-14T20:47:31Z",
+      "content": "Netflix has announced some huge news for fans of Bridgerton – including that a spin-off show is officially in the works.\r\nThe streaming giant and Bridgerton producer Shonda Rhimes revealed they are a… [+2221 chars]"
     }
   ]
 }

@@ -5,262 +5,262 @@ news_us = {
     {
       "source": {
         "id": null,
-        "name": "TVLine"
+        "name": "Gizmodo.com"
       },
-      "author": "Michael Ausiello",
-      "title": "NBC Fall Lineup 2021: 'Law & Order' Thursdays, 'This Is Us' Delayed - TVLine",
-      "description": "NBC is the first broadcast network to unveil its 2021-22 game plan and, um, funny story: For the first time (ever?) there is not a single sitcom on the network’s fall schedule. The prime culprit? The resurgent Law & Order franchise! Read on for more… ♦ NBC is…",
-      "url": "https://tvline.com/2021/05/14/nbc-fall-lineup-2021-law-and-order-thursday-this-is-us-final-season/",
-      "urlToImage": "https://tvline.com/wp-content/uploads/2021/05/nbc-schedule-flipped.jpg?w=620",
-      "publishedAt": "2021-05-14T18:15:00Z",
-      "content": "NBC is the first broadcast network to unveil its 2021-22 game plan and, um, funny story: For the first time (ever?) there is not a single sitcom on the network’s fall schedule. The prime culprit? The… [+1639 chars]"
+      "author": "Alyse Stanley",
+      "title": "Ex-Apple Employee Claims Company Knew About His 'Misogynistic' Writings and Hired Him Anyway - Gizmodo",
+      "description": "Former Apple employee Antonio García Martínez has refuted the company’s portrayal of his high-profile ouster this week and claims Apple knew about his past writings demeaning women and people of color, which came under fire from employees this week, before it…",
+      "url": "https://gizmodo.com/ex-apple-employee-claims-company-knew-about-his-misogyn-1846901345",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8bdd2fa8b2db86c39c29ab9bc679476f.jpg",
+      "publishedAt": "2021-05-15T04:06:00Z",
+      "content": "Former Apple employee Antonio García Martínez has refuted the companys portrayal of his high-profile ouster this week and claims Apple knew about his past writings demeaning women and people of color… [+2724 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MMA Mania"
+      },
+      "author": "Andrew Richardson",
+      "title": "Midnight Mania! Khabib describes complicated relationship with ‘impudent lout’ Tony Ferguson in autobiography - MMA Mania",
+      "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
+      "url": "https://www.mmamania.com/2021/5/15/22437098/midnight-mania-khabib-describes-complicated-relationship-tony-ferguson-autobiography-ufc-espn",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/_R0zXFZc_rKMNPIilPud1_c3zFw=/0x0:4287x2245/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19817334/1210859919.jpg.jpg",
+      "publishedAt": "2021-05-15T04:00:00Z",
+      "content": "Welcome to Midnight Mania!\r\nKhabib Nurmagomedov vs. Tony Ferguson is the greatest Lightweight bout that never was. Booked five times only to fall apart at each and every turn, the fight is widely con… [+2864 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "China’s Tianwen-1 spacecraft completes historic Mars landing - Al Jazeera English",
+      "description": "Solar-powered rover, named Zhurong, will now survey the landing site before departing platform to conduct inspections.",
+      "url": "https://www.aljazeera.com/news/2021/5/15/chinas-tianwen-1-spacecraft-completes-historic-mars-landing",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/05/2019-11-14T051911Z_1523587707_RC2TAD99OW97_RTRMADP_3_SPACE-EXPLORATION-CHINA-MARS.jpg?resize=1200%2C630",
+      "publishedAt": "2021-05-15T03:54:07Z",
+      "content": "An uncrewed Chinese spacecraft successfully landed on the surface of Mars on Saturday, state news agency Xinhua reported, making China the second space-faring nation after the United States to land o… [+2796 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "No Joke: Pigs and Rodents Can Breathe Through Their Butts - SciTechDaily",
+      "description": "Rodents and pigs share with certain aquatic organisms the ability to use their intestines for respiration, finds a study publishing May 14th in the journal Med. The researchers demonstrated that the delivery of oxygen gas or oxygenated liquid through the rect…",
+      "url": "https://scitechdaily.com/no-joke-pigs-and-rodents-can-breathe-through-their-butts/",
+      "urlToImage": "https://scitechdaily.com/images/Happy-Pig-on-Floor-scaled.jpg",
+      "publishedAt": "2021-05-15T03:38:12Z",
+      "content": "Rodents and pigs share with certain aquatic organisms the ability to use their intestines for respiration, finds a study publishing May 14th in the journal Med. The researchers demonstrated that the … [+3849 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KCCI Des Moines"
+      },
+      "author": null,
+      "title": "IDPH recommend schools allow parents, kids decide whether to wear masks - KCCI Des Moines",
+      "description": "The state says it should be up to parents and students whether the student wears a mask to school. However some schools are still requiring masks.",
+      "url": "https://www.kcci.com/article/idph-recommend-schools-allow-parents-kids-decide-whether-to-wear-masks/36435631",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/a4693fc2-5a83-4490-a3fa-876ec778e503/a4693fc2-5a83-4490-a3fa-876ec778e503_image.jpg?crop=0.747xw:0.746xh;0.133xw,0&resize=1200:*",
+      "publishedAt": "2021-05-15T02:42:00Z",
+      "content": "DES MOINES, Iowa —The new recommendations from the Iowa Department of Public Health on Friday said schools should let parents and students make their own decision about wearing face masks. \r\nThe IDPH… [+723 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Kelly Tyko",
+      "title": "Walmart, Costco, Trader Joe's and Publix no longer require masks for vaccinated customers. See the list. - USA TODAY",
+      "description": "Walmart, Costco, Trader Joe's, Publix and Sam's Club are dropping mask mandates for fully vaccinated shoppers. Apple and CVS are looking at policies.",
+      "url": "https://www.usatoday.com/story/money/shopping/2021/05/14/mask-mandate-stores-change-fully-vaccinated-cdc-no-masks-indoors/5102169001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2020/11/13/USAT/57f5ee9c-879c-490c-8840-f018fa5851aa-walmart.jpg?crop=4031,2267,x0,y373&width=3200&height=1680&fit=bounds",
+      "publishedAt": "2021-05-15T02:30:03Z",
+      "content": "Both criticism and praise have emerged after the CDC announced people who are fully vaccinated no longer need to wear masks, even indoors.\r\nUSA TODAY\r\nA day after the Centers for Disease Control and … [+3301 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Prince Harry's latest bombshell interview - ABC News",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Z1J1SHlUeE5SNGvSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-05-15T02:14:28Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Sarah Polus",
+      "title": "BuzzFeed News finds Biden's private Venmo account | TheHill - The Hill",
+      "description": "BuzzFeed News on Friday reportedly located President Biden's private Venmo account, citing it as a national security issue, according to the publication.",
+      "url": "https://thehill.com/homenews/news/553679-buzzfeed-news-finds-bidens-venmo-account",
+      "urlToImage": "https://thehill.com/sites/default/files/bidenjoe_051321getty_crises.jpg",
+      "publishedAt": "2021-05-15T01:47:34Z",
+      "content": "BuzzFeed News on Friday reportedly located President BidenJoe BidenFauci says school should be open 'full blast' five days a week in the fallOvernight Defense: Military sexual assault reform bill has… [+1822 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eonline.com"
+      },
+      "author": "Lindsay Weinberg",
+      "title": "Shanna Moakler Gets Tattoo of Ex Travis Barker’s Name Removed as Kourtney Kardashian Romance Heats Up - E! NEWS",
+      "description": "Shanna Moakler does not want a permanent reminder of her marriage to Travis Barker. The former pageant queen is getting her \"Travis\" tattoo removed, as he gets ink with new love Kourtney Kardashian.",
+      "url": "https://www.eonline.com/news/1269873/shanna-moakler-gets-tattoo-of-ex-travis-barkers-name-removed-as-kourtney-kardashian-romance-heats-up",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2021414/rs_1200x1200-210514164608-1200-shanna-moakler-travis-tattoo-laser-removal.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2021-05-15T01:01:00Z",
+      "content": "File this under: Ouch. Shanna Moakler is literally erasing the last trace of her ex-husband, Travis Barker, from her life.\r\nAs things get more serious between Travis and Kourtney Kardashian, Shanna w… [+724 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "New York Times"
       },
-      "author": "Sheera Frenkel",
-      "title": "How Lies on Social Media Are Inflaming the Israeli-Palestinian Conflict - The New York Times",
-      "description": "Misinformation has flourished on Twitter, TikTok, Facebook and other social media about the violence between Israelis and Palestinians.",
-      "url": "https://www.nytimes.com/2021/05/14/technology/israel-palestine-misinformation-lies-social-media.html",
-      "urlToImage": "https://static01.nyt.com/images/2021/05/13/business/00misinfo-israel1/merlin_187656186_cd542978-8cac-45e2-b0b5-add38ff8691f-facebookJumbo.jpg",
-      "publishedAt": "2021-05-14T18:12:24Z",
-      "content": "The lies have been amplified as they have been shared thousands of times on Twitter and Facebook, spreading to WhatsApp and Telegram groups that have thousands of members, according to an analysis by… [+1099 chars]"
+      "author": "Vivian Yee",
+      "title": "Israeli-Palestinian Strife Widens as Frantic Calls for Calm Go Unheeded - The New York Times",
+      "description": "While Israel and Hamas signaled willingness to consider a cease-fire, worries grew about further fracturing in one of the Middle East’s most intractable struggles.",
+      "url": "https://www.nytimes.com/2021/05/14/world/middleeast/gaza.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/05/15/world/15israel-ledeall1/15israel-ledeall1-facebookJumbo.jpg",
+      "publishedAt": "2021-05-15T01:00:40Z",
+      "content": "Mob violence that killed and wounded dozens of people across Israel over the past few days apartments and synagogues burned, stones thrown, Jewish vigilantes clashing with Arab rioters has profoundly… [+1188 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Ian Carlos Campbell",
+      "title": "Twitter politely asks you to protect its targeted ad dollars in new iOS 14.5 prompt - The Verge",
+      "description": "Twitter has started prompting users to enable ad tracking if their device runs iOS 14.5. As part of the recent update, Apple forces all apps to ask for permission before they track users for ad purposes.",
+      "url": "https://www.theverge.com/2021/5/14/22436944/twitter-ad-tracking-ios-14-5-app-transparency",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/31wcDz-dd7XKS5dJnkQVko0eII0=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/12645609/acastro_180827_1777_0002.jpg",
+      "publishedAt": "2021-05-15T00:35:16Z",
+      "content": "The company makes its case for enabling ad tracking\r\nIllustration by Alex Castro / The Verge\r\nAs part of iOS 14.5, Apples App Tracking Transparency forces developers to ask permission for something t… [+2448 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Tim Fitzsimons",
+      "title": "Video shows South Carolina deputies repeatedly tasing Black man before he dies in jail - NBC News",
+      "description": "Body camera video shows two Charleston County Sheriff's deputies repeatedly using a taser on a Black man before he dies in jail after he was released from a psychiatric facility.",
+      "url": "https://www.nbcnews.com/news/us-news/video-shows-south-carolina-deputies-repeatedly-tasing-black-man-he-n1267427",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_19/3474958/210514-jamal-sutherland-ew-604p.jpg",
+      "publishedAt": "2021-05-15T00:16:00Z",
+      "content": "Officials in South Carolina on Friday released hours of body-worn camera footage and details about the final hours of the life of Jamal Sutherland, a Black man who died in January after he was pepper… [+2660 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Billboard"
+      },
+      "author": "Heran Mamo",
+      "title": "Jesy Nelson Debuts Icy Blonde Hair: See the Pics - Billboard",
+      "description": "Jesy Nelson is turning over a new page after departing from Little Mix, and it comes with a new hair color: She debuted her platinum locks Friday (May 14).",
+      "url": "https://www.billboard.com/articles/news/lifestyle/9573263/jesy-nelson-icy-blonde-hair-pics-little-mix",
+      "urlToImage": "https://static.billboard.com/files/2020/12/jesy-nelson-fusion-festival-2019-billboard-1548-1608231956-compressed.jpg",
+      "publishedAt": "2021-05-15T00:00:00Z",
+      "content": "In their acceptance speech, Perrie Edwards, Leigh-Anne Pinnock and Jade Thirlwall called out the \"white male dominance, misogyny, sexism and lack of diversity\" in the music industry while giving flow… [+414 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Christina Wilkie",
-      "title": "Next week will be a major test in Biden’s quest for a bipartisan infrastructure deal - CNBC",
-      "description": "The bipartisan infrastructure deal that President Joe Biden hopes to reach with Republicans gained steam this week.",
-      "url": "https://www.cnbc.com/2021/05/14/biden-infrastructure-bill-progress-in-talks-with-gop-senators.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106882781-16209287162021-05-13t175238z_22812338_rc25fn9mbeck_rtrmadp_0_usa-biden.jpeg?v=1620928777",
-      "publishedAt": "2021-05-14T17:48:11Z",
-      "content": "U.S. President Joe Biden gestures toward Senator Shelley Capito (R-WV) during an infrastructure meeting with Republican Senators at the White House in Washington, May 13, 2021.\r\nWASHINGTON The bipart… [+5917 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Times"
-      },
-      "author": "Michael S. Schmidt",
-      "title": "Joel Greenberg, Former Matt Gaetz Confidant, Pleads Guilty - The New York Times",
-      "description": "Joel Greenberg, a former tax collector in Florida, admitted to sex trafficking a minor and agreed to help in prosecutions of others.",
-      "url": "https://www.nytimes.com/2021/05/14/us/politics/joel-greenberg-matt-gaetz.html",
-      "urlToImage": "https://static01.nyt.com/images/2021/05/14/us/14dc-greenberg/14dc-greenberg-facebookJumbo.jpg",
-      "publishedAt": "2021-05-14T17:39:02Z",
-      "content": "Defense lawyers often attack the credibility of such cooperators when the government uses them as witnesses at trials, sometimes arguing that they are simply testifying to what the government wants i… [+4184 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "nj.com"
-      },
-      "author": "Brent Johnson | NJ Advance Media for NJ.com, Matt Arco | NJ Advance Media for NJ.com",
-      "title": "N.J. to keep indoor mask mandates despite CDC change, Murphy says. But vaccinated people can ditch masks outd - NJ.com",
-      "description": "Fully vaccinated New Jersey residents don’t need to wear a mask outside, Murphy announced. But the governor won’t pull back the indoor mandate.",
-      "url": "https://www.nj.com/coronavirus/2021/05/nj-to-keep-indoor-mask-mandates-despite-cdc-change-murphy-says-but-vaccinated-people-ditch-masks-outdoors.html",
-      "urlToImage": "https://www.nj.com/resizer/IQMVE-Ubc3vPRFBMKBTYr6Kq5JU=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4OKJSWFCSZCX5JPBD5RS4BBQUY.jpg",
-      "publishedAt": "2021-05-14T17:28:06Z",
-      "content": "Insisting were not there yet, Gov. Phil Murphy said Friday that New Jersey will still require all people vaccinated or not to wear masks indoors in public to protect against the coronavirus, even aft… [+6554 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Jeremy Layton",
-      "title": "Aaron Rodgers worked with Jordan Love every day despite rift: Aaron Jones - New York Post ",
-      "description": "It seems hard to believe, but there was a time this offseason where an Aaron not named Rodgers was the biggest story in Green Bay. Re-signing running back Aaron Jones to a four-year, $48 million de…",
-      "url": "https://nypost.com/2021/05/14/aaron-rodgers-worked-with-jordan-love-every-day-despite-rift-aaron-jones/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/05/rodgers-love-jones.jpg?quality=90&strip=all&w=1200",
-      "publishedAt": "2021-05-14T17:26:00Z",
-      "content": "It seems hard to believe, but there was a time this offseason where an Aaron not named Rodgers was the biggest story in Green Bay. Re-signing running back Aaron Jones to a four-year, $48 million deal… [+2293 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Beast"
-      },
-      "author": "Justin Rohrlich",
-      "title": "Andre Hill's Family to Get $10 Million for Columbus Police Shooting - The Daily Beast",
-      "description": "The City of Columbus will also rename a gym in Hill’s honor.",
-      "url": "https://www.thedailybeast.com/city-of-columbus-to-pay-andre-hills-family-dollar10-million-settlement",
-      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_915,w_1628,x_8,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1621012160/Screen_Shot_2021-05-14_at_1.09.01_PM_elpx05",
-      "publishedAt": "2021-05-14T17:20:49Z",
-      "content": "The family of Andre Hill, an unarmed Ohio man shot and killed by Columbus Police officer Adam Coy last December, will get a $10 million settlement from the city. City Attorney Zach Klein said Friday … [+590 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Matt Clinch",
-      "title": "Covid variant from India more transmissible and threatens England lockdown easing, Boris Johnson says - CNBC",
-      "description": "U.K. Prime Minister Boris Johnson warned Friday that the coronavirus variant first discovered in India has the potential to derail the lockdown easing currently underway in the country.",
-      "url": "https://www.cnbc.com/2021/05/14/boris-johnson-says-covid-variants-could-pose-serious-disruption.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106843818-1614022574458-boris.jpg?v=1614022588",
-      "publishedAt": "2021-05-14T17:14:59Z",
-      "content": "LONDON U.K. Prime Minister Boris Johnson warned Friday that the coronavirus variant first discovered in India has the potential to derail the lockdown easing currently underway in the country.\r\nThe U… [+2087 chars]"
+      "author": "Ari Levy",
+      "title": "Payment tech company Marqeta files for IPO as value tops $16 billion on private markets - CNBC",
+      "description": "Marqeta, whose payment technology is used by DoorDash and Instacart, plans to go public on over $100 million in quarterly revenue.",
+      "url": "https://www.cnbc.com/2021/05/14/marqeta-files-s-1-as-value-tops-16-billion-on-private-markets.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106841581-1613579259530-GettyImages-1298860689r.jpg?v=1613579351",
+      "publishedAt": "2021-05-14T23:47:16Z",
+      "content": "Marqeta has become one of the hottest businesses in digital commerce, even though few consumers have ever heard of it.\r\nIts name is about to become much more familiar. On Friday, the company filed to… [+3024 chars]"
     },
     {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
-      "author": "Alexandria Hein",
-      "title": "Coronavirus lab leak theory should not be ruled out until there is 'sufficient data,' scientists say - Fox News",
-      "description": "A group of 18 scientists from all over the world has written an open letter calling for an investigation into the origins of coronavirus, imploring that accidental release from a lab not be ruled out “until we have sufficient data.”",
-      "url": "https://www.foxnews.com/health/coronavirus-lab-leak-theory-should-not-be-ruled-out-until-sufficient-data-scientists",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/WHO.jpg",
-      "publishedAt": "2021-05-14T16:59:16Z",
-      "content": "A group of 18 scientists from all over the world has written an open letter calling for an investigation into the origins of coronavirus, imploring that accidental release from a lab not be ruled out… [+1556 chars]"
+      "author": "Nate Day",
+      "title": "Jennifer Lopez might still own Ben Affleck’s engagement ring, singer’s former publicist says - Fox News",
+      "description": "Jennifer Lopez might still own the famous pink Harry Winston engagement ring previously given to her by Ben Affleck.",
+      "url": "https://www.foxnews.com/entertainment/jennifer-lopez-might-still-own-ben-affleck-engagement-ring",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/Bennifer-ring.jpg",
+      "publishedAt": "2021-05-14T23:45:05Z",
+      "content": "As Jennifer Lopez and Ben Affleck continue to spark reconciliation rumors, it seems that the singer might have never completely left the past behind.\r\nThe couple was engaged from 2002-2004 after meet… [+2706 chars]"
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "Jessica Napoli",
-      "title": "Jennifer Lopez is 'in touch' with Ben Affleck 'everyday' since Montana reunion: report - Fox News",
-      "description": "The pair were spotted in Big Sky, Montana last week where Affleck has a home.",
-      "url": "https://www.foxnews.com/entertainment/jennifer-lopez-in-touch-ben-affleck-everyday-montana-reunion",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/affleck-lopez.jpg",
-      "publishedAt": "2021-05-14T16:35:28Z",
-      "content": "Jennifer Lopez and Ben Affleckreunited in Montana last week heightening rumors the former exes have rekindled their romance.\r\nNow, a source told People magazine, the 51-year-old singer-actress \"is in… [+2012 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Sam Machkovech",
-      "title": "After Epic v. Apple namecheck, Itch.io runs one-day-only dev-friendly promo - Ars Technica",
-      "description": "Similar to \"Bandcamp Fridays\"—comes after Itch.io was disparaged in Epic v. Apple.",
-      "url": "https://arstechnica.com/gaming/2021/05/today-only-itch-io-waives-devs-fees-for-your-drm-free-game-purchases/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/itchio-logo-black-760x380.png",
-      "publishedAt": "2021-05-14T16:31:07Z",
-      "content": "33 with 23 posters participating, including story author\r\nItch.io, a digital download storefront that largely sells indie video games, launched its first-ever \"Creator Day\" on Friday. This one-day-on… [+4725 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TribLIVE"
-      },
-      "author": "Steven Adams",
-      "title": "Covid cases continue to drop across Pennsylvania as more get vaccinated - TribLIVE",
-      "description": "Reported cases of covid-19 and related deaths and hospitalizations continued their downward trend in Pennsylvania as the number of vaccinated residents marched upward. Pennsylvania on Friday added 1,643 cases of covid-19, pulling the seven-day case average do…",
-      "url": "https://triblive.com/news/pennsylvania/covid-cases-continue-to-drop-across-pennsylvania-as-more-get-vaccinated/",
-      "urlToImage": "https://triblive.com/wp-content/uploads/2021/05/3850263_web1_PTR-LO-Point002-051421.jpg",
-      "publishedAt": "2021-05-14T16:20:50Z",
-      "content": "Reported cases of covid-19 and related deaths and hospitalizations continued their downward trend in Pennsylvania as the number of vaccinated residents marched upward.\r\nPennsylvania on Friday added 1… [+3400 chars]"
-    },
-    {
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Jacob Knutson",
-      "title": "DarkSide claims it's shutting down after Colonial Pipeline hack - Axios",
-      "description": "The group claimed it had lost access to the infrastructure it uses to carry out its extortion operations.",
-      "url": "https://www.axios.com/hackers-darkside-shutting-down-colonial-pipeline-6e11766f-3d41-438a-9e21-dc06d1c3816f.html",
-      "urlToImage": "https://images.axios.com/KEmbJ-WdIptGaI2bUhaaO13qACY=/0x206:4947x2989/1366x768/2021/05/14/1621007695360.jpg",
-      "publishedAt": "2021-05-14T16:20:49Z",
-      "content": "The hacker group DarkSide, which was responsible for a ransomware attack that shut down the Colonial Pipeline and led to fuel shortages in multiple states this week, claims to be shutting down, Krebs… [+1759 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MMA Fighting"
-      },
-      "author": "Alexander K. Lee",
-      "title": "UFC 262 weigh-in results: Michael Chandler, Charles Oliveira on point for vacant lightweight championship mai… - MMA Fighting",
-      "description": "Lightweight title hopefuls Michael Chandler and Charles Oliveira are official for Saturday’s card in Houston.",
-      "url": "https://www.mmafighting.com/2021/5/14/22436048/ufc-262-weigh-in-results-michael-chandler-charles-oliveira-lightweight-championship-main-event",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/1xHZmzGpNLJ-9OdPSmZqXn5VhSE=/0x0:6036x3160/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22514498/1317984776.jpg",
-      "publishedAt": "2021-05-14T16:15:56Z",
-      "content": "The UFC is on track to have a new lightweight champion.\r\nCharles Oliveira and Michael Chandler successfully made weight for Saturdays vacant lightweight title bout, which headlines UFC 262 at Toyota … [+2092 chars]"
+      "author": "Jeremy Herb and Katelyn Polantz, CNN",
+      "title": "Biden administration gives House panel documents related to Trump hotel - CNN ",
+      "description": "The General Services Administration has provided House Democrats with documents related to former President Donald Trump's Washington hotel, in the second case this week where the Biden administration gave the House information that the Trump administration h…",
+      "url": "https://www.cnn.com/2021/05/14/politics/trump-international-hotel-documents/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200415152236-trump-hotel-super-tease.jpg",
+      "publishedAt": "2021-05-14T23:41:00Z",
+      "content": "(CNN)The General Services Administration has provided House Democrats with documents related to former President Donald Trump's Washington hotel, in the second case this week where the Biden administ… [+2229 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Deadline"
       },
-      "author": "Denise Petski",
-      "title": "‘Black-ish’ Renewed For Eighth & Final Season On ABC - Deadline",
-      "description": "The end is in sight for ABC’s black-ish. The network has renewed the praised comedy series for an eighth and final season. Creator executive producer Kenya Barris announced the news Friday morning on social media (see below). He said, “This show has changed m…",
-      "url": "https://deadline.com/2021/05/black-ish-renewed-eighth-final-season-abc-kenya-barris-anthony-anderson-tracee-ellis-ross-1234754305/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2021/01/black-ish.jpg?w=1000",
-      "publishedAt": "2021-05-14T16:12:00Z",
-      "content": "The end is in sight for ABC’s black-ish. The network has renewed the praised comedy series for an eighth and final season.\r\nCreator executive producer Kenya Barris announced the news Friday morning o… [+1830 chars]"
+      "author": "Bruce Haring",
+      "title": "Kobe Bryant’s Long-Lost Gangsta Rap Album Surfaces Before Hall Of Fame Induction - Deadline",
+      "description": "The late Kobe Bryant had a lot of successes in life. His 2000 recording of a gangsta rap album wasn’t one of them, but it’s now finally out there for the world to judge. Bryant, who will be inducted into the Naismith Basketball Hall of Fame on Saturday, recor…",
+      "url": "https://deadline.com/2021/05/kobe-bryant-los-angeles-lakers-rap-album-hall-of-fame-induction-1234757106/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2017/12/121207122711-kobe-bryant-smile-120712_1280x720-e1580085430197.jpg?w=1024",
+      "publishedAt": "2021-05-14T23:26:00Z",
+      "content": "The late Kobe Bryant had a lot of successes in life. His 2000 recording of a gangsta rap album wasn’t one of them, but it’s now finally out there for the world to judge.\r\nBryant, who will be inducted… [+2281 chars]"
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "WFLA"
       },
-      "author": "Eric Berger",
-      "title": "China is about to attempt a highly ambitious landing on Mars - Ars Technica",
-      "description": "There is a lot of intrigue surrounding the mission. Will the lander survive?",
-      "url": "https://arstechnica.com/science/2021/05/china-is-about-to-attempt-a-highly-ambitious-landing-on-mars/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/GettyImages-1232536260-760x380.jpg",
-      "publishedAt": "2021-05-14T16:02:55Z",
-      "content": "Enlarge/ Photo taken on Dec. 4, 2020, shows the model of China's first Mars probe Tianwen-1 lander and Zhurong rover at the Zhejiang International Intelligent Transportation Industry Expo 2020.\r\n33 w… [+2703 chars]"
+      "author": "WFLA 8 On Your Side Staff",
+      "title": "Publix to drop mask rules for fully vaccinated customers and employees - WFLA",
+      "description": "Publix announced on Friday that it will no longer require masks for vaccinated customers and employees.",
+      "url": "https://www.wfla.com/community/health/coronavirus/publix-to-drop-mask-rules-for-fully-vaccinated-customers-and-employees/",
+      "urlToImage": "https://www.wfla.com/wp-content/uploads/sites/71/2021/02/AP_479606370429_1527283244005_43498365_ver1.0-1.jpg?w=1280",
+      "publishedAt": "2021-05-14T23:18:50Z",
+      "content": "TAMPA (WFLA) – Publix announced on Friday that it will no longer require masks for vaccinated customers and employees starting Saturday.\r\nThe company announced an updated mask policy following Thursd… [+476 chars]"
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "Sam Schechner",
-      "title": "Facebook Loses Bid to Block Ruling on EU-U.S. Data Flows - The Wall Street Journal",
-      "description": "Company fails to block a privacy decision that could suspend its ability to send information about European users to U.S.",
-      "url": "https://www.wsj.com/articles/facebook-faces-irish-ruling-on-suspension-of-eu-u-s-data-flows-11620983614",
-      "urlToImage": "https://images.wsj.net/im-337942/social",
-      "publishedAt": "2021-05-14T15:57:00Z",
-      "content": "Facebook Inc. lost a bid to block a European Union privacy decision that could suspend its ability to send information about European users to U.S. computer servers, opening a pathway toward a preced… [+1518 chars]"
+      "author": "Jason Frakes",
+      "title": "Medina Spirit cleared to run in Preakness Stakes after passing three rounds of drug tests - USA TODAY",
+      "description": "Medina Spirit passed three rounds of pre-race drug tests and will be eligible to run in Saturday's Preakness Stakes, officials announced Friday.",
+      "url": "https://www.usatoday.com/story/sports/horses/triple/preakness/2021/05/14/medina-spirit-cleared-for-preakness-drug-tests/5100553001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2021/05/10/PLOU/e9d44219-f87e-4bec-b8e6-92bc76b1a50a-MedinaSPirit_1.JPG?crop=3040,1710,x0,y0&width=1600&height=800&fit=bounds",
+      "publishedAt": "2021-05-14T23:02:25Z",
+      "content": "Trainer Bob Baffert said Sunday morning Medina Spirit tested positive for betamethasone after winning the Kentucky Derby on May 1 at Churchill Downs, a result that ultimately could lead to the horses… [+2052 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Daily Beast"
       },
-      "author": "Pilar Melendez",
-      "title": "‘I Wanted Trump to Win’: Husband Charged in Wife’s Murder Also Used Her Name to Vote - Yahoo News",
-      "description": "“I just thought, give him… another vote. I figured all these other guys are cheating,” Barry Lee Morphew admitted in April, just days before he was arrested in his wife’s murder.",
-      "url": "https://www.thedailybeast.com/barry-lee-morphew-voted-for-trump-on-behalf-of-his-missing-wife-suzanne-morphew",
-      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1621006896/Blank_3000_x_1688_71_rugddy",
-      "publishedAt": "2021-05-14T15:42:52Z",
-      "content": "Five months after Suzanne Morphew vanished without a trace while out on a bike ride last Mothers Day, the Chaffee County Clerks Office in Colorado received a bizarre notification: a mail-in ballot fo… [+3604 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Bloomberg",
-      "title": "Elon Musk Tweet Sends Dogecoin Surging - Yahoo Finance",
-      "description": "May.14 -- Dogecoin jumped on renewed support from Elon Musk, adding to a volatile week for digital currencies that’s been whipped up largely by the...",
-      "url": "https://finance.yahoo.com/video/elon-musk-tweet-sends-dogecoin-154108119.html",
-      "urlToImage": "https://s.yimg.com/hd/cp-video-transcode/prod/2021-05/14/609ea08160b4aa6168ac5194/609ea08160b4aa6168ac5195_o_U_v2.jpg",
-      "publishedAt": "2021-05-14T15:41:08Z",
-      "content": "(Bloomberg) -- A crack in a bridge over the Mississippi River has stranded more than 700 barges, cutting off the biggest route for U.S. agricultural exports when the critical waterway is at its busie… [+6169 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Claudia Miller",
-      "title": "Nicki Minaj’s Plunging Jumpsuit, Logo-Coated Bralette & Neon Heels Master Monochrome Styling - Yahoo Lifestyle",
-      "description": "The rapper celebrated the release of her new album in style.",
-      "url": "https://www.yahoo.com/lifestyle/nicki-minaj-plunging-jumpsuit-logo-142404980.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/X3H7Yw6ovnn_XM9Hj2WyGQ--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/footwear_news_642/8c7d29ebefb15bb290bf51e2e1618741",
-      "publishedAt": "2021-05-14T14:24:04Z",
-      "content": "Nicki Minaj debuted her new album in bold fashion after surprising fans with 23 new songs. The rapper dropped her Beam Me Up Scotty album at midnight including hit tracks with Drake, Gucci Mane and L… [+2846 chars]"
+      "author": "Jose Pagliery, Roger Sollenberger",
+      "title": "Rep. Matt Gaetz Snorted Cocaine With Escort Who Had 'No Show' Gov't Job - The Daily Beast",
+      "description": "Witnesses revealed the wild scene at an after-party for a GOP fundraiser in Orlando.",
+      "url": "https://www.thedailybeast.com/rep-matt-gaetz-snorted-cocaine-with-megan-zalonka-escort-who-had-no-show-govt-job",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1621027521/210513-Pagliery-gaetz-escort-tease_zzquu5",
+      "publishedAt": "2021-05-14T22:45:03Z",
+      "content": "When Rep. Matt Gaetz attended a 2019 GOP fundraiser in Orlando, his date that night was someone he knew well: a paid escort and amateur Instagram model who led a cocaine-fueled party after the event,… [+10054 chars]"
     }
   ]
 }
