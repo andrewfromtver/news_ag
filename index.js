@@ -21,7 +21,7 @@ sideButton = (type) => {
     document.querySelector('body').style.overflow = 'hidden'
     document.getElementById('popupplaceholder').style.display = ''
     document.getElementById('newsframe').src = 'https://andrewfromtver.github.io/trailerpark-rebranding/'
-    document.getElementById('title').innerText = 'News AG - TV\'s & Movies serch'
+    document.getElementById('title').innerText = 'News AG - Movies & TV\'s serch'
   }
   else if (type === 'about') {
     document.querySelector('body').style.overflow = 'hidden'
