@@ -112,7 +112,7 @@ goTo = (url, title) => {
   document.querySelector('body').style.overflow = 'hidden'
   document.getElementById('popupplaceholder').style.display = ''
   document.getElementById('title').innerText = title
-  corsCheck(url)
+  corsClear(url)
 }
 // Close popup
 closePopup = () => {
@@ -128,14 +128,15 @@ refresh = () => {
   window.location.reload()
 }
 // CORS detection
-corsCheck = (url) => {
-    document.getElementById('newsframe').src = url
-    document.getElementById('popupactions').innerHTML = `
-      <a href="${url}" target="blank">
-        <img id="redirect" src="./assets/redirect.png">
-      </a>
-      <img src="./assets/close.png" alt="close" onclick="closePopup()">
-    `
+corsClear = (url) => {
+  // get via proxy
+  document.getElementById('newsframe').src = url
+  document.getElementById('popupactions').innerHTML = `
+    <a href="${url}" target="blank">
+      <img id="redirect" src="./assets/redirect.png">
+    </a>
+    <img src="./assets/close.png" alt="close" onclick="closePopup()">
+  `
 }
 // Init
 window.onload = () => {
