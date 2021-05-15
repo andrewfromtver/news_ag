@@ -19,7 +19,7 @@ def WeatherFetch(token, lat, lon, owm_mode, lang, units):
 	'lang': lang,
 	'units': units
 	}
-	main_url = 'https://api.openweathermap.org/data/2.5/weather'
+	main_url = 'http://api.openweathermap.org/data/2.5/weather'
 	# fetching data in json format
 	res = requests.get(main_url, params=query_params)
 	weather_page = res.json()

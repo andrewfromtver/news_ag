@@ -5,6 +5,19 @@ news_us = {
     {
       "source": {
         "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ben Rohrbach",
+      "title": "Kobe Bryant, Tim Duncan, Kevin Garnett and the greatest Hall of Fame class in history - Yahoo Sports",
+      "description": "We will never see another Naismith Memorial Basketball Hall of Fame induction like the Class of 2020.",
+      "url": "https://sports.yahoo.com/kobe-bryant-tim-duncan-and-kevin-garnett-the-greatest-hall-of-fame-class-in-history-054645368.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zbBSyFjkVoqZS7l4a3hQlA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xNDA3/https://s.yimg.com/os/creatr-uploaded-images/2021-05/44d7d330-b4d9-11eb-973b-3f87adacd130",
+      "publishedAt": "2021-05-15T05:46:00Z",
+      "content": "We will never see another Naismith Memorial Basketball Hall of Fame induction like the Class of 2020.\r\nKobe Bryant, Tim Duncan and Kevin Garnett form the greatest class in the history of the NBA. No … [+7018 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Gizmodo.com"
       },
       "author": "Alyse Stanley",
@@ -17,29 +30,16 @@ news_us = {
     },
     {
       "source": {
-        "id": null,
-        "name": "MMA Mania"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Andrew Richardson",
-      "title": "Midnight Mania! Khabib describes complicated relationship with ‘impudent lout’ Tony Ferguson in autobiography - MMA Mania",
-      "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
-      "url": "https://www.mmamania.com/2021/5/15/22437098/midnight-mania-khabib-describes-complicated-relationship-tony-ferguson-autobiography-ufc-espn",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/_R0zXFZc_rKMNPIilPud1_c3zFw=/0x0:4287x2245/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19817334/1210859919.jpg.jpg",
-      "publishedAt": "2021-05-15T04:00:00Z",
-      "content": "Welcome to Midnight Mania!\r\nKhabib Nurmagomedov vs. Tony Ferguson is the greatest Lightweight bout that never was. Booked five times only to fall apart at each and every turn, the fight is widely con… [+2864 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera",
-      "title": "China’s Tianwen-1 spacecraft completes historic Mars landing - Al Jazeera English",
-      "description": "Solar-powered rover, named Zhurong, will now survey the landing site before departing platform to conduct inspections.",
-      "url": "https://www.aljazeera.com/news/2021/5/15/chinas-tianwen-1-spacecraft-completes-historic-mars-landing",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/05/2019-11-14T051911Z_1523587707_RC2TAD99OW97_RTRMADP_3_SPACE-EXPLORATION-CHINA-MARS.jpg?resize=1200%2C630",
-      "publishedAt": "2021-05-15T03:54:07Z",
-      "content": "An uncrewed Chinese spacecraft successfully landed on the surface of Mars on Saturday, state news agency Xinhua reported, making China the second space-faring nation after the United States to land o… [+2796 chars]"
+      "author": "Charles Creitz",
+      "title": "McCarthy dings Biden: Notice mask orders ended 'Gasoline went to $7, and they wanted change in news' - Fox News",
+      "description": "House Minority Leader Kevin McCarthy, House Minority Whip Steve Scalise, and newly-minted House Republican Conference Chairwoman Elise Stefanik joined 'Hannity' on Friday for their first joint interview since Stefanik unseated Rep. Liz Cheney from her leaders…",
+      "url": "https://www.foxnews.com/politics/mccarthy-dings-biden-notice-mask-orders-ended-when-it-was-7-in-the-gas-line-and-they-wanted-change-in-news",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/scalise-mccarthy-stefanik.jpg",
+      "publishedAt": "2021-05-15T03:50:13Z",
+      "content": "House Minority Leader Kevin McCarthy, House Minority Whip Steve Scalise, and newly-minted House Republican Conference Chairwoman Elise Stefanik joined \"Hannity\" on Friday for their first joint interv… [+2544 chars]"
     },
     {
       "source": {
@@ -53,6 +53,19 @@ news_us = {
       "urlToImage": "https://scitechdaily.com/images/Happy-Pig-on-Floor-scaled.jpg",
       "publishedAt": "2021-05-15T03:38:12Z",
       "content": "Rodents and pigs share with certain aquatic organisms the ability to use their intestines for respiration, finds a study publishing May 14th in the journal Med. The researchers demonstrated that the … [+3849 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
+      "author": "Allison Quinn",
+      "title": "Hacking Group in Gas Pipeline Attack Says It Shut Down, Blames U.S. 'Pressure' - The Daily Beast",
+      "description": "Experts have warned that the hacking group may simply be trying to take the heat off so they can regroup.",
+      "url": "https://www.thedailybeast.com/darkside-hacking-group-says-it-shut-down-blames-us-pressure",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2160,w_3840,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1621049281/GettyImages-1232822763_zkdm0s",
+      "publishedAt": "2021-05-15T03:29:27Z",
+      "content": "The hacking group accused of nearly crippling the U.S. gas supply on the East Coast with a ransomware attack on Colonial Pipeline says it is shutting down due to pressure from the U.S., according to … [+904 chars]"
     },
     {
       "source": {
@@ -82,29 +95,29 @@ news_us = {
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "BBC News"
       },
-      "author": null,
-      "title": "Prince Harry's latest bombshell interview - ABC News",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Z1J1SHlUeE5SNGvSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2021-05-15T02:14:28Z",
-      "content": null
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Israeli-Palestinian conflict gives Biden foreign policy headache - BBC News",
+      "description": "The US president and his aides wish to avoid being drawn into this graveyard of US-led peace initiatives.",
+      "url": "https://www.bbc.com/news/world-us-canada-57119881",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1569E/production/_118501778_gettyimages-1232873479.jpg",
+      "publishedAt": "2021-05-15T02:04:08Z",
+      "content": "By Barbara Plett UsherBBC State Department correspondent\r\nimage captionMissiles from Israel's Iron Dome defence system rise to intercept rockets fired from the Gaza Strip\r\nIsrael's air strikes on the… [+7796 chars]"
     },
     {
       "source": {
-        "id": "the-hill",
-        "name": "The Hill"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Sarah Polus",
-      "title": "BuzzFeed News finds Biden's private Venmo account | TheHill - The Hill",
-      "description": "BuzzFeed News on Friday reportedly located President Biden's private Venmo account, citing it as a national security issue, according to the publication.",
-      "url": "https://thehill.com/homenews/news/553679-buzzfeed-news-finds-bidens-venmo-account",
-      "urlToImage": "https://thehill.com/sites/default/files/bidenjoe_051321getty_crises.jpg",
-      "publishedAt": "2021-05-15T01:47:34Z",
-      "content": "BuzzFeed News on Friday reportedly located President BidenJoe BidenFauci says school should be open 'full blast' five days a week in the fallOvernight Defense: Military sexual assault reform bill has… [+1822 chars]"
+      "author": "Natasha Khan",
+      "title": "China Lands on Mars in Crowning Moment for Space Program - The Wall Street Journal",
+      "description": "The success of the Tianwen-1 mission makes China the third nation after the U.S. and Soviet Union to land on the red planet",
+      "url": "https://www.wsj.com/articles/china-lands-on-mars-in-crowning-moment-for-space-program-11621040108",
+      "urlToImage": "https://images.wsj.net/im-338633/social",
+      "publishedAt": "2021-05-15T01:53:00Z",
+      "content": "HONG KONGChina landed a rover on Mars early Saturday, becoming the third nation after the U.S. and the Soviet Union to land on the red planet, achieving a crucial landmark in its quest to be at the f… [+1333 chars]"
     },
     {
       "source": {
@@ -122,15 +135,28 @@ news_us = {
     {
       "source": {
         "id": null,
-        "name": "New York Times"
+        "name": "New York Post"
       },
-      "author": "Vivian Yee",
-      "title": "Israeli-Palestinian Strife Widens as Frantic Calls for Calm Go Unheeded - The New York Times",
-      "description": "While Israel and Hamas signaled willingness to consider a cease-fire, worries grew about further fracturing in one of the Middle East’s most intractable struggles.",
-      "url": "https://www.nytimes.com/2021/05/14/world/middleeast/gaza.html",
-      "urlToImage": "https://static01.nyt.com/images/2021/05/15/world/15israel-ledeall1/15israel-ledeall1-facebookJumbo.jpg",
-      "publishedAt": "2021-05-15T01:00:40Z",
-      "content": "Mob violence that killed and wounded dozens of people across Israel over the past few days apartments and synagogues burned, stones thrown, Jewish vigilantes clashing with Arab rioters has profoundly… [+1188 chars]"
+      "author": "Associated Press",
+      "title": "Matt Gaetz associate Joel Greenberg to cooperate in investigation - New York Post ",
+      "description": "Joel Greenberg, who is expected to plead guilty next week on multiple federal charges, will now be helping federal investigators who are looking into Florida Rep. Matt Gaetz.",
+      "url": "https://nypost.com/2021/05/14/matt-gaetz-associate-joel-greenberg-to-cooperate-in-investigation/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/05/joel-greenberg-1.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2021-05-15T00:53:00Z",
+      "content": "WASHINGTON A Florida politician who emerged as a central figure in the federal investigation into Rep. Matt Gaetz has agreed to cooperate with federal investigators and admits paying an underage girl… [+3371 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Preakness Stakes 2021: Making sense of Bob Baffert, Medina Spirit drug test drama | NBC Sports - NBC Sports",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UXBGWFBtc1VMcEnSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-05-15T00:36:21Z",
+      "content": null
     },
     {
       "source": {
@@ -164,25 +190,25 @@ news_us = {
         "name": "Billboard"
       },
       "author": "Heran Mamo",
-      "title": "Jesy Nelson Debuts Icy Blonde Hair: See the Pics - Billboard",
-      "description": "Jesy Nelson is turning over a new page after departing from Little Mix, and it comes with a new hair color: She debuted her platinum locks Friday (May 14).",
-      "url": "https://www.billboard.com/articles/news/lifestyle/9573263/jesy-nelson-icy-blonde-hair-pics-little-mix",
-      "urlToImage": "https://static.billboard.com/files/2020/12/jesy-nelson-fusion-festival-2019-billboard-1548-1608231956-compressed.jpg",
-      "publishedAt": "2021-05-15T00:00:00Z",
-      "content": "In their acceptance speech, Perrie Edwards, Leigh-Anne Pinnock and Jade Thirlwall called out the \"white male dominance, misogyny, sexism and lack of diversity\" in the music industry while giving flow… [+414 chars]"
+      "title": "Ally Brooke Says She Experienced 'So Much Abuse' Mentally & Verbally While in Fifth Harmony - Billboard",
+      "description": "On the first episode of her new podcast The Ally Brooke Show, Ally Brooke opens up about the mental and verbal \"abuse\" she allegedly suffered while in Fifth Harmony.",
+      "url": "https://www.billboard.com/articles/news/9573095/ally-brooke-details-mental-verbal-abuse-fifth-harmony",
+      "urlToImage": "https://static.billboard.com/files/2021/05/Ally-Brooke-jan-2020-billboard-1548-1621014150-compressed.jpg",
+      "publishedAt": "2021-05-15T00:04:25Z",
+      "content": "Brooke was also candid about the \"competitive\" environment the girls were in, including the \"fight for our lives\" to see who got to sing the good parts of a song, and the environment felt hostile. \"T… [+2043 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Fox Business"
       },
-      "author": "Ari Levy",
-      "title": "Payment tech company Marqeta files for IPO as value tops $16 billion on private markets - CNBC",
-      "description": "Marqeta, whose payment technology is used by DoorDash and Instacart, plans to go public on over $100 million in quarterly revenue.",
-      "url": "https://www.cnbc.com/2021/05/14/marqeta-files-s-1-as-value-tops-16-billion-on-private-markets.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106841581-1613579259530-GettyImages-1298860689r.jpg?v=1613579351",
-      "publishedAt": "2021-05-14T23:47:16Z",
-      "content": "Marqeta has become one of the hottest businesses in digital commerce, even though few consumers have ever heard of it.\r\nIts name is about to become much more familiar. On Friday, the company filed to… [+3024 chars]"
+      "author": "Reuters",
+      "title": "New problem for Boeing as FAA orders 737 Classic inspections - Fox Business",
+      "description": "The Federal Aviation Administration (FAA) said on Friday it was requiring U.S. operators of 143 Boeing Co 737 Classic series airplanes to check for possible wire failures stemming from an investigation into an Indonesia crash in January.",
+      "url": "https://www.foxbusiness.com/industrials/new-problem-for-boeing-as-faa-orders-737-classic-inspections",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/02/0/0/Boeing2.jpg?ve=1&tl=1",
+      "publishedAt": "2021-05-14T23:48:37Z",
+      "content": "WASHINGTON  -The Federal Aviation Administration (FAA) said on Friday it was requiring U.S. operators of 143 Boeing Co 737 Classic series airplanes to check for possible wire failures stemming from a… [+2504 chars]"
     },
     {
       "source": {
@@ -213,54 +239,28 @@ news_us = {
     {
       "source": {
         "id": null,
-        "name": "Deadline"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Bruce Haring",
-      "title": "Kobe Bryant’s Long-Lost Gangsta Rap Album Surfaces Before Hall Of Fame Induction - Deadline",
-      "description": "The late Kobe Bryant had a lot of successes in life. His 2000 recording of a gangsta rap album wasn’t one of them, but it’s now finally out there for the world to judge. Bryant, who will be inducted into the Naismith Basketball Hall of Fame on Saturday, recor…",
-      "url": "https://deadline.com/2021/05/kobe-bryant-los-angeles-lakers-rap-album-hall-of-fame-induction-1234757106/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2017/12/121207122711-kobe-bryant-smile-120712_1280x720-e1580085430197.jpg?w=1024",
-      "publishedAt": "2021-05-14T23:26:00Z",
-      "content": "The late Kobe Bryant had a lot of successes in life. His 2000 recording of a gangsta rap album wasn’t one of them, but it’s now finally out there for the world to judge.\r\nBryant, who will be inducted… [+2281 chars]"
+      "author": "Mike Wehner",
+      "title": "NASA finally let Perseverance stretch its arms and do some work - Yahoo Entertainment",
+      "description": "NASA fancy new Perseverance rover has been sitting on Mars since late February. It landed perfectly and everything has been going well in the months since...",
+      "url": "https://www.yahoo.com/entertainment/nasa-finally-let-perseverance-stretch-230718285.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/xiz6KSa2nrOpqtxXH6UBjQ--~B/aD0xMTE4O3c9MTc1MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bgr_208/fedcc28b3f6b0117800e01f8cf91f3ee",
+      "publishedAt": "2021-05-14T23:07:18Z",
+      "content": "NASA fancy new Perseverance rover has been sitting on Mars since late February. It landed perfectly and everything has been going well in the months since then, but its had a lot to do before it coul… [+3048 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "WFLA"
+        "name": "NPR"
       },
-      "author": "WFLA 8 On Your Side Staff",
-      "title": "Publix to drop mask rules for fully vaccinated customers and employees - WFLA",
-      "description": "Publix announced on Friday that it will no longer require masks for vaccinated customers and employees.",
-      "url": "https://www.wfla.com/community/health/coronavirus/publix-to-drop-mask-rules-for-fully-vaccinated-customers-and-employees/",
-      "urlToImage": "https://www.wfla.com/wp-content/uploads/sites/71/2021/02/AP_479606370429_1527283244005_43498365_ver1.0-1.jpg?w=1280",
-      "publishedAt": "2021-05-14T23:18:50Z",
-      "content": "TAMPA (WFLA) – Publix announced on Friday that it will no longer require masks for vaccinated customers and employees starting Saturday.\r\nThe company announced an updated mask policy following Thursd… [+476 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Jason Frakes",
-      "title": "Medina Spirit cleared to run in Preakness Stakes after passing three rounds of drug tests - USA TODAY",
-      "description": "Medina Spirit passed three rounds of pre-race drug tests and will be eligible to run in Saturday's Preakness Stakes, officials announced Friday.",
-      "url": "https://www.usatoday.com/story/sports/horses/triple/preakness/2021/05/14/medina-spirit-cleared-for-preakness-drug-tests/5100553001/",
-      "urlToImage": "https://www.gannett-cdn.com/presto/2021/05/10/PLOU/e9d44219-f87e-4bec-b8e6-92bc76b1a50a-MedinaSPirit_1.JPG?crop=3040,1710,x0,y0&width=1600&height=800&fit=bounds",
-      "publishedAt": "2021-05-14T23:02:25Z",
-      "content": "Trainer Bob Baffert said Sunday morning Medina Spirit tested positive for betamethasone after winning the Kentucky Derby on May 1 at Churchill Downs, a result that ultimately could lead to the horses… [+2052 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Beast"
-      },
-      "author": "Jose Pagliery, Roger Sollenberger",
-      "title": "Rep. Matt Gaetz Snorted Cocaine With Escort Who Had 'No Show' Gov't Job - The Daily Beast",
-      "description": "Witnesses revealed the wild scene at an after-party for a GOP fundraiser in Orlando.",
-      "url": "https://www.thedailybeast.com/rep-matt-gaetz-snorted-cocaine-with-megan-zalonka-escort-who-had-no-show-govt-job",
-      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1621027521/210513-Pagliery-gaetz-escort-tease_zzquu5",
-      "publishedAt": "2021-05-14T22:45:03Z",
-      "content": "When Rep. Matt Gaetz attended a 2019 GOP fundraiser in Orlando, his date that night was someone he knew well: a paid escort and amateur Instagram model who led a cocaine-fueled party after the event,… [+10054 chars]"
+      "author": "",
+      "title": "What The New Mask Guidance Means For Unvaccinated Kids — And Their Parents - NPR",
+      "description": "I'm fully vaccinated, but my kids aren't. Can I safely take off my mask? Do my unvaccinated kids have to keep masking in public?",
+      "url": "https://www.npr.org/sections/coronavirus-live-updates/2021/05/14/997010917/what-the-new-mask-guidance-means-for-unvaccinated-kids-and-their-parents",
+      "urlToImage": "https://media.npr.org/assets/img/2021/05/14/gettyimages-1227123586_wide-5ffa95864bbd336444ff04800d0b83747536c264.jpg?s=1400",
+      "publishedAt": "2021-05-14T22:54:00Z",
+      "content": "A girl and her father wear facemasks while they push their bikes last summer in Hermosa Beach, Los Angeles. There aren't yet coronavirus vaccines approved in the U.S. for kids under 12 which means th… [+5628 chars]"
     }
   ]
 }

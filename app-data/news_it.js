@@ -5,6 +5,84 @@ news_it = {
     {
       "source": {
         "id": null,
+        "name": "Virgilio.it"
+      },
+      "author": "Virgilio Sport",
+      "title": "Inter, senti Lautaro Martinez: \"Ecco quanto vale battere la Juventus\" - Virgilio Sport",
+      "description": "L'argentino inquadra il derby d'Italia, che i nerazzurri affronteranno avendo già vinto il tricolore. Quindi racconta qualche segreto sullo scudetto.",
+      "url": "https://sport.virgilio.it/inter-senti-lautaro-martinez-ecco-quanto-vale-battere-la-juventus-689522",
+      "urlToImage": "https://wips.plug.it/cips/sport.virgilio.it/cms/2021/05/lautaro-martinez_eing1dthmd5a1rcvr2d0c48vq.jpg?w=640&a=c&h=360",
+      "publishedAt": "2021-05-15T08:35:06Z",
+      "content": "Non solo scudetto. Lautaro Martinez si è concesso ai microfoni di ‘Sky Sport’ e, da nuovo punto di riferimento dell’universo nerazzurro, ha fatto chiaramente capire di aver perfettamente compreso qua… [+1558 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Oasport.it"
+      },
+      "author": "Federico Militello",
+      "title": "LIVE MotoGP, GP Francia in DIRETTA: sussulto di Marc Marquez sotto la pioggia! - OA Sport",
+      "description": "CLICCA QUI PER AGGIORNARE LA DIRETTA LIVE\r\n\r\n10.50 Francesco Bagnaia è stato beffato dal meteo, non potendo migliorare il tempo di ieri. Dovrà dunque disputare la pericolosa Q1, che metterà in palio appena 2 pass per la Q2. Il piemontese, sebbene si sia rivel…",
+      "url": "https://www.oasport.it/2021/05/live-motogp-gp-francia-in-diretta-orario-tv8-qualifiche-e-risultato-fp3-valentino-rossi-in-q2/",
+      "urlToImage": "https://www.oasport.it/wp-content/uploads/2021/05/Valentino-Rossi-MotoGP.com-Press-1.jpg",
+      "publishedAt": "2021-05-15T08:20:13Z",
+      "content": "CLICCA QUI PER AGGIORNARE LA DIRETTA LIVE\r\n10.50 Francesco Bagnaia è stato beffato dal meteo, non potendo migliorare il tempo di ieri. Dovrà dunque disputare la pericolosa Q1, che metterà in palio ap… [+28335 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilpost.it"
+      },
+      "author": null,
+      "title": "Il rover cinese Zhurong è arrivato su Marte - Il Post",
+      "description": "Sabato 15 maggio la missione spaziale cinese Tianwen-1 ha fatto atterrare su Marte il suo rover, Zhurong: la Cina è diventata così il secondo paese dopo",
+      "url": "https://www.ilpost.it/2021/05/15/zhurong-cina-rover-atterrato-marte/",
+      "urlToImage": "https://cdn.ilpost.it/wp-content/uploads/2021/05/marte-cina.jpg?x72029",
+      "publishedAt": "2021-05-15T07:52:30Z",
+      "content": "Sabato 15 maggio la missione spaziale cinese Tianwen-1 ha fatto atterrare su Marte il suo rover, Zhurong: la Cina è diventata così il secondo paese dopo gli Stati Uniti a far atterrare un rover sul s… [+1155 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilgiornale.it"
+      },
+      "author": "Sofia Dinolfo, Mauro Indelicato",
+      "title": "Ecco il vero ruolo della Guardia Costiera libica sull'immigrazione - il Giornale",
+      "description": "Secondo i dati resi noti dall'Oim, il numero di migranti respinti dalla Guardia Costiera libica è stato incisivo in questi primi cinque mesi dell'anno",
+      "url": "https://www.ilgiornale.it/news/politica/ecco-vero-ruolo-guardia-costiera-libica-sullimmigrazione-1944273.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2021/05/05/1620212305-migranti-lapresse.jpg?_=1620212305",
+      "publishedAt": "2021-05-15T07:30:00Z",
+      "content": "Si trova spesso sotto i riflettori per via delle polemiche relative al suo operato e alla sua composizione. Eppure la Guardia Costiera libica ha unincidenza molto importante nel controllo del flusso … [+6331 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tuttonapoli.net"
+      },
+      "author": "Redazione Tutto Napoli.net",
+      "title": "CorSera - E' il giorno di Juve-Inter: Conte può affondare il regno bianconero - Tutto Napoli",
+      "description": "Questo il titolo a pagina 56 che il Corriere della Sera dedica alla gara di oggi tra Juventus e Inter. I",
+      "url": "https://www.tuttonapoli.net/rassegna-stampa/i-corsera-i-e-il-giorno-di-juve-inter-conte-puo-affondare-il-regno-bianconero-468992",
+      "urlToImage": "https://net-storage.tccstatic.com/storage/tuttonapoli.net/img_notizie/thumb3/05/0561065abdd59cdf4b7b2db457e5163b-65465-e4fabacd4c3ebdd847728d82b153dcc4.jpeg",
+      "publishedAt": "2021-05-15T07:20:04Z",
+      "content": "\"Rivincita Conte: l'ultimo colpo per affondare il regno nato grazie a lui\". Questo il titolo a pagina 56 che il Corriere della Sera dedica alla gara di oggi tra Juventus e Inter. In effetti Il destin… [+393 chars]"
+    },
+    {
+      "source": {
+        "id": "ansa",
+        "name": "ANSA.it"
+      },
+      "author": "",
+      "title": "'Ndrangheta, rientra dalla Spagna in Italia latitante Romeo - Ultima Ora - Agenzia ANSA",
+      "description": "'E' rientrato dalla Spagna ed è arrivato allo scalo aeroportuale di Roma Fiumicino il latitante di\r\n'ndrangheta Giuseppe Romeo, classe 1986, scortato da personale del Servizio per la Cooperazione\r\nInternazionale di Polizia (SCIP) della Direzione Centrale de..…",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2021/05/15/ndrangheta-rientra-dalla-spagna-in-italia-latitante-romeo_8661c472-bced-4805-a638-71d39b697c2c.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2021/3/12/0f07c94f3959133bb44cfc7a7081f64d.jpg",
+      "publishedAt": "2021-05-15T06:25:00Z",
+      "content": "(ANSA) - ROMA, 15 MAG - 'E' rientrato dalla Spagna ed è\r\narrivato allo scalo aeroportuale di Roma Fiumicino il latitante\r\ndi 'ndrangheta Giuseppe Romeo, classe 1986, scortato da\r\npersonale del Serviz… [+1299 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Rainews.it"
       },
       "author": null,
@@ -20,13 +98,13 @@ news_it = {
         "id": null,
         "name": "Corriere.it"
       },
-      "author": "Marco Cremonesi",
-      "title": "Salvini: «La sentenza Gregoretti? Spero sia utile al governo per le scelte sull’immigrazione» - Corriere della Sera",
-      "description": "Il leader della Lega: Sì a Draghi al Colle. Ora una riforma seria della giustizia o il referendum",
-      "url": "https://www.corriere.it/politica/21_maggio_15/salvini-la-sentenza-gregoretti-spero-sia-utile-governo-le-scelte-sull-immigrazione-f43f8964-b4eb-11eb-a3a5-b3729d611502.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/14/f3f6ef3c-b4ec-11eb-a3a5-b3729d611502.jpg",
-      "publishedAt": "2021-05-15T05:16:58Z",
-      "content": "«Io spero che questo processo sia utile all’intero governo perché arrivi a un approccio più fermo e più europeo sull’immigrazione». Matteo Salvini è appena atterrato a Milano da Catania, dove il Gup … [+4875 chars]"
+      "author": "Arianna Ascione",
+      "title": "Isola dei Famosi 2021, naufraghi a pezzi per la fame (e c’è chi scoppia a piangere in diretta) - Il meglio e... - Corriere della Sera",
+      "description": "Ha affrontato le piste innevate più impegnative, ha conquistato medaglie in giro per il mondo…cosa volete che sia per Isolde Kostner la temibile",
+      "url": "https://www.corriere.it/spettacoli/cards/isola-famosi-2021-naufraghi-pezzi-la-fame-c-chi-scoppia-piangere-diretta-meglio-peggio/isolde-kostner-diventa-leader-salvador_principale.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/14/346ae08c-b510-11eb-a3a5-b3729d611502.jpg",
+      "publishedAt": "2021-05-15T05:22:00Z",
+      "content": "Ha affrontato le piste innevate più impegnative, ha conquistato medaglie in giro per il mondo…cosa volete che sia per Isolde Kostner la temibile prova del girarrosto (affrontata insieme a Valentina P… [+408 chars]"
     },
     {
       "source": {
@@ -44,19 +122,6 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Tg24.sky.it"
-      },
-      "author": "Redazione Sky TG24",
-      "title": "Riscatto di laurea agevolato e pace contributiva, le ultime indicazioni dell’Inps - Sky Tg24 ",
-      "description": "Leggi su Sky TG24 l'articolo Riscatto di laurea agevolato e pace contributiva, le ultime indicazioni dell’Inps",
-      "url": "https://tg24.sky.it/economia/2021/05/15/riscatto-laurea-agevolato-inps",
-      "urlToImage": "https://static.sky.it/images/skytg24/it/economia/2021/05/14/riscatto-laurea-agevolato-inps/Hero 2 laurea La presse IPA.jpg",
-      "publishedAt": "2021-05-15T04:27:55Z",
-      "content": "Il riscatto della laurea è una misura che aiuta, a fini pensionistici, chi ha frequentato l'università. Durante gli anni di formazione universitaria sia per i corsi triennali che magistrali o a ciclo… [+359 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Rainews.it"
       },
       "author": null,
@@ -69,29 +134,16 @@ news_it = {
     },
     {
       "source": {
-        "id": "ansa",
-        "name": "ANSA.it"
-      },
-      "author": "",
-      "title": "Il rover cinese Zhurong è atterrato su Marte - Ultima Ora - Agenzia ANSA",
-      "description": "La sonda cinese Tianwen-1 ha toccato la superficie di Marte. Lo riferiscono i media cinesi. (ANSA)",
-      "url": "https://www.ansa.it/sito/notizie/topnews/2021/05/15/il-rover-cinese-zhurong-e-atterrato-su-marte_b75dad4d-78f4-47bd-98dc-01e01b3e802b.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2021/5/14/095715de70b732dacbceaed184f367de.jpg",
-      "publishedAt": "2021-05-15T01:51:00Z",
-      "content": "(ANSA) - PECHINO, 15 MAG - La sonda cinese Tianwen-1 ha\r\ntoccato la superficie di Marte. Lo riferiscono i media cinesi.Tianwen-1, la prima esplorazione interplanetaria della Cina, ha\r\ncompletato \"con… [+817 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Ilmessaggero.it"
+        "name": "Tuttomercatoweb.com"
       },
-      "author": "Mauro Evangelisti",
-      "title": "Vaccini, Italia divisa in due: in Lombardia dosi ai 16enni, ma Sicilia e Calabria sono indietro con gli anziani - ilmessaggero.it",
-      "description": "Sulle classi di età da vaccinare l’Italia si sta spaccando. Ogni Regione segue strategie differenti e si passa da un annuncio all’altro: sembra quasi un gioco al rialzo per...",
-      "url": "https://www.ilmessaggero.it/politica/vaccini_giovani_anziani_cosa_succede_lombardia_lazio_veneto_campania_toscana_emilia_umbria_calabria_ultima_ora_15_maggio_2021-5960362.html",
-      "urlToImage": "https://www.ilmessaggero.it/photos/MED/03/62/5960362_0042_vaccini_giovani_anziani_cosa_succede_lombardia_lazio_veneto_campania_toscana_emilia_umbria_calabria_ultima_ora_15_maggio_2021.jpg",
-      "publishedAt": "2021-05-14T22:50:04Z",
-      "content": "Sulle classi di età da vaccinare l’Italia si sta spaccando. Ogni Regione segue strategie differenti e si passa da un annuncio all’altro: sembra quasi un gioco al rialzo per mostrare chi immunizza i p… [+4201 chars]"
+      "author": "Tommaso Bonan",
+      "title": "TOP NEWS Ore 24 - Diritti tv, pacchetto 2 a Sky. Le parole di Lautaro e Jorge Mendes su CR7 - TUTTO mercato WEB",
+      "description": "Le voci dei protagonisti, le esclusive di mercato e tanto altro su TMW: di seguito le notizie più importanti della serata:\nJuve, parla Jorge Mendes: \"CR7 non tornerà allo Sporting Lisbona, ha altri",
+      "url": "https://www.tuttomercatoweb.com/serie-a/top-news-ore-24-diritti-tv-pacchetto-2-a-sky-le-parole-di-lautaro-e-jorge-mendes-su-cr7-1534603",
+      "urlToImage": "https://tmw-storage.tccstatic.com/storage/tuttomercatoweb.com/img_notizie/thumb3/ecceb5b2cb7a4aa99dfd47a3e28dd6e4-29440-95723157c8ebcac4750156d2b21ac04e.jpeg",
+      "publishedAt": "2021-05-14T22:30:26Z",
+      "content": "Le voci dei protagonisti, le esclusive di mercato e tanto altro su TMW: di seguito le notizie più importanti della serata:\r\nJuve, parla Jorge Mendes: \"CR7 non tornerà allo Sporting Lisbona, ha altri … [+1071 chars]"
     },
     {
       "source": {
@@ -109,67 +161,15 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Calciomercato.com"
-      },
-      "author": "Calciomercato.com",
-      "title": "Inter, la probabile formazione contro la Juve: c'è una sorpresa - Calciomercato.com",
-      "description": "Questa la probabile formazione dell&#39;Inter contro la Juventus. A sorpresa sulla sinistra giocher&agrave; Darmian, solo panchina per Young e Perisic.\r\n\r\n3-5-2: Handanovic; Skriniar, De Vrij, Bastoni;",
-      "url": "https://www.calciomercato.com/news/inter-la-probabile-formazione-contro-la-juve-c-e-una-sorpresa-34100",
-      "urlToImage": "https://cdn.calciomercato.com/images/2021-05/conte.inter.2020.21.mascherina1.750x450.jpg",
-      "publishedAt": "2021-05-14T21:58:00Z",
-      "content": "Questa la probabile formazione dell'Inter contro la Juventus. A sorpresa sulla sinistra giocherà Darmian, solo panchina per Young e Perisic.3-5-2: Handanovic; Skriniar, De Vrij, Bastoni; Hakimi, Bare… [+48 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "name": "Gelocal.it"
       },
       "author": null,
-      "title": "Mass Effect Legendary Edition colpito da numerose recensioni negative su Steam - Everyeye Videogiochi",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMidGh0dHBzOi8vd3d3LmV2ZXJ5ZXllLml0L25vdGl6aWUvbWFzcy1lZmZlY3QtbGVnZW5kYXJ5LWVkaXRpb24tY29scGl0by1udW1lcm9zZS1yZWNlbnNpb25pLW5lZ2F0aXZlLXN0ZWFtLTUxNzYzNS5odG1s0gF4aHR0cHM6Ly93d3cuZXZlcnlleWUuaXQvYW1wL25vdGl6aWUvbWFzcy1lZmZlY3QtbGVnZW5kYXJ5LWVkaXRpb24tY29scGl0by1udW1lcm9zZS1yZWNlbnNpb25pLW5lZ2F0aXZlLXN0ZWFtLTUxNzYzNS5odG1s?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2021-05-14T21:36:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Iltempo.it"
-      },
-      "author": "Il Tempo",
-      "title": "Ilary Blasi, ingresso con il botto. Il look all'Isola dei Famosi e non sfugge il dettaglio - Il Tempo",
-      "description": "Partenza con il (quasi) botto per  Ilary Blasi  nel corso della  diciassettesima puntata  dell’ Isola dei Famosi 2021 , venerdì 14 maggio...",
-      "url": "https://www.iltempo.it/spettacoli-tv/2021/05/14/news/ilary-blasi-look-isola-dei-famosi-magra-2021-vestito-ieri-sera-abito-fisico-peso-27235117/",
-      "urlToImage": "https://img.iltempo.it/images/2021/05/14/205847226-a848ada5-2b83-4306-a1dc-d94eb771ea52.jpg",
-      "publishedAt": "2021-05-14T20:56:00Z",
-      "content": "Partenza con il (quasi) botto per Ilary Blasi nel corso della diciassettesima puntata dell’Isola dei Famosi 2021, venerdì 14 maggio. La bella conduttrice romana, celebre per i suoi outfit, ha fatto i… [+462 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Calcioefinanza.it"
-      },
-      "author": null,
-      "title": "La Serie A chiederà alla Figc di far slittare 4 mesi di stipendi - Calcio e Finanza",
-      "description": "I club della Serie A chiederanno alla Figc di far slittare i termini per quanto riguarda gli obblighi relativi alle scadenze per i pagamenti delle ultime mensilità ai giocatori. L’ipotesi sul tavolo, emersa nell’assemblea di oggi, è di chiedere lo spostamento…",
-      "url": "https://www.calcioefinanza.it/2021/05/14/serie-a-figc-taglio-stipendi/",
-      "urlToImage": "https://www.calcioefinanza.it/wp-content/uploads/2019/09/serie-a.jpg",
-      "publishedAt": "2021-05-14T20:41:50Z",
-      "content": "I club della Serie A chiederanno alla Figc di far slittare i termini per quanto riguarda gli obblighi relativi alle scadenze per i pagamenti delle ultime mensilità ai giocatori. \r\nLipotesi sul tavolo… [+541 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Iltempo.it"
-      },
-      "author": "Il Tempo",
-      "title": "Reithera, \"81 milioni\". La Corte Conti boccia il finanziamento sul vaccino italiano - Il Tempo",
-      "description": "La Corte dei Conti boccia il decreto per il finanziamento del vaccino Reithera, ricusa il visto sull'atto e mette a rischio la fase tre della sper...",
-      "url": "https://www.iltempo.it/attualita/2021/05/14/news/reithera-vaccino-italiano-corte-conti-boccia-finanziamento-invitalia-80-milioni-27234719/",
-      "urlToImage": "https://img.iltempo.it/images/2021/05/14/202125028-a5a6374b-00b6-49d1-9cbc-056444fb1986.jpg",
-      "publishedAt": "2021-05-14T20:18:00Z",
-      "content": "La Corte dei Conti boccia il decreto per il finanziamento del vaccino Reithera, ricusa il visto sull'atto e mette a rischio la fase tre della sperimentazione e l'arrivo, previsto per l'autunno, del p… [+2536 chars]"
+      "title": "Dal richiamo dilazionato di Pfizer e Moderna al confronto su AstraZeneca: ecco tutte le novità sul fronte vaccini - Il Piccolo",
+      "description": "Dosi, tempistiche, richiami:  le novità spiegate dall’infettivologo Roberto Luzzati, direttore del Dipartimento di ematologia, oncologia e infettivologia di Trieste",
+      "url": "https://ilpiccolo.gelocal.it/trieste/cronaca/2021/05/15/news/dal-richiamo-dilazionato-di-pfizer-e-moderna-al-confronto-su-astrazeneca-ecco-cosa-sta-cambiando-sul-fronte-vaccini-1.40272172",
+      "urlToImage": "https://ilpiccolo.gelocal.it/image/contentid/policy:1.40272171:1621024403/astrazeneca.jpg?f=detail_558&h=720&w=1280&$p$f$h$w=68b9f07",
+      "publishedAt": "2021-05-14T20:49:05Z",
+      "content": "TRIESTE Intervallo tra le due dosi dei vaccini mRna allungato a 42 giorni, confronto in corso per estendere alla fascia 50-59 anni luso raccomandato di AstraZeneca, partenza anticipata delle prenotaz… [+6032 chars]"
     },
     {
       "source": {
@@ -177,12 +177,38 @@ news_it = {
         "name": "Ilmeteo.it"
       },
       "author": "Team iLMeteo.it",
-      "title": "VACCINO PFIZER: SECONDA DOSE dopo 42 giorni, l'EMA dà Ragione al CTS. I Dettagli nel VIDEO - iLMeteo.it",
-      "description": "VACCINO PFIZER: SECONDA DOSE dopo 42 giorni, l'EMA dà Ragione al CTS. I Dettagli nel VIDEO",
-      "url": "https://www.ilmeteo.it/notizie/vaccino-pfizer-seconda-dose-dopo-42-giorni-lema-d-ragione-al-cts-i-dettagli-nel-video-132700",
-      "urlToImage": "https://www.ilmeteo.it/portale/files/giornale/pfizer-130521.jpg",
-      "publishedAt": "2021-05-14T20:00:00Z",
-      "content": "L’EMA ha dato ragione al Comitato Tecnico Scientifico per quanto\r\nriguarda il vaccino Pfizer: via libera dunque al richiamo dopo 42 giorni, un lasso\r\ntemporale doppio rispetto a quanto dichiarato dal… [+1166 chars]"
+      "title": "TERREMOTO in provincia di PERUGIA, in UMBRIA, a Gubbio. Magnitudo 2.8. Ecco QUI i DETTAGLI - iLMeteo.it",
+      "description": "Evento sismico del 14 Maggio 2021 ore 22:22",
+      "url": "https://www.ilmeteo.it/notizie/terremoto-gubbio-14-maggio-2021-064187",
+      "urlToImage": "https://www.ilmeteo.it/portale/files/giornale/terremoto1621024502-46-43.3653-12.5708.jpg",
+      "publishedAt": "2021-05-14T20:22:00Z",
+      "content": "Scossa di terremoto registrata a Gubbio (PG)Il 14 Maggio 2021 ore 22:22 è stata registrata una scossa di terremoto di magnitudo 2.8 e profondità 7 km a Gubbio (PG). Leggi qui per approfondire.Secondo… [+441 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Formatonews.it"
+      },
+      "author": null,
+      "title": "Carmen Russo ed Enzo Paolo Turci denunciati: l’accusa è di sfruttamento! - Formatonews",
+      "description": "La famosa coppia di ballerini, Carmen e Enzo denunciata per lavoro irregolare e presso il Tribunale di Tivoli parte dei loro domestici",
+      "url": "https://www.formatonews.it/2021/05/14/carmen-russo-enzo-paolo-turci-denunciati/",
+      "urlToImage": "https://www.formatonews.it/wp-content/uploads/2021/05/carmen-russo-enzo-paolo-turchi.jpg",
+      "publishedAt": "2021-05-14T20:16:06Z",
+      "content": "La famosa coppia di ballerini denunciata per lavoro irregolare presso il Tribunale da parte dei loro domestici\r\nCarmen Russo e Enzo Paolo Turci\r\nSi è scatenata una vera e propria bufera attorno ai du… [+2170 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Adnkronos.com"
+      },
+      "author": "moretti",
+      "title": "Vaccini Italia, cresce il trend: 476mila dosi al giorno - Adnkronos",
+      "description": "Immunizzato il 77% degli over 80",
+      "url": "https://www.adnkronos.com/vaccini-italia-oggi-cresce-trend-476mila-dosi-al-giorno_5xQVZsdjOaUBIgcQOU2bIa",
+      "urlToImage": "https://www.adnkronos.com/resources/0269-1246c07ed44f-6ee1235e88e9-1000/vaccinazioni_astrazeneca_covid_milano_fg.jpg",
+      "publishedAt": "2021-05-14T19:41:00Z",
+      "content": "Cresce il trend delle somministrazioni di vaccini in Italia. Nell'ultima settimana sono state inoculate una media di 476mila dosi al giorno rispetto alle 465.570 dosi quotidiane della settimana prece… [+1058 chars]"
     },
     {
       "source": {
@@ -200,15 +226,15 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Lastampa.it"
+        "name": "Money.it"
       },
-      "author": ".",
-      "title": "Vaccini, tre over 80 su quattro hanno ricevuto la seconda dose. Ma i settantenni sono solo il 20,4% - La Stampa",
-      "description": "Brusaferro: «La decrescita della curva è lenta ma continua». In 7 giorni 3 regioni sotto soglia 50 casi per 100mila abitanti. L'età media dei contagiati scende da 41 a 40 anni. Cala la pressione sugli ospedali, ma la variante inglese è dominante e serve prude…",
-      "url": "https://www.lastampa.it/cronaca/2021/05/14/news/covid-brusaferro-la-decrescita-della-curva-e-lenta-ma-continua-1.40271323",
-      "urlToImage": "https://www.lastampa.it/image/contentid/policy:1.40271332:1621004784/ansa_20210512_110838_004045.JPG?f=detail_558&h=720&w=1280&$p$f$h$w=a582615",
-      "publishedAt": "2021-05-14T19:05:00Z",
-      "content": "Sono 3.476.377 gli over 80 che sono completamente vaccinati in Italia. Si tratta del 76,87% delle persone previste. Lo rivela il report settimanale sui vaccini pubblicato dalla struttura commissarial… [+4611 chars]"
+      "author": "Giorgia Bonamoneta",
+      "title": "Giulia Stabile: quanto potrebbe guadagnare grazie ad Amici (e a TIM) - Money.it",
+      "description": "Giulia Stabile, tra i finalisti dell'edizione di Amici 2021, potrebbe guadagnare 150.000 euro in caso di vittoria. Intanto per lei c'è la (quasi) certezza di vincere il premio TIM da 30.000 euro.",
+      "url": "https://www.money.it/Giulia-Stabile-quanto-potrebbe-guadagnare-grazie-Amici-TIM",
+      "urlToImage": "https://www.money.it/local/cache-gd2/6e/17d5d4eb5380101df3c53be76f9ae4.png?1621019115",
+      "publishedAt": "2021-05-14T19:05:42Z",
+      "content": "Giulia Stabile, innegabile talento dell’edizione di Amici 2021 di Maria De Filippi, riuscirà ad aggiudicarsi uno dei premi in palio nella finale di domani su Canale 5 e guadagnare un’importante cifra… [+3501 chars]"
     },
     {
       "source": {
@@ -226,41 +252,15 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Corriere dello Sport"
+        "name": "Ilpost.it"
       },
-      "author": "La redazione",
-      "title": "Roma-Lazio, terminati i ticket. All'Olimpico sarà sold out virtuale - Corriere dello Sport.it",
-      "description": "\"Tutto esaurito\" allo stadio Olimpico grazie all'iniziativa \"Inside the Derby\". La società giallorossa ringrazia i propri sostenitori",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2021/05/14-81692664/roma-lazio_terminati_i_ticket_all_olimpico_sara_sold_out_virtuale",
-      "urlToImage": "https://cdn.corrieredellosport.it/images/2020/02/07/224848575-17fa101a-223f-4ac9-ac15-56b96492f59a.jpg",
-      "publishedAt": "2021-05-14T18:38:23Z",
-      "content": "ROMA - Sono oltre 46mila i biglietti venduti per il derby di domani. Riapertura anticipata degli stadi? No, si tratta dell'iniziativa lanciata da Roma Cares, la Onlus del club giallorosso, per consen… [+939 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Androidworld.it"
-      },
-      "author": "Vito Laminafra",
-      "title": "Samsung Galaxy A22 5G non ha più segreti: spuntano render e specifiche tecniche (foto) - Androidworld",
-      "description": "Non è un segreto che Samsung stia lavorando ad uno smartphone 5G economico: lo scorso mese infatti vi abbiamo parlato...",
-      "url": "https://www.androidworld.it/2021/05/14/samsung-galaxy-a22-5g-non-piu-segreti-spuntano-render-specifiche-tecniche-foto-747846/",
-      "urlToImage": "https://www.androidworld.it/wp-content/uploads/2021/04/samsung-galaxy-a22-5g-renders-and-dimensions-leaked-by-@onleaks-414.jpeg",
-      "publishedAt": "2021-05-14T17:49:29Z",
-      "content": "Vito Laminafra14/05/2021 ore 19:49Non è un segreto che Samsung stia lavorando ad uno smartphone 5G economico: lo scorso mese infatti vi abbiamo parlato di Galaxy A22 e vi abbiamo mostrato i primissim… [+1021 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilfattoquotidiano.it"
-      },
-      "author": "F. Q.",
-      "title": "Covid, la variante indiana preoccupa la Gran Bretagna: Jonhson annuncia accelerazione dei richiami e prime… - Il Fatto Quotidiano",
-      "description": "Al momento i piani sulle riaperture del 17 maggio sono confermati senza escludere tuttavia possibili conseguenze e rinvii sull'uscita definitiva dal lockdown il 21 giugno",
-      "url": "https://www.ilfattoquotidiano.it/2021/05/14/covid-la-variante-indiana-preoccupa-la-gran-bretagna-jonhson-annuncia-accelerazione-dei-richiami-e-prime-dosi-gli-over-40/6198369/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/14/Boris-Johnson-.jpg",
-      "publishedAt": "2021-05-14T17:42:23Z",
-      "content": "L’elevata trasmissibilità della variante indiana – da qualche giorno entrata nella lista delle mutazioni preoccupanti – angoscia la Gran Bretagna, che nei giorni scorsi ha registrato un crollo di cas… [+2215 chars]"
+      "author": null,
+      "title": "La Corte dei Conti ha respinto il finanziamento del vaccino italiano contro il coronavirus di Reithera - Il Post",
+      "description": "La Corte dei Conti – organo giudiziario e di controllo previsto dalla Costituzione per vigilare sull’uso delle risorse pubbliche – ha respinto il",
+      "url": "https://www.ilpost.it/2021/05/14/reithera-vaccino-finanziamento-corte-dei-conti/",
+      "urlToImage": "https://cdn.ilpost.it/wp-content/uploads/2021/05/reithera.jpg?x72029",
+      "publishedAt": "2021-05-14T18:32:16Z",
+      "content": "La Corte dei Conti  organo giudiziario e di controllo previsto dalla Costituzione per vigilare sulluso delle risorse pubbliche ha respinto il finanziamento del vaccino sperimentale contro il coronavi… [+1344 chars]"
     }
   ]
 }

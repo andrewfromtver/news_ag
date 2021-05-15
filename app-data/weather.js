@@ -5,33 +5,33 @@ weather = {
   },
   "weather": [
     {
-      "id": 803,
+      "id": 802,
       "main": "Clouds",
-      "description": "broken clouds",
-      "icon": "04d"
+      "description": "scattered clouds",
+      "icon": "03d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 20.73,
-    "feels_like": 20.63,
-    "temp_min": 20.73,
-    "temp_max": 20.73,
-    "pressure": 1007,
-    "humidity": 68,
-    "sea_level": 1007,
-    "grnd_level": 992
+    "temp": 22.26,
+    "feels_like": 21.95,
+    "temp_min": 22.26,
+    "temp_max": 22.26,
+    "pressure": 1006,
+    "humidity": 54,
+    "sea_level": 1006,
+    "grnd_level": 991
   },
   "visibility": 10000,
   "wind": {
-    "speed": 3.72,
-    "deg": 174,
-    "gust": 5.82
+    "speed": 4.32,
+    "deg": 195,
+    "gust": 6.14
   },
   "clouds": {
-    "all": 51
+    "all": 50
   },
-  "dt": 1621063831,
+  "dt": 1621071053,
   "sys": {
     "country": "RU",
     "sunrise": 1621041526,

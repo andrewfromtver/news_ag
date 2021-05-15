@@ -2,25 +2,26 @@ import requests
 import json
 import app_config
 
-owm_token = app_config.owm_token
-lat = 56.8306
-lon = 35.942
-owm_mode = 'json'
-lang = 'en'
-
+a = app_config.owm_token
+b = 56.8306
+c = 35.942
+d = 'json'
+e = 'en'
+f = 'metric'
+g = 'current,minutely,hourly,alerts'
 
 def ForecastFetch(token, lat, lon, owm_mode, lang, units, exclude):	
 	# forecast api
 	query_params = {
-	'appid': owm_token,
+	'appid': token,
 	'lat': lat,
 	'lon': lon,
 	'mode':	owm_mode,
-	'lang': 'en',
-	'units': 'metric',
-    'exclude': 'current,minutely,hourly,alerts'
+	'lang': lang,
+	'units': units,
+    'exclude': exclude
 	}
-	main_url = 'https://api.openweathermap.org/data/2.5/onecall'
+	main_url = 'http://api.openweathermap.org/data/2.5/onecall'
 	# fetching data in json format
 	res = requests.get(main_url, params=query_params)
 	forecast_page = res.json()
@@ -35,4 +36,4 @@ def ForecastFetch(token, lat, lon, owm_mode, lang, units, exclude):
 # Driver Code
 if __name__ == '__main__':
 	# function call
-	ForecastFetch()
+	ForecastFetch(a, b, c, d, e, f, g)
