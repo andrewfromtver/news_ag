@@ -2,20 +2,22 @@ import requests
 import json
 import app_config
 
-owm_token = app_config.owm_token
-lat = 56.8306
-lon = 35.942
-owm_mode = 'json'
+a = app_config.owm_token
+b = 56.8306
+c = 35.942
+d = 'json'
+e = 'en'
+f = 'metric'
 
-def WeatherFetch():	
+def WeatherFetch(token, lat, lon, owm_mode, lang, units):	
 	# weather api
 	query_params = {
-	'appid': owm_token,
+	'appid': token,
 	'lat': lat,
 	'lon': lon,
 	'mpde':	owm_mode,
-	'lang': 'en',
-	'units': 'metric'
+	'lang': lang,
+	'units': units
 	}
 	main_url = 'https://api.openweathermap.org/data/2.5/weather'
 	# fetching data in json format
@@ -32,4 +34,4 @@ def WeatherFetch():
 # Driver Code
 if __name__ == '__main__':
 	# function call
-	WeatherFetch()
+	WeatherFetch(a, b, c, d, e, f)

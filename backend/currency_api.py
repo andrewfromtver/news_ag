@@ -2,12 +2,12 @@ import requests
 import json
 import app_config
 
-currency_api_key = app_config.currency_api_key
+a = app_config.currency_api_key
 
-def CurrencyFetch():	
+def CurrencyFetch(token):	
 	# currency api (apiKey)
 	query_params = {
-	'access_key': currency_api_key
+	'access_key': token
 	}
 	main_url = 'http://api.currencylayer.com/live'
 	# fetching data in json format
@@ -31,4 +31,4 @@ def CurrencyFetch():
 # Driver Code
 if __name__ == '__main__':
 	# function call
-	CurrencyFetch()
+	CurrencyFetch(a)

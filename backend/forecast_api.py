@@ -6,8 +6,10 @@ owm_token = app_config.owm_token
 lat = 56.8306
 lon = 35.942
 owm_mode = 'json'
+lang = 'en'
 
-def ForecastFetch():	
+
+def ForecastFetch(token, lat, lon, owm_mode, lang, units, exclude):	
 	# forecast api
 	query_params = {
 	'appid': owm_token,

@@ -2,13 +2,13 @@ import requests
 import json
 import app_config
 
-news_api_key = app_config.news_api_key
+a = app_config.news_api_key
 
-def NewsFetch():	
+def NewsFetch(token):	
 	# RU news api (country and apiKey)
 	query_params = {
 	"country": "ru",
-	"apiKey": news_api_key
+	"apiKey": token
 	}
 	main_url = "https://newsapi.org/v2/top-headlines"
 	# fetching data in json format
@@ -32,7 +32,7 @@ def NewsFetch():
     # US news api (country and apiKey)
 	query_params = {
 	"country": "us",
-	"apiKey": news_api_key
+	"apiKey": token
 	}
 	main_url = "https://newsapi.org/v2/top-headlines"
 	# fetching data in json format
@@ -56,7 +56,7 @@ def NewsFetch():
     # GB news api (country and apiKey)
 	query_params = {
 	"country": "gb",
-	"apiKey": news_api_key
+	"apiKey": token
 	}
 	main_url = "https://newsapi.org/v2/top-headlines"
 	# fetching data in json format
@@ -80,7 +80,7 @@ def NewsFetch():
     # IT news api (country and apiKey)
 	query_params = {
 	"country": "it",
-	"apiKey": news_api_key
+	"apiKey": token
 	}
 	main_url = "https://newsapi.org/v2/top-headlines"
 	# fetching data in json format
@@ -104,4 +104,4 @@ def NewsFetch():
 # Driver Code
 if __name__ == '__main__':
 	# function call
-	NewsFetch()
+	NewsFetch(a)
