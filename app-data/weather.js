@@ -13,25 +13,25 @@ weather = {
   ],
   "base": "stations",
   "main": {
-    "temp": 13.05,
-    "feels_like": 12.81,
-    "temp_min": 13.05,
-    "temp_max": 13.05,
-    "pressure": 1006,
-    "humidity": 92,
-    "sea_level": 1006,
+    "temp": 11.92,
+    "feels_like": 11.65,
+    "temp_min": 11.92,
+    "temp_max": 11.92,
+    "pressure": 1007,
+    "humidity": 95,
+    "sea_level": 1007,
     "grnd_level": 991
   },
   "visibility": 10000,
   "wind": {
-    "speed": 2.92,
-    "deg": 192,
-    "gust": 8.69
+    "speed": 2.68,
+    "deg": 189,
+    "gust": 7.29
   },
   "clouds": {
-    "all": 7
+    "all": 9
   },
-  "dt": 1621105165,
+  "dt": 1621110779,
   "sys": {
     "country": "RU",
     "sunrise": 1621041526,

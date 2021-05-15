@@ -2,14 +2,14 @@ import requests
 import json
 import app_config
 
-a = app_config.owm_token
-b = 56.8306
-c = 35.942
-d = 'json'
-e = 'en'
-f = 'metric'
+token = app_config.owm_token
+a = 56.8306
+b = 35.942
+c = 'json'
+d = 'en'
+e = 'metric'
 
-def WeatherFetch(token, lat, lon, owm_mode, lang, units):	
+def WeatherFetch(lat, lon, owm_mode, lang, units):	
 	# weather api
 	query_params = {
 	'appid': token,
@@ -33,5 +33,5 @@ def WeatherFetch(token, lat, lon, owm_mode, lang, units):
 
 # Driver Code
 if __name__ == '__main__':
-	# function call
-	WeatherFetch(a, b, c, d, e, f)
+	# function call (lat, lon, data_moode, lang, units)
+	WeatherFetch(a, b, c, d, e)

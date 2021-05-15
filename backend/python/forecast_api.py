@@ -2,15 +2,15 @@ import requests
 import json
 import app_config
 
-a = app_config.owm_token
-b = 56.8306
-c = 35.942
-d = 'json'
-e = 'en'
-f = 'metric'
-g = 'current,minutely,hourly,alerts'
+token = app_config.owm_token
+a = 56.8306
+b = 35.942
+c = 'json'
+d = 'en'
+e = 'metric'
+f = 'current,minutely,hourly,alerts'
 
-def ForecastFetch(token, lat, lon, owm_mode, lang, units, exclude):	
+def ForecastFetch(lat, lon, owm_mode, lang, units, exclude):	
 	# forecast api
 	query_params = {
 	'appid': token,
@@ -36,4 +36,4 @@ def ForecastFetch(token, lat, lon, owm_mode, lang, units, exclude):
 # Driver Code
 if __name__ == '__main__':
 	# function call
-	ForecastFetch(a, b, c, d, e, f, g)
+	ForecastFetch(a, b, c, d, e, f)

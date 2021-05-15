@@ -4,6 +4,58 @@ news_us = {
   "articles": [
     {
       "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Paulina Dedaj",
+      "title": "Bob Baffert facing lawsuits from bettors after Medina Spirit's Kentucky Derby win: report - Fox News",
+      "description": "Embattled Hall of Fame trainer Bob Baffert is facing more trouble this week after it was revealed that Kentucky Derby winner Medina Spirit failed a post-race drug test, and now there are reportedly legal implications.",
+      "url": "https://www.foxnews.com/sports/bob-baffert-lawsuits-bettors-medina-spirits-kentucky-derby",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/4a64c6d9-Bob-Baffert.jpg",
+      "publishedAt": "2021-05-15T17:08:44Z",
+      "content": "Embattled Hall of Fame trainer Bob Baffert is facing more trouble this week after it was revealed that Kentucky Derby\r\n winner Medina Spirit failed a post-race drug test, and now there are reportedly… [+1922 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "UFC 262 predictions -- Michael Chandler vs. Charles Oliveira: Fight card, odds, expert picks, prelims - CBS Sports",
+      "description": "Check out who the experts at CBS Sports are taking in the lightweight title fight in Houston on Saturday",
+      "url": "https://www.cbssports.com/mma/news/ufc-262-predictions-michael-chandler-vs-charles-oliveira-fight-card-odds-expert-picks-prelims/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/05/14/2755d6aa-4759-40cc-aad9-4bfb55bde2bd/thumbnail/1200x675/63f11d9ebc9cb2b86444ad224f296bfc/chandler-oliveira-conference.jpg",
+      "publishedAt": "2021-05-15T17:00:00Z",
+      "content": "One of the more interesting UFC PPV events of the year is upon us. UFC 262 is ready to kick off from the Toyota Center in Houston, Texas, on Saturday night with a vacant lightweight title fight in th… [+7270 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PEOPLE"
+      },
+      "author": "Glenn Garner",
+      "title": "Justin Timberlake and His Son Silas, 6, Bond Over Star Wars During 'Coolest' Day at Disney World - Yahoo Entertainment",
+      "description": "Justin Timberlake and his eldest child Silas enjoyed a visit to Star Wars: Galaxy's Edge at Walt Disney World",
+      "url": "https://people.com/parents/justin-timberlake-son-silas-bond-over-star-wars-disney-world/",
+      "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B831%2C557%5D&w=1080&h=540&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F05%2F15%2Fjustin-timberlake.jpg",
+      "publishedAt": "2021-05-15T16:45:00Z",
+      "content": "Justin Timberlake has found his inner Jedi, and it appears to run in the family. \r\nThe 10-time Grammy Award winner, 40, and his 6-year-old son Silas ventured to Star Wars: Galaxy's Edge at Walt Disne… [+1827 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Eileen AJ Connelly",
+      "title": "8-month-old from NY is youngest COVID vaccine recipient in the world - New York Post ",
+      "description": "Vincenzo “Enzo” Mincolla got his second shot as part of a clinical trial being conducted by Upstate Medical University.",
+      "url": "https://nypost.com/2021/05/15/8-month-old-becomes-youngest-covid-vaccine-recipient-in-the-world/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/05/covid-pfizer-038.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2021-05-15T16:23:00Z",
+      "content": "An 8-month-old baby boy from upstate Baldwinsville, NY, is the youngest person in the world to receive two doses of the Pfizer COVID-19 vaccine.\r\nVincenzo Enzo Mincolla got his second jab Wednesday a… [+1500 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "NPR"
       },
@@ -17,16 +69,16 @@ news_us = {
     },
     {
       "source": {
-        "id": null,
-        "name": "CBS Sports"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": null,
-      "title": "Preakness Stakes odds, best expert picks 2021: Medina Spirit, Concert Tour, Midnight Bourbon predictions - CBS Sports",
-      "description": "Jody Demling gives his picks for the top 2021 Preakness Stakes horses",
-      "url": "https://www.cbssports.com/general/news/preakness-stakes-odds-best-expert-picks-2021-medina-spirit-concert-tour-midnight-bourbon-predictions/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2018/03/31/912a07b3-8a85-4a43-9ecd-8d4f0faa436b/thumbnail/1200x675/c4a73a886c45332a7525fefd9cdf6457/race.jpg",
-      "publishedAt": "2021-05-15T15:52:00Z",
-      "content": "Four years ago, owners Klaravich Stables, trainer Chad Brown and jockey Javier Castellano teamed up to win the Preakness Stakes with Cloud Computing. Now, the trio is working together at Saturday's 2… [+5758 chars]"
+      "author": "Jordan Valinsky, CNN Business",
+      "title": "Starbucks, Publix and other places loosen mask restrictions for fully vaccinated - CNN ",
+      "description": "Starbucks, Publix and Walt Disney World are the latest companies to change their masking policies Saturday following new guidance from the Centers for Disease Control and Prevention.",
+      "url": "https://www.cnn.com/2021/05/15/business/mask-guidance-stores/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210515110401-restricted-starbucks-california-0121-super-tease.jpg",
+      "publishedAt": "2021-05-15T15:49:00Z",
+      "content": null
     },
     {
       "source": {
@@ -40,6 +92,45 @@ news_us = {
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/106869615-1618586731852-USATSI_12099122.jpg?v=1618586856",
       "publishedAt": "2021-05-15T15:37:57Z",
       "content": "Paulsboro coach Paul Morina cheers on George Worthy as he takes on Bergen Catholic s Wade Unger in the 152-pound bout during a wrestling match at The Palestra in Philadelphia,\r\nThe shareholders of th… [+12667 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Kevin Liptak, CNN",
+      "title": "Multiple crises at home and abroad provide a reality check for Biden's White House - CNN ",
+      "description": "President Joe Biden was at the wooded Camp David retreat in Maryland when he first heard Colonial Pipeline had been hacked.",
+      "url": "https://www.cnn.com/2021/05/15/politics/biden-middle-east-masks-economy-gas-pipeline/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210513155016-02-biden-vaccine-remarks-0513-super-tease.jpg",
+      "publishedAt": "2021-05-15T15:23:00Z",
+      "content": "Washington (CNN)President Joe Biden was at the wooded Camp David retreat in Maryland when he first heard Colonial Pipeline had been hacked. \r\nBriefed in one of the mountainside lodges by senior advis… [+10842 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "IndieWire"
+      },
+      "author": "Anne Thompson",
+      "title": "‘The Woman in the Window’ Marks the End of the Old Hollywood System - IndieWire",
+      "description": "The movie was developed by Elizabeth Gabler's Fox 2000 before the Fox studio was sold to Disney, and produced by then A-lister Scott Rudin.",
+      "url": "https://www.indiewire.com/2021/05/woman-in-the-window-end-hollywood-1234637238/",
+      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2021/01/MCDWOIN_H3001.jpg?w=780",
+      "publishedAt": "2021-05-15T15:17:47Z",
+      "content": "“The Woman in the Window” is many things. But this star-studded, twisty Hitchcockian thriller was never intended to debut on May 14 on Netflix with a 40 Metascore. That was hardly the original plan f… [+9147 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Lakers Fans Recite Lil Wayne's \"Kobe Bryant\" Lyrics Ahead of Hall of Fame Induction - Bleacher Report",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WXgwODRYNENZdWPSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-05-15T15:09:38Z",
+      "content": null
     },
     {
       "source": {
@@ -57,19 +148,6 @@ news_us = {
     {
       "source": {
         "id": null,
-        "name": "MMA Fighting"
-      },
-      "author": "Steven Marrocco",
-      "title": "Beneil Dariush claps back at Tony Ferguson’s ‘d*ck move’ on student: ‘Why would you do that?’ - MMA Fighting",
-      "description": "Dariush fired back at a fired-up Tony Ferguson at the UFC 262 press conference.",
-      "url": "https://www.mmafighting.com/2021/5/15/22435528/beneil-dariush-claps-back-at-tony-fergusons-d-ck-move-on-student-why-would-you-do-that",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/hqmIgjHfEGU42oM9oZ6jz9BGftI=/0x0:5407x2831/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22513698/1317859060.jpg",
-      "publishedAt": "2021-05-15T15:00:00Z",
-      "content": "Tony Ferguson was on fire at the UFC 262 press conference on Thursday, taking aim at every available target on and off the stage in Houston. \r\nFerguson, of course, focused most of his attention on hi… [+2744 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "The Guardian"
       },
       "author": "Victoria Bekiempis",
@@ -79,19 +157,6 @@ news_us = {
       "urlToImage": null,
       "publishedAt": "2021-05-15T14:47:00Z",
       "content": "Barack Obama<ul><li>Weaver interviewed Obama at the White House in 2009</li><li>Sister Candace Hardy says he died of natural causes </li></ul>\r\nSat 15 May 2021 15.47 BST\r\nDamon Weaver, who was 11 whe… [+3104 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ESPN"
-      },
-      "author": null,
-      "title": "Ja'Wuan James considering grievance to recoup potential lost 2021 salary from Denver Broncos, source says - ESPN",
-      "description": "Offensive tackle Ja'Wuan James could seek more than $10 million in salary for the 2021 season that the Broncos appear likely to void after they designated him with a non-football injury.",
-      "url": "https://www.espn.com/nfl/story/_/id/31449350/jawuan-james-considering-grievance-recoup-potential-lost-2021-salary-source-says",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0806%2Fr728264_1296x729_16%2D9.jpg",
-      "publishedAt": "2021-05-15T14:41:44Z",
-      "content": "Former Denver Broncos offensive tackle Ja'Wuan James is strongly considering filing a grievance through the NFL Players Association for lost wages after he tore his Achilles tendon away from the team… [+2139 chars]"
     },
     {
       "source": {
@@ -122,41 +187,28 @@ news_us = {
     {
       "source": {
         "id": null,
-        "name": "PEOPLE"
+        "name": "New York Times"
       },
-      "author": "Ally Mauch",
-      "title": "Natalia Bryant Wears Late Dad Kobe Bryant's Hall of Fame Jacket Ahead of Induction Ceremony - Yahoo Entertainment",
-      "description": "Kobe Bryant will be posthumously inducted into the Naismith Memorial Basketball Hall of Fame this weekend",
-      "url": "https://people.com/sports/natalia-bryant-wears-late-dad-kobe-bryant-hall-of-fame-jacket/",
-      "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B920%2C26%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F05%2F15%2Fvanessa-bryant-1.jpg",
-      "publishedAt": "2021-05-15T14:30:00Z",
-      "content": "Natalia Bryant honored her late father Kobe Bryant in a special way ahead of this weekend's 2020 Naismith Memorial Basketball Hall of Fame induction ceremony\r\nKobe, who died in a tragic helicopter cr… [+2400 chars]"
+      "author": "Michael Crowley",
+      "title": "Violence in Israel Shakes Trump's Boast of 'New Middle East' - The New York Times",
+      "description": "Trump officials said the Abraham Accords between Israel and four Arab states would transform the region, but new Israeli-Palestinian clashes lay bare the limits of that change.",
+      "url": "https://www.nytimes.com/2021/05/15/us/politics/israel-trump-abraham-accords.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/05/16/us/politics/16dc-accords-1/merlin_177071646_c0564d45-6e0f-44c1-8f20-6309be8dfd16-facebookJumbo.jpg",
+      "publishedAt": "2021-05-15T14:23:39Z",
+      "content": "To the contrary, the agreement, which expanded trade and partly or fully normalized diplomatic ties between Israel and the four Arab states, instead amounted to a rebuke of the Palestinians by demons… [+1631 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Slate Magazine"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Daniel Politi",
-      "title": "Rep. Gaetz Reportedly Snorted Cocaine With Escort After He Was Speaker at Pro-Trump Event - Slate",
-      "description": "Word of the 2019 party came as Gaetz's longtime wingman, Joel Greenberg, signed a plea agreement and vowed to cooperate in the ongoing investigation.",
-      "url": "https://slate.com/news-and-politics/2021/05/matt-gaetz-snorted-cocaine-escort-joel-greenberg.html",
-      "urlToImage": "https://compote.slate.com/images/c3454f7c-b39a-43c3-be65-7cf86ba1f4ca.jpeg?width=780&height=520&rect=3000x2000&offset=0x0",
-      "publishedAt": "2021-05-15T13:59:00Z",
-      "content": "A new explosive report gives salacious details about how Rep. Matt Gaetz allegedly used his office and power. The Daily Beast says witnesses claim the Florida lawmaker snorted cocaine with an escort … [+2699 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Joey Roulette",
-      "title": "Rocket Lab’s Electron rocket suffers failure, loses payload of two satellites - The Verge",
-      "description": "Rocket Lab’s Electron rocket failed to reach orbit after suffering an unexpected engine shutdown mid-flight on on May 15th, the company said.",
-      "url": "https://www.theverge.com/2021/5/15/22437615/rocket-labs-electron-rocket-suffers-failure-loses-payload-two-satellites",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/1z7OrgwcUJkwE5kYp_g3HQ2zo_A=/0x0:1578x826/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22516627/Screen_Shot_2021_05_15_at_9.42.00_AM.png",
-      "publishedAt": "2021-05-15T13:52:38Z",
-      "content": "Electrons second stage booster unexpectedly shut down shortly after igniting\r\nRocket Labs Electron rocket launches from New Zealand on Saturday, as seen on the companys live video feed.\r\nRocket Lab\r\n… [+2649 chars]"
+      "author": "Antonia Noori Farzan",
+      "title": "China lands rover on Mars in ‘milestone’ achievement - The Washington Post",
+      "description": "China's space program joins NASA as the only nations to have rovers on the Red Planet.",
+      "url": "https://www.washingtonpost.com/world/2021/05/15/china-mars-rover/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HOKAESVVOMI6XPEW7X2V3ZB354.jpg&w=1440",
+      "publishedAt": "2021-05-15T14:22:00Z",
+      "content": "The Tianwen-1 spacecraft, launched from the Chinese province of Hainan in July, has been orbiting Mars since February while looking for potential landing sites. Early Saturday, it released an entry c… [+2281 chars]"
     },
     {
       "source": {
@@ -186,16 +238,16 @@ news_us = {
     },
     {
       "source": {
-        "id": null,
-        "name": "TMZ"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "TMZ Staff",
-      "title": "Joe Exotic Says He Has Prostate Cancer - TMZ",
-      "description": "Joe Exotic claims to have prostate cancer.",
-      "url": "https://www.tmz.com/2021/05/15/joe-exotic-prostate-cancer-prison-pardon/",
-      "urlToImage": "https://imagez.tmz.com/image/14/16by9/2021/05/15/14b224bb4a154af7a47e50063447612d_xl.jpg",
-      "publishedAt": "2021-05-15T13:11:00Z",
-      "content": "Joe Exotic believes he may have prostate cancer, among many other ailments, and he's begging President Biden, Vice President Harris and others to step in and help.\r\nJoe says his PSA count came back v… [+980 chars]"
+      "author": "Curt Popejoy",
+      "title": "Steelers QB Ben Roethlisberger taking his offensive rookies out to dinner - Steelers Wire",
+      "description": "Ben Roethlisberger reaching out to his rookies already.",
+      "url": "https://steelerswire.usatoday.com/2021/05/15/steelers-ben-roethlisberger-najee-harris-pat-freiermuth-nfl-draft-rookies/",
+      "urlToImage": "https://steelerswire.usatoday.com/wp-content/uploads/sites/76/2021/01/aea1c0b1b9004a97ba518db52d012848-1.jpg?w=1024&h=576&crop=1",
+      "publishedAt": "2021-05-15T13:10:52Z",
+      "content": "Actually, Steelers QB Ben Roethlisberger invited all four offensive rookies over for dinner at his home tomorrow Najee Harris, Pat Freiermuth, Kendrick Green and Dan Moore Jr.\r\n— Mark Kaboly (@MarkKa… [+759 chars]"
     },
     {
       "source": {
@@ -209,58 +261,6 @@ news_us = {
       "urlToImage": "https://compote.slate.com/images/648e8702-dfd6-491d-acf8-a1d6e7d950e5.jpeg?width=780&height=520&rect=4032x2688&offset=0x288",
       "publishedAt": "2021-05-15T12:52:00Z",
       "content": "Its starting. A day after the Centers for Disease Control and Prevention issued new guidelines saying fully vaccinated people can go without masks in most places, some stores dropped their mask requi… [+2722 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Dr. Sanjay Gupta, CNN Chief Medical Correspondent",
-      "title": "Dr. Sanjay Gupta: 'Race for the Vaccine' - CNN ",
-      "description": "In the United States, the finish line for the pandemic as we've been experiencing it for the past year-plus is very much in sight -- so much so that the US Centers for Disease Control and Prevention essentially said so on Thursday: Fully vaccinated people no …",
-      "url": "https://www.cnn.com/2021/05/15/health/race-for-the-vaccine-coronavirus-gupta/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210513101403-race-for-the-vaccine-cnn-films-00001701-super-tease.png",
-      "publishedAt": "2021-05-15T12:50:00Z",
-      "content": "Programming note: CNN Films' \"Race for the Vaccine,\" produced and narrated by Chief Medical Correspondent Dr. Sanjay Gupta, traces the world-changing discoveries of the vaccines against Covid-19. Wat… [+10594 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "author": "Jacob Passy",
-      "title": "Walt Disney World stops requiring visitors to wear face masks outdoors - MarketWatch",
-      "description": "Other theme parks, including Universal Orlando Resort, have also instituted changes to their COVID-19 policies regarding face masks",
-      "url": "https://www.marketwatch.com/story/walt-disney-world-stops-requiring-visitors-to-wear-face-masks-outdoors-11621081693",
-      "urlToImage": "https://images.mktw.net/im-321380/social",
-      "publishedAt": "2021-05-15T12:28:00Z",
-      "content": "Starting Saturday, families can walk right down the middle of Main Street, U.S.A. at Walt Disney Worlds Magic Kingdom without wearing a face mask.Disney \r\n DIS,\r\n -2.60%\r\n announced late Friday that … [+5132 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Reuters",
-      "title": "Italian study shows COVID-19 infections, deaths plummeting after jabs - Reuters",
-      "description": "COVID-19 infections in adults of all ages fell by 80% five weeks after a first dose of Pfizer (PFE.N), Moderna (MRNA.O) or AstraZeneca (AZN.L) vaccine, according to Italian research published on Saturday.",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/italian-study-shows-covid-19-infections-deaths-plummeting-after-jabs-2021-05-15/",
-      "urlToImage": "https://www.reuters.com/resizer/JyB5H532w3n9CYANZDv4mTfjTrM=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/VTL2UVZ2SJIMNHUG6NR2CG3MDM.jpg",
-      "publishedAt": "2021-05-15T12:24:00Z",
-      "content": "A health worker administers the Pfizer-BioNTech COVID-19 vaccine at a coronavirus disease (COVID-19) vaccination centre in Naples, Italy, January 8, 2021. REUTERS/Ciro De LucaCOVID-19 infections in a… [+1817 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": null,
-      "title": "When Will US Send Vaccines to India? It May Not Have the Doses - Bloomberg",
-      "description": null,
-      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a8a28c10-b59d-11eb-a01f-5dde0539f2c6&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wNS0xNS93aGVuLXdpbGwtdS1zLXNlbmQtdmFjY2luZXMtdG8taW5kaWEtaXQtbWF5LW5vdC1oYXZlLXRoZS1kb3Nlcw==",
-      "urlToImage": null,
-      "publishedAt": "2021-05-15T12:00:21Z",
-      "content": "To continue, please click the box below to let us know you're not a robot."
     }
   ]
 }

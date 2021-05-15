@@ -2,13 +2,13 @@ import requests
 import json
 import app_config
 
-a = app_config.telegram_bot_token
-b = app_config.telegra_chat_id
-c = 'John Doe'
-d = 'johndoe@company.com'
-e = 'test message'
+token = app_config.telegram_bot_token
+chat_id = app_config.telegra_chat_id
+a = 'John Doe'
+b = 'johndoe@company.com'
+c = 'test message'
 
-def ForecastFetch(token, chat_id, name, email, msg):	
+def ForecastFetch(name, email, msg):	
 	# telegram api
 	query_params = {
 	'chat_id': chat_id,
@@ -23,5 +23,5 @@ def ForecastFetch(token, chat_id, name, email, msg):
 
 # Driver Code
 if __name__ == '__main__':
-	# function call
-	ForecastFetch(a, b, c, d, e)
+	# function call (name, email, message)
+	ForecastFetch(a, b, c)

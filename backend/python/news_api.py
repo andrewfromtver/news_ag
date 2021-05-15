@@ -2,9 +2,9 @@ import requests
 import json
 import app_config
 
-a = app_config.news_api_key
+token = app_config.news_api_key
 
-def NewsFetch(token):	
+def NewsFetch():	
 	# RU news api (country and apiKey)
 	query_params = {
 	"country": "ru",
@@ -104,4 +104,4 @@ def NewsFetch(token):
 # Driver Code
 if __name__ == '__main__':
 	# function call
-	NewsFetch(a)
+	NewsFetch()
