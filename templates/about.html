@@ -9,16 +9,7 @@
         let name = document.querySelector('.name').value
         let email = document.querySelector('.email').value
         if (msg && name && email) {
-            fetch('https://api.telegram.org/bot' + telegram_bot_token + '/' +
-                'sendMessage?chat_id=' + telegram_chat_id + '&text=' +
-                    'Заявка с landing page: ' +
-                    `Имя => ${name} ` +
-                    `Адрес эл. почты => ${email} ` +
-                    `Сообщение => ${msg}`)
-            document.body.style.overflow = "hidden"
-            document.querySelector('.msg').value = ""
-            document.querySelector('.name').value = ""
-            document.querySelector('.email').value = ""
+            // websocket => serverside reques to telegram api
             setTimeout(leftFirst, 50)
             setTimeout(leftSecond, 100)
             setTimeout(() => {document.getElementById('contacts').remove()}, 200)
