@@ -5,262 +5,262 @@ news_gb = {
     {
       "source": {
         "id": null,
-        "name": "Telegraph.co.uk"
+        "name": "Express"
       },
-      "author": null,
-      "title": "Coronavirus latest news: Indian variant only severely affects the unvaccinated, says Government advisor - Telegraph.co.uk",
-      "description": "Coronavirus vaccines are &quot;almost certainly less effective&quot; at reducing transmission of the Indian variant, the deputy chair of the Joint Committee on Vaccination and Immunisation (JCVI) has said.",
-      "url": "https://www.telegraph.co.uk/global-health/science-and-disease/coronavirus-news-covid-india-variant-uk-vaccine-cases-lockdown/",
-      "urlToImage": "https://img.youtube.com/vi/B597e8gRrX8/maxresdefault.jpg",
-      "publishedAt": "2021-05-15T08:35:46Z",
-      "content": "Health minister Edward Argar said the Government was acting \"coolly\" and \"calmly\" as it presses ahead with coronavirus restriction easing on Monday, despite rising cases of the Indian variant.\r\nRefer… [+821 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Getting Ready For The FA Cup Final, Kante & Kovacic Train Ahead Of Leicester Clash | Chelsea Unseen - Chelsea Football Club",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TlRPcTZyakhmcnPSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2021-05-15T08:00:14Z",
+      "author": "Katie Sewell",
+      "title": "What you CAN'T do from May 17 - all the things still banned - Express",
+      "description": "LOCKDOWN rules affecting hospitality and indoor gatherings are due to change from May 17, but a number of things will still be banned until lockdown finally ends. Here are the things you still cannot do from May 17.",
+      "url": "https://www.express.co.uk/news/uk/1436644/what-you-cant-do-from-may-17-new-lockdown-rules-evg",
+      "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/1/750x445/1436644.jpg",
+      "publishedAt": "2021-05-15T15:37:00Z",
       "content": null
     },
     {
       "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Virginia Pietromarchi",
-      "title": "Palestinian death toll in Gaza, occupied West Bank mounts: Live - Al Jazeera English",
-      "description": "Number of people killed by Israeli bombardment on Gaza rises to 139; 13 killed by Israeli forces in occupied West Bank.",
-      "url": "https://www.aljazeera.com/news/2021/5/15/palestinian-death-toll-in-gaza-occupied-west-bank-mounts-live-news",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/05/h_56893991-1.jpg?resize=1200%2C630",
-      "publishedAt": "2021-05-15T07:39:04Z",
-      "content": "Israels bombardment of the Gaza Strip continued for a fifth consecutive day, with Israeli air raids hitting a refugee camp where at least 10 Palestinians, including eight children, were killed.\r\nIn t… [+6080 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Leeds Live"
+        "name": "Liverpool Echo"
       },
-      "author": "Mellissa Dzinzi",
-      "title": "Live updates amid reports '120 tonne section of Leeds bridge collapses from crane' in Regent Street - Leeds Live",
-      "description": "A reporter is on the way to the scene",
-      "url": "https://www.leeds-live.co.uk/news/leeds-news/live-updates-120-tonne-section-20604103",
-      "urlToImage": "https://i2-prod.leeds-live.co.uk/incoming/article20604104.ece/ALTERNATES/s1200/0_bridge2.jpg",
-      "publishedAt": "2021-05-15T07:08:15Z",
-      "content": "A huge section of an A64 bridge replacement in Leeds has come crashing to the ground from from a crane last night.\r\nIt happened on Regent Street near Leeds City Colleges Quarry Hill campus.\r\nThe A64 … [+627 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Sarah Butler",
-      "title": "Debenhams bows out after 200 years leaving town centres counting the cost - The Guardian",
-      "description": "Venerable department store chain closes its doors as other retailers struggle to survive on the high street<br>",
-      "url": "https://amp.theguardian.com/business/2021/may/15/debenhams-bows-out-after-200-years-leaving-town-centres-counting-the-cost",
-      "urlToImage": null,
-      "publishedAt": "2021-05-15T07:00:00Z",
-      "content": "Retail industryVenerable department store chain closes its doors as other retailers struggle to survive on the high street\r\nThere were queues of bargain hunters at the tills at Debenhams in Sheffield… [+8554 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Teamtalk.com"
-      },
-      "author": "Jonny Whitfield",
-      "title": "Carragher scolds moaning Man Utd with harsh Liverpool comparison - Teamtalk.com",
-      "description": "Jamie Carragher says that injury to Manchester United captain Harry Maguire only scratches the surface in comparison with Liverpool's misery this season.",
-      "url": "https://www.teamtalk.com/news/carragher-scolds-man-utd-liverpool-comparison",
-      "urlToImage": "https://d3vlf99qeg6bpx.cloudfront.net/content/uploads/2021/02/09071127/Jamie.Carragher1.jpg",
-      "publishedAt": "2021-05-15T06:52:54Z",
-      "content": "Jamie Carragher says that injury to Manchester United captain Harry Maguire only scratches the surface in comparison with Liverpool’s misery this season.\r\nUnited are hoping that their star centre-bac… [+2660 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Guardian staff reporter",
-      "title": "‘Athletes need a decision’: Roger Federer in two minds about Tokyo Olympics - The Guardian",
-      "description": "The Swiss tennis great has called on organisers to end the uncertainty around the Games amid Covid-19",
-      "url": "https://amp.theguardian.com/sport/2021/may/15/athletes-need-a-decision-roger-federer-in-two-minds-about-tokyo-olympics",
-      "urlToImage": null,
-      "publishedAt": "2021-05-15T06:29:00Z",
-      "content": "Roger Federer<ul><li>Tennis great has called on Games organisers to end uncertainty</li><li>Still to decide if he will represent Switzerland amid Covid-19</li></ul>\r\nSat 15 May 2021 02.29 EDT\r\nTennis… [+2911 chars]"
+      "author": "Ian Doyle",
+      "title": "'Trent has to go' - Liverpool defender sparks strong reaction after Manchester United win - Liverpool Echo",
+      "description": "Liverpool defender Trent Alexander-Arnold has been compared to Cafu, Roberto Carlos and Philipp Lahm after Manchester United display",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/trent-liverpool-manchester-united-defender-20605753",
+      "urlToImage": "https://i2-prod.liverpoolecho.co.uk/incoming/article20605940.ece/ALTERNATES/s1200/1_Social-Dimensions.jpg",
+      "publishedAt": "2021-05-15T15:30:00Z",
+      "content": "Gareth Southgate has been told he must take Trent Alexander-Arnold to Euro 2020 next month - as the Liverpool defender was compared to a trio of right-back legends.\r\n With England boss Southgate watc… [+1740 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Mirror Online"
       },
-      "author": "Milo Boyd",
-      "title": "School teacher in tears after £9,000 home deposit lost in ‘Elon Musk’ Bitcoin scam - Mirror Online",
-      "description": "Julie Bushnell thought she was going to double her money, only to lose all of her house deposit after falling for a Bitcoin scam that featured a fake BBC web page and Elon Musk",
-      "url": "https://www.mirror.co.uk/news/uk-news/school-teacher-tears-after-9000-24114069",
-      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article24114073.ece/ALTERNATES/s1200/0_Julie-Bushnell.jpg",
-      "publishedAt": "2021-05-15T05:54:12Z",
-      "content": "A heartbroken teacher says she was conned out of £9,000 for her house deposit in a Bitcoin fraud using Elon Musk's name to draw her in.\r\nJulie Bushnell was devastated after realising she had fallen f… [+1997 chars]"
+      "author": "Alex Richards",
+      "title": "Chelsea and Leicester fans flock to Wembley with 21,000 in attendance for FA Cup Final - Mirror Online",
+      "description": "Supporters of Leicester City and Chelsea have flocked to Wembley stadium for the biggest UK crowd since lockdown at the showpiece event for English Football",
+      "url": "https://www.mirror.co.uk/sport/football/news/chelsea-leicester-fa-cup-final-24116721",
+      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article24116725.ece/ALTERNATES/s1200/1_Chelsea-v-Leicester-City-The-Emirates-FA-Cup-Final.jpg",
+      "publishedAt": "2021-05-15T15:12:47Z",
+      "content": "Its not quite how it was, but the FA Cup final between Leicester City and Chelsea heralds English footballs next step back to normality for fans. \r\nOver 20,000 have flocked to Wembley for Saturdays s… [+3142 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Guardian"
+        "name": "Telegraph.co.uk"
       },
-      "author": "Guardian staff reporter",
-      "title": "China tornadoes kill 10, injure hundreds - The Guardian",
-      "description": "State media says at least six people died in the inland city of Wuhan, where Covid-19 first emerged in late 2019",
-      "url": "https://amp.theguardian.com/world/2021/may/15/china-tornadoes-kill-10-injure-hundreds",
-      "urlToImage": "https://i.guim.co.uk/img/media/5830f02a495cc438e2e0b3f5303c36935cd3b323/0_13_3000_1801/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=86a84da37cbc5288595033b5c5753e20",
-      "publishedAt": "2021-05-15T05:27:00Z",
-      "content": "Back-to-back tornadoes killed at least 10 people in central and eastern China and left more than 300 others injured, officials and state media have reported.\r\nSix people died in the inland city of Wu… [+1328 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Express"
-      },
-      "author": "Manon Dark",
-      "title": "Channel crossings: Nigel Farage predicts 20,000 illegal migrants will make journey in 2021 - Express",
-      "description": "NIGEL FARAGE has predicted that 20,000 migrants will cross the English Channel in 2021, a huge jump from last year's figures.",
-      "url": "https://www.express.co.uk/news/uk/1436455/Channel-crossings-nigel-farage-news-English-illegal-migrants-youtube-latest-ont",
-      "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/1/750x445/1436455.jpg",
-      "publishedAt": "2021-05-15T04:28:00Z",
-      "content": null
+      "author": "By\nBen Woods",
+      "title": "BBC rival GB News to start broadcasting 'within weeks' - Telegraph.co.uk",
+      "description": "The Telegraph can reveal that the right-leaning news network - spearheaded by veteran broadcaster Andrew Neil - goes live on May 31",
+      "url": "https://www.telegraph.co.uk/business/2021/05/15/bbc-rival-gb-news-start-broadcasting-within-weeks/",
+      "urlToImage": "https://www.telegraph.co.uk/content/dam/business/2021/05/15/TELEMMGLPICT000240353849_trans_NvBQzQNjv4BqunY1sziGHmdPsYyxGkikEkD48ILUzHxV-lmTJd84xRQ.jpeg?impolicy=logo-overlay",
+      "publishedAt": "2021-05-15T15:00:00Z",
+      "content": "GB News will begin its challenge to the BBC from the end of this month when the news network launches its TV channel.\r\nTV platforms are gearing up for the 24-hour news channel to go live on May 31st,… [+2167 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Daily Record"
       },
-      "author": "Vivienne Aitken, Paul Hutcheon",
-      "title": "Scots in hospital with Indian variant despite being vaccinated against Covid - Daily Record",
-      "description": "There are believed to be six patients – who have had the vaccine – currently being treated for complications suspected to be related to the variant.",
-      "url": "https://www.dailyrecord.co.uk/news/politics/scots-hospital-indian-variant-despite-24113860",
-      "urlToImage": "https://i2-prod.dailyrecord.co.uk/news/scottish-news/article24113888.ece/ALTERNATES/s1200/1_JS227554423.jpg",
-      "publishedAt": "2021-05-15T03:30:00Z",
-      "content": "People in Scotland who have already been vaccinated against coronavirus are being treated in hospital for the new Indian variant. \r\n This was one of the driving factors for the Scottish Government de… [+5354 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-times",
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "China lands spacecraft on Mars - Financial Times",
-      "description": "Beijing describes the mission as the country’s first step in its ‘planetary exploration of the solar system’",
-      "url": "https://www.ft.com/content/9dc0a641-fa34-4185-8d8f-a52764e9cfc3",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdcf59d9d-3b6a-4d24-8aad-6d5808aa6c84.jpg?source=next-opengraph&fit=scale-down&width=900",
-      "publishedAt": "2021-05-15T02:50:10Z",
-      "content": "China has landed a spacecraft containing a rover on Mars, according to state media, in a further sign of its bold ambitions in the sphere.\r\nThe rover was part of the Tianwen-1 unmanned mission launch… [+1824 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Biden revokes Trump order to punish statue vandals - BBC News",
-      "description": "Also scrapped is a Trump plan for a sculpture garden to US heroes, such as Whitney Houston.",
-      "url": "https://www.bbc.co.uk/news/world-us-canada-57124887",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E789/production/_112837295_061899500-1.jpg",
-      "publishedAt": "2021-05-15T01:46:04Z",
-      "content": "image copyrightGetty Images\r\nimage captionChristopher Columbus is celebrated by some, and reviled by others in the US\r\nPresident Joe Biden has revoked a string of proclamations by Donald Trump, inclu… [+2138 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sky.com"
-      },
-      "author": "David Mercer, news reporter",
-      "title": "Mass brawls, dog attacks and sex offences: Police reveal crimes reported at weddings across UK - Sky News",
-      "description": "One police force was contacted about a wedding photograph that attracted hundreds of negative comments on social media.",
-      "url": "https://news.sky.com/story/mass-brawls-dog-attacks-and-sex-offences-police-reveal-crimes-reported-at-weddings-across-uk-12302884",
-      "urlToImage": "https://e3.365dm.com/21/05/1600x900/skynews-wedding-cake_5379125.jpg?20210512160344",
-      "publishedAt": "2021-05-15T01:10:10Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "UK troops seize IS weapons in Mali operation - BBC News",
-      "description": "A UK task force arrived in the West African country last year as part of a UN peacekeeping mission.",
-      "url": "https://www.bbc.co.uk/news/uk-57123896",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/127E6/production/_118505757_microsoftteams-image-4.png",
-      "publishedAt": "2021-05-15T00:30:38Z",
-      "content": "By Hazel ShearingBBC News\r\nAK47 rifles and hundreds of rounds of ammunition are among a cache of suspected Islamic State weapons that have been seized by UK troops in Mali. \r\nAround 100 soldiers took… [+1952 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Ferran Torres: Could Man City forward be replacement for Sergio Aguero up front? - BBC Sport",
-      "description": "The pursuit of a striker was expected to be a focus for Manchester City this summer, but do they already have the answer in Ferran Torres?",
-      "url": "https://www.bbc.co.uk/sport/football/57124687",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/7D3D/production/_118516023_ferrantorres.jpg",
-      "publishedAt": "2021-05-14T23:22:02Z",
-      "content": "Ferran Torres joined Manchester City for £20.87m from Valencia in August 2020\r\nManchester City's search for a striker was supposed to be the big transfer story of the coming summer, as the Premier Le… [+4663 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Telegraph.co.uk"
-      },
-      "author": "By\nOliver Gill",
-      "title": "Waterloo & City line to reopen after 14 months - The Telegraph",
-      "description": "The line, which carries 15m passengers annually, will reopen on June 21",
-      "url": "https://www.telegraph.co.uk/business/2021/05/14/waterloo-city-line-reopen-14-months/",
-      "urlToImage": "https://www.telegraph.co.uk/content/dam/business/2020/03/02/TELEMMGLPICT000226554441_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7FAR-Mr95yUA9tz5mE9Efrw.jpeg?impolicy=logo-overlay",
-      "publishedAt": "2021-05-14T23:01:00Z",
-      "content": "London Underground is gearing up for the return of thousands of City workers by reopening of The Drain between Waterloo and Bank stations.\r\nThe Waterloo &amp; City line, which has been shut for 14 mo… [+789 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mirror Online"
-      },
-      "author": "Mark Jefferies",
-      "title": "Piers Morgan returns to ITV to interview Labour leader Keir Starmer after quitting GMB - Mirror Online",
-      "description": "EXCLUSIVE: Former Good Morning Britain host Piers Morgan quit the series following a row about Prince Harry and Meghan Markle",
-      "url": "https://www.mirror.co.uk/3am/celebrity-news/piers-morgan-returns-itv-interview-24113006",
-      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article24110626.ece/ALTERNATES/s1200/0_MAP_CHP_140521-Piers_25188-Piers.jpg",
-      "publishedAt": "2021-05-14T23:00:00Z",
-      "content": "Two months after forcing him to quit Good Morning Britain, ITV is welcoming back Piers Morgan, who will interview Labour leader Keir Starmer in an episode of his Life Stories. \r\n ITV boss Kevin Lygo … [+1970 chars]"
+      "author": "Jon Hebditch",
+      "title": "Hundreds of Rangers fans descend on George Square amid title celebrations with large police presence - Daily Record",
+      "description": "Pictures from the city centre show massive crowds with flags and smoke bombs being let off into the air.",
+      "url": "https://www.dailyrecord.co.uk/news/scottish-news/hundreds-rangers-fans-descend-george-24116563",
+      "urlToImage": "https://i2-prod.dailyrecord.co.uk/incoming/article24116567.ece/ALTERNATES/s1200/1_Screenshot-2021-05-15-at-154050pngHu.png",
+      "publishedAt": "2021-05-15T14:59:58Z",
+      "content": "Hundreds of jubilant Rangers fans have descended on Glasgow's George Square as they celebrate their first premier league triumph in 10 years. \r\n Pictures from the city centre show massive crowds with… [+2491 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "The Guardian"
       },
-      "author": "David Smith, Martin Pengelly",
-      "title": "Matt Gaetz scandal deepens as associate admits paying 17-year-old for sex - The Guardian",
-      "description": "Joel Greenberg expected to plead guilty to federal charges and could be key witness if congressman faces trial",
-      "url": "https://amp.theguardian.com/us-news/2021/may/14/matt-gaetz-scandal-joel-greenberg-sex-trafficking",
-      "urlToImage": "https://i.guim.co.uk/img/media/b1ac694e5223f77324031a5b1293261b79404e12/0_94_4920_2952/master/4920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=10279b673490e2503db234833557ec78",
-      "publishedAt": "2021-05-14T21:34:00Z",
-      "content": "The scandal engulfing Matt Gaetz, one of Donald Trumps brashest supporters in Congress, deepened on Friday after an associate admitted sex trafficking involving a minor and agreed to cooperate with i… [+4678 chars]"
+      "author": "Nicola Slawson",
+      "title": "David Miliband’s charity offers unpaid internships but he took home over £700,000 - The Guardian",
+      "description": "Former MP who runs International Rescue Committee is criticised over adverts for full-time roles",
+      "url": "https://amp.theguardian.com/politics/2021/may/15/david-miliband-charity-unpaid-internships-international-rescue-committee",
+      "urlToImage": "https://i.guim.co.uk/img/media/0adc1c80e6c1233142e5f22eb8b1da122be70385/0_136_2585_1550/master/2585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=37a047eda4f9f2233efa6368193e03a1",
+      "publishedAt": "2021-05-15T14:49:00Z",
+      "content": "The former Labour MP David Miliband is facing criticism after it emerged that the charity he runs, for which he was paid more than £700,000, is offering unpaid internships at its headquarters in New … [+2384 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Sun"
+        "name": "LancsLive"
       },
-      "author": "James Somper",
-      "title": "Humans could breathe through their bottoms in the future like pigs, scientists claim... - The Sun",
-      "description": "",
-      "url": "https://www.thesun.co.uk/tech/14962411/humans-breathe-through-bottoms-scientists/",
-      "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2021/05/TM-comp-Pig-v2.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
-      "publishedAt": "2021-05-14T21:31:00Z",
-      "content": "HUMANS could breathe through their bottoms in future and thats not a load of old guff.\r\nTests found pigs and rodents can use intestines to pump oxygen through the rectum.\r\nScientists say humans could… [+1243 chars]"
+      "author": "Alex James",
+      "title": "Dyche & Bielsa on incident that prompted ref chat with Burnley and Leeds United managers - Lancs Live",
+      "description": "Flashpoint occurred after clash between Ezgjan Alioski and Dwight McNeil",
+      "url": "https://www.lancs.live/sport/football/football-news/burnley-leeds-united-alioski-dyche-20606189",
+      "urlToImage": "https://i2-prod.lancs.live/sport/football/article20606181.ece/ALTERNATES/s1200/0_GettyImages-1232900986.jpg",
+      "publishedAt": "2021-05-15T14:37:35Z",
+      "content": "Sean Dyche confirmed one of his players has made a report to referee Graham Scott during Burnley's Premier League defeat to Leeds United that will be investigated by the Football Association. \r\nThe C… [+1218 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky.com"
+      },
+      "author": "Sky",
+      "title": "Santander 'working to fix' problems with app, ATMs, cards and other services - Sky News",
+      "description": "Santander told customers they can \"access cash from other banks' ATMs, at the Post Office and can get cashback where available\".",
+      "url": "https://news.sky.com/story/santander-working-to-fix-problems-with-app-atms-cards-and-other-services-12307085",
+      "urlToImage": "https://e3.365dm.com/20/12/1600x900/skynews-santander-cardiff_5215007.jpg?20201221164118",
+      "publishedAt": "2021-05-15T14:35:28Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Telegraph.co.uk"
+      },
+      "author": "By\nJennifer Rigby,",
+      "title": "Pfizer and Moderna jabs may help guard against next coronavirus pandemic - Telegraph.co.uk",
+      "description": "The research suggests we have the vaccines not only for this pandemic but for \"its relatives coming around the curve\", experts said",
+      "url": "https://www.telegraph.co.uk/global-health/science-and-disease/pfizer-moderna-jabs-may-help-guard-against-next-coronavirus/",
+      "urlToImage": "https://www.telegraph.co.uk/content/dam/global-health/2021/05/14/TELEMMGLPICT000258430185_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay",
+      "publishedAt": "2021-05-15T14:30:49Z",
+      "content": "The team at Duke Human Vaccine Institute, led by Professor Kevin Saunders, also tested a new vaccine they have developed. It is a protein nanoparticle vaccine, which works slightly differently to the… [+2713 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Four injured and 17 held after London Luton Airport fight - BBC News",
+      "description": "Luton Airport bosses say they are shocked by the disorder in the airport's main departure lounge.",
+      "url": "https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57127034",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13EC7/production/_104970618_lutonairportoutside.jpg",
+      "publishedAt": "2021-05-15T14:29:01Z",
+      "content": "media captionFootage of the disorder was caught on camera\r\nFour people were injured and 17 people were arrested after a fight broke out at Luton Airport.\r\nBedfordshire Police said the incident happen… [+697 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wales Online"
+      },
+      "author": "John Cooper, Ryan O'Neill",
+      "title": "The sad scenes at Debenhams in Wales as they close for the last time - Wales Online",
+      "description": "The retailer will close all of its remaining 28 UK stores on Saturday after 243 years on the high street",
+      "url": "https://www.walesonline.co.uk/whats-on/shopping/sad-scenes-debenhams-wales-close-20605290",
+      "urlToImage": "https://i2-prod.walesonline.co.uk/incoming/article20605378.ece/ALTERNATES/s1200/0_JCR_WOL_15052021_DebenhamsCardiffClosing.jpg",
+      "publishedAt": "2021-05-15T13:26:10Z",
+      "content": "This was the scene at two of Wales' largest department stores as they prepared to close their doors for the final time.\r\n The Debenhams stores in St David's Shopping Centre in Cardiff and The Quadran… [+3065 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Gaza tower housing Al Jazeera office destroyed by Israeli attack - Al Jazeera English",
+      "description": "Israel warned residents of building, which also housed AP and residential flats, to evacuate an hour before air raid.",
+      "url": "https://www.aljazeera.com/news/2021/5/15/building-housing-al-jazeeera-office-in-gaza-hit-by-israeli-strike",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/05/2021-05-15T124902Z_1077725058_RC2CGN9CEFR4_RTRMADP_3_ISRAEL-PALESTINIANS-TOWER-MEDIA.jpg?resize=1200%2C630",
+      "publishedAt": "2021-05-15T13:18:45Z",
+      "content": "A building that housed international media offices including Al Jazeeras in the Gaza Strip has been hit by an Israeli air raid that demolished the structure.\r\nIt was not immediately clear if there we… [+2201 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Express"
+      },
+      "author": "Oli Smith",
+      "title": "Thousands storm Israel border in revolt - Gaza violence threatens to spread in Middle East - Daily Express",
+      "description": "THE ongoing violence in Gaza is threatening to spill over into the wider Middle East as thousands of protesters head to the Israeli border.",
+      "url": "https://www.express.co.uk/news/world/1436584/Israel-Gaza-border-violence-Middle-East-Jordan-Palestine-Lebanon-latest-news-vn",
+      "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/78/750x445/1436584.jpg",
+      "publishedAt": "2021-05-15T13:10:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Martin Pengelly",
+      "title": "Joe Biden’s Venmo account discovered in ‘less than 10 minutes’ – report - The Guardian",
+      "description": "Payment app accounts for Joe and Jill Biden removed after BuzzFeed News said it easily discovered them",
+      "url": "https://amp.theguardian.com/us-news/2021/may/15/biden-venmo-account-buzzfeed-news-national-security",
+      "urlToImage": null,
+      "publishedAt": "2021-05-15T12:48:00Z",
+      "content": "Joe Biden<ul><li>Joe and Jill Biden accounts removed after BuzzFeed discovery</li><li>Website says app revelation raises national security questions</li></ul>\r\nVenmo accounts for Joe Biden and Dr Jil… [+3512 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Swindon Advertiser"
+      },
+      "author": "Hedi Mehrez",
+      "title": "Does Swindon have cases of the Indian variant? - Swindon Advertiser",
+      "description": "A SMALL number of cases of the Indian variant of Covid-19 have been seen in Swindon, the town’s health boss has said.",
+      "url": "https://www.swindonadvertiser.co.uk/news/19305743.swindon-cases-indian-variant/",
+      "urlToImage": "https://www.swindonadvertiser.co.uk/resources/images/12610054/",
+      "publishedAt": "2021-05-15T12:36:30Z",
+      "content": "A SMALL number of cases of the Indian variant of Covid-19 have been seen in Swindon, the town’s health boss has said.   \r\nDirector of public health Steve Maddern confirmed yesterday a few cases of th… [+2195 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mirror Online"
+      },
+      "author": "Luke Traynor",
+      "title": "Drug lord 'had hood placed over his head and was beaten by guards' in Dubai jail - Mirror Online",
+      "description": "Leon Cullen, a major cocaine and gun supplier in Liverpool and other towns in the northwest and Wales, was allegedly forced to brush his teeth with soap by guards in a Dubai prison",
+      "url": "https://www.mirror.co.uk/news/uk-news/drug-lord-had-hood-placed-24115368",
+      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article24115458.ece/ALTERNATES/s1200/0_Cullen_02.jpg",
+      "publishedAt": "2021-05-15T11:32:07Z",
+      "content": "A drug lord was reportedly beaten in a Dubai prison and was forced to brush his teeth with soap after fleeing the UK in a desperate attempt to evade capture.\r\nLeon Cullen, a major cocaine and gun sup… [+4597 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Wesley Yin-Poole",
+      "title": "Mass Effect Legendary Edition changes Tali's controversial cabin photo - Eurogamer.net",
+      "description": null,
+      "url": "https://www.eurogamer.net/articles/2021-05-15-mass-effect-legendary-edition-changes-talis-controversial-cabin-photo",
+      "urlToImage": "https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-05-15-11-40/-1621075254588.jpg/EG11/resize/1200x-1/-1621075254588.jpg",
+      "publishedAt": "2021-05-15T10:49:00Z",
+      "content": "Mass Effect Legendary Edition changes one of the longest-standing issues with the franchise: Tali's face.\r\nTHERE MAY BE MASS EFFECT SPOILERS AHEAD.\r\nEurogamer news cast: Microsoft's plan to kill cons… [+2183 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Emer Scully",
+      "title": "Portugal's tourism minister says country is ready for influx of British tourists - Daily Mail",
+      "description": "Portugal's secretary of state for tourism has revealed 'everything is open' in the country ahead of borders opening to British tourists on Monday.",
+      "url": "https://www.dailymail.co.uk/news/article-9581707/Portugals-tourism-minister-says-country-ready-influx-British-tourists.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2021/05/15/11/43019684-0-image-a-38_1621074897480.jpg",
+      "publishedAt": "2021-05-15T10:36:32Z",
+      "content": "Portugal's tourism minister has announced 'everything is open' for British tourists when borders open on Monday.   \r\nRestaurants, coffee shops and bars have been opened up in time for an expected inf… [+17576 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Beverley bullocks: Escaped cattle seen grazing in gardens - BBC News",
+      "description": "The cattle, which had wandered from nearby fields, were later rounded up and returned home.",
+      "url": "https://www.bbc.co.uk/news/uk-england-humber-57126899",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15811/production/_118518088_mediaitem118517826.jpg",
+      "publishedAt": "2021-05-15T10:35:23Z",
+      "content": "image captionThe cattle were seen on Saturday morning in Beverley\r\nA group of wandering cattle were seen grazing in people's gardens and eating hedges after escaping a field and getting lost. \r\nThe s… [+1473 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky.com"
+      },
+      "author": "Connor Sephton",
+      "title": "COVID-19: Lockdown easing a 'real worry', doctors warn - as minister says it's 'the safe thing to do' - Sky News",
+      "description": "Boris Johnson says the Indian variant may delay the fourth stage of easing lockdown in June but Monday's relaxation will go ahead.",
+      "url": "https://news.sky.com/story/covid-19-indian-variant-rise-prompts-calls-for-mondays-lockdown-easing-to-be-delayed-as-sage-warns-of-pressure-on-hospitals-12306738",
+      "urlToImage": "https://e3.365dm.com/21/05/1600x900/skynews-covid-london_5382316.jpg?20210515112741",
+      "publishedAt": "2021-05-15T10:18:45Z",
+      "content": null
     }
   ]
 }

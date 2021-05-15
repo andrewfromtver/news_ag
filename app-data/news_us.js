@@ -5,67 +5,41 @@ news_us = {
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "NPR"
       },
-      "author": "Ben Rohrbach",
-      "title": "Kobe Bryant, Tim Duncan, Kevin Garnett and the greatest Hall of Fame class in history - Yahoo Sports",
-      "description": "We will never see another Naismith Memorial Basketball Hall of Fame induction like the Class of 2020.",
-      "url": "https://sports.yahoo.com/kobe-bryant-tim-duncan-and-kevin-garnett-the-greatest-hall-of-fame-class-in-history-054645368.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zbBSyFjkVoqZS7l4a3hQlA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xNDA3/https://s.yimg.com/os/creatr-uploaded-images/2021-05/44d7d330-b4d9-11eb-973b-3f87adacd130",
-      "publishedAt": "2021-05-15T05:46:00Z",
-      "content": "We will never see another Naismith Memorial Basketball Hall of Fame induction like the Class of 2020.\r\nKobe Bryant, Tim Duncan and Kevin Garnett form the greatest class in the history of the NBA. No … [+7018 chars]"
+      "author": "Dustin Jones",
+      "title": "Israeli Airstrike Flattens Building, Home To AP And Other Media In Gaza City - NPR",
+      "description": "A dozen journalists and freelancers were evacuated from the AP offices in the 12-story building before it crumbled to the ground. AP said the military has long known the building housed journalists.",
+      "url": "https://www.npr.org/2021/05/15/997148399/israeli-airstrike-flattens-building-home-to-ap-and-other-media-in-gaza-city",
+      "urlToImage": "https://media.npr.org/assets/img/2021/05/15/ap21135511980766_wide-10b37357082222b9f9e5c705e3824e17a756afc6.jpg?s=1400",
+      "publishedAt": "2021-05-15T15:58:32Z",
+      "content": "A ball of fire erupts from a building housing various international media, including The Associated Press, after an Israeli airstrike on Saturday in Gaza City. AP staffers and other tenants safely ev… [+2102 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Alyse Stanley",
-      "title": "Ex-Apple Employee Claims Company Knew About His 'Misogynistic' Writings and Hired Him Anyway - Gizmodo",
-      "description": "Former Apple employee Antonio García Martínez has refuted the company’s portrayal of his high-profile ouster this week and claims Apple knew about his past writings demeaning women and people of color, which came under fire from employees this week, before it…",
-      "url": "https://gizmodo.com/ex-apple-employee-claims-company-knew-about-his-misogyn-1846901345",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8bdd2fa8b2db86c39c29ab9bc679476f.jpg",
-      "publishedAt": "2021-05-15T04:06:00Z",
-      "content": "Former Apple employee Antonio García Martínez has refuted the companys portrayal of his high-profile ouster this week and claims Apple knew about his past writings demeaning women and people of color… [+2724 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Charles Creitz",
-      "title": "McCarthy dings Biden: Notice mask orders ended 'Gasoline went to $7, and they wanted change in news' - Fox News",
-      "description": "House Minority Leader Kevin McCarthy, House Minority Whip Steve Scalise, and newly-minted House Republican Conference Chairwoman Elise Stefanik joined 'Hannity' on Friday for their first joint interview since Stefanik unseated Rep. Liz Cheney from her leaders…",
-      "url": "https://www.foxnews.com/politics/mccarthy-dings-biden-notice-mask-orders-ended-when-it-was-7-in-the-gas-line-and-they-wanted-change-in-news",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/scalise-mccarthy-stefanik.jpg",
-      "publishedAt": "2021-05-15T03:50:13Z",
-      "content": "House Minority Leader Kevin McCarthy, House Minority Whip Steve Scalise, and newly-minted House Republican Conference Chairwoman Elise Stefanik joined \"Hannity\" on Friday for their first joint interv… [+2544 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SciTechDaily"
+        "name": "CBS Sports"
       },
       "author": null,
-      "title": "No Joke: Pigs and Rodents Can Breathe Through Their Butts - SciTechDaily",
-      "description": "Rodents and pigs share with certain aquatic organisms the ability to use their intestines for respiration, finds a study publishing May 14th in the journal Med. The researchers demonstrated that the delivery of oxygen gas or oxygenated liquid through the rect…",
-      "url": "https://scitechdaily.com/no-joke-pigs-and-rodents-can-breathe-through-their-butts/",
-      "urlToImage": "https://scitechdaily.com/images/Happy-Pig-on-Floor-scaled.jpg",
-      "publishedAt": "2021-05-15T03:38:12Z",
-      "content": "Rodents and pigs share with certain aquatic organisms the ability to use their intestines for respiration, finds a study publishing May 14th in the journal Med. The researchers demonstrated that the … [+3849 chars]"
+      "title": "Preakness Stakes odds, best expert picks 2021: Medina Spirit, Concert Tour, Midnight Bourbon predictions - CBS Sports",
+      "description": "Jody Demling gives his picks for the top 2021 Preakness Stakes horses",
+      "url": "https://www.cbssports.com/general/news/preakness-stakes-odds-best-expert-picks-2021-medina-spirit-concert-tour-midnight-bourbon-predictions/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2018/03/31/912a07b3-8a85-4a43-9ecd-8d4f0faa436b/thumbnail/1200x675/c4a73a886c45332a7525fefd9cdf6457/race.jpg",
+      "publishedAt": "2021-05-15T15:52:00Z",
+      "content": "Four years ago, owners Klaravich Stables, trainer Chad Brown and jockey Javier Castellano teamed up to win the Preakness Stakes with Cloud Computing. Now, the trio is working together at Saturday's 2… [+5758 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Daily Beast"
+        "name": "CNBC"
       },
-      "author": "Allison Quinn",
-      "title": "Hacking Group in Gas Pipeline Attack Says It Shut Down, Blames U.S. 'Pressure' - The Daily Beast",
-      "description": "Experts have warned that the hacking group may simply be trying to take the heat off so they can regroup.",
-      "url": "https://www.thedailybeast.com/darkside-hacking-group-says-it-shut-down-blames-us-pressure",
-      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2160,w_3840,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1621049281/GettyImages-1232822763_zkdm0s",
-      "publishedAt": "2021-05-15T03:29:27Z",
-      "content": "The hacking group accused of nearly crippling the U.S. gas supply on the East Coast with a ransomware attack on Colonial Pipeline says it is shutting down due to pressure from the U.S., according to … [+904 chars]"
+      "author": "Dan Mangan",
+      "title": "$100 million New Jersey deli fires wrestling coach CEO Paul Morina, related firm E-Waste gets new president - CNBC",
+      "description": "Hometown International has a massive stock market capitalization despite owning just a small New Jersey deli.",
+      "url": "https://www.cnbc.com/2021/05/15/100-million-new-jersey-deli-company-fires-ceo-paul-morina.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106869615-1618586731852-USATSI_12099122.jpg?v=1618586856",
+      "publishedAt": "2021-05-15T15:37:57Z",
+      "content": "Paulsboro coach Paul Morina cheers on George Worthy as he takes on Bergen Catholic s Wade Unger in the 152-pound bout during a wrestling match at The Palestra in Philadelphia,\r\nThe shareholders of th… [+12667 chars]"
     },
     {
       "source": {
@@ -73,194 +47,220 @@ news_us = {
         "name": "KCCI Des Moines"
       },
       "author": null,
-      "title": "IDPH recommend schools allow parents, kids decide whether to wear masks - KCCI Des Moines",
-      "description": "The state says it should be up to parents and students whether the student wears a mask to school. However some schools are still requiring masks.",
-      "url": "https://www.kcci.com/article/idph-recommend-schools-allow-parents-kids-decide-whether-to-wear-masks/36435631",
-      "urlToImage": "https://kubrick.htvapps.com/vidthumb/a4693fc2-5a83-4490-a3fa-876ec778e503/a4693fc2-5a83-4490-a3fa-876ec778e503_image.jpg?crop=0.747xw:0.746xh;0.133xw,0&resize=1200:*",
-      "publishedAt": "2021-05-15T02:42:00Z",
-      "content": "DES MOINES, Iowa —The new recommendations from the Iowa Department of Public Health on Friday said schools should let parents and students make their own decision about wearing face masks. \r\nThe IDPH… [+723 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Kelly Tyko",
-      "title": "Walmart, Costco, Trader Joe's and Publix no longer require masks for vaccinated customers. See the list. - USA TODAY",
-      "description": "Walmart, Costco, Trader Joe's, Publix and Sam's Club are dropping mask mandates for fully vaccinated shoppers. Apple and CVS are looking at policies.",
-      "url": "https://www.usatoday.com/story/money/shopping/2021/05/14/mask-mandate-stores-change-fully-vaccinated-cdc-no-masks-indoors/5102169001/",
-      "urlToImage": "https://www.gannett-cdn.com/presto/2020/11/13/USAT/57f5ee9c-879c-490c-8840-f018fa5851aa-walmart.jpg?crop=4031,2267,x0,y373&width=3200&height=1680&fit=bounds",
-      "publishedAt": "2021-05-15T02:30:03Z",
-      "content": "Both criticism and praise have emerged after the CDC announced people who are fully vaccinated no longer need to wear masks, even indoors.\r\nUSA TODAY\r\nA day after the Centers for Disease Control and … [+3301 chars]"
+      "title": "Iowa's 7-day COVID-19 positivity rate dips below 3% - KCCI Des Moines",
+      "description": "Iowa's COVID-19 positivity rate and hospitalizations continue to plummet",
+      "url": "https://www.kcci.com/article/iowas-7-day-covid-19-positivity-rate-dips-below-3/36436932",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/coronavirus-covid-19-impact-1615576239.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2021-05-15T15:02:00Z",
+      "content": "DES MOINES, Iowa —The Iowa Department of Public health on Saturday reported 242 new COVID-19 positive tests and one additional death.\r\nAt 10 a.m., the health department reported 399,316 total positiv… [+1057 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "MMA Fighting"
       },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Israeli-Palestinian conflict gives Biden foreign policy headache - BBC News",
-      "description": "The US president and his aides wish to avoid being drawn into this graveyard of US-led peace initiatives.",
-      "url": "https://www.bbc.com/news/world-us-canada-57119881",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1569E/production/_118501778_gettyimages-1232873479.jpg",
-      "publishedAt": "2021-05-15T02:04:08Z",
-      "content": "By Barbara Plett UsherBBC State Department correspondent\r\nimage captionMissiles from Israel's Iron Dome defence system rise to intercept rockets fired from the Gaza Strip\r\nIsrael's air strikes on the… [+7796 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Natasha Khan",
-      "title": "China Lands on Mars in Crowning Moment for Space Program - The Wall Street Journal",
-      "description": "The success of the Tianwen-1 mission makes China the third nation after the U.S. and Soviet Union to land on the red planet",
-      "url": "https://www.wsj.com/articles/china-lands-on-mars-in-crowning-moment-for-space-program-11621040108",
-      "urlToImage": "https://images.wsj.net/im-338633/social",
-      "publishedAt": "2021-05-15T01:53:00Z",
-      "content": "HONG KONGChina landed a rover on Mars early Saturday, becoming the third nation after the U.S. and the Soviet Union to land on the red planet, achieving a crucial landmark in its quest to be at the f… [+1333 chars]"
+      "author": "Steven Marrocco",
+      "title": "Beneil Dariush claps back at Tony Ferguson’s ‘d*ck move’ on student: ‘Why would you do that?’ - MMA Fighting",
+      "description": "Dariush fired back at a fired-up Tony Ferguson at the UFC 262 press conference.",
+      "url": "https://www.mmafighting.com/2021/5/15/22435528/beneil-dariush-claps-back-at-tony-fergusons-d-ck-move-on-student-why-would-you-do-that",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/hqmIgjHfEGU42oM9oZ6jz9BGftI=/0x0:5407x2831/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22513698/1317859060.jpg",
+      "publishedAt": "2021-05-15T15:00:00Z",
+      "content": "Tony Ferguson was on fire at the UFC 262 press conference on Thursday, taking aim at every available target on and off the stage in Houston. \r\nFerguson, of course, focused most of his attention on hi… [+2744 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eonline.com"
+        "name": "The Guardian"
       },
-      "author": "Lindsay Weinberg",
-      "title": "Shanna Moakler Gets Tattoo of Ex Travis Barker’s Name Removed as Kourtney Kardashian Romance Heats Up - E! NEWS",
-      "description": "Shanna Moakler does not want a permanent reminder of her marriage to Travis Barker. The former pageant queen is getting her \"Travis\" tattoo removed, as he gets ink with new love Kourtney Kardashian.",
-      "url": "https://www.eonline.com/news/1269873/shanna-moakler-gets-tattoo-of-ex-travis-barkers-name-removed-as-kourtney-kardashian-romance-heats-up",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2021414/rs_1200x1200-210514164608-1200-shanna-moakler-travis-tattoo-laser-removal.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-      "publishedAt": "2021-05-15T01:01:00Z",
-      "content": "File this under: Ouch. Shanna Moakler is literally erasing the last trace of her ex-husband, Travis Barker, from her life.\r\nAs things get more serious between Travis and Kourtney Kardashian, Shanna w… [+724 chars]"
+      "author": "Victoria Bekiempis",
+      "title": "Damon Weaver, who interviewed Obama as an 11-year-old, dies aged 23 - The Guardian",
+      "description": "Weaver interviewed Obama at the White House in 2009 in conversation posted to YouTube",
+      "url": "https://amp.theguardian.com/us-news/2021/may/15/damon-weaver-interview-obama-white-house-23",
+      "urlToImage": null,
+      "publishedAt": "2021-05-15T14:47:00Z",
+      "content": "Barack Obama<ul><li>Weaver interviewed Obama at the White House in 2009</li><li>Sister Candace Hardy says he died of natural causes </li></ul>\r\nSat 15 May 2021 15.47 BST\r\nDamon Weaver, who was 11 whe… [+3104 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "New York Post"
-      },
-      "author": "Associated Press",
-      "title": "Matt Gaetz associate Joel Greenberg to cooperate in investigation - New York Post ",
-      "description": "Joel Greenberg, who is expected to plead guilty next week on multiple federal charges, will now be helping federal investigators who are looking into Florida Rep. Matt Gaetz.",
-      "url": "https://nypost.com/2021/05/14/matt-gaetz-associate-joel-greenberg-to-cooperate-in-investigation/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/05/joel-greenberg-1.jpg?quality=90&strip=all&w=1200",
-      "publishedAt": "2021-05-15T00:53:00Z",
-      "content": "WASHINGTON A Florida politician who emerged as a central figure in the federal investigation into Rep. Matt Gaetz has agreed to cooperate with federal investigators and admits paying an underage girl… [+3371 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "name": "ESPN"
       },
       "author": null,
-      "title": "Preakness Stakes 2021: Making sense of Bob Baffert, Medina Spirit drug test drama | NBC Sports - NBC Sports",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UXBGWFBtc1VMcEnSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2021-05-15T00:36:21Z",
-      "content": null
+      "title": "Ja'Wuan James considering grievance to recoup potential lost 2021 salary from Denver Broncos, source says - ESPN",
+      "description": "Offensive tackle Ja'Wuan James could seek more than $10 million in salary for the 2021 season that the Broncos appear likely to void after they designated him with a non-football injury.",
+      "url": "https://www.espn.com/nfl/story/_/id/31449350/jawuan-james-considering-grievance-recoup-potential-lost-2021-salary-source-says",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0806%2Fr728264_1296x729_16%2D9.jpg",
+      "publishedAt": "2021-05-15T14:41:44Z",
+      "content": "Former Denver Broncos offensive tackle Ja'Wuan James is strongly considering filing a grievance through the NFL Players Association for lost wages after he tore his Achilles tendon away from the team… [+2139 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "the-hill",
+        "name": "The Hill"
       },
-      "author": "Ian Carlos Campbell",
-      "title": "Twitter politely asks you to protect its targeted ad dollars in new iOS 14.5 prompt - The Verge",
-      "description": "Twitter has started prompting users to enable ad tracking if their device runs iOS 14.5. As part of the recent update, Apple forces all apps to ask for permission before they track users for ad purposes.",
-      "url": "https://www.theverge.com/2021/5/14/22436944/twitter-ad-tracking-ios-14-5-app-transparency",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/31wcDz-dd7XKS5dJnkQVko0eII0=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/12645609/acastro_180827_1777_0002.jpg",
-      "publishedAt": "2021-05-15T00:35:16Z",
-      "content": "The company makes its case for enabling ad tracking\r\nIllustration by Alex Castro / The Verge\r\nAs part of iOS 14.5, Apples App Tracking Transparency forces developers to ask permission for something t… [+2448 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Tim Fitzsimons",
-      "title": "Video shows South Carolina deputies repeatedly tasing Black man before he dies in jail - NBC News",
-      "description": "Body camera video shows two Charleston County Sheriff's deputies repeatedly using a taser on a Black man before he dies in jail after he was released from a psychiatric facility.",
-      "url": "https://www.nbcnews.com/news/us-news/video-shows-south-carolina-deputies-repeatedly-tasing-black-man-he-n1267427",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_19/3474958/210514-jamal-sutherland-ew-604p.jpg",
-      "publishedAt": "2021-05-15T00:16:00Z",
-      "content": "Officials in South Carolina on Friday released hours of body-worn camera footage and details about the final hours of the life of Jamal Sutherland, a Black man who died in January after he was pepper… [+2660 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Billboard"
-      },
-      "author": "Heran Mamo",
-      "title": "Ally Brooke Says She Experienced 'So Much Abuse' Mentally & Verbally While in Fifth Harmony - Billboard",
-      "description": "On the first episode of her new podcast The Ally Brooke Show, Ally Brooke opens up about the mental and verbal \"abuse\" she allegedly suffered while in Fifth Harmony.",
-      "url": "https://www.billboard.com/articles/news/9573095/ally-brooke-details-mental-verbal-abuse-fifth-harmony",
-      "urlToImage": "https://static.billboard.com/files/2021/05/Ally-Brooke-jan-2020-billboard-1548-1621014150-compressed.jpg",
-      "publishedAt": "2021-05-15T00:04:25Z",
-      "content": "Brooke was also candid about the \"competitive\" environment the girls were in, including the \"fight for our lives\" to see who got to sing the good parts of a song, and the environment felt hostile. \"T… [+2043 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Reuters",
-      "title": "New problem for Boeing as FAA orders 737 Classic inspections - Fox Business",
-      "description": "The Federal Aviation Administration (FAA) said on Friday it was requiring U.S. operators of 143 Boeing Co 737 Classic series airplanes to check for possible wire failures stemming from an investigation into an Indonesia crash in January.",
-      "url": "https://www.foxbusiness.com/industrials/new-problem-for-boeing-as-faa-orders-737-classic-inspections",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/02/0/0/Boeing2.jpg?ve=1&tl=1",
-      "publishedAt": "2021-05-14T23:48:37Z",
-      "content": "WASHINGTON  -The Federal Aviation Administration (FAA) said on Friday it was requiring U.S. operators of 143 Boeing Co 737 Classic series airplanes to check for possible wire failures stemming from a… [+2504 chars]"
+      "author": "Lexi Lonas",
+      "title": "McCarthy dings Biden after meeting: Doesn't have 'energy of Donald Trump' | TheHill - The Hill",
+      "description": "House Minority Leader Kevin McCarthy (R-Calif.) said that President Joe Biden doesn’t have the “energy of Donald Trump” after meeting with him for the first time in Biden’s presidency.",
+      "url": "https://thehill.com/homenews/house/553698-mccarthy-dings-biden-after-meeting-doesnt-have-energy-of-donald-trump",
+      "urlToImage": "https://thehill.com/sites/default/files/bideninfrastructuremeeting1_051221getty.jpg",
+      "publishedAt": "2021-05-15T14:34:20Z",
+      "content": "House Minority Leader Kevin McCarthyKevin McCarthyCheney: McCarthy should 'absolutely' testify before Jan. 6 commissionGohmert says Jan. 6 mob attack on Capitol not an 'armed insurrection'Axios repor… [+3179 chars]"
     },
     {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
-      "author": "Nate Day",
-      "title": "Jennifer Lopez might still own Ben Affleck’s engagement ring, singer’s former publicist says - Fox News",
-      "description": "Jennifer Lopez might still own the famous pink Harry Winston engagement ring previously given to her by Ben Affleck.",
-      "url": "https://www.foxnews.com/entertainment/jennifer-lopez-might-still-own-ben-affleck-engagement-ring",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/Bennifer-ring.jpg",
-      "publishedAt": "2021-05-14T23:45:05Z",
-      "content": "As Jennifer Lopez and Ben Affleck continue to spark reconciliation rumors, it seems that the singer might have never completely left the past behind.\r\nThe couple was engaged from 2002-2004 after meet… [+2706 chars]"
+      "author": "Melissa Roberto",
+      "title": "'Jeopardy!' fans stunned by 'Bennifer' clue in episode filmed weeks before J. Lo, Ben Affleck's reunion - Fox News",
+      "description": "\"Jeopardy!\" fans were puzzled after the show appeared to predict the future with a clue about \"Bennifer\" filmed weeks prior to Jennifer Lopez and Ben Affleck's reunion.",
+      "url": "https://www.foxnews.com/entertainment/jeopardy-stunned-jennifer-lopez-ben-affleck-bennifer-clue",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/09/jennifer-lopez-ben-affleck-AP.jpg",
+      "publishedAt": "2021-05-15T14:32:20Z",
+      "content": "\"Jeopardy!\" fans were in disbelief Friday night as the episode filmed weeks prior to its airing appeared to predict Jennifer Lopez and Ben Affleck'\r\ns reunion.\r\nThe popular game show's first clue of … [+2570 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PEOPLE"
+      },
+      "author": "Ally Mauch",
+      "title": "Natalia Bryant Wears Late Dad Kobe Bryant's Hall of Fame Jacket Ahead of Induction Ceremony - Yahoo Entertainment",
+      "description": "Kobe Bryant will be posthumously inducted into the Naismith Memorial Basketball Hall of Fame this weekend",
+      "url": "https://people.com/sports/natalia-bryant-wears-late-dad-kobe-bryant-hall-of-fame-jacket/",
+      "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B920%2C26%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F05%2F15%2Fvanessa-bryant-1.jpg",
+      "publishedAt": "2021-05-15T14:30:00Z",
+      "content": "Natalia Bryant honored her late father Kobe Bryant in a special way ahead of this weekend's 2020 Naismith Memorial Basketball Hall of Fame induction ceremony\r\nKobe, who died in a tragic helicopter cr… [+2400 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slate Magazine"
+      },
+      "author": "Daniel Politi",
+      "title": "Rep. Gaetz Reportedly Snorted Cocaine With Escort After He Was Speaker at Pro-Trump Event - Slate",
+      "description": "Word of the 2019 party came as Gaetz's longtime wingman, Joel Greenberg, signed a plea agreement and vowed to cooperate in the ongoing investigation.",
+      "url": "https://slate.com/news-and-politics/2021/05/matt-gaetz-snorted-cocaine-escort-joel-greenberg.html",
+      "urlToImage": "https://compote.slate.com/images/c3454f7c-b39a-43c3-be65-7cf86ba1f4ca.jpeg?width=780&height=520&rect=3000x2000&offset=0x0",
+      "publishedAt": "2021-05-15T13:59:00Z",
+      "content": "A new explosive report gives salacious details about how Rep. Matt Gaetz allegedly used his office and power. The Daily Beast says witnesses claim the Florida lawmaker snorted cocaine with an escort … [+2699 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Joey Roulette",
+      "title": "Rocket Lab’s Electron rocket suffers failure, loses payload of two satellites - The Verge",
+      "description": "Rocket Lab’s Electron rocket failed to reach orbit after suffering an unexpected engine shutdown mid-flight on on May 15th, the company said.",
+      "url": "https://www.theverge.com/2021/5/15/22437615/rocket-labs-electron-rocket-suffers-failure-loses-payload-two-satellites",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/1z7OrgwcUJkwE5kYp_g3HQ2zo_A=/0x0:1578x826/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22516627/Screen_Shot_2021_05_15_at_9.42.00_AM.png",
+      "publishedAt": "2021-05-15T13:52:38Z",
+      "content": "Electrons second stage booster unexpectedly shut down shortly after igniting\r\nRocket Labs Electron rocket launches from New Zealand on Saturday, as seen on the companys live video feed.\r\nRocket Lab\r\n… [+2649 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Emma Newburger",
+      "title": "Colonial Pipeline resumes normal operations after hack, but many gas stations still face shortages - CNBC",
+      "description": "Colonial Pipeline has returned its entire system to normal operations and is delivering millions of gallons of fuel each hour.",
+      "url": "https://www.cnbc.com/2021/05/15/colonial-pipeline-resumes-normal-operations-after-hack.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106882508-1620909084776-gettyimages-1317708585-vcg111329649766.jpeg?v=1620909154",
+      "publishedAt": "2021-05-15T13:52:05Z",
+      "content": "Colonial Pipeline has returned its entire system to normal operations and is delivering millions of gallons of fuel each hour after a ransomware attack forced the company shut its network last Friday… [+2032 chars]"
     },
     {
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "Jeremy Herb and Katelyn Polantz, CNN",
-      "title": "Biden administration gives House panel documents related to Trump hotel - CNN ",
-      "description": "The General Services Administration has provided House Democrats with documents related to former President Donald Trump's Washington hotel, in the second case this week where the Biden administration gave the House information that the Trump administration h…",
-      "url": "https://www.cnn.com/2021/05/14/politics/trump-international-hotel-documents/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200415152236-trump-hotel-super-tease.jpg",
-      "publishedAt": "2021-05-14T23:41:00Z",
-      "content": "(CNN)The General Services Administration has provided House Democrats with documents related to former President Donald Trump's Washington hotel, in the second case this week where the Biden administ… [+2229 chars]"
+      "author": "Ashley Strickland, CNN",
+      "title": "Volcanoes could still be active on Mars - CNN ",
+      "description": "New research suggests Mars is far from the dead planet that it seems to be and has a more recent history of activity -- and it could still be volcanically active.",
+      "url": "https://www.cnn.com/2021/05/15/world/mars-volcanoes-activity-scn/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210513134731-mars-volcanoes-super-tease.jpg",
+      "publishedAt": "2021-05-15T13:52:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "TMZ"
       },
-      "author": "Mike Wehner",
-      "title": "NASA finally let Perseverance stretch its arms and do some work - Yahoo Entertainment",
-      "description": "NASA fancy new Perseverance rover has been sitting on Mars since late February. It landed perfectly and everything has been going well in the months since...",
-      "url": "https://www.yahoo.com/entertainment/nasa-finally-let-perseverance-stretch-230718285.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/xiz6KSa2nrOpqtxXH6UBjQ--~B/aD0xMTE4O3c9MTc1MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bgr_208/fedcc28b3f6b0117800e01f8cf91f3ee",
-      "publishedAt": "2021-05-14T23:07:18Z",
-      "content": "NASA fancy new Perseverance rover has been sitting on Mars since late February. It landed perfectly and everything has been going well in the months since then, but its had a lot to do before it coul… [+3048 chars]"
+      "author": "TMZ Staff",
+      "title": "Joe Exotic Says He Has Prostate Cancer - TMZ",
+      "description": "Joe Exotic claims to have prostate cancer.",
+      "url": "https://www.tmz.com/2021/05/15/joe-exotic-prostate-cancer-prison-pardon/",
+      "urlToImage": "https://imagez.tmz.com/image/14/16by9/2021/05/15/14b224bb4a154af7a47e50063447612d_xl.jpg",
+      "publishedAt": "2021-05-15T13:11:00Z",
+      "content": "Joe Exotic believes he may have prostate cancer, among many other ailments, and he's begging President Biden, Vice President Harris and others to step in and help.\r\nJoe says his PSA count came back v… [+980 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "NPR"
+        "name": "Slate Magazine"
       },
-      "author": "",
-      "title": "What The New Mask Guidance Means For Unvaccinated Kids — And Their Parents - NPR",
-      "description": "I'm fully vaccinated, but my kids aren't. Can I safely take off my mask? Do my unvaccinated kids have to keep masking in public?",
-      "url": "https://www.npr.org/sections/coronavirus-live-updates/2021/05/14/997010917/what-the-new-mask-guidance-means-for-unvaccinated-kids-and-their-parents",
-      "urlToImage": "https://media.npr.org/assets/img/2021/05/14/gettyimages-1227123586_wide-5ffa95864bbd336444ff04800d0b83747536c264.jpg?s=1400",
-      "publishedAt": "2021-05-14T22:54:00Z",
-      "content": "A girl and her father wear facemasks while they push their bikes last summer in Hermosa Beach, Los Angeles. There aren't yet coronavirus vaccines approved in the U.S. for kids under 12 which means th… [+5628 chars]"
+      "author": "Daniel Politi",
+      "title": "Walmart, Trader Joe’s, and Costco No Longer Require Masks for Customers - Slate",
+      "description": "Some stores seemed eager to make the switch and go mask-free while others are being far more cautious.",
+      "url": "https://slate.com/news-and-politics/2021/05/walmart-trader-joes-costco-no-masks-customers.html",
+      "urlToImage": "https://compote.slate.com/images/648e8702-dfd6-491d-acf8-a1d6e7d950e5.jpeg?width=780&height=520&rect=4032x2688&offset=0x288",
+      "publishedAt": "2021-05-15T12:52:00Z",
+      "content": "Its starting. A day after the Centers for Disease Control and Prevention issued new guidelines saying fully vaccinated people can go without masks in most places, some stores dropped their mask requi… [+2722 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Dr. Sanjay Gupta, CNN Chief Medical Correspondent",
+      "title": "Dr. Sanjay Gupta: 'Race for the Vaccine' - CNN ",
+      "description": "In the United States, the finish line for the pandemic as we've been experiencing it for the past year-plus is very much in sight -- so much so that the US Centers for Disease Control and Prevention essentially said so on Thursday: Fully vaccinated people no …",
+      "url": "https://www.cnn.com/2021/05/15/health/race-for-the-vaccine-coronavirus-gupta/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210513101403-race-for-the-vaccine-cnn-films-00001701-super-tease.png",
+      "publishedAt": "2021-05-15T12:50:00Z",
+      "content": "Programming note: CNN Films' \"Race for the Vaccine,\" produced and narrated by Chief Medical Correspondent Dr. Sanjay Gupta, traces the world-changing discoveries of the vaccines against Covid-19. Wat… [+10594 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Jacob Passy",
+      "title": "Walt Disney World stops requiring visitors to wear face masks outdoors - MarketWatch",
+      "description": "Other theme parks, including Universal Orlando Resort, have also instituted changes to their COVID-19 policies regarding face masks",
+      "url": "https://www.marketwatch.com/story/walt-disney-world-stops-requiring-visitors-to-wear-face-masks-outdoors-11621081693",
+      "urlToImage": "https://images.mktw.net/im-321380/social",
+      "publishedAt": "2021-05-15T12:28:00Z",
+      "content": "Starting Saturday, families can walk right down the middle of Main Street, U.S.A. at Walt Disney Worlds Magic Kingdom without wearing a face mask.Disney \r\n DIS,\r\n -2.60%\r\n announced late Friday that … [+5132 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "Italian study shows COVID-19 infections, deaths plummeting after jabs - Reuters",
+      "description": "COVID-19 infections in adults of all ages fell by 80% five weeks after a first dose of Pfizer (PFE.N), Moderna (MRNA.O) or AstraZeneca (AZN.L) vaccine, according to Italian research published on Saturday.",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/italian-study-shows-covid-19-infections-deaths-plummeting-after-jabs-2021-05-15/",
+      "urlToImage": "https://www.reuters.com/resizer/JyB5H532w3n9CYANZDv4mTfjTrM=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/VTL2UVZ2SJIMNHUG6NR2CG3MDM.jpg",
+      "publishedAt": "2021-05-15T12:24:00Z",
+      "content": "A health worker administers the Pfizer-BioNTech COVID-19 vaccine at a coronavirus disease (COVID-19) vaccination centre in Naples, Italy, January 8, 2021. REUTERS/Ciro De LucaCOVID-19 infections in a… [+1817 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "When Will US Send Vaccines to India? It May Not Have the Doses - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a8a28c10-b59d-11eb-a01f-5dde0539f2c6&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wNS0xNS93aGVuLXdpbGwtdS1zLXNlbmQtdmFjY2luZXMtdG8taW5kaWEtaXQtbWF5LW5vdC1oYXZlLXRoZS1kb3Nlcw==",
+      "urlToImage": null,
+      "publishedAt": "2021-05-15T12:00:21Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
     }
   ]
 }
