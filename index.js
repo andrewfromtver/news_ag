@@ -79,6 +79,7 @@ refresh = () => {
 }
 // CORS detection
 corsClear = (url) => {
+  alert('Can\'t use cashed html on github pages, some pages my be blocked (use redirect button to visit original page)')
 //  // get html via proxy
 //  let lang = document.getElementById('lang').value || 'gb'
 //  let news_index = eval('news_' + lang).articles.findIndex(x => x.url === url) + 1
