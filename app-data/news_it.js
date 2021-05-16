@@ -5,15 +5,80 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Gazzetta.it"
+        "name": "Sport.sky.it"
       },
-      "author": "Gasport",
-      "title": "LIVE MotoGP Francia, la giornata di gare in diretta. Concluso il warm up, alle 11 la gara di Moto 3 - La Gazzetta dello Sport",
-      "description": "Gli aggiornamenti in tempo reale sulle gare di MotoGP, Moto2 e Moto3 del quinto appuntamento della stagione. Concluso il warm up di MotoGP su un circuito reso insidioso dalla pioggia della mattina con il miglior tempo di Petrucci",
-      "url": "https://www.gazzetta.it/Moto/moto-GP/16-05-2021/live-motogp-francia-diretta-le-mans-4101052452711.shtml",
-      "urlToImage": "https://images2.gazzettaobjects.it/methode_image/2021/05/15/Motori/Foto_Motori_-_Trattate/4de6b6c4-b620-11eb-b9e6-6634f3324892_1200x675.jpg?v=202105161052",
-      "publishedAt": "2021-05-16T08:29:00Z",
-      "content": "È il giorno del GP di Francia, quinta prova del Motomondiale 2021. Per la MotoGP scatta dalla pole Fabio Quartararo davanti al compagno di squadra in Yamaha, Maverick Vinales. \r\nQuesta la griglia di … [+342 chars]"
+      "author": "Redazione Sky Sport",
+      "title": "Fiorentina-Napoli 0-0 LIVE, il risultato in diretta - Sky Sport",
+      "description": "Leggi su Sky Sport l'articolo Fiorentina-Napoli 0-0 LIVE, il risultato in diretta",
+      "url": "https://sport.sky.it/calcio/serie-a/2021/05/16/fiorentina-napoli-risultato-gol",
+      "urlToImage": "https://static.sky.it/images/skysport/it/calcio/serie-a/2021/05/11/napoli-udinese-risultato-gol/gattuso_napoli.jpg",
+      "publishedAt": "2021-05-16T10:12:36Z",
+      "content": "FIORENTINA (3-5-2): Terracciano; Milenkovic, Pezzella, Caceres; Venuti, Bonaventura, Pulgar, Castrovilli, Biraghi; Ribery, Vlahovic. All. Iachini\r\nNAPOLI (4-2-3-1): Meret; Di Lorenzo, Manolas, Rrahma… [+84 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "È SUCCESSA UNA COSA BELLISSIMA! | PS5: LASCIATELA PERDERE (fino al 2022) | 2 NUOVE CONSOLE? | #NEWS - PLAYERINSIDE",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dURpSVc1eWhxVUHSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-05-16T10:01:48Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilmeteo.it"
+      },
+      "author": "Marco Castelli",
+      "title": "Meteo: NUOVA SETTIMANA, da Lunedì NON solo ALTA PRESSIONE, anche VENTO e Improvvisi ACQUAZZONI. Le PREVISIONI - iLMeteo.it",
+      "description": "Meteo: NUOVA SETTIMANA, da Lunedì NON solo ALTA PRESSIONE, anche VENTO e Improvvisi ACQUAZZONI. Le PREVISIONI",
+      "url": "https://www.ilmeteo.it/notizie/meteo-nuova-settimana-da-luned-non-solo-alta-pressione-anche-vento-e-improvvisi-acquazzoni-le-previsioni-095601",
+      "urlToImage": "https://www.ilmeteo.it/portale/files/giornale/nuova-settimana-16521.jpg",
+      "publishedAt": "2021-05-16T09:10:00Z",
+      "content": "SETTIMANA, non solo Alta Pressione, ma anche VENTO e TEMPORALILa nuova settimana inizierà non solo con una maggior ingerenza dell'alta pressione, ma anche con un po' di vento e improvvisi acquazzoni.… [+3012 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Oasport.it"
+      },
+      "author": "Francesco Militello",
+      "title": "LIVE MotoGP, GP Francia in DIRETTA: orario TV8 gara. Bene Bagnaia e Valentino Rossi nel warm-up - OA Sport",
+      "description": "CLICCA QUI PER AGGIORNARE LA DIRETTA LIVE\r\n\r\nGuarda il GP di Francia di MotoGP live su DAZN\r\n\r\nORARIO TV8 MOTOGP GP FRANCIA 2021\r\n\r\nLA CRONACA DEL WARM-UP\r\n\r\nRISULTATI E CLASSIFICA WARM-UP\r\n\r\n10.33: E' tutto per questa DIRETTA LIVE. Appuntamento alle 14.00 pe…",
+      "url": "https://www.oasport.it/2021/05/live-motogp-gp-francia-in-diretta-risultati-warm-up-orario-gara-tv8-rossi-e-bagnaia-per-la-rimonta/",
+      "urlToImage": "https://www.oasport.it/wp-content/uploads/2021/05/63-francesco-bagnaia_dsc5866.gallery_full_top_lg1.jpg",
+      "publishedAt": "2021-05-16T09:03:13Z",
+      "content": "CLICCA QUI PER AGGIORNARE LA DIRETTA LIVE\r\nGuarda il GP di Francia di MotoGP live su DAZN\r\nORARIO TV8 MOTOGP GP FRANCIA 2021\r\nLA CRONACA DEL WARM-UP\r\nRISULTATI E CLASSIFICA WARM-UP\r\n10.33: E’ tutto p… [+22468 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lanazione.it"
+      },
+      "author": "La Nazione",
+      "title": "Coronavirus: i contagi in Toscana: 506 nuovi casi - LA NAZIONE",
+      "description": "Il numero dei nuovi casi è leggermente superiore rispetto a ieri (erano 491) mentre il numero dei test effettuati è inferiore (erano 24.061) quindi il tasso di positività sale (era 2,04%)",
+      "url": "https://www.lanazione.it/cronaca/coronavirus-toscana-oggi-contagi-bollettino-1.6370174",
+      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6184279.1616944747%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700&h=391",
+      "publishedAt": "2021-05-16T08:42:56Z",
+      "content": "Firenze, 16 maggio 2021 - Covid Toscana, sono 506 i nuovi casi di coronavirus registrati in Toscana nelle 24 ore su 20.113 test di cui 12.561 tamponi molecolari e 7.552 test rapidi. Il tasso dei nuov… [+3104 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilmessaggero.it"
+      },
+      "author": "Redazione Web",
+      "title": "Roma, precipita da Ponte Garibaldi per scattarsi un selfie: 31enne gravissimo - ilmessaggero.it",
+      "description": "Stava scattando un selfie in compagnia di alcuni amici quando avrebbe perso l'equilibrio, precipitando da ponte Garibaldi, al centro di Roma, sulla pista ciclabile sottostante. È accaduto...",
+      "url": "https://www.ilmessaggero.it/roma/news/roma_cade_ponte_garibaldi_selfie_ragazzo_grave_31_anni_news_oggi-5963371.html",
+      "urlToImage": "https://www.ilmessaggero.it/photos/MED/33/71/5963371_1207_roma_ponte_garibaldi_selfie.jpg",
+      "publishedAt": "2021-05-16T08:19:13Z",
+      "content": "Stava scattando un selfie in compagnia di alcuni amici quando avrebbe perso l'equilibrio, precipitando da ponte Garibaldi, al centro di Roma, sulla pista ciclabile sottostante. È accaduto ieri sera i… [+529 chars]"
     },
     {
       "source": {
@@ -27,6 +92,45 @@ news_it = {
       "urlToImage": "https://static.fanpage.it/wp-content/uploads/2021/04/italia-riparte-covid-articolo.jpg",
       "publishedAt": "2021-05-16T08:10:12Z",
       "content": "Numeri dei contagi da coronavirus in continua discesa in Italia, nell'ultimo bollettino del Ministero della salute registrati 6.659 nuovi casi su 294.686 tamponi e 136 morti per Covid. In totale i ca… [+1906 chars]"
+    },
+    {
+      "source": {
+        "id": "la-repubblica",
+        "name": "La Repubblica"
+      },
+      "author": "Viola Giannoli, Alessandra Ziniti",
+      "title": "Viaggi, tamponi per l'Italia o quarantena all'estero: le faq di Repubblica - la Repubblica",
+      "description": "Riaperture, pass vaccinale, colori: scrivete a faq@repubblica.it",
+      "url": "https://www.repubblica.it/cronaca/2021/05/16/news/viaggi_tamponi_per_l_italia_o_quarantena_all_estero_le_faq_di_repubblica-301204924/",
+      "urlToImage": "https://www.repstatic.it/content/nazionale/img/2021/05/16/101415661-33ad2623-0732-4f74-8be7-050d3a047191.jpg",
+      "publishedAt": "2021-05-16T08:05:47Z",
+      "content": "Vivo in Finlandia. Mi piacerebbe andare a settembre in Italia. A giugno riceverò il richiamo del vaccino. Mi basterà il passaporto vaccinale per entrare in Italia senza altre formalità? (Fiorello)\r\nP… [+190 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lastampa.it"
+      },
+      "author": "FRANCESCO MANASSERO",
+      "title": "Toro, il fantasma della Serie B scatena i tifosi. Scontri e insulti al rientro in città della squadra - La Stampa",
+      "description": "Tensione dopo la sconfitta contro lo Spezia. «Stiamo resettando», ha detto il tecnico Nicola che da stamattina comincerà a preparare il recupero tra tre giorni con la Lazio",
+      "url": "https://www.lastampa.it/sport/calcio/2021/05/16/news/toro-il-fantasma-della-serie-b-scatena-i-tifosi-scontri-e-insulti-al-rientro-in-citta-della-squadra-1.40277997",
+      "urlToImage": "https://www.lastampa.it/image/contentid/policy:1.40277995:1621152543/lapresse_xix_20210515_171634_006869.JPG?f=detail_558&h=720&w=1280&$p$f$h$w=544f4e2",
+      "publishedAt": "2021-05-16T08:05:00Z",
+      "content": "Tensione e cariche al Grande Torino. Undici gol subiti in due partite e lo spettro retrocessione che a sorpresa si avvicina hanno riportato i tifosi granata sul piede di guerra dopo la pace ricostrui… [+997 chars]"
+    },
+    {
+      "source": {
+        "id": "la-repubblica",
+        "name": "La Repubblica"
+      },
+      "author": "Repubblica.it",
+      "title": "Morto a 40 anni Alessandro Talotti, azzurro del salto in alto. Aveva raccontato la sua battaglia contro i... - la Repubblica",
+      "description": "Due Olimpiadi (Atene 2004 e Pechino 2008), pochi giorni fa si era sposato con Silvia Stibilj, campionessa di pattinaggio a rotelle. La coppia ha avuto lo scors…",
+      "url": "https://www.repubblica.it/sport/vari/2021/05/16/news/alessandro_talotti_saltatore_azzurro_morto-301242261/",
+      "urlToImage": "https://www.repstatic.it/content/nazionale/img/2021/05/16/112644766-c3d7e476-3d46-40b0-a90e-b50b96a7d063.jpg",
+      "publishedAt": "2021-05-16T07:49:18Z",
+      "content": "ROMA - È morto nella notte Alessandro Talotti, tra i migliori atleti azzurri del salto in alto. In più occasioni nell'ultimo anno aveva raccontato la sua battaglia contro il tumore che lo aveva colpi… [+2577 chars]"
     },
     {
       "source": {
@@ -44,80 +148,67 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Ilfattoquotidiano.it"
-      },
-      "author": "F. Q.",
-      "title": "Gaza, le bombe di Israele sfiorano l’Agenzia Onu per i rifugiati - Il Fatto Quotidiano",
-      "description": "In una settimana oltre 170 morti, tra i quali anche 47 bambini e 29 donne. Il segretario generale dell’Onu Antonio Guterres \"sgomento per il crescente numero di vittime civili\". Israele riferisce di avere colpito a Gaza 90 obiettivi di Hamas e della Jihad Isl…",
-      "url": "https://www.ilfattoquotidiano.it/2021/05/16/gaza-le-bombe-di-israele-sfiorano-lagenzia-onu-per-i-rifugiati-nella-notte-150-razzi-nella-striscia-al-jazeera-i-raid-piu-intensi-degli-ultimi-7-giorni/6199335/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/16/attacco-israele-1200.jpg",
-      "publishedAt": "2021-05-16T07:44:46Z",
-      "content": "Nel pomeriggio ha raso al suolo i 12 piani del grattacielo di al-Jala, riducendo in polvere le redazioni di media internazionali che fornivano informazioni dal campo, come al-Jazeera e Associated Pre… [+4580 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Romanews.eu"
-      },
-      "author": null,
-      "title": "Roma-Lazio, le pagelle dei quotidiani: Darboe un gigante, Dzeko trascinatore assoluto. Pedro, finalmente i bagliori del campione - RomaNews",
-      "description": "ROMA LAZIO PAGELLE QUOTIDIANI - La Roma trionfa nel derby dopo quasi due anni e batte con un netto 2-0 la Lazio cancellando...",
-      "url": "https://romanews.eu/roma-lazio-le-pagelle-dei-quotidiani-darboe-un-gigante-dzeko-trascinatore-assoluto-pedro-finalmente-i-bagliori-del-campione/",
-      "urlToImage": "https://romanews.eu/wp-content/uploads/2021/05/romanews-roma-espulsione-acerbi-scaled.jpg",
-      "publishedAt": "2021-05-16T07:29:54Z",
-      "content": "ROMA LAZIO PAGELLE QUOTIDIANI – La Roma trionfa nel derby dopo quasi due anni e batte con un netto 2-0 la Lazio cancellando la sconfitta dellandata. Fonseca ce l’ha fatta a pochi giorni dalla scadenz… [+2304 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Liberoquotidiano.it"
       },
       "author": "@libero_official",
-      "title": "Amici, battutaccia di Anna Pettinelli: \"Giallo come la faccia di chi...\". Rudy Zerbi sbrocca: volano stracci su Canale 5 - Liberoquotidiano.it",
-      "description": "Scintille, tensione e imbarazzo alla finalissima di  Amici , il programma di  Maria De Filippi  che ha concluso ieri sera, sabato 15 maggio, la sua st...",
-      "url": "https://www.liberoquotidiano.it/news/spettacoli/televisione/27247049/amici-anna-pettinelli-giallo-faccia-di-chi-rudy-zerbi-sbrocca-volano-stracci-canale-5.html",
-      "urlToImage": "https://img2.liberoquotidiano.it/images/2021/05/16/071057398-bb2203df-6856-4d43-ac5c-57aa1f340705.jpeg",
-      "publishedAt": "2021-05-16T07:08:00Z",
-      "content": "Scintille, tensione e imbarazzo alla finalissima di Amici, il programma di Maria De Filippi che ha concluso ieri sera, sabato 15 maggio, la sua stagione su Canale 5. Scintille e tensione tra Anna Pet… [+1072 chars]"
+      "title": "Silvio Berlusconi, Antonio Tajani: \"Inutile nasconderlo, ha avuto qualche problema. Tra qualche settimana tornerà protagonista\" - Liberoquotidiano.it",
+      "description": "Dimesso dal San Raffaele poco dopo le 18:  Silvio Berlusconi  torna a casa dopo l'ultimo ricovero e le voci impazzite che si erano rincorse venerd...",
+      "url": "https://www.liberoquotidiano.it/news/politica/27247160/silvio-berlusconi-antonio-tajani-inutile-nasconderlo-ha-avuto-qualche-problema-tra-qualche-settimana-tornera-protagonista.html",
+      "urlToImage": "https://img2.liberoquotidiano.it/images/2021/05/16/074343884-3ab34e4e-5b24-4c38-98e2-453ea3964aec.jpg",
+      "publishedAt": "2021-05-16T07:41:00Z",
+      "content": "Dimesso dal San Raffaele poco dopo le 18: Silvio Berlusconi torna a casa dopo l'ultimo ricovero e le voci impazzite che si erano rincorse venerdì, quando si era diffusa la menzogna che fosse morto. P… [+1304 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Adnkronos.com"
+      },
+      "author": "lalli",
+      "title": "Vaccini Italia, Figliuolo: \"In arrivo 20 milioni di dosi\" - Adnkronos",
+      "description": "In arrivo la spallata. Il commissario: 'La questione degli approvvigionamenti è cruciale, ma abbiamo lavorato molto anche per aumentare la",
+      "url": "https://www.adnkronos.com/vaccini-italia-figliuolo-in-arrivo-20-milioni-di-dosi_723QgBcefEUOoPj9RrBaH0",
+      "urlToImage": "https://www.adnkronos.com/resources/0269-1249c309927c-58771d457e67-1000/vaccino_uomo_fg.jpg",
+      "publishedAt": "2021-05-16T07:35:00Z",
+      "content": "In arrivo la spallata. Il commissario: \"La questione degli approvvigionamenti è cruciale, ma abbiamo lavorato molto anche per aumentare la potenzialità della macchina\"Spallata alla pandemia di corona… [+1443 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilmessaggero.it"
+      },
+      "author": "Veronica Cursi",
+      "title": "Claudio Baglioni compie 70 anni: i fan gli regalano un murales nella sua Centocelle - Il Messaggero",
+      "description": "Il \"piccolo grande amore\" è quello dei suoi fan che da 50 anni lo amano come il primo giorno. E oggi che Claudio Baglioni di anni ne compie 70 hanno deciso di omaggiarlo con un...",
+      "url": "https://www.ilmessaggero.it/persone/claudio_baglioni_70_anni_compleanno_murales_roma_centocelle_news_oggi-5963323.html",
+      "urlToImage": "https://www.ilmessaggero.it/photos/MED/33/23/5963323_0845_baglioni1.jpg",
+      "publishedAt": "2021-05-16T07:33:10Z",
+      "content": "Il \"piccolo grande amore\" è quello dei suoi fan che da 50 anni lo amano come il primo giorno. E oggi che Claudio Baglioni di anni ne compie 70 hanno deciso di omaggiarlo con un murales nella sua Cent… [+3275 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Ilfattoquotidiano.it"
       },
-      "author": "Marco Carta",
-      "title": "Roma, la scuola di Tor Marancia è un caso: dopo il degrado, gli spari contro gli occupanti abusivi - Il Fatto Quotidiano",
-      "description": "La vicenda agita la comunità scolastica dell’istituto comprensivo Poggiali Spizzichino, che al suo interno include anche la scuola elementare Raimondi. La dirigente della scuola da mesi segnala a tutti gli organi competenti la situazione di pericolo esistente…",
-      "url": "https://www.ilfattoquotidiano.it/2021/05/16/roma-la-scuola-di-tor-marancia-e-un-caso-dopo-il-degrado-gli-spari-contro-gli-occupanti-abusivi-segnalazioni-da-mesi-nessun-intervento/6199003/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/15/scuola-tor-marancia-1200.jpg",
-      "publishedAt": "2021-05-16T07:03:39Z",
-      "content": "Segnalazioni che si perdono nel vuoto. E immobilismo istituzionale. Intanto il degrado avanza. E dai vetri rotti, si è passati agli spari in pieno giorno. Non è il Far West, ma il destino di una scuo… [+5536 chars]"
+      "author": "Andrea Conti",
+      "title": "Amici 2021, Giulia Stabile vince e batte il fidanzato Sangiovanni: “Nonostante tutto siamo la coppia… - Il Fatto Quotidiano",
+      "description": "La ballerina romana ha vinto sia il circuito danza che il talent show di Maria De Filippi, battendo all'ultimo scontro il favorito della vigilia il fidanzato Sangiovanni. Al terzo posto a pari merito il ballerino Alessandro e i cantanti Aka7even e Deddy. Sang…",
+      "url": "https://www.ilfattoquotidiano.it/2021/05/16/amici-2021-giulia-stabile-vince-e-batte-il-fidanzato-sangiovanni-nonostante-tutto-siamo-la-coppia-perfetta-ecco-tutti-i-premi-assegnati/6199336/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/16/GIULIA-E-SANGIOVANNI_1200.jpg",
+      "publishedAt": "2021-05-16T07:24:15Z",
+      "content": "Il vincitore della ventesima edizione di Amici di Maria De Filippi è la ballerina Giulia Stabile, classe 2002 e nata a Roma. La ballerina ha vinto sia il circuito danza con un riconoscimento di 50mil… [+5118 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Corriere.it"
+        "name": "Proiezionidiborsa.it"
       },
-      "author": "Renato Franco",
-      "title": "Giulia Stabile, chi è la vincitrice di Amici 2021: «Ho vinto e non ho capito cosa è successo» - Corriere della Sera",
-      "description": "Giulia Stabile è nata a Roma 19 anni fa. Con Sangiovanni il suo primo bacio in assoluto",
-      "url": "https://www.corriere.it/spettacoli/21_maggio_16/chi-giulia-vincitrice-amici-2021-logorroica-smemorata-ho-vinto-non-ho-capito-cosa-successo-ee4a82b0-b60e-11eb-8229-cdeaa8e61468.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/16/b68ac84e-b613-11eb-8229-cdeaa8e61468.jpg",
-      "publishedAt": "2021-05-16T06:59:02Z",
-      "content": "Non smette di ridere — la sua risata inconfondibile da cartone animato. Dopo che il televoto l’ha preferita al suo fidanzato Sangiovanni, Giulia Stabile ha in mano la coppa della vittoria di Amici, r… [+2017 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mediaset.it"
-      },
-      "author": null,
-      "title": "Covid, Locatelli: \"Dopo le riaperture non ci sono segnali di allerta\" | Vaccini, Figliuolo: a giugno oltre 20 milioni di dosi - TGCOM",
-      "description": "Intanto la Procura di Biella ha aperto un'inchiesta sulla morte di un uomo avvenuta dopo la vaccinazione contro il Covid.",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/covid-locatelli-dopo-riaperture-non-ci-sono-segnali-di-allerta_32357510-202102k.shtml",
-      "urlToImage": "https://img-prod.tgcom24.mediaset.it/images/2021/05/16/065025160-ad2212df-688e-4e60-aa80-6d2eeb33548c.jpg",
-      "publishedAt": "2021-05-16T06:54:53Z",
-      "content": "Regole per i commenti\r\n I commenti in questa pagina vengono controllatiTi invitiamo ad utilizzare un linguaggio rispettoso e non offensivo, anche per le critiche più aspre\r\nIn particolare, durante l'… [+396 chars]"
+      "author": "Gerardo Marciano",
+      "title": "Bitcoin sotto torchio e ora la discesa potrebbe essere molto forte - Proiezioni di Borsa",
+      "description": "Il Bitcoin (BTC EUR), da inizio anno ha segnato il minimo a 22.658,90 ed il massimo a 54.229,70. In questo momento, quota a circa 40.543 +0,24%. Come",
+      "url": "https://www.proiezionidiborsa.it/bitcoin-sotto-torchio-e-ora-la-discesa-potrebbe-essere-molto-forte/",
+      "urlToImage": "https://www.proiezionidiborsa.it/site/wp-content/uploads/2021/05/Bitcoin-1.jpg",
+      "publishedAt": "2021-05-16T06:59:00Z",
+      "content": "Il Bitcoin (BTC EUR), da inizio anno ha segnato il minimo a 22.658,90 ed il massimo a 54.229,70. In questo momento, quota a circa 40.543 +0,24%.\r\nCome scritto nei precedenti report le quotazioni sono… [+2058 chars]"
     },
     {
       "source": {
@@ -135,15 +226,28 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Adnkronos.com"
+        "name": "Multiplayer.it"
       },
-      "author": "lalli",
-      "title": "Vaccini Italia, superata soglia 27 milioni di dosi - Adnkronos",
-      "description": "Sono 8.475.672 (pari al 14,30% della popolazione) le persone che hanno ricevuto anche la seconda dose",
-      "url": "https://www.adnkronos.com/vaccini-italia-superata-soglia-27-milioni-di-dosi_3LVVTbdCWEApd4vJFopZ3Q",
-      "urlToImage": "https://www.adnkronos.com/resources/0269-1249b0161393-6d63da51ed96-1000/vaccino_covid_immagine_afp.jpg",
-      "publishedAt": "2021-05-16T06:42:00Z",
-      "content": "Sono 8.475.672 (pari al 14,30% della popolazione) le persone che hanno ricevuto anche la seconda doseSono 27.011.116 le dosi di vaccino contro il Covid somministrate in Italia e 8.475.672 (pari al 14… [+563 chars]"
+      "author": "Nicola Armondi",
+      "title": "Final Fantasy 7 Remake Parte 2: a luglio indizi sul gioco tramite Ultimania Plus - Multiplayer.it",
+      "description": "Potremo scoprire nuovi indizi su Final Fantasy 7 Remake Parte 2 a luglio 2021 grazie al libro Ultimania Plus, ecco i dettagli.",
+      "url": "https://multiplayer.it/notizie/final-fantasy-7-remake-parte-2-luglio-indizi-gioco-tramite-ultimania-plus.html",
+      "urlToImage": "https://multiplayer.net-cdn.it/thumbs/images/2019/06/20/final_fantasy_7_remake_00017_jpg_750x400_crop_upscale_q85.jpg",
+      "publishedAt": "2021-05-16T06:48:03Z",
+      "content": "Final Fantasy 7 Remake è uno dei giochi più apprezzati del 2020 e, a giugno, ci sarà modo di (ri)vivere questa avventura con la versione Intergrade per PS5. Inoltre, ci sarà spazio per il DLC di Yuff… [+1322 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Romatoday.it"
+      },
+      "author": "Veronica Altimari",
+      "title": "VIDEO | AstraZeneca non fa più paura, grande adesione per l'open day dei vaccini agli over 40 - RomaToday",
+      "description": "Le immagini dal centro vaccinale del Santo Spirito di Roma in occasione della prima serata di open day destinato agli over 40",
+      "url": "https://www.romatoday.it/attualita/video-open-day-vaccino-over-40-roma.html",
+      "urlToImage": "/~media/horizontal-hi/37519230156502/foto-open-day-over-40-2-2.jpg",
+      "publishedAt": "2021-05-16T06:48:02Z",
+      "content": null
     },
     {
       "source": {
@@ -157,110 +261,6 @@ news_it = {
       "urlToImage": "https://www.today.it/~media/horizontal-hi/42483492013021/linciato-folla-2-2.jpg",
       "publishedAt": "2021-05-16T06:41:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tuttomercatoweb.com"
-      },
-      "author": "Pierpaolo Matrone",
-      "title": "Juve-Inter, moviola Gazzetta: dai rigori all'espulsione, quanti errori! Con VAR e senza - TUTTO mercato WEB",
-      "description": "Farà discutere per qualche giorno, forse di più, l'arbitraggio di Gianpaolo Calvarese in Juventus-Inter. I bianconeri vincono, ma di certo non mancano le polemiche a causa di rigori troppo generosi,",
-      "url": "https://www.tuttomercatoweb.com/serie-a/juve-inter-moviola-i-gazzetta-i-dai-rigori-all-espulsione-quanti-errori-con-var-e-senza-1535051",
-      "urlToImage": "https://tmw-storage.tccstatic.com/storage/tuttomercatoweb.com/img_notizie/thumb3/6667070ae57c2b2d829763ad3266903b-95280-95723157c8ebcac4750156d2b21ac04e.jpeg",
-      "publishedAt": "2021-05-16T06:13:38Z",
-      "content": "Farà discutere per qualche giorno, forse di più, l'arbitraggio di Gianpaolo Calvarese in Juventus-Inter. I bianconeri vincono, ma di certo non mancano le polemiche a causa di rigori troppo generosi, … [+1432 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Adnkronos.com"
-      },
-      "author": "lalli",
-      "title": "Baglioni compie 70 anni, fan gli regalano murales a Centocelle - Adnkronos",
-      "description": "Realizzato nel quartiere di Roma dove il cantautore ha trascorso l'adolescenza e mosso i primi passi artistici",
-      "url": "https://www.adnkronos.com/baglioni-compie-70-anni-i-fan-gli-regalano-un-murales-a-centocelle_7FVSaBYeeECaL2oqIZT9sa",
-      "urlToImage": "https://www.adnkronos.com/resources/0269-1249a4d63303-97ab9cc908ac-1000/baglioni_murales_2.jpg",
-      "publishedAt": "2021-05-16T06:04:00Z",
-      "content": "Realizzato nel quartiere di Roma dove il cantautore ha trascorso l'adolescenza e mosso i primi passi artistici\"A combattere il tempo come si fa? Si può battere ancora a tempo di musica\". È uno dei pa… [+2430 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Iltempo.it"
-      },
-      "author": "Il Tempo",
-      "title": "La denuncia del senatore Marcucci: \"Il Partito Democratico non ha donne candidate. Pensavo Letta agisse meglio\" - Il Tempo",
-      "description": "Vuole «un segno di vitalità» dal Pd. Come è anche critico sul fatto che per le amministrative, non c'è una donna ...",
-      "url": "https://www.iltempo.it/politica/2021/05/16/news/andrea-marcucci-intervista-denuncia-accusa-enrico-letta-partito-democratico-donne-candidate-27246538/",
-      "urlToImage": "https://img.iltempo.it/images/2021/05/16/055159538-96a6dc6a-c378-47e1-ae78-115221b8f6ce.jpg",
-      "publishedAt": "2021-05-16T05:50:00Z",
-      "content": "Gaetano Mineo16 maggio 2021\r\nVuole «un segno di vitalità» dal Pd. Come è anche critico sul fatto che per le amministrative, non c'è una donna Dem candidata alle primarie. Ma Andrea Marcucci ha un sog… [+4687 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "3bmeteo.com"
-      },
-      "author": "Manuel Mazzoleni",
-      "title": "Meteo: PROSSIME ORE NUOVA PERTURBAZIONE, ecco dove il rischio PIOGGIA - 3bmeteo",
-      "description": "SITUAZIONE Una vasta circolazione depressionaria resta attiva sull'Europa centro settentrionale animata da una serie di vortici depressionari, il più attivo ad Ovest delle Isole Britanniche",
-      "url": "https://www.3bmeteo.com/giornale-meteo/meteo--prossime-ore-nuova-perturbazione--ecco-dove-il-rischio-pioggia-473844",
-      "urlToImage": "https://image.3bmeteo.com/images/newarticles/w_1280/tempo-atteso-nelle-prossime-ore-3bmeteo-117190.jpg",
-      "publishedAt": "2021-05-16T05:46:00Z",
-      "content": "Tempo atteso nelle prossime ore\r\nSITUAZIONE. Una vasta circolazione depressionaria resta attiva sull'Europa\r\ncentro settentrionale animata da una serie di vortici depressionari, il più attivo\r\nad Ove… [+1836 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ilrestodelcarlino.it"
-      },
-      "author": "FEDERICA ORLANDI",
-      "title": "Vaccini Emilia Romagna, in regione solo 190 mila dosi: i 40enni aspettano - il Resto del Carlino",
-      "description": "Lo stock serve solo per immunizzare le categorie già prenotate. Entro fine mese si decide sulle somministrazioni in azienda",
-      "url": "https://www.ilrestodelcarlino.it/emilia-romagna/vaccini-emilia-romagna-40-anni-1.6367573",
-      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6367571.1621111689%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700&h=391",
-      "publishedAt": "2021-05-16T04:45:28Z",
-      "content": "Bologna, 16 maggio 2021 - Lorizzontedei vaccini, per chi rientra nelle nuove fasce detà inserite nella campagna vaccinale anti-Covid, cioè quelle tra 50-54 e 40-49 anni (per questultima le registrazi… [+2257 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rainews.it"
-      },
-      "author": null,
-      "title": "Faa ordina a Boeing ispezioni a vecchi 737 dopo l'incidente dello scorso gennaio in Indonesia - Rai News",
-      "description": "L'Autorità per l'aviazione degli Stati Uniti (Faa) ha ordinato alla Boeing di ispezionare i jet 737 di vecchia generazione, dopo l'incidente di gennaio allargo dell'Indonesia in cui sono rimaste uccise 62 persone.   \n\n\n\nDovranno essere esaminati in tutto 143 …",
-      "url": "https://www.rainews.it/dl/rainews/articoli/Usa-Faa-ordina-a-Boeing-ispezioni-a-vecchi-737-dopo-incidente-dello-scorso-gennaio-in-Indonesia-7ec51b2e-19c4-4056-89fa-02774517a8aa.html",
-      "urlToImage": "https://www.rai.it/cropgd/476x249/dl/img/2021/05/1621140136134.AP21133547342549.jpg",
-      "publishedAt": "2021-05-16T04:45:00Z",
-      "content": "Boeing 737 Max (AP Photo/Elaine Thompson)\r\n16 maggio 2021L'Autorità per l'aviazione degli Stati Uniti (Faa) ha ordinato alla Boeing di ispezionare i jet 737 di vecchia generazione, dopo l'incidente d… [+1056 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tg24.sky.it"
-      },
-      "author": "Redazione Sky TG24",
-      "title": "Covid, via libera del ministero della Salute al test salivare: ecco le linee guida - Sky Tg24 ",
-      "description": "Leggi su Sky TG24 l'articolo Covid, via libera del ministero della Salute al test salivare: ecco le linee guida",
-      "url": "https://tg24.sky.it/salute-e-benessere/2021/05/16/test-salivare-covid",
-      "urlToImage": "https://static.sky.it/images/skytg24/it/salute-e-benessere/2021/05/16/test-salivare-covid/test_salivare_ansa_hero.jpeg",
-      "publishedAt": "2021-05-16T04:32:14Z",
-      "content": "Tuttavia, spiega la circolare, la presenza di SARS-CoV-2 è stata dimostrata anche nei campioni salivari in individui asintomatici o pre-sintomatici. La saliva conterrebbe una carica virale significat… [+432 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lastampa.it"
-      },
-      "author": "Andrea Joly",
-      "title": "Covid, stiamo uscendo davvero dalla pandemia? Ecco l’effetto dei vaccini su contagi, morti e ricoveri - La Stampa",
-      "description": "Il report dell’Istituto Superiore di sanità: crollano i casi di infezione, cala il numero dei decessi e scende la pressione sugli ospedali. L’incrocio dei dati che spiegano l’andamento della curva epidemiologica",
-      "url": "https://www.lastampa.it/topnews/primo-piano/2021/05/16/news/covid-stiamo-uscendo-davvero-dalla-pandemia-ecco-l-effetto-dei-vaccini-sul-numero-dei-contagi-1.40276831",
-      "urlToImage": "https://www.lastampa.it/image/contentid/policy:1.40276827:1621118341/iiiiii.PNG?f=detail_558&h=720&w=1280&$p$f$h$w=449aad5",
-      "publishedAt": "2021-05-16T04:02:03Z",
-      "content": "Un crollo di decessi e contagi dopo le prime due settimane. È la conferma più importante del primo studio dellIstituto Superiore della Sanità e del Ministero della Salute sullefficacia dei vaccini. D… [+530 chars]"
     }
   ]
 }

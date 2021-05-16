@@ -4,6 +4,58 @@ news_us = {
   "articles": [
     {
       "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": null,
+      "title": "Bodycams haven't lived up to promises of exposing police misconduct. One reason: The police decide what to release. - USA TODAY",
+      "description": null,
+      "url": "https://www.usatoday.com/restricted/?return=https:%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2Fnation%2F2021%2F05%2F16%2Fpolice-body-cameras-have-mixed-legacy-criminal-justice-reform%2F5064170001%2F",
+      "urlToImage": null,
+      "publishedAt": "2021-05-16T08:02:55Z",
+      "content": "Skip to main content\r\nThis content is only available to USA TODAY subscribers.\r\nSubscribe for as low as $4.99 per month.\r\nYour subscription includes access to:\r\nExclusive, subscriber-only content and… [+796 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "James Rogerson",
+      "title": "iPhone 13 sounds even more disappointing in the face of the Pixel 6 redesign - TechRadar",
+      "description": "The iPhone 13 could be the most skippable iPhone in years",
+      "url": "https://www.techradar.com/news/iphone-13-sounds-even-more-disappointing-in-the-face-of-the-pixel-6-redesign",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Y7vuaprS7au2hV2gJrz7se-1200-80.jpg",
+      "publishedAt": "2021-05-16T08:00:04Z",
+      "content": "If youre looking to buy an iPhone this might not be a very good year for it, because based on rumors it looks a lot like the iPhone 13\r\n will be a minor update over the iPhone 12\r\n. If so then it cou… [+5149 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "UFC 262: Charles Oliveira Post-fight Press Conference - UFC - Ultimate Fighting Championship",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9S3NRYlF1bllnLVnSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-05-16T06:57:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Kelsey Vlamis",
+      "title": "GOP election official in Arizona county recount: Trump is 'unhinged' - Business Insider",
+      "description": "\"We can't indulge these insane lies any longer. As a party. As a state. As a country,\" the Maricopa County recorder said in response to Trump.",
+      "url": "https://www.businessinsider.com/gop-election-official-in-arizona-county-recount-trump-is-unhinged-2021-5",
+      "urlToImage": "https://i.insider.com/60a0accdf27b4c0019444b27?width=1200&format=jpeg",
+      "publishedAt": "2021-05-16T06:25:10Z",
+      "content": "The Republican official in charge of the elections department in the Arizona county where a GOP-backed recount of the election is taking place lashed out at former president Donald Trump on Saturday.… [+2363 chars]"
+    },
+    {
+      "source": {
         "id": "reuters",
         "name": "Reuters"
       },
@@ -17,29 +69,16 @@ news_us = {
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "Brie Stimson",
-      "title": "'SNL' mocks mask confusion over new CDC guidance: 'Is this a trap?' - Fox News",
-      "description": "\"Saturday Night Live\" this weekend mocked the confusion that followed new federal guidelines that fully vaccinated Americans can shed masks in most situations.",
-      "url": "https://www.foxnews.com/entertainment/snl-mocks-mask-confusion-over-new-cdc-guidance-is-this-a-trap",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/GettyImages-1231019760.jpg",
-      "publishedAt": "2021-05-16T06:06:52Z",
-      "content": "\"Saturday Night Live\" this weekend mocked the confusion that followed new federal guidelines regarding fully vaccinated Americans. \r\n\"A lot of people had questions such as What does that mean? What t… [+2836 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ESPN"
-      },
-      "author": "ESPN",
-      "title": "UFC 262 takeaways - Who's next for new champion Charles Oliveira? Can Tony Ferguson rebound? - ESPN",
-      "description": "Charles Oliveira has taken the reins of the UFC's lightweight division. What's the next step for the new champ?",
-      "url": "https://www.espn.com/mma/story/_/id/31452796/ufc-262-takeaways-next-new-lightweight-champion-charles-oliveira-tony-ferguson-rebound",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0516%2Fr854725_1296x729_16%2D9.jpg",
-      "publishedAt": "2021-05-16T06:00:29Z",
-      "content": "Charles Oliveira did the unexpected Saturday as the Brazilian submission artist knocked out Michael Chandler in the second round of the UFC 262 main event. After an action-packed first round that fea… [+11006 chars]"
+      "author": "Charles Trepany",
+      "title": "'SNL': Kate McKinnon's Dr. Fauci, CDC's theater troupe struggle to explain new mask rules - USA TODAY",
+      "description": "Not sure when it's OK to take off your mask? Here's some insight from Kate McKinnon's Dr. Anthony Fauci on this week's \"Saturday Night Live.\"",
+      "url": "https://www.usatoday.com/story/entertainment/tv/2021/05/15/snl-fauci-cdcs-resident-thespians-struggle-explain-mask-policy/5117288001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2021/02/07/USAT/df012ee8-cc9b-4861-9806-3b32c1fb923e-NUP_193156_0075.JPG?crop=883,497,x88,y69&width=1600&height=800&fit=bounds",
+      "publishedAt": "2021-05-16T05:47:43Z",
+      "content": "SNL star Aidy Bryant talks to USA TODAY about saying goodbye to her Hulu comedy series \"Shrill\" after three seasons and what's next for the actress.\r\nUSA TODAY\r\nNot sure when it's OK to take off your… [+2319 chars]"
     },
     {
       "source": {
@@ -53,6 +92,19 @@ news_us = {
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/a7418f685e2e46a08163f11b4fc91bd5/3000.jpeg",
       "publishedAt": "2021-05-16T05:22:29Z",
       "content": "PRAYAGRAJ, India (AP) Police are reaching out to villagers in northern India to investigate the recovery of bodies buried in shallow sand graves or washing up on the Ganges River banks, prompting spe… [+2829 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Yahoo Sports Staff",
+      "title": "NBA playoff tracker: Lakers still need help entering final day of regular season - Yahoo Sports",
+      "description": "There is still plenty to figure out as the NBA regular season comes to an end.",
+      "url": "https://sports.yahoo.com/nba-playoff-tracker-lakers-knicks-final-day-regular-season-051553144.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/A71bv5sgOF_gzVN1VfY4cw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzM0/https://s.yimg.com/os/creatr-uploaded-images/2021-05/d53c39f0-b5ee-11eb-a4fd-464b899ced6d",
+      "publishedAt": "2021-05-16T05:15:00Z",
+      "content": "Yahoo Sports will keep you updated nightly on the NBA playoff race during the last two weeks of the regular season. Check back daily for the latest movement in the standings, what to watch for and te… [+4104 chars]"
     },
     {
       "source": {
@@ -82,6 +134,32 @@ news_us = {
     },
     {
       "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Kathianne Boniello",
+      "title": "Missing Houston tiger found safe, will go to sanctuary - New York Post ",
+      "description": "The Houston Police Department found the missing tiger, named “India,” ending a weeklong saga after the Bengal tiger was seen roaming around Texas neighborhoods on May 9.",
+      "url": "https://nypost.com/2021/05/16/missing-houston-tiger-found-safe-will-go-to-sanctuary/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/05/houston-tiger-found.jpg?quality=90&strip=all&w=1024",
+      "publishedAt": "2021-05-16T04:21:00Z",
+      "content": "A Bengal tiger that has been missing for a week in Houston — and which prompted hundreds of tips about his possible whereabouts — has been found safe. \r\n“The tiger appears to be in very good health,”… [+2091 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "AP PHOTOS: Fear and grief grip Gaza anew amid familiar glare today - Associated Press",
+      "description": "To the outside world, the scenes of rocket fire, bombing raids and angry protests in the Middle East this week may have looked familiar. To the people of Israel and especially the Gaza Strip, they were anything but routine.",
+      "url": "https://apnews.com/article/middle-east-israel-palestinian-conflict-684c2756c090845e12c36bdd8c3301c3",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/dab8e7ee64d84d579e3b808f353e32fc/3000.jpeg",
+      "publishedAt": "2021-05-16T04:11:58Z",
+      "content": "To the outside world, the scenes of rocket fire, bombing raids and angry protests in the Middle East this week may have looked familiar. To the people of Israel and especially the Gaza Strip, they we… [+2681 chars]"
+    },
+    {
+      "source": {
         "id": "fortune",
         "name": "Fortune"
       },
@@ -108,19 +186,6 @@ news_us = {
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Jordan Freiman",
-      "title": "Tiger that was seen roaming Houston neighborhood found - CBS News",
-      "description": "The tiger, named India, was handed over to police by its alleged owner.",
-      "url": "https://www.cbsnews.com/news/houston-tiger-found-victor-cuevas-georgie-gia-cuevas/",
-      "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/10/381d0c7e-7ce9-41d1-8b73-b668114111ae/thumbnail/1200x630/3420f4f0dc682403a1758b4bd154663e/cbsn-fusion-tiger-found-roaming-houston-neighborhood-thumbnail-712068-640x360.jpg",
-      "publishedAt": "2021-05-16T03:42:00Z",
-      "content": "A tiger that had been seen wandering around a Houston neighborhood on Monday has been found, Houston police said Saturday. The tiger, named India, appears to be unharmed, police said.\r\nVictor Cuevas,… [+2360 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Page Six"
       },
@@ -135,6 +200,19 @@ news_us = {
     {
       "source": {
         "id": null,
+        "name": "wdwnt.com"
+      },
+      "author": null,
+      "title": "WDWNT Daily Recap (5/15/21): Guests Walk Maskless Down Main Street, Face Covering Announcements Not Being Played, Cast Members Instructing Guests to Wear Masks in Some Outdoor Queues, Tower of Terror Capacity Increases, And More - wdwnt.com",
+      "description": "We've rounded up today's stories for you all in one place. Here's everything new from Saturday, May 15, 2021.",
+      "url": "https://wdwnt.com/2021/05/wdwnt-daily-recap-5-15-21-guests-walk-maskless-down-main-street-face-covering-announcements-not-being-played-cast-members-instructing-guests-to-wear-masks-in-some-outdoor-queues-tower-of-terror/",
+      "urlToImage": "https://sir.wdwnt.com/wdwnt.com/2021/05/Untitled-design-5-4604394.png",
+      "publishedAt": "2021-05-16T03:31:01Z",
+      "content": "We bring you a lot of stories every single day. Sometimes it’s hard to keep up. So in case you missed anything from our feed, we have rounded up all our stories in one place to get the news at a glan… [+1881 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Los Angeles Times"
       },
       "author": "Laura Newberry",
@@ -144,6 +222,19 @@ news_us = {
       "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/f8e1d67/2147483647/strip/true/crop/3900x2048+0+276/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F99%2F5c%2Fb4ce40104450bfe2e2f3bbbc9bfc%2Fla-photos-1staff-774668-me-0515-palisades-wildfire-1-gmf.jpg",
       "publishedAt": "2021-05-16T03:25:00Z",
       "content": "A fire that started Friday in Pacific Palisades flared up Saturday due to gusty winds and is threatening homes in Topanga Canyon. More than 700 acres have burned.\r\nAuthorities urge people to avoid th… [+794 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "https://www.facebook.com/arolwright",
+      "title": "Amazon launches another free video streaming service called MiniTV - XDA Developers",
+      "description": "Amazon has launched MiniTV, a free, ad-supported video streaming service with content geared towards the Indian audience.",
+      "url": "https://www.xda-developers.com/amazon-launches-minitv/",
+      "urlToImage": "https://www.xda-developers.com/files/2021/05/Amazon-MiniTV-Feature-Image.jpg",
+      "publishedAt": "2021-05-16T03:00:00Z",
+      "content": "Worldwide, Amazon has bet big on its Prime Video streaming service despite competition getting tighter because of the launch of new video streaming services such as Disney+. As we stand right now, th… [+1935 chars]"
     },
     {
       "source": {
@@ -170,97 +261,6 @@ news_us = {
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/05/APTOPIX_Biden.2.jpg?quality=90&strip=all&w=1200",
       "publishedAt": "2021-05-16T02:11:00Z",
       "content": "President Joe Biden entered office poised to oversee a record recovery and a return to the booming economy and all-round stability of pre-pandemic life. Instead, hes turned out to be a master of disa… [+4801 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Spaceflight Now"
-      },
-      "author": null,
-      "title": "SpaceX ramps up launch rate fifth Falcon 9 mission in three weeks – Spaceflight Now - Spaceflight Now",
-      "description": null,
-      "url": "https://spaceflightnow.com/2021/05/16/spacex-ramps-up-launch-rate-fifth-falcon-9-mission-in-three-weeks/",
-      "urlToImage": null,
-      "publishedAt": "2021-05-16T01:50:54Z",
-      "content": "A Falcon 9 rocket climbs away from pad 39A Saturday. Credit: Stephen Clark/Spaceflight Now\r\nSpaceX’s fifth Falcon 9 launch in a little more than three weeks delivered 52 more Starlink internet satell… [+8911 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KOMO News"
-      },
-      "author": "Marilynn Marchione, AP Chief Medical Writer",
-      "title": "Heart study: Low- and regular-dose aspirin safe, effective - KOMO News",
-      "description": "An unusual study that had thousands of heart disease patients enroll themselves and track their health online as they took low- or regular-strength aspirin concludes that both doses seem equally safe and effective for preventing additional heart problems and …",
-      "url": "https://komonews.com/news/nation-world/heart-study-low-and-regular-dose-aspirin-safe-effective",
-      "urlToImage": "https://static-39.sinclairstoryline.com/resources/media/3d54335c-fce8-445b-9caf-8d118df94311-large16x9_AP21134712923343.jpg?1621129319271",
-      "publishedAt": "2021-05-16T01:43:50Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "New York Post",
-      "title": "Biden admin diverts $2B from COVID, health spending to care for migrant kids - Fox News",
-      "description": "The Biden administration has pulled more than $2 billion out of programs authorized by Congress for COVID-19 testing, emergency medical supplies and other health needs — and is spending it on shelter for the 45,000 unaccompanied migrant children that have flo…",
-      "url": "https://www.foxnews.com/politics/biden-admin-diverts-2b-from-covid-health-spending-to-care-for-migrant-kids",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/Biden-Beccara-Border.jpg",
-      "publishedAt": "2021-05-16T01:33:00Z",
-      "content": "The Biden administration has pulled more than $2 billion out of programs authorized by Congress for COVID-19 testing, emergency medical supplies and other health needs and is spending it on shelter f… [+2064 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Times"
-      },
-      "author": "Joe Drape",
-      "title": "Rombauer Wins the 2021 Preakness, Surging Past Medina Spirit - The New York Times",
-      "description": "The long-shot win assured that Bob Baffert’s colt could not claim a Triple Crown under the cloud of a positive drug test.",
-      "url": "https://www.nytimes.com/2021/05/15/sports/preakness-rombauer.html",
-      "urlToImage": "https://static01.nyt.com/images/2021/05/15/sports/15preakness-whattowatch-rombauer1/15preakness-whattowatch-rombauer1-facebookJumbo.jpg",
-      "publishedAt": "2021-05-16T01:25:00Z",
-      "content": "On Monday, Baffert criticized Churchill Downss suspension of him as harsh, blamed cancel culture for the controversy and said racing officials were out to get him.\r\nOn Tuesday, however, he acknowledg… [+1467 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "BOB CHRISTIE Associated Press",
-      "title": "Republican Arizona election official says Trump 'unhinged' - ABC News",
-      "description": "",
-      "url": "https://abcnews.go.com/Politics/wireStory/republican-arizona-election-official-trump-unhinged-77717013",
-      "urlToImage": "https://s.abcnews.com/images/Politics/WireAP_7f64d2cf7da84119bc6cba3606d2325c_16x9_992.jpg",
-      "publishedAt": "2021-05-16T00:54:15Z",
-      "content": "PHOENIX -- The Republican who now leads the Arizona county elections department targeted by a GOP audit of the 2020 election results is slamming former President Donald Trump and others in his party … [+4019 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Billboard"
-      },
-      "author": "Associated Press",
-      "title": "Janet Jackson's 'Scream' Video Ensemble Sells for $125K at Auction - Billboard",
-      "description": "Janet Jackson’s ensembles she wore in the 'Scream' music video opposite Michael Jackson are among the items up for bid in a three-day auction.",
-      "url": "https://www.billboard.com/articles/columns/pop/9573441/janet-jackson-scream-video-outfit-auction",
-      "urlToImage": "https://static.billboard.com/files/media/janet-jackson-2020-billboard-1548-compressed.jpg",
-      "publishedAt": "2021-05-16T00:46:33Z",
-      "content": "A portion of the proceeds will go toward Compassion International, an organization that helps children escape from poverty.\r\nJacksons floor-length metallic silver coat with lambskin shearling lining,… [+499 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Mounting confusion over mask mandates - ABC News",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9amdkOWlhaGlpaWPSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2021-05-16T00:31:15Z",
-      "content": null
     }
   ]
 }
