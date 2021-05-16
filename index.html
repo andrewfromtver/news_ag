@@ -13,12 +13,6 @@
     <link rel="shortcut icon" href="./assets/logo.png">
     <link rel="stylesheet" href="./style.css">
 </head>
-<script src="./app-data/news_gb.js"></script>
-<script src="./app-data/news_us.js"></script>
-<script src="./app-data/news_ru.js"></script>
-<script src="./app-data/news_it.js"></script>
-<script src="./app-data/currency.js"></script>
-<script src="./index.js"></script>
 <body>
     <div id="app">
         <div class="init">
@@ -65,10 +59,16 @@
                 </table>
                 <div class="navlink" id="country">
                     <select name="lang" id="lang" onchange="loadNews(this.value)">
-                        <option value="gb">Grate Britain</option>
-                        <option value="us">USA</option>
-                        <option value="ru">Russia</option>
+                        <option value="ca">Canada</option>
+                        <option value="cn">China</option>
+                        <option value="de">Germany</option>
+                        <option value="fr">France</option>
+                        <option value="gb">Grate Brittan</option>
+                        <option value="in">India</option>
                         <option value="it">Italy</option>
+                        <option value="jp">Japan</option>
+                        <option value="ru">Russia</option>
+                        <option value="us">USA</option>
                     </select>
                 </div>
                 <h3 id="weather" onclick="sideButton(this.id)">Weather</h3>
@@ -89,5 +89,21 @@
             </div>
         </div>
     </div>
+
+    <script src="./app-data/news_ca.js"></script>
+    <script src="./app-data/news_cn.js"></script>
+    <script src="./app-data/news_de.js"></script>
+    <script src="./app-data/news_fr.js"></script>
+    <script src="./app-data/news_gb.js"></script>
+    <script src="./app-data/news_in.js"></script>
+    <script src="./app-data/news_it.js"></script>
+    <script src="./app-data/news_jp.js"></script>
+    <script src="./app-data/news_ru.js"></script>
+    <script src="./app-data/news_us.js"></script>
+
+    <script src="./app-data/currency.js"></script>
+
+    <script src="./app-data/weather.js"></script>
+    <script src="./index.js"></script>
 </body>
 </html>

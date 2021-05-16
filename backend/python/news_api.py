@@ -1,7 +1,7 @@
 import requests, json, app_config, urllib.request
 
 token = app_config.news_api_key
-lang_array = ['ru', 'gb', 'it', 'us']
+lang_array = ['ca', 'cn', 'de', 'fr', 'gb', 'in', 'it', 'jp', 'ru', 'us']
 
 def NewsFetch(lang):
 	# news api (country and apiKey)
