@@ -36,70 +36,20 @@ loadNews = (lang) => {
   document.getElementById('news').innerHTML = ``
   document.getElementById('popupplaceholder').style.display = 'none'
   document.getElementById('menu').style.display = 'none'
-  if (lang === 'ru') {
-    news_ru.articles.forEach(e => {
-      document.getElementById('news').innerHTML += `
-          <div class="card">
-            <div id="${e.publishedAt}">
-              <img src=${e.urlToImage || './assets/logo.png'}>
-            </div>
-            <h3>${e.title}</h3>
-            <p>${e.description || ''}</p>
-            <button id=${e.url} onclick="goTo(this.id, this.innerText)">
-              ${e.source.name}
-            </button>
-          </div>
-        `
-    })
-  }
-  if (lang === 'us') {
-    news_us.articles.forEach(e => {
-      document.getElementById('news').innerHTML += `
-          <div class="card">
-            <div id="${e.publishedAt}">
-              <img src=${e.urlToImage || './assets/logo.png'}>
-            </div>
-            <h3>${e.title}</h3>
-            <p>${e.description || ''}</p>
-            <button id=${e.url} onclick="goTo(this.id, this.innerText)">
-              ${e.source.name}
-            </button>
-          </div>
-        `
-    })
-  }
-  if (lang === 'gb') {
-    news_gb.articles.forEach(e => {
-      document.getElementById('news').innerHTML += `
-          <div class="card">
-            <div id="${e.publishedAt}">
-              <img src=${e.urlToImage || './assets/logo.png'}>
-            </div>
-            <h3>${e.title}</h3>
-            <p>${e.description || ''}</p>
-            <button id=${e.url} onclick="goTo(this.id, this.innerText)">
-              ${e.source.name}
-            </button>
-          </div>
-        `
-    })
-  }
-  if (lang === 'it') {
-    news_it.articles.forEach(e => {
-      document.getElementById('news').innerHTML += `
-          <div class="card">
-            <div id="${e.publishedAt}">
-              <img src=${e.urlToImage || './assets/logo.png'}>
-            </div>
-            <h3>${e.title}</h3>
-            <p>${e.description || ''}</p>
-            <button id=${e.url} onclick="goTo(this.id, this.innerText)">
-              ${e.source.name}
-            </button>
-          </div>
-        `
-    })
-  }
+  eval('news_' + lang).articles.forEach(e => {
+    document.getElementById('news').innerHTML += `
+      <div class="card">
+        <div id="${e.publishedAt}">
+          <img src=${e.urlToImage || './assets/logo.png'}>
+        </div>
+        <h3>${e.title}</h3>
+        <p>${e.description || ''}</p>
+        <button id=${e.url} onclick="goTo(this.id, this.innerText)">
+          ${e.source.name}
+        </button>
+      </div>
+    `
+  })
 }
 // Get currencys
 loadCurrency = () => {
