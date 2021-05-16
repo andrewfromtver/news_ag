@@ -129,8 +129,12 @@ refresh = () => {
 }
 // CORS detection
 corsClear = (url) => {
-  // get via proxy
-  document.getElementById('newsframe').src = url
+  // get html via proxy
+  let lang = document.getElementById('lang').value || 'gb'
+  let news_index = eval('news_' + lang)
+    .articles.findIndex(x => x.url === url) + 1
+  console.log(news_index)
+  document.getElementById('newsframe').src = './app-data/news-storage/' + lang + '/' + news_index + '.html'
   document.getElementById('popupactions').innerHTML = `
     <a href="${url}" target="blank">
       <img id="redirect" src="./assets/redirect.png">

@@ -1,5 +1,4 @@
 <script>
-    var token = "0189bfcb4a4ce7138b86123496301441";
     var sug_token = '0e16cee31b2f66a930741dcb0890816f4f9ecf15';
 </script>
 
@@ -94,6 +93,7 @@
         globallon = elem.id.split(',')[1];
         globalplace = elem.innerText;
         if (globallat & globallon) {
+
             weather(globallat, globallon, globalplace);
         }
     }
@@ -158,17 +158,8 @@
         event.preventDefault();
         if (lat & lon) {
             if (!fetchweatherdata) {
-                var url = "https://api.openweathermap.org/data/2.5/weather";
-                fetch(url+`?lat=${lon}&lon=${lat}&appid=${token}&mode=${mode}&lang=EN&units=metric`)
-                    .then(function(value){
-                        if(value.status !== 200){
-                            return Promise.reject(new Error('Ошибка'));
-                        }
-                        return value.json();
-                    })
-                    .then(function(output){
-                        fetchweatherdata = output;
-                        currentweather = JSON.stringify(output);
+                        fetchweatherdata = weather_json;
+                        currentweather = JSON.stringify(weather_json);
                         var inner = `
                             <div class="meteoinfo leftblock">
                                 <h3 class="title">Today</h3>
@@ -192,7 +183,6 @@
                             </iframe>
                         `;
                         weathertab = document.querySelector('.content').innerHTML;
-                    });
             }
             else {
                 
@@ -225,7 +215,6 @@
     /* Weather tab forecast OWM API */
     function forecast(days, exclude = 'current,minutely,hourly,alerts') {
         event.preventDefault();
-        var url = "https://api.openweathermap.org/data/2.5/onecall";
         if (days == 2) {
             forecasttemp = [];
             forecastfeeltemp = [];
@@ -234,28 +223,19 @@
             document.querySelector('.detail').innerHTML = '';
             if (globallat & globallon) {
                 if (!fetchsecondforecastdata) {
-                    fetch(url+`?lat=${globallon}&lon=${globallat}&exclude=current,minutely,hourly,alerts&appid=${token}&lang=EN&units=metric`)
-                        .then(function(value){
-                            if(value.status !== 200){
-                                return Promise.reject(new Error('ERROR'));
-                            }
-                            return value.json();
-                        })
-                        .then(function(output){
-                            fetchsecondforecastdata = output;
-                            forecasttemp.push(output.daily[1].temp.day);
-                            forecasttemp.push(output.daily[1].temp.eve);
-                            forecasttemp.push(output.daily[1].temp.night);
-                            forecastfeeltemp.push(output.daily[1].feels_like.day);
-                            forecastfeeltemp.push(output.daily[1].feels_like.eve);
-                            forecastfeeltemp.push(output.daily[1].feels_like.night);
-                            nextforecasttemp.push(output.daily[2].temp.day);
-                            nextforecasttemp.push(output.daily[2].temp.eve);
-                            nextforecasttemp.push(output.daily[2].temp.night);
-                            nextforecastfeeltemp.push(output.daily[2].feels_like.day);
-                            nextforecastfeeltemp.push(output.daily[2].feels_like.eve);
-                            nextforecastfeeltemp.push(output.daily[2].feels_like.night);
-                        });
+                    fetchsecondforecastdata = forecast_json;
+                    forecasttemp.push(forecast_json.daily[1].temp.day);
+                    forecasttemp.push(forecast_json.daily[1].temp.eve);
+                    forecasttemp.push(forecast_json.daily[1].temp.night);
+                    forecastfeeltemp.push(forecast_json.daily[1].feels_like.day);
+                    forecastfeeltemp.push(forecast_json.daily[1].feels_like.eve);
+                    forecastfeeltemp.push(forecast_json.daily[1].feels_like.night);
+                    nextforecasttemp.push(forecast_json.daily[2].temp.day);
+                    nextforecasttemp.push(forecast_json.daily[2].temp.eve);
+                    nextforecasttemp.push(forecast_json.daily[2].temp.night);
+                    nextforecastfeeltemp.push(forecast_json.daily[2].feels_like.day);
+                    nextforecastfeeltemp.push(forecast_json.daily[2].feels_like.eve);
+                    nextforecastfeeltemp.push(forecast_json.daily[2].feels_like.night);
                 }
                 else {  
                     forecasttemp.push(fetchsecondforecastdata.daily[1].temp.day);
@@ -278,33 +258,25 @@
         }
         if (globallat & globallon) {
             if (!fetchforecastdata) {
-                fetch(url+`?lat=${globallon}&lon=${globallat}&exclude=${exclude}&appid=${token}&lang=EN&units=metric`)
-                    .then(function(value){
-                        if(value.status !== 200){
-                            return Promise.reject(new Error('ERROR'));
-                        }
-                        return value.json();
-                    })
-                    .then(function(output){
-                        fetchforecastdata = output;
+                        fetchforecastdata = forecast_json;
                         if (days == 2) {
                             inner = `
                                 <div class="weatherinfo">
                                     <div class="meteoinfo leftblock">
                                         <h3 class="title">Tomorrow</h3>
-                                        <p onclick="addinfo(null, 'right', true)">${output.daily[1].weather[0].description}</p>
-                                        <p onclick="addinfo('temp')">${'Temperature ' + output.daily[1].temp.day + ' °C'}</p>
-                                        <p onclick="addinfo('feeltemp')">${'Feels like ' + output.daily[1].feels_like.day + ' °C'}</p>
-                                        <p onclick="addinfo('hum')">${'Humidity ' + output.daily[1].humidity + ' %'}</p>
-                                        <p onclick="addinfo('pres')">${'Atmospheric pressure ' + output.daily[1].pressure + ' mmHg'}</p>
+                                        <p onclick="addinfo(null, 'right', true)">${forecast_json.daily[1].weather[0].description}</p>
+                                        <p onclick="addinfo('temp')">${'Temperature ' + forecast_json.daily[1].temp.day + ' °C'}</p>
+                                        <p onclick="addinfo('feeltemp')">${'Feels like ' + forecast_json.daily[1].feels_like.day + ' °C'}</p>
+                                        <p onclick="addinfo('hum')">${'Humidity ' + forecast_json.daily[1].humidity + ' %'}</p>
+                                        <p onclick="addinfo('pres')">${'Atmospheric pressure ' + forecast_json.daily[1].pressure + ' mmHg'}</p>
                                     </div>
                                     <div class="meteoinfo rightblock">
                                         <h3 class="title">The day after tomorrow</h3>
-                                        <p onclick="addinfo(null, 'left', true)">${output.daily[2].weather[0].description}</p>
-                                        <p onclick="addinfo('temp', 'left')">${'Temperature ' + output.daily[2].temp.day + ' °C'}</p>
-                                        <p onclick="addinfo('feeltemp', 'left')">${'Feels like ' + output.daily[2].feels_like.day + ' °C'}</p>
-                                        <p onclick="addinfo('hum', 'left')">${'Humidity ' + output.daily[2].humidity + ' %'}</p>
-                                        <p onclick="addinfo('pres', 'left')">${'Atmospheric pressure ' + output.daily[2].pressure + ' mmHg'}</p>
+                                        <p onclick="addinfo(null, 'left', true)">${forecast_json.daily[2].weather[0].description}</p>
+                                        <p onclick="addinfo('temp', 'left')">${'Temperature ' + forecast_json.daily[2].temp.day + ' °C'}</p>
+                                        <p onclick="addinfo('feeltemp', 'left')">${'Feels like ' + forecast_json.daily[2].feels_like.day + ' °C'}</p>
+                                        <p onclick="addinfo('hum', 'left')">${'Humidity ' + forecast_json.daily[2].humidity + ' %'}</p>
+                                        <p onclick="addinfo('pres', 'left')">${'Atmospheric pressure ' + forecast_json.daily[2].pressure + ' mmHg'}</p>
                                     </div>
                                 </div>
                                 <form>
@@ -321,37 +293,37 @@
                                     <div class="meteoinfo">
                                         <h3 class="title">Tomorrow</h3>
                                         <p onclick="forecastinfo(1)">
-                                        ${output.daily[1].weather[0].description + ' ' + output.daily[1].temp.day + ' °C'}
+                                        ${forecast_json.daily[1].weather[0].description + ' ' + forecast_json.daily[1].temp.day + ' °C'}
                                         </p>
                                     </div>
                                     <div class="meteoinfo">
                                         <h3 class="title">The day after tomorrow</h3>
                                         <p onclick="forecastinfo(2)">
-                                        ${output.daily[2].weather[0].description + ' ' + output.daily[2].temp.day + ' °C'}
+                                        ${forecast_json.daily[2].weather[0].description + ' ' + forecast_json.daily[2].temp.day + ' °C'}
                                         </p>
                                     </div>
                                     <div class="meteoinfo">
                                         <h3 class="title">After 3 days</h3>
                                         <p onclick="forecastinfo(3)">
-                                        ${output.daily[3].weather[0].description + ' ' + output.daily[3].temp.day + ' °C'}
+                                        ${forecast_json.daily[3].weather[0].description + ' ' + forecast_json.daily[3].temp.day + ' °C'}
                                         </p>
                                     </div>
                                     <div class="meteoinfo">
                                         <h3 class="title">After 4 days</h3>
                                         <p onclick="forecastinfo(4)">
-                                        ${output.daily[4].weather[0].description + ' ' + output.daily[4].temp.day + ' °C'}
+                                        ${forecast_json.daily[4].weather[0].description + ' ' + forecast_json.daily[4].temp.day + ' °C'}
                                         </p>
                                     </div>
                                     <div class="meteoinfo">
                                         <h3 class="title">After 5 days</h3>
                                         <p onclick="forecastinfo(5)">
-                                        ${output.daily[5].weather[0].description + ' ' + output.daily[5].temp.day + ' °C'}
+                                        ${forecast_json.daily[5].weather[0].description + ' ' + forecast_json.daily[5].temp.day + ' °C'}
                                         </p>
                                     </div>
                                     <div class="meteoinfo">
                                         <h3 class="title">After 6 days</h3>
                                         <p onclick="forecastinfo(6)">
-                                        ${output.daily[6].weather[0].description + ' ' + output.daily[6].temp.day + ' °C'}
+                                        ${forecast_json.daily[6].weather[0].description + ' ' + forecast_json.daily[6].temp.day + ' °C'}
                                         </p>
                                     </div>
                                 </div>
@@ -363,7 +335,6 @@
                             `;
                             document.querySelector('.content').innerHTML = inner;
                         }
-                    });
             }
             else {
                 if (days == 2) {
@@ -471,17 +442,8 @@
         else {
             if (globallat & globallon) {
                 if (!fetchaddinfodata) {
-                    var url = "https://api.openweathermap.org/data/2.5/onecall";
-                    fetch(url+`?lat=${globallon}&lon=${globallat}&exclude=current,minutely,alerts&appid=${token}&lang=EN&units=metric`)
-                        .then(function(value){
-                            if(value.status !== 200){
-                                return Promise.reject(new Error('Ошибка'));
-                            }
-                            return value.json();
-                        })
-                        .then(function(output){
-                            fetchaddinfodata = output;
-                            var array = output.hourly;
+                            fetchaddinfodata = forecast_json;
+                            var array = forecast_json.hourly;
                             currenttemp = [];
                             currentfeeltemp = [];
                             currenthum = [];
@@ -492,7 +454,6 @@
                                 currenthum.push(array[index].humidity);
                                 currentpres.push(array[index].pressure);
                             }
-                        });
                 }
                 else {
                     var array = fetchaddinfodata.hourly;
@@ -625,27 +586,17 @@
     /* Weather tab forecast temp charts OWM API */
     function forecastinfo(day = 0) {
         document.querySelector('.detail').innerHTML = '';
-        var url = "https://api.openweathermap.org/data/2.5/onecall";
         if (globallat & globallon) {
             if (!fetchforecasttemp) {
-                fetch(url+`?lat=${globallon}&lon=${globallat}&exclude=current,minutely,hourly,alerts&appid=${token}&lang=EN&units=metric`)
-                    .then(function(value){
-                        if(value.status !== 200){
-                            return Promise.reject(new Error('ERROR'));
-                        }
-                        return value.json();
-                    })
-                    .then(function(output){
-                        fetchforecasttemp = output;
-                        forecasttemp = [];
-                        forecastfeeltemp = [];
-                        forecasttemp.push(output.daily[day].temp.day);
-                        forecasttemp.push(output.daily[day].temp.eve);
-                        forecasttemp.push(output.daily[day].temp.night);
-                        forecastfeeltemp.push(output.daily[day].feels_like.day);
-                        forecastfeeltemp.push(output.daily[day].feels_like.eve);
-                        forecastfeeltemp.push(output.daily[day].feels_like.night);
-                    });
+                fetchforecasttemp = forecast_json;
+                forecasttemp = [];
+                forecastfeeltemp = [];
+                forecasttemp.push(forecast_json.daily[day].temp.day);
+                forecasttemp.push(forecast_json.daily[day].temp.eve);
+                forecasttemp.push(forecast_json.daily[day].temp.night);
+                forecastfeeltemp.push(forecast_json.daily[day].feels_like.day);
+                forecastfeeltemp.push(forecast_json.daily[day].feels_like.eve);
+                forecastfeeltemp.push(forecast_json.daily[day].feels_like.night);
             }
             else {
                 forecasttemp = [];
@@ -724,6 +675,12 @@
             weatherplace = place;
         }
         if (lat && lon) {
+            alert('Websocket not imolemented, test data loaded')
+            //
+            //
+            // websocket -> serverside owm api recuest -> get data (weather_json & forecast_json)
+            //
+            //
             weatherrequest (lat, lon, 'json');
         }
         if (lat == null || lon == null) {
@@ -1057,4 +1014,6 @@
     <div class="detail"></div>
     <div class="content"></div>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+    <script src="../app-data/forecast.js"></script>
+    <script src="../app-data/weather.js"></script>
 </body>

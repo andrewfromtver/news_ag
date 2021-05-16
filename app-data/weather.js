@@ -1,4 +1,4 @@
-weather = {
+weather_json = {
   "coord": {
     "lon": 35.942,
     "lat": 56.8306
