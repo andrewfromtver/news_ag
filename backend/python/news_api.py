@@ -26,9 +26,9 @@ def NewsFetch(lang):
 		opener.addheaders = [('User-agent', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36')]
 		urllib.request.install_opener(opener)
 		try:
-			urllib.request.urlretrieve(ar["url"], './app-data/news-storage/'+lang+'/' + str(count) + '.txt')
+			urllib.request.urlretrieve(ar["url"], './app-data/news-storage/'+lang+'/' + str(count) + '.html')
 		except:
-			text_file = open('./app-data/news-storage/'+lang+'/' + str(count) + '.txt', 'w')
+			text_file = open('./app-data/news-storage/'+lang+'/' + str(count) + '.html', 'w')
 			text_file.write('<h3>Sorry, this content is not available in your region.</h3>')
 			text_file.close()
 		count += 1
