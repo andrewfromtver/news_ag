@@ -131,8 +131,7 @@ refresh = () => {
 corsClear = (url) => {
   // get html via proxy
   let lang = document.getElementById('lang').value || 'gb'
-  let news_index = eval('news_' + lang)
-    .articles.findIndex(x => x.url === url) + 1
+  let news_index = news_gb.articles.findIndex(x => x.url === url) + 1
   console.log(news_index)
   document.getElementById('newsframe').src = './app-data/news-storage/' + lang + '/' + news_index + '.html'
   document.getElementById('popupactions').innerHTML = `
