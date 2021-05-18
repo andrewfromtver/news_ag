@@ -5,80 +5,106 @@ news_it = {
     {
       "source": {
         "id": null,
-        "name": "Sport.sky.it"
+        "name": "Ilfattoquotidiano.it"
       },
-      "author": "Claudio Barbieri",
-      "title": "Nadal-Djokovic agli Internazionali di tennis Roma, il risultato in diretta LIVE - Sky Sport",
-      "description": "Leggi su Sky Sport l'articolo Nadal-Djokovic agli Internazionali di tennis Roma, il risultato in diretta LIVE",
-      "url": "https://sport.sky.it/tennis/2021/05/16/nadal-djokovic-internazionali-tennis-roma-risultato",
-      "urlToImage": "https://static.sky.it/images/skysport/it/tennis/2021/05/16/nadal-djokovic-internazionali-tennis-roma-risultato/nadal-lapresse.jpg",
-      "publishedAt": "2021-05-16T16:27:57Z",
-      "content": "Sul Centrale va in scena la finale più attesa degli Internazionali d'Italia, il grande classico Nadal-Djokovic, che si affrontano per la 57^ volta in carriera. Allo spagnolo il primo set per 7-5. Il … [+227 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Milan-Cagliari: le probabili formazioni e dove vederla | La Diretta - La Gazzetta dello Sport",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vd3d3LmdhenpldHRhLml0L0NhbGNpby9TZXJpZS1BL01pbGFuLzE2LTA1LTIwMjEvbWlsYW4tY2FnbGlhcmktZGlyZXR0YS1zZXJpZWEtcmlzdWx0YXRvLWxpdmUtNDEwMTA0NzIxMTc2NC5zaHRtbNIBfGh0dHBzOi8vd3d3LmdhenpldHRhLml0L0NhbGNpby9TZXJpZS1BL01pbGFuLzE2LTA1LTIwMjEvbWlsYW4tY2FnbGlhcmktZGlyZXR0YS1zZXJpZWEtcmlzdWx0YXRvLWxpdmUtNDEwMTA0NzIxMTc2NF9hbXAuc2h0bWw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2021-05-16T15:43:18Z",
-      "content": null
+      "author": "F. Q.",
+      "title": "Scontri Tel Aviv-Gaza: Israele abbatte l’unico laboratorio Covid della Striscia - Il Fatto Quotidiano",
+      "description": "Vertice dei ministri Ue per la crisi in Medio Oriente: l'Alto rappresentante Borrell ha riferito che \"26 paesi su 27\" chiedono la fine delle ostilità. All'indomani della richiesta del segretario di Stato Usa sull'abbattimento del grattacielo di Al-Jalaa, Tel …",
+      "url": "https://www.ilfattoquotidiano.it/2021/05/18/scontri-tel-aviv-gaza-israele-abbatte-lunico-laboratorio-covid-della-striscia-borrell-priorita-ue-e-cessate-il-fuoco-di-maio-no-razzi-ma-risposta-sia-proporzionata/6201111/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/18/gaza-9.jpg",
+      "publishedAt": "2021-05-18T16:18:45Z",
+      "content": "È stata un’altra notte di scontri tra Israele e Gaza. Continua il lancio di razzi dalla Striscia e non diminuiscono i raid aerei dello Stato ebraico sugli edifici della principale città nell’enclave … [+5368 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Rainews.it"
+        "name": "Ilpost.it"
       },
       "author": null,
-      "title": "Coronavirus: vittime in calo, sono 93 i decessi, 5.753 i nuovi positivi - Rai News",
-      "description": "Sono 202.573 i tamponi eseguiti. Tasso di positività al 2,8%",
-      "url": "https://www.rainews.it/dl/rainews/articoli/ministero-salute-coronavirus-covid-decessi-positivi-tamponi-d0a96ba0-e502-4e9e-8691-ae0f9f545da9.html",
-      "urlToImage": "https://www.rai.it/cropgd/476x249/dl/img/2021/05/1620311665323.12630617_medium.jpg",
-      "publishedAt": "2021-05-16T15:38:00Z",
-      "content": "16 maggio 2021La situazione aggiornata in Italia e nel mondoAncora in netto calo la curva epidemica in Italia: i contagi nelle ultime 24 ore sono 5.753 contro i 6.659 di ieri. I tamponi sono 202.573 … [+6665 chars]"
+      "title": "L’Europa è divisa sulla guerra tra Israele e Gaza - Il Post",
+      "description": "Fatica a trovare una posizione comune per le grosse differenze tra i paesi membri, e questo rende inefficace la sua azione diplomatica",
+      "url": "https://www.ilpost.it/2021/05/18/europa-divisa-israele-gaza/",
+      "urlToImage": "https://cdn.ilpost.it/wp-content/uploads/2021/05/gaza-7.jpg?x72029",
+      "publishedAt": "2021-05-18T15:34:09Z",
+      "content": "Dopo oltre una settimana di scontri tra Israele e gruppi armati palestinesi della Striscia di Gaza, martedì Josep Borrell, lalto rappresentante dellUnione Europea per gli Affari esteri, ha convocato … [+8449 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Corriere.it"
       },
-      "author": "Silvia Morosi",
-      "title": "Coronavirus in Italia, il bollettino di oggi 16 maggio: 5.753 casi e 93 morti - Corriere della Sera",
-      "description": "I dati del bollettino sulla pandemia di Covid-19 di domenica 16 maggio",
-      "url": "https://www.corriere.it/salute/21_maggio_16/coronavirus-italia-bollettino-oggi-16-maggio-5753-casi-93-morti-7fcec4ce-b620-11eb-8229-cdeaa8e61468.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/16/18050b2c-b658-11eb-8229-cdeaa8e61468.jpg",
-      "publishedAt": "2021-05-16T15:17:33Z",
-      "content": "I decessi regione per regione\r\nIl dato fornito qui sotto, e suddiviso per regione, è quello dei morti totali dall’inizio della pandemia. La variazione indica il numero dei nuovi decessi registrati ne… [+1099 chars]"
+      "author": "Paola Caruso",
+      "title": "Coronavirus in Italia, il bollettino di oggi 18 maggio: 4.452 nuovi casi e 201 morti - Corriere della Sera",
+      "description": "I dati del bollettino sulla pandemia di Covid-19 di martedì 18 maggio",
+      "url": "https://www.corriere.it/salute/21_maggio_18/coronavirus-italia-bollettino-oggi-18-maggio-4452-nuovi-casi-201-morti-4c5e8edc-b7c2-11eb-add6-98a2b51489e2.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/18/1abd7128-b7e9-11eb-add6-98a2b51489e2.jpg",
+      "publishedAt": "2021-05-18T15:13:01Z",
+      "content": "Sono 4.452 i nuovi casi di coronavirus in Italia (ieri sono stati +3.455, qui il bollettino). Sale così ad almeno 4.167.025 il numero di persone che hanno contratto il virus Sars-CoV-2 (compresi guar… [+6801 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Adnkronos.com"
+        "name": "Juventusnews24.com"
       },
-      "author": "pinchi",
-      "title": "Covid Lombardia, oggi 786 contagi: bollettino 16 maggio - Adnkronos",
-      "description": "I dati sulla pandemia di coronavirus nella regione. Da ieri altri 18 morti, indice di positività al 2,4%. A Milano 247 nuovi casi",
-      "url": "https://www.adnkronos.com/covid-lombardia-oggi-786-contagi-bollettino-16-maggio_4E9M564SB13cOLu4wsJwlw",
-      "urlToImage": "https://www.adnkronos.com/resources/0269-124a67546f5c-fc3f8378b05a-1000/covid_virus_infermieri_fg.jpg",
-      "publishedAt": "2021-05-16T15:15:00Z",
-      "content": "I dati sulla pandemia di coronavirus nella regione. Da ieri altri 18 morti, indice di positività al 2,4%. A Milano 247 nuovi casiSono 786 i nuovi contagi di coronavirus in Lombardia secondo i dati de… [+698 chars]"
+      "author": "https://www.facebook.com/junews24com/",
+      "title": "Convocati Juve per l'Atalanta. La lista di Pirlo per la finale di Coppa Italia - Juventus News 24",
+      "description": "Convocati Juve per l’Atalanta. La lista a disposizione di Andrea Pirlo per la finale di Coppa Italia contro i nerazzurri Alla vigilia di Atalanta Juve, sfida valida per la finale di Coppa Italia, Andrea Pirlo ha diramato la lista dei convocati. Squadra quasi …",
+      "url": "https://www.juventusnews24.com/convocati-juve-per-atalanta-finale-coppa-italia-2020-2021/",
+      "urlToImage": "https://www.juventusnews24.com/wp-content/uploads/2021/05/esultanza-juve-inter-1000x600.jpg",
+      "publishedAt": "2021-05-18T14:42:25Z",
+      "content": "Alla vigilia di Atalanta Juve, sfida valida per la finale di Coppa Italia, Andrea Pirlo ha diramato la lista dei convocati. Squadra quasi completamente a disposizione: fuori Alex Sandro, squalificato… [+400 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Mediaset.it"
+        "name": "Romatoday.it"
       },
-      "author": "Redazione Sportmediaset",
-      "title": "Giro d’Italia, Bernal pigliatutto: nona tappa e maglia rosa con una strepitosa rimonta - Sportmediaset - Sport Mediaset",
-      "description": "A Campo Felice il colombiano della Ineos Grenadiers strappa negli ultimi 400 metri su sterrato davanti a Ciccone e Vlasov: sua la leadership generale",
-      "url": "https://www.sportmediaset.mediaset.it/speciale/giroditalia2021/giro-ditalia-bernal-pigliatutto-nona-tappa-e-maglia-rosa-con-una-strepitosa-rimonta_32386467-202102k.shtml",
-      "urlToImage": "https://img-prod.sportmediaset.mediaset.it/images/2021/05/16/145549535-e33902fd-20b1-4550-b62d-1dbbec56c430.jpg",
-      "publishedAt": "2021-05-16T15:12:11Z",
-      "content": "La nona tappa del Giro d’Italia 2021 da Castel di Sangro a Campo Felice è un assoluto virtuosismo di Bernal, che negli ultimi 400 metri in sterrato supera i fuggitivi e si prende la volata in solitar… [+2786 chars]"
+      "author": "Redazione",
+      "title": "Coronavirus a Roma e nel Lazio, il bollettino dei nuovi contagi: i dati del 18 maggio 2021 - RomaToday",
+      "description": "Poco più di 200 i casi a Roma città. D'Amato: \"Superate 140mila nuove prenotazioni per le classi di età da 48 a 51 anni\"",
+      "url": "https://www.romatoday.it/attualita/coronavirus-roma-notizie-dati-contagi-18-maggio-2021.html",
+      "urlToImage": "https://www.romatoday.it/~media/horizontal-hi/34496317427682/coronavirus-dottoressa.jpg",
+      "publishedAt": "2021-05-18T14:42:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilrestodelcarlino.it"
+      },
+      "author": "il Resto del Carlino",
+      "title": "Vaccini Emilia Romagna: quando tocca a over 40 e over 50 - il Resto del Carlino",
+      "description": "Per ora si sono soltanto registrati, ecco quando iniziano le simministrazioni. Bonaccini: \"A giugno dosi per tutti gli operatori del turismo\"",
+      "url": "https://www.ilrestodelcarlino.it/emilia-romagna/vaccini-emilia-romagna-quando-1.6377726",
+      "urlToImage": "https://immagini.quotidiano.net/?url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.6377761.1621343359%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700&h=391",
+      "publishedAt": "2021-05-18T14:25:28Z",
+      "content": "Bologna, 18 maggio 2021 - Si sono registrati sul sito della Regione e ora attendono, con una certa appresione, una mail, un sms, una telefonata. Un contatto qualsiasi, insomma, per capire quando la v… [+3279 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilgiornale.it"
+      },
+      "author": "Federico Garau",
+      "title": "La batosta sulla benzina: novità al distributore - ilGiornale.it",
+      "description": "\"L'allarme si ripercuote sulle tasche delle famiglie non solo per i rifornimenti di carburante, ma anche attraverso i listini al dettaglio di una moltitudine di prodotti\", spiega Codacons",
+      "url": "https://www.ilgiornale.it/news/economia/nuovo-record-benzina-arrivo-stangata-sui-prezzi-1947561.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2019/10/04/1570196722-1555489581-benza.jpg?_=1570196722",
+      "publishedAt": "2021-05-18T14:08:00Z",
+      "content": "Sale ancora una volta il costo della benzina, che si avvicina a quota 1,6 euro per litro e raggiunge così un nuovo record.\r\nStando ai rilevamenti settimanali effettuati dal Ministero dello sviluppo e… [+2725 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tuttomercatoweb.com"
+      },
+      "author": "Ivan Cardia",
+      "title": "Futuro Buffon, parla Ilaria D'Amico: \"Voterei estero, ma capisco il fascino della Serie A\" - TUTTO mercato WEB",
+      "description": "Ospite di Un giorno da pecora sulle frequenze di Radio1, Ilaria D’Amico ha commentato il futuro del suo compagno Gianluigi Buffon, che a fine stagione dirà addio alla Juventus. E sembra dare indizi",
+      "url": "https://www.tuttomercatoweb.com/serie-a/futuro-buffon-parla-ilaria-d-amico-voterei-estero-ma-capisco-il-fascino-della-serie-a-1536068",
+      "urlToImage": "https://tmw-storage.tccstatic.com/storage/tuttomercatoweb.com/img_notizie/thumb3/64cbc3ef94efc5c07477b71901d52305-72267-95723157c8ebcac4750156d2b21ac04e.jpeg",
+      "publishedAt": "2021-05-18T13:06:58Z",
+      "content": "Ospite di Un giorno da pecora sulle frequenze di Radio1, Ilaria DAmico ha commentato il futuro del suo compagno Gianluigi Buffon, che a fine stagione dirà addio alla Juventus. E sembra dare indizi su… [+617 chars]"
     },
     {
       "source": {
@@ -86,181 +112,155 @@ news_it = {
         "name": "Ilfattoquotidiano.it"
       },
       "author": "F. Q.",
-      "title": "Gaza, vertice Onu. Guterres: “Subito cessate il fuoco” - Il Fatto Quotidiano",
-      "description": "Nella notte i bombardamenti israeliani hanno sfiorato l'Agenzia Onu per i rifugiati. Danneggiato anche un ospedale di Medici senza frontiere. In una settimana oltre 180 morti, tra i quali anche decine di donne e bambini. Il segretario generale dell’Onu Antoni…",
-      "url": "https://www.ilfattoquotidiano.it/2021/05/16/gaza-vertice-onu-guterres-subito-cessate-il-fuoco-ma-netanyahu-dice-operazione-richiedera-tempo-abbiamo-sostegno-usa/6199335/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/16/gaza-1200-2.jpg",
-      "publishedAt": "2021-05-16T15:11:06Z",
-      "content": "Nel pomeriggio di sabato ha raso al suolo i 12 piani del grattacielo di al-Jala, riducendo in polvere le redazioni di media internazionali che fornivano informazioni dal campo, come al-Jazeera e Asso… [+7975 chars]"
+      "title": "Trigoria, il padre di Scamacca fa irruzione con una spranga e distrugge due auto: denunciato - Il Fatto Quotidiano",
+      "description": "Emiliano Scamacca, padre del 22enne talento del Genoa Gianluca, è entrato nel centro sportivo della Roma minacciando le guardie giurate. Immobilizzato dalla polizia, è stato portato in pronto soccorso per una visita. Il figlio ha iniziato la carriera nelle gi…",
+      "url": "https://www.ilfattoquotidiano.it/2021/05/18/trigoria-il-padre-di-scamacca-fa-irruzione-con-una-spranga-e-distrugge-due-auto-denunciato/6201533/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/18/12931614_large-1.jpg",
+      "publishedAt": "2021-05-18T12:53:57Z",
+      "content": "Si è introdotto intorno alle 19.30 nel centro sportivo della Roma, a Trigoria, minacciando le guardie giurate con una spranga. Se l’è presa con la sbarra del cancello, con le finestre del gabbiotto, … [+905 chars]"
+    },
+    {
+      "source": {
+        "id": "ansa",
+        "name": "ANSA.it"
+      },
+      "author": "",
+      "title": "Nasce Casa Cantautori a Genova, qui memoria è futuro - Ultima Ora - Agenzia ANSA",
+      "description": "Proprio oggi, proprio nel giorno in cui la musica, l'arte e la cultura piangono la scomparsa di\r\nFranco Battiato, a Genova viene presentato il progetto della Casa dei Cantautori che sarà realizzata\r\nnegli spazi nell'abbazia di S.Giuliano a Genova. (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2021/05/18/nasce-casa-cantautori-a-genova-qui-memoria-e-futuro_27b0f4ce-1e94-4871-8a9a-4687450b06c3.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2021/5/18/66384a957359b8bc3f806b962885ea7f.jpg",
+      "publishedAt": "2021-05-18T12:30:00Z",
+      "content": "(ANSA) - GENOVA, 18 MAG - Proprio oggi, proprio nel giorno in\r\ncui la musica, l'arte e la cultura piangono la scomparsa di\r\nFranco Battiato, a Genova viene presentato il progetto della\r\nCasa dei Cant… [+1504 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Orizzontescuola.it"
+        "name": "Rainews.it"
       },
       "author": null,
-      "title": "Vaccino covid ai maturandi, la proposta di Rusconi (ANP Lazio): “Facciamo degli open day” - Orizzonte Scuola",
-      "description": "La maturità si avvicina e l'attesa sale sempre più. Ministero e sindacati stanno per chiudere il protocollo di sicurezza per il prossimo esame di Stato, sia per il primo ciclo che per il secondo. Dall'ultimo incontro sembra essere emersa la volontà di conferm…",
-      "url": "https://www.orizzontescuola.it/vaccino-covid-ai-maturandi-la-proposta-di-rusconi-anp-lazio-facciamo-degli-open-day/",
-      "urlToImage": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/Zingaretti.jpg",
-      "publishedAt": "2021-05-16T14:36:36Z",
-      "content": "La maturità si avvicina e l’attesa sale sempre più. Ministero e sindacati stanno per chiudere il protocollo di sicurezza per il prossimo esame di Stato, sia per il primo ciclo che per il secondo. Dal… [+4093 chars]"
+      "title": "Figliuolo ai presidenti di Regione: \"Prima i vaccini a over 60 e fragili. Basta polemiche\" - Rai News",
+      "description": "Il commissario straordinario all'emergenza Coronavirus in Toscana: \"C'è stato un calo vertiginoso dei ricoveri e dei decessi dando priorità alle classi vulnerabili\"",
+      "url": "https://www.rainews.it/dl/rainews/articoli/Figliuolo-ai-presidenti-di-Regione-Prima-gli-over-60-e-i-fragili-Basta-polemiche-30ed4255-0577-4f42-8614-54cf312635ae.html",
+      "urlToImage": "https://www.rai.it/cropgd/476x249/dl/img/2021/05/1621340698585.210518_1131__VISITA_GENERALE_FIGLIULO_IN_TOSCANA_frame_120215.png",
+      "publishedAt": "2021-05-18T12:17:00Z",
+      "content": "18 maggio 202128 milioni di somministrazioni in Italia e un calo vertiginoso dei ricoveri e dei decessi dando priorità alle classi vulnerabili. Francesco Paolo Figliuolo, commissario straordinario al… [+4483 chars]"
+    },
+    {
+      "source": {
+        "id": "la-repubblica",
+        "name": "La Repubblica"
+      },
+      "author": "Simona Poli",
+      "title": "Quattro dosi di Pfizer al posto di una a Livorno. Esposto del Codacons - La Repubblica Firenze.it",
+      "description": "Dopo il caso avvenuto il 9 maggio a Massa, un altro errore è stato commesso al Modigliani Forum. Il sovradosaggio somministrato a una donna di 60 anni c…",
+      "url": "https://firenze.repubblica.it/cronaca/2021/05/18/news/livorno_vaccini_toscanavirus_4_dosi_sovradosaggio_pfizer-301568669/",
+      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-firenze/2021/05/18/121657416-bdb82fac-df64-4687-bdbf-b68495213c89.jpg",
+      "publishedAt": "2021-05-18T12:14:44Z",
+      "content": "E' successo ancora, 4 dosi di vaccino al posto di una. Il nuovo caso è a Livorno, il primo era avvenuto a Massa il 9 maggio scorso.\r\nUn caso di sovradosaggio di vaccino Pfizer, con quattro dosi  somm… [+5813 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Corriere.it"
+        "name": "Rainews.it"
       },
-      "author": "Ansa",
-      "title": "Francesco Nuti, la figlia Ginevra è la sua tutrice: «Volevo prendermi cura di papà» - Corriere TV",
-      "description": "Assistita anche da mamma Annamaria, nonostante i due siano divorziati",
-      "url": "https://video.corriere.it/spettacoli/francesco-nuti-figlia-ginevra-sua-tutrice-volevo-prendermi-cura-papa/4ce88d96-b64e-11eb-8229-cdeaa8e61468",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/Video/2021/05/16/Spettacoli/Foto%20Spettacoli%20-%20Trattate/20210516ginevranutidomenicain_640_ori_crop_MASTER__0x0.jpg",
-      "publishedAt": "2021-05-16T14:25:30Z",
-      "content": "«Ho firmato io per il vaccino di papà», un gesto semplice, ma che significa tanto per Ginevra Nuti, figlia di Francesco, attore, regista e sceneggiatore che nel 2006 rimase vittima di un incidente do… [+440 chars]"
+      "author": null,
+      "title": "Situazione esplosiva nell'enclave spagnola di Ceuta: 5mila migranti marocchini arrivano a nuoto - Rai News",
+      "description": "Rafforzate le misure di sicurezza, la Spagna ha già avviato i rimpatri e ora episodi simili potrebbero verificarsi anche a Melilla",
+      "url": "https://www.rainews.it/dl/rainews/media/Situazione-esplosiva-enclave-spagnola-di-Ceuta-5mila-migranti-marocchini-arrivano-a-nuoto-2bb91606-e42d-46e6-86c0-03eaaf917c99.html",
+      "urlToImage": "https://www.rainews.it/dl/img/2021/05/640x360_1621333590204.AP21138290984417.jpg",
+      "publishedAt": "2021-05-18T11:52:16Z",
+      "content": "Rafforzate le misure di sicurezza, la Spagna ha già avviato i rimpatri e ora episodi simili potrebbero verificarsi anche a Melilla\r\n18 maggio 2021Hanno attraversato il confine a nuoto e si sono rifug… [+3639 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Ilgiornale.it"
+        "name": "Dilei.it"
       },
-      "author": "Rosa Scognamiglio",
-      "title": "\"Sei un pedofilo\". Folla lo lincia e lo getta nel cassonetto - ilGiornale.it",
-      "description": "L'uomo è stato accerchiato, picchiato e poi gettato in un cassonetto dai residenti del quartiere Scampia perché ritenuto colpevole di abusi sessuali nei confronti di tre bambini",
-      "url": "https://www.ilgiornale.it/news/cronache/linciato-folla-e-gettato-cassonetto-perch-ritenuto-pedofilo-1947087.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2021/05/16/1621174063-img-20210516-160529.jpg?_=1621174063",
-      "publishedAt": "2021-05-16T14:10:00Z",
-      "content": "Decine di persone hanno accerchiato, picchiato e poi gettato in un cassonetto della spazzatura ritenendo che avesse abusato sessualmente di tre bambini. Si tratta del folle raid che si è consumato ie… [+2199 chars]"
+      "author": "DiLei",
+      "title": "Stefano Coletti chiarisce il rapporto con Elisabetta Gregoraci - DiLei Vip",
+      "description": "Stefano Coletti fa chiarezza sul legame con Elisabetta Gregoraci dopo le foto pubblicate negli ultimi giorni su Instagram.",
+      "url": "https://dilei.it/vip/stefano-coletti-chiarisce-rapporto-con-elisabetta-gregoraci/1023212/",
+      "urlToImage": "https://dilei.it/wp-content/uploads/sites/3/2021/03/elisabetta-gregoraci-4.jpg",
+      "publishedAt": "2021-05-18T11:16:29Z",
+      "content": "Stefano Coletti chiarisce il rapporto con Elisabetta Gregoraci dopo le indiscrezioni degli ultimi giorni. Il pilota che vive a Montecarlo ed è amico della showgirl in passato era stato indicato più v… [+1978 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Triesteprima.it"
+        "name": "Ilpost.it"
       },
-      "author": "Redazione",
-      "title": "Covid: in Friuli Venezia Giulia zero decessi, non succedeva da ottobre - TriestePrima",
-      "description": "I nuovi contagi sono 33, stabili le terapie intensive a quota 16 mentre scendono ancora i ricoveri negli altri reparti",
-      "url": "https://www.triesteprima.it/cronaca/covid-fvg-16-maggio-2021.html",
-      "urlToImage": "https://www.triesteprima.it/~media/horizontal-hi/61575120081520/turistitramonto_06-08-20_giovanni-aiello-1-2.jpg",
-      "publishedAt": "2021-05-16T13:59:12Z",
-      "content": null
+      "author": null,
+      "title": "Fininvest ha venduto la sua quota di partecipazione in Mediobanca - Il Post",
+      "description": "Fininvest, la società finanziaria della famiglia Berlusconi, ha venduto la sua quota di partecipazione nel gruppo Mediobanca, corrispondente a circa il 2",
+      "url": "https://www.ilpost.it/2021/05/18/fininvest-berlusconi-ha-venduto-partecipazione-mediobanca/",
+      "urlToImage": "https://cdn.ilpost.it/wp-content/uploads/2021/05/BANZAILIQSOLD1_2021051812150571_f29eff5a5c2768a183d113442d59aff1.jpg?x72029",
+      "publishedAt": "2021-05-18T11:12:20Z",
+      "content": "Fininvest, la società finanziaria della famiglia Berlusconi, ha venduto la sua quota di partecipazione nel gruppo Mediobanca, corrispondente a circa il 2 per cento del capitale della società, per cir… [+1250 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Liberoquotidiano.it"
+        "name": "Contocorrenteonline.it"
       },
-      "author": "@libero_official",
-      "title": "Giorgia Meloni a Mezz'ora in più: \"Spero che Draghi non duri molto. Sono pronta a governare con Matteo Salvini\" - Liberoquotidiano.it",
-      "description": "Giorgia Meloni,  ospite di  Lucia Annunziata  a  Mezz'ora in più su Rai tre  nella puntata di domenica 16 maggio lo dice chiaramente: &quot...",
-      "url": "https://www.liberoquotidiano.it/news/politica/27249840/giorgia-meloni-mezz-ora-in-piu-spero-draghi-non-duri-molto-sono-pronta-governare-con-matteo-salvini.html",
-      "urlToImage": "https://img2.liberoquotidiano.it/images/2021/05/16/134051311-4592a3b6-12f9-4eea-829e-1a67866d73b6.jpg",
-      "publishedAt": "2021-05-16T13:39:00Z",
-      "content": "Giorgia Meloni, ospite di Lucia Annunziata a Mezz'ora in più su Rai tre nella puntata di domenica 16 maggio lo dice chiaramente: \"Il centrodestra non è diviso. Sono ricostruzioni giornalistiche. I mi… [+2049 chars]"
+      "author": null,
+      "title": "Il Ministero richiama: “Ritirate gli integratori dal mercato” - ContoCorrenteOnline.it",
+      "description": "La vendita di integratori in qualche modo poco chiari ha portato il Ministero della salute ad un richiamo formale.",
+      "url": "https://www.contocorrenteonline.it/2021/05/18/integratori-alimentari-viagra-ministero/",
+      "urlToImage": "https://www.contocorrenteonline.it/wp-content/uploads/2021/05/Integratori-Adobe.jpg",
+      "publishedAt": "2021-05-18T10:52:57Z",
+      "content": "La vendita di integratori in qualche modo poco chiari ha portato il Ministero della salute ad un richiamo formale.\r\nIntegratori (Adobe)\r\nIl Ministero della salute ha segnalato la presenza di alcuni i… [+2287 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Virgilio.it"
+        "name": "3bmeteo.com"
       },
-      "author": "Virgilio Sport",
-      "title": "Motogp, Jack Miller trionfa a Le Mans! Zarco 2°, Rossi 11° - Virgilio Sport",
-      "description": "Grandissima prova della Ducati a Le Mans. con la casa di Borgo Panigale che piazza 3 piloti nelle prime 4 posizioni. Vince Jack Miller, poi Zarco a Quartararo. Valentino Rossi 11o.",
-      "url": "https://sport.virgilio.it/motogp-jack-miller-trionfa-a-le-mans-zarco-2-rossi-11-689736",
-      "urlToImage": "https://wips.plug.it/cips/sport.virgilio.it/cms/2021/05/jack-miller_186w6rop8hel11ot73eem90lls.jpg?w=640&a=c&h=360",
-      "publishedAt": "2021-05-16T13:38:29Z",
-      "content": "Dominio Ducati a Le Mans, dove troviamo 3 ducati nelle prime 4 posizioni. Trionfa un grandissimo Jack Miller , seguito a strettissimo giro di ruota da Zarco . 3° la Yamaha di Fabio Quartararo , 4° Pe… [+3518 chars]"
+      "author": "Lorenzo Badellino",
+      "title": "METEO. Ultime fiammate di caldo al Sud, imminente generale CALO TERMICO - 3bmeteo",
+      "description": "SITUAZIONE Proseguono le giornate particolarmente miti che stanno interessando le nostre regioni centro-meridionali, in particolare la Sicilia e quelle del versante adriatico, grazie ad un flusso di correnti meridionali che si erge verso il Sud Italia",
+      "url": "https://www.3bmeteo.com/giornale-meteo/meteo--ultime-fiammate-di-caldo-al-sud--imminente-generale-calo-termico-474672",
+      "urlToImage": "https://image.3bmeteo.com/images/newarticles/w_1280/temperature-in-calo-nei-prossimi-giorni-3bmeteo-117292.jpg",
+      "publishedAt": "2021-05-18T10:47:58Z",
+      "content": "Aria più fresca in afflusso dall'Atlantico determinerà un calo delle temperature nel corso della settimana.\r\nTemperature in calo nei prossimi giorni\r\nSITUAZIONE. Proseguono le giornate particolarment… [+1792 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Ilfattoquotidiano.it"
+        "name": "Formatonews.it"
       },
-      "author": "Mauro Del Corno",
-      "title": "Attacchi informatici, il 90% delle infrastrutture energetiche è a rischio - Il Fatto Quotidiano",
-      "description": "Il caso dell'oleodotto statunitense Colonial pipeline riaccende i riflettori sul livello di sicurezza informatica di infrastrutture strategiche. La Casa Bianca vara un piano e almeno 10 miliardi di dollari per aumentare le difese. A volte la difesa più effica…",
-      "url": "https://www.ilfattoquotidiano.it/2021/05/16/attacchi-informatici-il-90-delle-infrastrutture-energetiche-e-a-rischio-lesperto-sistemi-obsoleti-e-vulnerabili/6197217/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/05/14/cyber_1200-1-1.jpg",
-      "publishedAt": "2021-05-16T13:25:28Z",
-      "content": "Ogni ora si verificano nel mondo tra i 5 e i 10mila attacchi informatici. Piccoli o grandi, subiti o respinti, a grandi aziende o piccole realtà, le cifre sono queste. Nel 2020 sono cresciuti molto g… [+7913 chars]"
+      "author": null,
+      "title": "Isola dei famosi, rissa sfiorata tra Moser e Matteo: interviene Cerioli -VIDEO - Formatonews",
+      "description": "Attimi di panico e terrore a l'isola dei famosi: Ignazio Moser e Matteo hanno avuto un duro scontro tanto da arrivare quasi alle mani",
+      "url": "https://www.formatonews.it/2021/05/18/isola-dei-famosi-rissa-smoser-matteo/",
+      "urlToImage": "https://www.formatonews.it/wp-content/uploads/2021/05/foto_ignazio_moser_matteo_diamante-min.jpg",
+      "publishedAt": "2021-05-18T10:36:34Z",
+      "content": "Attimi di panico e terrore a l’isola dei famosi: Ignazio Moser e Matteo hanno avuto un duro scontro tanto da arrivare quasi alle mani\r\nIsola dei famosi\r\nPoche ore fa, si è sfiorata una rissa a l’Isol… [+2033 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Corriere.it"
+        "name": "Occhionotizie.it"
       },
-      "author": "Federico Cella",
-      "title": "Ufo, il video della nave Omaha è stato definito «autentico» dal Pentagono - Corriere della Sera",
-      "description": "La portavoce del Dipartimento della Difesa conferma la bontà del filmato pubblicato venerdì scorso su Twitter, dove si vede un oggetto sferico volare vicino al mezzo militare",
-      "url": "https://www.corriere.it/tecnologia/21_maggio_16/ufo-video-nave-omaha-stato-definito-autentico-pentagono-8d421190-b640-11eb-8229-cdeaa8e61468.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2021/05/16/3a50df84-b645-11eb-8229-cdeaa8e61468.jpg",
-      "publishedAt": "2021-05-16T13:05:51Z",
-      "content": "«Guarda si avvicina... ora si inabissa». Sono sprazzi di dialogo— qui trovate l’intera trascrizione in inglese — che si percepiscono dal video pubblicato venerdì scorso su Twitter dal documentarista … [+1742 chars]"
+      "author": "Mario Esposito",
+      "title": "Quando Franco Battiato chiese l’autografo a Belen - L'Occhio",
+      "description": "Franco Battiato ha chiesto un autografo a Belen Rodriguez. È stato il comico e presentatore tv Luca Bizzarri a svelare il simpatico siparietto legato al maestro siciliano morto oggi, all'età di 76 ann",
+      "url": "https://www.occhionotizie.it/franco-battiato-autografo-belen-storia/",
+      "urlToImage": "https://www.occhionotizie.it/wp-content/uploads/2021/05/franco-battiato.png",
+      "publishedAt": "2021-05-18T10:26:21Z",
+      "content": "L'Occhio - Le notizie intorno a te© L'Occhio di Salerno 2018 - 2020 - Tutti i diritti riservatiDirettore responsabile: Francesco PiccoloRegistrato presso Il Tribunale di Salerno(N.° 6/2011 del 13 Apr… [+8 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Ilmessaggero.it"
+        "id": "ansa",
+        "name": "ANSA.it"
       },
-      "author": "Redazione Web",
-      "title": "Giulia Stabile, ecco chi è la diciannovenne ballerina romana che ha vinto Amici - ilmessaggero.it",
-      "description": "Parlando si sé, dice: «Non sono nata con il talento ma sicuramente con la passione». Spiega di essere una persona determinata, smemorata, logorroica, sensibile e buona. Ride...",
-      "url": "https://www.ilmessaggero.it/spettacoli/eventi/giulia_stabile_chi_e_amici_ballerina_vincitrice_maria_de_filippi_ultime_notizie_news-5963552.html",
-      "urlToImage": "https://www.ilmessaggero.it/photos/MED/35/52/5963552_1519_giulia3.jpg",
-      "publishedAt": "2021-05-16T12:54:03Z",
-      "content": "Parlando si sé, dice: «Non sono nata con il talento ma sicuramente con la passione». Spiega di essere una persona determinata, smemorata, logorroica, sensibile e buona. Ride sempre, e questo non le v… [+3499 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Iltempo.it"
-      },
-      "author": "Il Tempo",
-      "title": "Domenica In, il direttore dello Spallanzani Vaia sbotta con i virologi catastrofisti: \"Situazione ottima, a dispetto dei gufi\" - Il Tempo",
-      "description": "È un Francesco Vaia straripante nell’intervista con Mara Venier nelle puntata del 16 maggio di Domenica In, programma in onda su Rai 1. I...",
-      "url": "https://www.iltempo.it/attualita/2021/05/16/news/francesco-vaia-domenica-in-puntata-16-maggio-virologi-covid-gufi-situazione-ottima-ue-vaccino-balbettante-27249525/",
-      "urlToImage": "https://img.iltempo.it/images/2021/05/16/125558638-99061102-fb71-423b-a57e-e62d62d520d8.jpg",
-      "publishedAt": "2021-05-16T12:48:00Z",
-      "content": "È un Francesco Vaia straripante nell’intervista con Mara Venier nelle puntata del 16 maggio di Domenica In, programma in onda su Rai 1. Il direttore sanitario dell'Istituto di Malattie Infettive Lazz… [+3069 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lastampa.it"
-      },
-      "author": "Luisa Mosello",
-      "title": "Vaccinazioni in cantina: la Campania brucia le tappe e offre mille dosi di Pfizer ad agricoltori e viticoltori - La Stampa",
-      "description": "Oggi Open Day in due aziende di Benevento: 400 persone in fila già al mattino. Masiello, presidente di Coldiretti Campania: «Il nostro governatore vuole sempre arrivare primo. Abbiamo vaccinato anche nonna Carmela, 92 anni, felicissima»",
-      "url": "https://www.lastampa.it/cronaca/2021/05/16/news/campania-i-vaccini-per-agricoltori-e-viticoltori-arrivano-prima-offerte-mille-dosi-di-pfizer-1.40278465",
-      "urlToImage": "https://www.lastampa.it/image/contentid/policy:1.40278464:1621163914/cantina.jpg?f=detail_558&h=720&w=1280&$p$f$h$w=d29fdfb",
-      "publishedAt": "2021-05-16T11:05:00Z",
-      "content": "Vaccinazioni in azienda nel nome di Bacco. La campagna vaccinale nei luoghi di lavoro programmata a partire da giugno ha preso il via stamattina con un'anticipazione in quelle che possono definirsi l… [+3999 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Liberoquotidiano.it"
-      },
-      "author": "@libero_official",
-      "title": "Verissimo, la trans insulta Silvia Toffanin? Fucilata di Giorgia Meloni: \"Roba infamante\", una lezione di democrazia - Liberoquotidiano.it",
-      "description": "Riavvolgere il nastro fino a ieri, sabato 15 maggio. Siamo a  Verissimo , la trasmissione di  Silvia Toffanin  in onda su Canale 5. E la conduttrice r...",
-      "url": "https://www.liberoquotidiano.it/news/politica/rissa-politica/27248480/verissimo-trans-insulta-silvia-toffanin-fucilata-giorgia-meloni-roba-infamante-lezione-democrazia.html",
-      "urlToImage": "https://img2.liberoquotidiano.it/images/2021/05/16/102008590-34c9d5c5-f266-43cd-9d69-7e7cf033a4da.jpg",
-      "publishedAt": "2021-05-16T10:15:00Z",
-      "content": "Riavvolgere il nastro fino a ieri, sabato 15 maggio. Siamo a Verissimo, la trasmissione di Silvia Toffanin in onda su Canale 5. E la conduttrice risponde in modo netto, durissimo a Lea T. Quest'ultim… [+1393 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sport.sky.it"
-      },
-      "author": "Redazione Sky Sport",
-      "title": "Fiorentina-Napoli 0-0 LIVE, il risultato in diretta - Sky Sport",
-      "description": "Leggi su Sky Sport l'articolo Fiorentina-Napoli 0-0 LIVE, il risultato in diretta",
-      "url": "https://sport.sky.it/calcio/serie-a/2021/05/16/fiorentina-napoli-risultato-gol",
-      "urlToImage": "https://static.sky.it/images/skysport/it/calcio/serie-a/2021/05/11/napoli-udinese-risultato-gol/gattuso_napoli.jpg",
-      "publishedAt": "2021-05-16T10:12:36Z",
-      "content": "FIORENTINA (3-5-2): Terracciano; Milenkovic, Pezzella, Caceres; Venuti, Bonaventura, Pulgar, Castrovilli, Biraghi; Ribery, Vlahovic. All. Iachini\r\nNAPOLI (4-2-3-1): Meret; Di Lorenzo, Manolas, Rrahma… [+84 chars]"
+      "author": "",
+      "title": "Bielorussia: 'bloccato l'accesso a sito indipendente Tut.by' - Ultima Ora - Agenzia ANSA",
+      "description": "Il sito internet di Tut.by, uno dei principali media indipendenti bielorussi, non è accessibile dal\r\nterritorio della Bielorussia: lo riporta il giornale Nasha Niva, ripreso dalla tv russa Dozhd. (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2021/05/18/bielorussia-bloccato-laccesso-a-sito-indipendente-tut.by_d1bd279c-8422-4504-9a01-01482cb15ce4.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2021/5/18/8eb59cc14007308483e495b89a59bd7c.jpg",
+      "publishedAt": "2021-05-18T10:25:00Z",
+      "content": "(ANSA) - MOSCA, 18 MAG - Il sito internet di Tut.by, uno dei\r\nprincipali media indipendenti bielorussi, non è accessibile dal\r\nterritorio della Bielorussia: lo riporta il giornale Nasha Niva,\r\nripres… [+445 chars]"
     }
   ]
 }

@@ -5,119 +5,15 @@ news_ca = {
     {
       "source": {
         "id": null,
-        "name": "Forbes"
-      },
-      "author": "Zak Doffman",
-      "title": "Is WhatsApp Actually ‘Lying’ To You? - Forbes",
-      "description": "WhatsApp has just been accused of seriously misleading 2 billion users about their privacy. Here's what you need to know...",
-      "url": "https://www.forbes.com/sites/zakdoffman/2021/05/16/is-whatsapp-lying-to-2-billion-iphone-and-android-users-after-facebook-backlash/",
-      "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a0e977b8a1c99d6c3f7a26%2F0x0.jpg%3FcropX1%3D1413%26cropX2%3D2385%26cropY1%3D763%26cropY2%3D1425",
-      "publishedAt": "2021-05-16T15:10:00Z",
-      "content": "WhatsApp has suddenly been accused of misleading its 2 billion users. The Facebook-owned platform promises it cannot read your messages. Not so, is the shocking new allegation from a major rival, you… [+7867 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "moosejawtoday.com"
-      },
-      "author": "Larissa Kurz",
-      "title": "Sask. vaccination age group extends today to include residents 20+ - moosejawtoday.com",
-      "description": "Residents aged 20 and over may now receive a COVID-19 vaccine from a clinic or pharmacy in Saskatchewan",
-      "url": "https://www.moosejawtoday.com/local-news/sask-vaccination-age-group-extends-today-to-include-residents-20-3779259",
-      "urlToImage": "https://www.vmcdn.ca/f/files/moosejawtoday/images/health-care/mj-covid-drive-through-clinic.JPG;w=1200;h=800;mode=crop",
-      "publishedAt": "2021-05-16T15:00:00Z",
-      "content": "As Saskatchewan prepares to conclude the first portion of its vaccination plan, the eligibility age limit has been lowered again to include residents aged 20 and older in the province. \r\nBeginning Ma… [+1098 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Tech Talk - Epic vs. Apple lawsuit impact - FOX 13 News Utah",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bDZ6QzVPdkUzeFnSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2021-05-16T14:37:35Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Kim Lyons",
-      "title": "New leak ahead of Google I/O claims Android 12 may include changes for widgets and notifications - The Verge",
-      "description": "A new video shows what looks like a revamped user interface for Android 12. Much of the info is in line with previous leaks about the latest build expected to be unveiled this week at Google I/O",
-      "url": "https://www.theverge.com/2021/5/16/22438065/new-leaks-ahead-google-io-android-12-big-changes",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/boTjDXiAQk6TZ8RAoxIgfoqSLws=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22311867/VRG_1777_Android_12_005.jpg",
-      "publishedAt": "2021-05-16T13:04:17Z",
-      "content": "Stacked widgets are among the new features that have been rumored for a while\r\nIllustration by Grayson Blackmon / The Verge\r\nJust ahead of Google I/O, which gets underway on Tuesday, a new leak purpo… [+1892 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Castanet.net"
       },
       "author": null,
-      "title": "Horoscope: May 16-22 - Heather's Horoscope - Castanet.net",
-      "description": "OVERVIEW: Positions of importance or leadership are settled one way or another.",
-      "url": "https://www.castanet.net/news/Heather-s-Horoscope/334106/Horoscope-May-16-22",
-      "urlToImage": "https://www.castanet.net/content/2021/5/heatherpic_p3531052.jpg",
-      "publishedAt": "2021-05-16T13:00:00Z",
-      "content": "OVERVIEW: \r\nPositions of importance or leadership are settled one way or another.\r\nOthers centre around to give support or back away from objections to it.\r\nDignity and self-confidence add an air of … [+1584 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ctvnews.ca"
-      },
-      "author": "Ted Raymond",
-      "title": "Ottawa man shot on Highway 417 | CTV News - CTV Edmonton",
-      "description": "An 18-year-old man was found with a gunshot wound on Highway 417 late Saturday night. Police believe there is no public safety risk.",
-      "url": "https://ottawa.ctvnews.ca/ottawa-man-shot-on-highway-417-1.5429962",
-      "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.5182927.1605039863!/httpImage/image.png_gen/derivatives/landscape_620/image.png",
-      "publishedAt": "2021-05-16T11:54:00Z",
-      "content": "OTTAWA -- \r\nOntario Provincial Police are investigating the shooting of an 18-year-old man on Highway 417 in rural east Ottawa.\r\nOPP were called to a section of the eastbound 417 near Anderson Road a… [+617 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ctvnews.ca"
-      },
-      "author": null,
-      "title": "Severe cyclone heading toward southern India; 4 dead - CTV News",
-      "description": "A severe cyclone is roaring in the Arabian Sea off southwestern India with winds of up to 140 kilometers per hour (87 miles per hour), already causing heavy rains and flooding that have killed at least four people, officials said Sunday.",
-      "url": "https://www.ctvnews.ca/world/severe-cyclone-heading-toward-southern-india-4-dead-1.5429952",
-      "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.5429956.1621164918!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
-      "publishedAt": "2021-05-16T11:36:00Z",
-      "content": "NEW DELHI -- \r\nA severe cyclone is roaring in the Arabian Sea off southwestern India with winds of up to 140 kilometers per hour (87 miles per hour), already causing heavy rains and flooding that hav… [+1759 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ctvnews.ca"
-      },
-      "author": "Jon Gambrell",
-      "title": "Islamic nations hold emergency summit on Israel-Gaza attacks - CTV News",
-      "description": "A league of Muslim nations on Sunday demanded that Israel halt attacks killing Palestinian civilians amid heavy fighting between it and Hamas in the Gaza Strip, even as fissures between countries over their recognition of Israel emerged.",
-      "url": "https://www.ctvnews.ca/world/islamic-nations-slam-israel-and-each-other-s-ties-to-it-1.5429950",
-      "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.5426964.1620939117!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
-      "publishedAt": "2021-05-16T11:26:00Z",
-      "content": "DUBAI, UNITED ARAB EMIRATES -- \r\nA league of Muslim nations on Sunday demanded that Israel halt attacks killing Palestinian civilians amid heavy fighting between it and Hamas in the Gaza Strip, even … [+4685 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Global News"
-      },
-      "author": "Staff",
-      "title": "A look at who the provinces plan to vaccinate against COVID-19 in the coming weeks - Global News",
-      "description": "Here's a list of the inoculation plans throughout Canada.",
-      "url": "https://globalnews.ca/news/7866398/canada-covid-vaccination-plans/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2021/05/CP121354555-1-1.jpg?quality=85&strip=all&w=720&h=379&crop=1",
-      "publishedAt": "2021-05-16T11:13:53Z",
-      "content": "As COVID-19 vaccine supplies ramp up across the country, most provinces and territories have released details of who can expect to receive a shot in the coming weeks.\r\nHealth Canada says up to 37 mil… [+8370 chars]"
+      "title": "Model Naomi Campbell says she is mother to a baby girl at 50 - World News - Castanet.net",
+      "description": "Naomi Campbell says she has become the mother of a baby girl.",
+      "url": "https://www.castanet.net/news/World/334278/Model-Naomi-Campbell-says-she-is-mother-to-a-baby-girl-at-50",
+      "urlToImage": "https://www.castanet.net/content/2021/5/20210518110548-60a3e1f2d8ad3f3ef7f5ed7ajpeg_p3531389.jpg",
+      "publishedAt": "2021-05-18T15:55:00Z",
+      "content": "Naomi Campbell says she has become the mother of a baby girl.\r\nThe 50-year-old British supermodel announced the news Tuesday on Instagram, posting a picture of her hand holding a baby’s feet.\r\nShe wr… [+908 chars]"
     },
     {
       "source": {
@@ -125,38 +21,12 @@ news_ca = {
         "name": "CBC News"
       },
       "author": null,
-      "title": "2 people dead following shooting in Listuguj Miꞌgmaq First Nation Saturday - CBC.ca",
-      "description": "Two people are dead following a shooting in Listuguj Miꞌgmaq First Nation Saturday morning, according to Quebec's police watchdog.",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/people-dead-shooting-listiguj-first-nation-1.6028708",
-      "urlToImage": "https://i.cbc.ca/1.5816520.1616186783!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/listiguj-mi-gmaq-first-nation.jpg",
-      "publishedAt": "2021-05-16T11:08:49Z",
-      "content": "Two people are dead following a shooting in Listuguj First Nation Saturday morning, according to Quebec's police watchdog.\r\nOfficers from the Listuguj Police Department were called to a residence on … [+1025 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Anime News Network"
-      },
-      "author": null,
-      "title": "Target Temporarily Halts Sales of Pokémon Trading Cards Citing 'Threat' to Customer, Worker Safety - Anime News Network",
-      "description": "Walmart denies it is pulling cards from shelves after 1 store posts signage asking vendors not to stock cards",
-      "url": "https://www.animenewsnetwork.com/news/2021-05-16/target-temporarily-halts-sales-of-pokemon-trading-cards-citing-threat-to-customer-worker-safety/.172823",
-      "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHP/cms/news.4/172823/cards.jpeg",
-      "publishedAt": "2021-05-16T11:02:00Z",
-      "content": "The New York Times reported on Friday that U.S. retail chain TARGET has temporarily halted sales of Pokémon Trading Card Game cards along with sports trading cards \"citing a threat to the safety of c… [+1527 chars]"
-    },
-    {
-      "source": {
-        "id": "the-globe-and-mail",
-        "name": "The Globe And Mail"
-      },
-      "author": "Paul Landini",
-      "title": "Personal training should be declared an essential service - The Globe and Mail",
-      "description": "Fitness industry has been promoting value of regular physical activity and health risks; make it an essential service",
-      "url": "https://www.theglobeandmail.com/life/health-and-fitness/article-personal-training-should-be-declared-an-essential-service/",
-      "urlToImage": "https://www.theglobeandmail.com/resizer/xHCrKqzBQ-Vvo9D5-p8z38zk98Y=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/3O6O2M4QK5F5TIRU4FFXLPY2U4.jpg",
-      "publishedAt": "2021-05-16T11:00:00Z",
-      "content": "John Ruffolo trains at home with his personal trainer Chris Campbell and Julie Vaughan-Graham, a neuro-rehabilitation specialist on March 3, 2021. Ruffolo, the former OMERS Ventures head, lost the us… [+5552 chars]"
+      "title": "All Ottawa vaccine appointments booked - CBC.ca",
+      "description": "Some newly eligible eastern Ontarians lost out on getting a COVID-19 vaccine appointment as slots filled up quickly for their age group on Tuesday morning.",
+      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-kingston-belleville-covid19-vaccine-1.6030892",
+      "urlToImage": "https://i.cbc.ca/1.5969720.1617122565!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/vaccine-clinic-ottawa-covid-coronavirus.jpg",
+      "publishedAt": "2021-05-18T15:51:43Z",
+      "content": "Some newly eligible eastern Ontarians lost out on getting a COVID-19 vaccine appointment as slots filled up quickly for their age group on Tuesday morning.\r\nThe province lowered the general vaccinati… [+868 chars]"
     },
     {
       "source": {
@@ -164,77 +34,168 @@ news_ca = {
         "name": "Google News"
       },
       "author": null,
-      "title": "China's Tianwen-1 spacecraft completes historic Mars landing - Al Jazeera English",
+      "title": "Trudeau, officials address Canadians on COVID-19 - CBC News",
       "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bGI0VnBXdVVyanfSAQA?oc=5",
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZERTSGNQcGRBVXPSAQA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2021-05-16T10:56:46Z",
+      "publishedAt": "2021-05-18T15:49:58Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "SooToday.com"
+        "name": "Vancouver Sun"
       },
-      "author": "SooToday Staff",
-      "title": "Good morning, Sault Ste. Marie! - Sault Ste. Marie News - SooToday",
-      "description": "Carpe diem",
-      "url": "https://www.sootoday.com/good-morning/good-morning-sault-ste-marie-3650588",
-      "urlToImage": "https://www.vmcdn.ca/f/files/shared/good-morning/soo/2021-04-12-gm-sault-bob-mcgauley-6.JPG;w=1000;h=668;mode=crop",
-      "publishedAt": "2021-05-16T10:00:00Z",
-      "content": ""
+      "author": "Scott Brown",
+      "title": "COVID-19 update for May 18: Canada's death toll hits 25,000 | Drop-in clinic open today for Surrey residents | U.S. cruise ships one step closer to skipping B.C. ports | Canada sets 75 per cent fully-vaccinated threshold before re-opening - Vancouver Sun",
+      "description": "Here's your daily update with everything you need to know on the novel coronavirus situation in B.C.",
+      "url": "https://vancouversun.com/news/local-news/covid-19-update-for-may-18-drop-in-clinic-open-today-for-surrey-residents-u-s-cruise-ships-one-step-closer-to-skipping-b-c-ports-canada-sets-75-per-cent-fully-vaccinated-threshold-before-re-ope",
+      "urlToImage": "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2021/01/china-health-canada.jpg",
+      "publishedAt": "2021-05-18T15:22:30Z",
+      "content": "Here's your daily update with everything you need to know on the novel coronavirus situation in B.C. \r\nScott Brown, Tiffany Crawford, Cheryl Chan, David Carrigg\r\nThe ultrastructural morphology exhibi… [+14552 chars]"
     },
     {
       "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
+        "id": "engadget",
+        "name": "Engadget"
       },
-      "author": null,
-      "title": "Proposed language reform gives immigrants 6 months to learn French - CBC.ca",
-      "description": "Under Bill 96, all provincial communication with immigrants will be solely in French six months after they arrive in Quebec.",
-      "url": "https://www.cbc.ca/news/canada/montreal/french-language-reform-quebec-immigrants-1.6027773",
-      "urlToImage": "https://i.cbc.ca/1.6027904.1621031972!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/abiodun-gaji.jpg",
-      "publishedAt": "2021-05-16T09:00:00Z",
-      "content": "Abiodun Gaji spent nine months learning French after immigrating to Quebec from Nigeria last year.\r\n\"French is a beautiful language,\" he said. \"I love it and learning French is interesting and it's a… [+2876 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Edmonton Journal"
-      },
-      "author": "Kurt Leavins",
-      "title": "The Edmonton Oilers are going to the Stanley Cup Playoff dance with the goalie who got them here: 9 Things - Edmonton Journal",
-      "description": "The Oilers are back in the Stanley Cup Playoffs.",
-      "url": "https://edmontonjournal.com/sports/hockey/nhl/cult-of-hockey/the-edmonton-oilers-are-going-to-the-stanley-cup-playoff-dance-with-the-goalie-who-got-them-here-9-things",
-      "urlToImage": "https://smartcdn.prod.postmedia.digital/edmontonjournal/wp-content/uploads/2021/04/oilers-vs-calgary-8.jpg",
-      "publishedAt": "2021-05-16T08:04:21Z",
-      "content": "Kurt Leavins\r\nThe Edmonton Oilers' goalie Mike Smith (41) during second period NHL action against the Calgary Flames at Rogers Place, in Edmonton Thursday April 29, 2021. Photo by David BloomPhoto by… [+7501 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "Alexander Graham Bell's mission to teach the deaf to speak still harms the hearing-impaired today, say critics - CBC.ca",
-      "description": "Alexander Graham Bell's true passion, and the project he focused on his entire life and funded with his earnings from the telephone, was the education of deaf people. But according to author Katie Booth, the harm of oralism still reverberates today.",
-      "url": "https://www.cbc.ca/radio/ideas/unsound-the-legacy-of-alexander-graham-bell-1.6020596/alexander-graham-bell-s-mission-to-teach-the-deaf-to-speak-still-harms-the-hearing-impaired-today-say-critics-1.6025659",
-      "urlToImage": "https://i.cbc.ca/1.6020605.1620663793!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2637970.jpg",
-      "publishedAt": "2021-05-16T08:00:00Z",
-      "content": "The great project of Alexander Graham Bell's life was, perhaps surprisingly, not the telephone.\r\nHe focused much of his life on the education of deaf people, funded by his earnings from his famous in… [+9031 chars]"
+      "author": "https://www.engadget.com/about/editors/jon-fingas",
+      "title": "The next MacBook Pros may pair Apple silicon with 64GB of RAM - Engadget",
+      "description": "Apple's redesigned 14- and 16-inch MacBook Pros will reportedly pack new chips that support up to 64GB of RAM, not to mention four Thunderbolt ports..",
+      "url": "https://www.engadget.com/apple-macbook-pro-mac-mini-cpu-leaks-151945192.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/c3f773a0-b7e5-11eb-bfff-8865a6ff63da",
+      "publishedAt": "2021-05-18T15:21:28Z",
+      "content": "The 16GB memory ceiling and two Thunderbolt ports on M1-based Macs has left pro users more than a little concerned will the eventual higher-end systems be hobbled compared to their Intel counterparts… [+1836 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Ctvnews.ca"
       },
-      "author": "Josh Pringle",
-      "title": "These groups are eligible to book a COVID-19 vaccine appointment in Ottawa the week of May 17 - CTV Edmonton",
-      "description": "Ottawa residents in their 30s are next in line to receive the COVID-19 vaccine this week, as the COVID-19 vaccination rollout continues.",
-      "url": "https://ottawa.ctvnews.ca/these-groups-are-eligible-to-book-a-covid-19-vaccine-appointment-in-ottawa-the-week-of-may-17-1.5429755",
-      "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.5368153.1617121022!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
-      "publishedAt": "2021-05-16T08:00:00Z",
+      "author": "Rachel Lau",
+      "title": "Quebec reports 549 new COVID-19 cases, 9 more deaths - CTV News Montreal",
+      "description": "Quebec has 549 new COVID-19 cases, bringing the total number of people infected to 364,396 since the start of the pandemic.",
+      "url": "https://montreal.ctvnews.ca/quebec-reports-549-new-covid-19-cases-9-more-deaths-1.5432614",
+      "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.5333569.1614872935!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+      "publishedAt": "2021-05-18T15:09:00Z",
+      "content": "MONTREAL -- \r\nQuebec has 549 new COVID-19 cases, bringing the total number of people infected to 364,396 since the start of the pandemic.\r\nThe province's health officials also confirmed nine more dea… [+1182 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ctvnews.ca"
+      },
+      "author": "Codi Wilson",
+      "title": "Flowers and stuffed animals left at Vaughan, Ont. home where 2 children were struck and killed - CTV Toronto",
+      "description": "Flowers and more than a dozen stuffed animals have been piled in front of the Vaughan home where two children were struck and killed in their driveway over the weekend.",
+      "url": "https://toronto.ctvnews.ca/flowers-and-stuffed-animals-left-at-vaughan-ont-home-where-2-children-were-struck-and-killed-1.5432695",
+      "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.5432139.1621300610!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+      "publishedAt": "2021-05-18T15:02:00Z",
+      "content": "TORONTO -- \r\nFlowers and more than a dozen stuffed animals have been piled in front of the Vaughan home where two children were struck and killed in their driveway over the weekend.\r\nOver the past tw… [+1878 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sify News"
+      },
+      "author": "ANI",
+      "title": "China's rocket debris spurs calls for policies to mitigate space junk - Sify News",
+      "description": "Beijing [China], May 18 (ANI): The uncontrolled re-entry of a China Long March rocket into Earths atmosphere has spurred the calls for new policies to help mitigate the growing problem of space junk.",
+      "url": "https://www.sify.com/news/chinas-rocket-debris-spurs-calls-for-policies-to-mitigate-space-junk-news-international-vfsoTghdhfeif.html",
+      "urlToImage": "https://www.sify.com/images/news-183x123.jpg",
+      "publishedAt": "2021-05-18T14:55:06Z",
+      "content": "Beijing [China], May 18 (ANI): The uncontrolled re-entry of a China Long March rocket into Earth's atmosphere has spurred the calls for new policies to help mitigate the growing problem of space junk."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.tsn.ca"
+      },
+      "author": "TSN.ca Staff",
+      "title": "Ice Chips: Panthers' Driedger to start Game 2 - TSN",
+      "description": "Chris Driedger was in the starter's net at morning skate ahead of Game 2 against the Tampa Bay Lighting.",
+      "url": "https://www.tsn.ca/ice-chips-chris-driedger-in-starter-s-net-at-florida-panthers-morning-skate-1.1641751",
+      "urlToImage": "https://www.tsn.ca/polopoly_fs/1.1578910!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/chris-driedger.jpg",
+      "publishedAt": "2021-05-18T14:22:47Z",
+      "content": "Keep updated on all the injury news and roster updates from around the NHL with daily Ice Chips.\r\nFlorida Panthers\r\nChris Driedger will start Game 2 against the Tampa Bay Lightning, per head coach Jo… [+730 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportsnet.ca"
+      },
+      "author": null,
+      "title": "For Jets to overcome McDavid, Scheifele must shine in playoff spotlight - Sportsnet.ca",
+      "description": "Mark Scheifele wasn’t about to shy away from the spotlight going into the season — and he’s certainly not about to start now that the Stanley Cup Playoffs have arrived.",
+      "url": "https://www.sportsnet.ca/nhl/article/jets-overcome-mcdavid-scheifele-must-shine-playoff-spotlight/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2020/08/winnipeg-jets-mark-scheifele.jpg",
+      "publishedAt": "2021-05-18T14:11:00Z",
+      "content": "WINNIPEG Mark Scheifele wasnt about to shy away from the spotlight going into the season and hes certainly not about to start now that the Stanley Cup Playoffs have arrived.\r\nWhen you have the courag… [+6620 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "What Liz Cheney got right about Trump and Republicans - CNN",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UndQajBON1JVUnPSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-05-18T13:53:49Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "TD Bank accused of losing customers' RSPs — again - CBC.ca",
+      "description": "TD Canada Trust customers are accusing the bank of losing tens of thousands of dollars in retirement savings plan contributions they entrusted to the financial institution.",
+      "url": "https://www.cbc.ca/news/canada/toronto/td-bank-rsp-1.6029875",
+      "urlToImage": "https://i.cbc.ca/1.6029898.1621283744!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/bhupendra-and-anila-narsey.jpg",
+      "publishedAt": "2021-05-18T13:42:13Z",
+      "content": "More TD Canada Trust customers are accusing the bank of losing tens of thousands of dollars in Retirement Savings Plan contributions they deposited with the financial institution.\r\nTwo TD clients who… [+7683 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportsnet.ca"
+      },
+      "author": null,
+      "title": "Watch Live: Raptors’ Kyle Lowry addresses media ahead of off-season - Sportsnet.ca",
+      "description": "With free agency looming, Toronto Raptors star Kyle Lowry addresses the media Tuesday live on Sportsnet.ca starting at approximately 10:00 a.m. ET / 7:00 a.m. PT.",
+      "url": "https://www.sportsnet.ca/nba/article/watch-live-raptors-kyle-lowry-addresses-media-ahead-off-season/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2021/03/LowrySiakamRaptors.jpg",
+      "publishedAt": "2021-05-18T13:40:00Z",
+      "content": "With free agency looming, Toronto Raptors star Kyle Lowry addresses the media Tuesday to discuss the team's tumultuous 2020-21 NBA season and his future with the club going forward.\r\nWatch the entire… [+288 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "M1 iMac Reviews: Impressively Fast With Long-Awaited Redesign - MacRumors",
+      "description": "The embargo has lifted on reviews of Apple's new 24-inch iMac, powered by the same M1 chip that debuted in the 13-inch MacBook Pro, MacBook Air,...",
+      "url": "https://www.macrumors.com/review/m1-imac/",
+      "urlToImage": "https://images.macrumors.com/t/ycO-REqlAHBi89KlbToPsJsubGw=/1600x/https://images.macrumors.com/article-new/2021/05/verge-imac-m1.jpeg",
+      "publishedAt": "2021-05-18T13:18:24Z",
+      "content": "The embargo has lifted on reviews of Apple's new 24-inch iMac, powered by the same M1 chip that debuted in the 13-inch MacBook Pro, MacBook Air, and Mac mini last year. We've gathered up impressions … [+3204 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Daniel Howley",
+      "title": "I’ve been using Apple’s M1-powered iMac for a week, and its convinced me to buy one - Yahoo Canada Finance",
+      "description": "Apple's new iMac packs a new design, sonorous speakers with full bass, and the power of the company's new M1 chip.",
+      "url": "https://ca.finance.yahoo.com/news/apple-imac-m1-review-130047717.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/37a47UeGlMo2FmImDAPrqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMTI0/https://s.yimg.com/os/creatr-uploaded-images/2021-05/fd31ddb0-b75c-11eb-bdbf-44e2c9b2c05d",
+      "publishedAt": "2021-05-18T13:00:47Z",
+      "content": "Apple's new iMac features the power of the company's M1 chip, a redesigned chassis, and a bunch of power. (Image: Apple)\r\nI've been using Apple's (AAPL) latest iMac, the 24-inch model the company int… [+6473 chars]"
     },
     {
       "source": {
@@ -242,25 +203,64 @@ news_ca = {
         "name": "Al Jazeera English"
       },
       "author": "Al Jazeera",
-      "title": "Panic buying in Taiwan as new COVID-19 rules kick off - Al Jazeera English",
-      "description": "Authorities say there is no need to hoard noodles or toilet paper after new COVID-19 restrictions trigger panic buying.",
-      "url": "https://www.aljazeera.com/news/2021/5/16/taiwan-urges-no-panic-buying-as-new-covid-19-rules-kick-off",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/05/2021-05-16T032900Z_2061716622_RC2PGN96VY2U_RTRMADP_3_HEALTH-CORONAVIRUS-TAIWAN.jpg?resize=1200%2C630",
-      "publishedAt": "2021-05-16T06:50:33Z",
-      "content": "Authorities in Taiwan have appealed to people to avoid panic buying of items such as instant noodles and toilet paper as new curbs on gatherings and movement took effect to rein in the spread of COVI… [+2225 chars]"
+      "title": "Why is the US unequivocal in its support for Israel? - Al Jazeera English",
+      "description": "US support for Israel is rooted in World War II, the Cold War, pro-Israeli political influence and serious PR heft.",
+      "url": "https://www.aljazeera.com/news/2021/5/18/short-answer-why-is-the-united-states-so-pro-israel",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/05/2020-11-07T000000Z_1332204449_RC2IYJ97G4RN_RTRMADP_3_USA-ELECTION-REACTION-ISRAEL.jpg?resize=1200%2C630",
+      "publishedAt": "2021-05-18T12:59:33Z",
+      "content": "With Israel bombarding Gaza for a second week, United States President Joe Biden and his administration are sticking to a long-established script in Washington, expressing unequivocal support for Isr… [+8091 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "Yadullah Hussain",
+      "title": "Posthaste: Bidding wars and sky-high prices — cottage property values set to rise by another 30% amid rural rally - Financial Post",
+      "description": "Plus, these recreational markets will continue to see a surge for the rest of the year",
+      "url": "https://financialpost.com/executive/posthaste-bidding-wars-and-sky-high-prices-cottage-property-values-set-to-rise-by-another-30-amid-rural-rally",
+      "urlToImage": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2021/05/cottage.jpg",
+      "publishedAt": "2021-05-18T12:03:48Z",
+      "content": "Good morning!\r\nCanadas urban real estate boom has cascaded all the way into cottage country, lifting prices even in the remote parts of the country.\r\nA new report by RE/MAX brokers and agents publish… [+3076 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Global News"
       },
-      "author": "David Lao",
-      "title": "‘SNL’ spoofs new U.S. mask guidance with ‘CDC Players’ drama troupe performance - Global News",
-      "description": "To clear things about the new mask guidance, a few doctors at the CDC who minored in theatre were made to reenact scenarios to show correct mask behaviour.",
-      "url": "https://globalnews.ca/news/7866208/snl-mask-guidance-cdc-spoof-fauci/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2021/05/Fauci-e1621139412325.png?w=720&h=379&crop=1",
-      "publishedAt": "2021-05-16T04:30:24Z",
-      "content": "Saturday Night Live (SNL) took it on themselves to help explain the U.S. Centers for Disease Control and Prevention (CDC)’s new mask guidance earlier this week in their newest cold-open.\r\nStarting th… [+1938 chars]"
+      "author": "Nathan Allen",
+      "title": "AstraZeneca 1st dose, Pfizer 2nd: Study says combination is safe and effective - Global News",
+      "description": "Spain embarked on the study to determine how best to proceed after limiting AstraZeneca's shot to people aged over 60 due to concerns about blood clotting in younger people.",
+      "url": "https://globalnews.ca/news/7871590/mix-match-covid-vaccines-astrazeneca-pfizer/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2021/05/GettyImages-1232706586.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2021-05-18T12:00:10Z",
+      "content": "A Spanish study on mixing COVID-19 vaccines has found that giving a dose of Pfizer’s drug to people who already received a first shot of AstraZeneca vaccine is highly safe and effective, preliminary … [+2118 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Ian Carlos Campbell",
+      "title": "Google I/O 2021: live stream, start time, and schedule - The Verge",
+      "description": "Learn about Android 12, Google Assistant, and possible hints of future products like the Pixel 5a by watching Google’s I/O conference live.",
+      "url": "https://www.theverge.com/2021/5/18/22434772/google-io-live-stream-watch-time-android-12-pixel-5a",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ur79HGb9ir4zq0hf6rrbqClBA0s=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10801249/acastro_180508_1777_google_IO_0002.jpg",
+      "publishedAt": "2021-05-18T12:00:00Z",
+      "content": "Learn more about Android 12 and possible hints of new Pixel Buds and the Whitechapel chip"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ctvnews.ca"
+      },
+      "author": "The Canadian Press",
+      "title": "All adults in Ontario eligible to book COVID-19 vaccine appointments today - CTV Toronto",
+      "description": "Anyone 18 and older living in Ontario is eligible to book a COVID-19 vaccine appointment starting today.",
+      "url": "https://toronto.ctvnews.ca/all-adults-in-ontario-eligible-to-book-covid-19-vaccine-appointments-today-1.5432362",
+      "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.5432370.1621337104!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+      "publishedAt": "2021-05-18T11:25:00Z",
+      "content": "TORONTO -- \r\nAnyone 18 and older living in Ontario is eligible to book a COVID-19 vaccine appointment starting today.\r\nAppointments can be booked through the provincial online portal, call centre or … [+467 chars]"
     }
   ]
 }

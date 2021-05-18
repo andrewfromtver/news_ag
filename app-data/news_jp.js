@@ -5,209 +5,40 @@ news_jp = {
     {
       "source": {
         "id": null,
-        "name": "Natalie.mu"
+        "name": "Forbesjapan.com"
       },
-      "author": "映画ナタリー",
-      "title": "V6がananでメンバーとファンへの思い語る、グラビアではV字に並ぶ - ナタリー",
-      "description": "V6が表紙とグラビアに登場するanan 2251号が、5月26日に発売される。",
-      "url": "https://natalie.mu/eiga/news/428401",
-      "urlToImage": "https://ogre.natalie.mu/media/news/eiga/2021/0516/anan_2021005_01.jpg?imwidth=750",
-      "publishedAt": "2021-05-16T15:00:00Z",
-      "content": null
+      "author": "https://www.facebook.com/forbesjapan/",
+      "title": "薄さがすごい「新iMac」、在宅メインならライバルはMacBookか - Forbes JAPAN",
+      "description": "アップルがデザインを一新、エンターテインメント性能も大幅に強化したディスプレイ一体型のオールインワンデスクトップ「iMac」を発売する。在宅リモートワークの即戦力としても磨きがかかった新しいiMacは期待を大きく越えるものだった。 Appl",
+      "url": "https://forbesjapan.com/articles/detail/41383",
+      "urlToImage": "https://2019.images.forbesjapan.media/articles/41000/41383/photos/410x618/41383f41b327397dd11c42d8f3f585c439ca9.jpg",
+      "publishedAt": "2021-05-18T13:00:00Z",
+      "content": "iMaciMaciMacApple M1OSmacOS 11 Big SurApple M1iMac154800GPU177800521iMacCPUGPU\r\nApple M121.5/4K RetinaiMac50\r\n11.5Apple M1\r\n21.5iMaciMac244.5K Retina1kg\r\nPCiMac\r\n7iMaciMac\r\n2421.54K RetinaiMac"
     },
     {
       "source": {
-        "id": null,
-        "name": "Asahi.com"
-      },
-      "author": "朝日新聞デジタル",
-      "title": "内閣支持33％に急落 コロナ対応に不満 朝日世論調査 - 朝日新聞デジタル",
-      "description": "朝日新聞社は15、16日に全国世論調査（電話）を実施した。菅内閣の支持率は33%（前回4月は40%）に下がり、昨年9月の発足以来、最低タイとなった。不支持率は47%（同39%）で、支持を大きく上回っ…",
-      "url": "https://www.asahi.com/articles/ASP5J6F5BP5FUZPS002.html",
-      "urlToImage": "https://www.asahicom.jp/articles/images/c_AS20210516002171_comm.jpg",
-      "publishedAt": "2021-05-16T13:38:19Z",
-      "content": "151633%440%947%39%23%29%67%61%\r\n2133%46039%25%7038%30%\r\n66%28%7073%6080%\r\n45%42%47%39%13%52%369%\r\n61%27%41%\r\n3%38%41%49%10%59%36%64%\r\n54%36%47%49%\r\n73%20%49%92%\r\n30%435%440%535%14%17%\r\nRDD15161135608… [+16 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo.co.jp"
-      },
-      "author": "朝日新聞デジタル",
-      "title": "澤田隆治さん死去「てなもんや三度笠」「花王名人劇場」（朝日新聞デジタル） - Yahoo!ニュース - Yahoo!ニュース",
-      "description": "「てなもんや三度笠」「花王名人劇場」をはじめとする人気番組を手がけ、1980年代の漫才ブームの火付け役でもあったテレビ・ラジオプロデューサーの澤田隆治（さわだ・たかはる）さんが16日、東京都内の病",
-      "url": "https://news.yahoo.co.jp/articles/43b56518e448f5111e92cfdf5436bd39980325a3",
-      "urlToImage": "https://amd-pctr.c.yimg.jp/r/iwiz-amd/20210516-00000042-asahi-000-4-view.jpg",
-      "publishedAt": "2021-05-16T12:44:12Z",
-      "content": "19801688\r\n5560%\r\n7079BBTHEMANZAI80\r\nTHE"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo.co.jp"
-      },
-      "author": "毎日新聞",
-      "title": "大阪府のコロナ死者、累計1958人に 東京を上回る 2月3日以来（毎日新聞） - Yahoo!ニュース - Yahoo!ニュース",
-      "description": "大阪府は16日、新型コロナウイルスによる死者が新たに15人確認されたと発表した。府内の累計死者数は1958人となり、東京都（1951人）を上回って全国最多となった。大阪が最多となるのは、感染拡大の",
-      "url": "https://news.yahoo.co.jp/articles/39cd5f2a2b140b776298d84ac2746d732aa61cac",
-      "urlToImage": "https://amd-pctr.c.yimg.jp/r/iwiz-amd/20210516-00000042-mai-000-9-view.jpg",
-      "publishedAt": "2021-05-16T12:14:57Z",
-      "content": "161519581951323\r\n4334252511555165021347\r\n3114271423\r\n32020102124523780609814752609316761\r\n451000\r\n413\r\n5161540231418"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Itmedia.co.jp"
+        "id": "google-news",
+        "name": "Google News"
       },
       "author": null,
-      "title": "猫ちゃんたち「田植えキタ―（ﾟ∀ﾟ）―！」 トラクターの通過に盛り上がる猫ちゃんたちが面白い - - ねとらぼ",
-      "description": "�c�A�����w���̔L����񂽂��B",
-      "url": "https://nlab.itmedia.co.jp/nl/articles/2105/16/news008.html",
-      "urlToImage": "https://image.itmedia.co.jp/nl/articles/2105/16/cover_news008.jpg",
-      "publishedAt": "2021-05-16T12:00:00Z",
+      "title": "【新型コロナ】重症病床の現場・京都 スライドショー - SankeiNews",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Z3lRb3hvRU4tZzDSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-05-18T12:47:14Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "Nhk.or.jp"
-      },
-      "author": "日本放送協会",
-      "title": "都内 新型コロナ新たに５４２人感染確認「依然高いレベル」｜NHK 首都圏のニュース - NHK NEWS WEB",
-      "description": "東京都は１６日、都内で新たに５４２人が新型コロナウイルスに感染していることを確認したと発表しました。\n都の担当者は「感染の数は依然として高…",
-      "url": "https://www3.nhk.or.jp/shutoken-news/20210516/1000064482.html",
-      "urlToImage": "https://www3.nhk.or.jp/shutoken-news/20210516/1000064482_20210516205939_m.jpg",
-      "publishedAt": "2021-05-16T11:19:00Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo.co.jp"
-      },
-      "author": "北海道ニュースUHB",
-      "title": "5人死亡 491人感染北海道 \"バー・スナック・高校\"計3つクラスター 「緊急事態宣言」発令初日（北海道ニュースUHB） - Yahoo!ニュース - Yahoo!ニュース",
-      "description": "北海道は5月16日、新たに新型コロナウイルスへの感染が確認された491人中、北海道発表分148人の詳細を発表しました。\n\n　16日は5人が死亡（札幌市4人、北海道発表分1人）、感染者は札幌市で32",
-      "url": "https://news.yahoo.co.jp/articles/39f76afa7560f05511f8323a08ee4140df37eec4",
-      "urlToImage": "https://amd-pctr.c.yimg.jp/r/iwiz-amd/20210516-00000013-hokkaibunv-000-1-view.jpg",
-      "publishedAt": "2021-05-16T11:03:01Z",
-      "content": "516491148\r\n1654132213849155009400\r\n3\r\nVOCALO Bar P-world8\r\n58853\r\n1050\r\n26PCR\r\n5610\r\n0120-501-50724\r\n0143-24-9833845530\r\n10\r\n5101073\r\n2040\r\n16PCR\r\n5\r\n5145\r\n10\r\n5PCR\r\n243\r\n619\r\n124\r\n415\r\n129\r\n516\r\n16\r… [+167 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yomiuri.co.jp"
-      },
-      "author": "読売新聞オンライン",
-      "title": "林道に女子中学生遺棄、わいせつ目的で誘拐か…男を再逮捕 - 読売新聞",
-      "description": "兵庫県丹波市氷上町の林道で県内に住む女子中学生の遺体が見つかった事件で、県警丹波署は１６日、住所不定、無職の男（２３）（死体遺棄容疑で逮捕）をわいせつ目的誘拐容疑で再逮捕した。 　発表では、男は、誘拐してわいせつな行為",
-      "url": "https://www.yomiuri.co.jp/national/20210516-OYT1T50147/",
-      "urlToImage": "https://www.yomiuri.co.jp/media/2021/05/20210516-OYT1I50075-T.jpg?type=ogp",
-      "publishedAt": "2021-05-16T11:03:00Z",
-      "content": "© The Yomiuri Shimbun."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nikkei.com"
-      },
-      "author": "日本経済新聞社",
-      "title": "緊急事態入り3道県、昼の人出2ケタ減 東京・大阪は増加 - 日本経済新聞",
-      "description": "北海道、岡山、広島の3道県に16日、緊急事態宣言が適用された。3道県の主要地点の昼の人出をみると、いずれも前週日曜日から2ケタ減少した。「まん延防止等重点措置」が16日から適用された3県でも、群馬、熊本の両県はマイナスだった。一方、宣言が延長された東京都と大阪府は2ケタ増で、「緊急事態慣れ」とも言える状況だ。ドコモ・インサイトマーケティング（東京・豊島）の位置情報データに基づき、16日に宣言や",
-      "url": "https://www.nikkei.com/article/DGXZQOCC153VH0V10C21A5000000/",
-      "urlToImage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO0607855016052021000000-1.jpg?auto=format%2Ccompress&ch=Width%2CDPR&q=45&fit=crop&bg=FFFFFF&w=1200&h=630&fp_x=0.5&fp_y=0.5&fp_z=1&crop=focalpoint&ixlib=js-1.4.1&s=a99667e9ff2a81de3b25734f39554982",
-      "publishedAt": "2021-05-16T11:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nikkei.com"
-      },
-      "author": "日本経済新聞社",
-      "title": "自動運転の特許競争力、トヨタなど巻き返し IT系抜く - 日本経済新聞",
-      "description": "自動運転の技術開発で、IT（情報技術）大手より出遅れていた自動車大手が巻き返している。1月末の米国での特許の競争力を調べると、米フォード・モーターやトヨタ自動車が上位に入り、2年半前の前回調査で首位だった米アルファベット系を抜いた。自動車大手は「走る、止まる、曲がる」など基本的な走行技術が強い。自動運転車の実用化が近づくにつれ、これまでリードしてきたIT系と拮抗しつつある。日本企業は自動車大手",
-      "url": "https://www.nikkei.com/article/DGXZQOUC2802L0Y1A420C2000000/",
-      "urlToImage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO0559055028042021000000-1.jpg?auto=format%2Ccompress&ch=Width%2CDPR&q=45&fit=crop&bg=FFFFFF&w=1200&h=630&fp_x=0.5&fp_y=0.5&fp_z=1&crop=focalpoint&ixlib=js-1.4.1&s=1ae2cd521aa8eccbff0e2fcf934ba47b",
-      "publishedAt": "2021-05-16T10:53:12Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nikkei.com"
-      },
-      "author": "日本経済新聞社",
-      "title": "イスラエル首相「ガザ空爆継続」 米仲介効果乏しく（写真=ロイター） - 日本経済新聞",
-      "description": "【カイロ=久門武史、ワシントン=中村亮】イスラエルのネタニヤフ首相は15日、パレスチナ自治区ガザへの空爆継続を宣言した。同日にはAP通信などが入るビルを破壊、16日も空爆を続けた。バイデン米大統領はイスラエル、パレスチナ首脳と相次ぎ電話協議し、緊張緩和を求めたが衝突に歯止めをかけられずにいる。「市民の安全を取り戻すまで全力で対処する」。ネタニヤフ氏は15日の演説で、自衛権を主張しガザへの空爆を",
-      "url": "https://www.nikkei.com/article/DGXZQOGR161O10W1A510C2000000/",
-      "urlToImage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO0608009016052021000000-1.jpg?auto=format%2Ccompress&ch=Width%2CDPR&q=45&fit=crop&bg=FFFFFF&w=1200&h=630&fp_x=0.94&fp_y=0.48&fp_z=1&crop=focalpoint&ixlib=js-1.4.1&s=2779f3ad3e5e523ada96c708eb9f4d3a",
-      "publishedAt": "2021-05-16T10:31:20Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nhk.or.jp"
+        "id": "google-news",
+        "name": "Google News"
       },
       "author": null,
-      "title": "ロッテ 佐々木朗希 プロ初登板は5回4失点 初勝利ならず - NHK NEWS WEB",
-      "description": "プロ野球ロッテの2年目、佐々木朗希投手が16日本拠地で行われた西武戦でプロ初登板を果たしましたが、5回4失点で初勝利はな…",
-      "url": "https://www3.nhk.or.jp/news/html/20210516/k10013034251000.html",
-      "urlToImage": "https://www3.nhk.or.jp/news/html/20210516/K10013034251_2105161752_2105161753_01_02.jpg",
-      "publishedAt": "2021-05-16T10:30:56Z",
-      "content": "21654\r\n154\r\n16ZOZO211 3141 2 22\r\n21544323\r\n1542\r\n5107645\r\n866"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo.co.jp"
-      },
-      "author": "Full-Count",
-      "title": "【MLB】丸太のような太い腕… 大谷翔平、鍛え上げられた肉体が生み出す驚異のパワー（Full-Count） - Yahoo!ニュース - Yahoo!ニュース",
-      "description": "14日（日本時間15日）に行われた敵地レッドソックス戦で11号本塁打を放ったエンゼルスの大谷翔平投手。泳ぎながら、片手1本のフォロースルーで、左翼にそびえ立つ11.3メートルのフェンウェイ・パーク",
-      "url": "https://news.yahoo.co.jp/articles/b2065b36fbc4d95c3c70550b8664c67e950007ae",
-      "urlToImage": "https://amd-pctr.c.yimg.jp/r/iwiz-amd/20210516-01086363-fullcount-000-3-view.jpg",
-      "publishedAt": "2021-05-16T10:30:00Z",
-      "content": "- - - - - - - - Copyright © 2021 Creative Co., Ltd. \r\n©Yahoo Japan"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo.co.jp"
-      },
-      "author": "ねとらぼ",
-      "title": "【ドラゴンクエスト】ドラクエVのドラゴン系モンスターであなたが好きなのはどれ？（ねとらぼ） - Yahoo!ニュース",
-      "description": "「ドラゴンクエスト」において、ドラゴン系モンスターは欠かせない存在。敵としても味方としても強力なモンスターがそろっています。",
-      "url": "https://news.yahoo.co.jp/articles/5eebaffc5dc9bd16e3192b7d9367ae548fa653b8",
-      "urlToImage": "https://amd-pctr.c.yimg.jp/r/iwiz-amd/20210516-10006511-it_nlab-000-1-view.jpg",
-      "publishedAt": "2021-05-16T10:06:18Z",
-      "content": "- - - - - - - - Copyright © 2021 ITmedia Inc. \r\n©Yahoo Japan"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tenki.jp"
-      },
-      "author": "樋口　康弘",
-      "title": "梅雨入り迫る東北地方 17日早朝は激しい雨・大雨災害に注意・警戒を!(日直予報士 2021年05月16日) - 日本気象協会 tenki.jp - tenki.jp",
-      "description": "日本海から大陸に延びる梅雨前線が東北地方に接近中。17日早朝は、東北の日本海側を中心に局地的に激しい雨が降り、大雨のおそれ。梅雨入り迫る東北地方では大雨による土砂災害や川の増水、田んぼや用水路の増水、冠水などに注意・警戒を!",
-      "url": "https://tenki.jp/forecaster/y_higuchi/2021/05/16/12488.html",
-      "urlToImage": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/1/12/124/12488/main/20210516184707/large.jpg",
-      "publishedAt": "2021-05-16T10:00:23Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Mainichi"
-      },
-      "author": "毎日新聞",
-      "title": "台湾でコロナ感染急増 2日連続で3桁 北部の2市は集会禁止に - 毎日新聞 - 毎日新聞",
-      "description": "台湾の陳時中・衛生福利部長（衛生相）は16日、新型コロナウイルスの感染者が新たに207人確認されたと発表した。このうち、市中感染は206人。新規感染者数は15日の185人に続いて2日連続で3桁となり、1日の感染確認数で過去最多を更新した。",
-      "url": "https://mainichi.jp/articles/20210516/k00/00m/030/116000c",
-      "urlToImage": "https://cdn.mainichi.jp/vol1/2020/02/14/20200214k0000m030333000p/0c10.jpg?1",
-      "publishedAt": "2021-05-16T09:51:19Z",
+      "title": "中国政府「障害を排除」 ワクチン巡り台湾を牽制(2021年5月18日) - ANNnewsCH",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9YklBT3lTeHhsSTTSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-05-18T12:44:26Z",
       "content": null
     },
     {
@@ -216,37 +47,76 @@ news_jp = {
         "name": "Yahoo.co.jp"
       },
       "author": "スポニチアネックス",
-      "title": "プロ野球2リーグ制以降、初の同日4試合引き分け 決着ついた残り2試合も1点差（スポニチアネックス） - Yahoo!ニュース - スポーツナビ",
-      "description": "プロ野球は16日、6試合が行われたが4試合が引き分けの珍事となった。セ・パの2リーグ制となった1950年以降、4試合が引き分けになるのは史上初めてとなった。\n\n　ロッテは佐々木朗希投手のプロ初登板",
-      "url": "https://news.yahoo.co.jp/articles/33de7eca700585c3b6fe68675bdbac9557c89200",
-      "urlToImage": "https://amd-pctr.c.yimg.jp/r/iwiz-amd/20210516-00000298-spnannex-000-8-view.jpg",
-      "publishedAt": "2021-05-16T09:45:48Z",
-      "content": "1664219504\r\n662233DeNA22\r\n65101\r\n951234316377412"
+      "title": "日本ハムは逆転負け 栗山監督「選択肢はあるんだけど結果論だから」（スポニチアネックス） - Yahoo!ニュース - Yahoo!ニュース",
+      "description": "◇パ・リーグ　日本ハム2―3楽天（2021年5月18日　楽天生命パーク）\n\n　日本ハムは2―2の8回にB・ロドリゲスが浅村に勝ち越しソロを浴びて逆転負けを喫した。\n\n　2点リードの5回1死満塁で先",
+      "url": "https://news.yahoo.co.jp/articles/0f01d3011d06f4f1a164c6385843a3d4e7a15e90",
+      "urlToImage": "https://amd-pctr.c.yimg.jp/r/iwiz-amd/20210518-00000308-spnannex-000-4-view.jpg",
+      "publishedAt": "2021-05-18T12:44:18Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo.co.jp"
+      },
+      "author": "Bloomberg",
+      "title": "台湾、半導体生産続け供給維持目指す－域内で新型コロナ感染が急増（Bloomberg） - Yahoo!ニュース - Yahoo!ニュース",
+      "description": "（ブルームバーグ）： 新型コロナウイルスの新規感染者が急増している台湾は、世界的な半導体の供給維持に務めると政府が表明した。政府はまた、現時点では感染拡大による影響は限定的だとみている。",
+      "url": "https://news.yahoo.co.jp/articles/5d5da53e47e639926b0ce321cdf44e4758441800",
+      "urlToImage": "https://s.yimg.jp/images/jpnews/cre/common/all/images/fbico_ogp_1200x630.png",
+      "publishedAt": "2021-05-18T12:24:54Z",
+      "content": "18300.160.53\r\n4.64\r\nTaiwan Aims to Keep Chip Production Humming as Covid Spreads\r\n(c)2021 Bloomberg L.P.\r\nDebby Wu Miaojung Lin"
     },
     {
       "source": {
         "id": null,
         "name": "Itmedia.co.jp"
       },
-      "author": "�܌��A���{�V�C�˂Ƃ��",
-      "title": "杉咲花、「おちょやん」終了を節目にインスタ閉鎖の決断 「突然で驚かせてしまうかもしれませんが」（1/2 ページ） - - ねとらぼ",
-      "description": "�ŋ��ɏW�����邽�߂������ł��B",
-      "url": "https://nlab.itmedia.co.jp/nl/articles/2105/16/news035.html",
-      "urlToImage": "https://image.itmedia.co.jp/nl/articles/2105/16/cover_news035.jpg",
-      "publishedAt": "2021-05-16T09:45:00Z",
-      "content": "@oD516InstagramXVBuAJEgvIvInstagramAJEg\\BccH\r\n@uRANXA`AwWCvRBoNHKAeruvIAJEgB\r\n@uvI}514AInstagramuASAvuoAvvu[A{{y!!vvÂB\r\n@euARgxB{!!vtH[`At@cOBAuvuIvuCX^t^CBvuccC~IvAX^XAeB\r\nCopyright © ITmedia, … [+24 chars]"
+      "author": "本田亜友子，ITmedia",
+      "title": "スシローに「イベルタル」定時出現 ポケモンGOのフェアリーイベントで 「ヤンチャム」は進化のチャンス - ITmedia",
+      "description": "ポケモンGOで5月18日から新イベント「フェアリーレジェンドY」が始まりました。伝説レイドには「イベルタル」登場。",
+      "url": "https://www.itmedia.co.jp/news/articles/2105/18/news149.html",
+      "urlToImage": "https://image.itmedia.co.jp/news/articles/2105/18/l_ts0153_pokepoke01.jpg",
+      "publishedAt": "2021-05-18T12:21:00Z",
+      "content": "Pokemon GOGO518Y\r\nGO18Twitter61823\r\nYX\r\n325012km\r\n18GO5GO7\r\nGO\r\n125\r\nCopyright © ITmedia, Inc. All Rights Reserved."
     },
     {
       "source": {
         "id": null,
-        "name": "Nikkansports.com"
+        "name": "Yahoo.co.jp"
       },
-      "author": "日刊スポーツ",
-      "title": "巨人平内がプロ初黒星 陽川弾など４失点「ファームで大きく」２軍降格へ - ニッカンスポーツ",
-      "description": "巨人ドラフト1位の平内龍太投手（22）がプロ初黒星を喫した。同点の4回、2番手としてプロ3試合目の登板。無死一塁から陽川にシュート回転して甘くなった直球を捉え… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-      "url": "https://www.nikkansports.com/baseball/news/202105160000959.html",
-      "urlToImage": "https://www.nikkansports.com/baseball/news/img/202105160000959-w500_0.jpg",
-      "publishedAt": "2021-05-16T09:35:15Z",
+      "author": "毎日新聞",
+      "title": "東証、取引時間の拡大検討 終了時刻延長、大型連休対応など（毎日新聞） - Yahoo!ニュース - Yahoo!ニュース",
+      "description": "東京証券取引所は18日、現物株の取引時間拡大を検討すると発表した。現在の取引時間は午前9時～午後3時（途中1時間の昼休みを挟む）だが、終了時刻の延長や、大型連休中の取引機会確保についても検討する。",
+      "url": "https://news.yahoo.co.jp/articles/5b754dcb5cae6e2bba50eb5fec9027f2edecfa8f",
+      "urlToImage": "https://amd-pctr.c.yimg.jp/r/iwiz-amd/20210518-00000098-mai-000-1-view.jpg",
+      "publishedAt": "2021-05-18T12:13:52Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yomiuri.co.jp"
+      },
+      "author": "読売新聞オンライン",
+      "title": "防衛省、「虚偽予約」の朝日新聞出版と毎日新聞に抗議文送付 - 読売新聞",
+      "description": "防衛省は１８日、自衛隊による東京と大阪での新型コロナウイルスワクチンの大規模接種をめぐり、朝日新聞出版と毎日新聞の記者が架空の接種券番号などで虚偽の予約をしたとして両社に抗議文を送った。 　予約では、専用サイトに接種券",
+      "url": "https://www.yomiuri.co.jp/politics/20210518-OYT1T50237/",
+      "urlToImage": "https://www.yomiuri.co.jp/media/2021/05/20210518-OYT1I50115-T.jpg?type=ogp",
+      "publishedAt": "2021-05-18T11:46:00Z",
+      "content": "206106502021/05/18 20:46:002021/05/18 22:29:142021/05/18 22:29:14https://www.yomiuri.co.jp/media/2021/05/20210518-OYT1I50115-T.jpg?type=thumbnail\r\n© The Yomiuri Shimbun."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo.co.jp"
+      },
+      "author": "共同通信",
+      "title": "俳優の田村正和さんが死去 「古畑任三郎」「眠狂四郎」など（共同通信） - Yahoo!ニュース - Yahoo!ニュース",
+      "description": "テレビドラマ「古畑任三郎」で知られる俳優の田村正和（たむら・まさかず）さんが4月3日午後4時20分、心不全のため東京都港区の病院で死去したことが18日分かった。77歳。京都市出身。葬儀・告別式は親",
+      "url": "https://news.yahoo.co.jp/articles/4f77be7c8043388e0eb2e5c7f270873c6ffc11c1",
+      "urlToImage": "https://amd-pctr.c.yimg.jp/r/iwiz-amd/20210518-00000178-kyodonews-000-20-view.jpg",
+      "publishedAt": "2021-05-18T11:39:42Z",
       "content": null
     },
     {
@@ -255,11 +125,141 @@ news_jp = {
         "name": "Nikkei.com"
       },
       "author": "日本経済新聞社",
-      "title": "大規模接種予約、東京17日午前11時から 大阪は午後1時 - 日本経済新聞",
-      "description": "国が開設する新型コロナウイルスワクチンの大規模接種センターは17日午前11時ごろから、東京会場での接種予約を受け付ける。大阪については午後1時ごろとする。東京23区と大阪市内に在住する65歳以上の高齢者で、市や区から接種券が届き1回目の接種を終えていない人が対象となる。両会場の開設は遅れがちな大都市圏での接種ペースを上げる狙いがある。実際の接種は24日から始まる。防衛省・自衛隊は16日、接種の",
-      "url": "https://www.nikkei.com/article/DGXZQOUA153Y20V10C21A5000000/",
-      "urlToImage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO0607765016052021000000-1.jpg?auto=format%2Ccompress&ch=Width%2CDPR&q=45&fit=crop&bg=FFFFFF&w=1200&h=630&fp_x=0.5&fp_y=0.5&fp_z=1&crop=focalpoint&ixlib=js-1.4.1&s=4f89ed844774dfc1b06b2785d70a7f14",
-      "publishedAt": "2021-05-16T08:59:53Z",
+      "title": "トヨタ、半導体不足で6月に2工場停止へ 約2万台を減産 - 日本経済新聞",
+      "description": "トヨタ自動車は18日、半導体不足の影響で国内の2工場3ラインでの生産を6月に停止すると発表した。稼働停止になるのは全額出資子会社のトヨタ自動車東日本（宮城県大衡村）の岩手工場（岩手県金ケ崎町）と宮城大衡工場（宮城県大衡村）でヤリスやヤリスクロス、C-HRの生産が影響を受ける。約2万台の減産になる。岩手工場でC-HRを生産する第1ラインは6月7～",
+      "url": "https://www.nikkei.com/article/DGXZQOFD18BIF0Y1A510C2000000/",
+      "urlToImage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO0617222018052021000000-1.jpg?auto=format%2Ccompress&ch=Width%2CDPR&q=45&fit=crop&bg=FFFFFF&w=1200&h=630&fp_x=0.48&fp_y=0.23&fp_z=1&crop=focalpoint&ixlib=js-1.4.1&s=cacd26f1d16c58390199a29e99a25b52",
+      "publishedAt": "2021-05-18T11:38:24Z",
+      "content": "18236C-HR2\r\nC-HR1671421222826915569113202132911%"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Chunichi.co.jp"
+      },
+      "author": "中日スポーツ・東京中日スポーツ",
+      "title": "阪神ロハスついに打った！初安打が初本塁打 球団ワースト、来日からの連続無安打は『21』でストップ - 中日スポーツ・東京中日スポーツ",
+      "description": "◇18日　阪神―ヤクルト戦（甲子園）　阪神の新外国人、メル・ロハス・ジュニア外野手（30）が来日22打席目でついに初アーチをかけた。2...",
+      "url": "https://www.chunichi.co.jp/article/256090",
+      "urlToImage": "https://static.chunichi.co.jp/image/article/size1/7/8/a/e/78aef45222808289a0cd03d1c8a09f46_1.jpg",
+      "publishedAt": "2021-05-18T11:32:26Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ascii.jp"
+      },
+      "author": "ASCII",
+      "title": "楽天モバイル、プラチナバンド再配分の希望について同社の意見を説明 - ASCII.jp",
+      "description": "楽天モバイルは、18日に開催された「デジタル変革時代の電波政策懇談会」の「移動通信システム等制度WG（第4回）」に提出した意見、およびその背景についてメディア向けに説明会を開催した。",
+      "url": "https://ascii.jp/elem/000/004/055/4055301/",
+      "urlToImage": "https://ascii.jp/img/2021/05/18/3201704/l/243b9f1e34a1c508.jpg?20200122",
+      "publishedAt": "2021-05-18T11:00:00Z",
+      "content": "18WG4\r\n4\r\n4G1.7GHz5G3.7GHz28GHz1.7GHzKDDI\r\n410MHz32023\r\n1\r\nWG5105\r\n8\r\n33G\r\n5\r\n3G\r\n20263KDDI20223202413G800MHz900MHz5MHz10203G3700MHz800MHz900MHz40MHz\r\n3G\r\n3\r\n8202343800MHz75000KDDI5G10NTT"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sponichi.co.jp"
+      },
+      "author": "スポニチ Sponichi Annex",
+      "title": "巨人・野上 わずか4球で緊急降板 7回に2番手でマウンドに上がるも - スポニチアネックス Sponichi Annex",
+      "description": "7回に2番手でマウンドに上がった野上は先頭の林に安打で出塁を許すと、続く宇草への1ボール後に一塁けん制。直後に野上はベンチに向かって、手を上げた。ベンチから桑田… - スポーツニッポン新聞社の公式サイト（www.sponichi.co.jp）。",
+      "url": "https://www.sponichi.co.jp/baseball/news/2021/05/18/kiji/20210518s00001173536000c.html",
+      "urlToImage": "https://www.sponichi.co.jp/baseball/news/2021/05/18/jpeg/20210518s00001173537000p_view.jpg",
+      "publishedAt": "2021-05-18T11:00:00Z",
+      "content": "Copyright © SPORTS NIPPON NEWSPAPERS. All Rights Reserved.\r\nSponichi Annex"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Natalie.mu"
+      },
+      "author": "映画ナタリー",
+      "title": "Snow Manラウール「ハニレモ」に心がプルプル、吉川愛は「息子みたいにかわいい」（写真16枚） - ナタリー",
+      "description": "「ハニーレモンソーダ」の“ハニレモ▽しゅわきゅんサマー開幕式”が本日5月18日に東京のユナイテッド・シネマ豊洲で開催され、キャストのラウール（Snow Man）、吉川愛、堀田真由、濱田龍臣、坂東龍汰、岡本夏美、監督の神徳幸治が登壇した。",
+      "url": "https://natalie.mu/eiga/news/428665",
+      "urlToImage": "https://ogre.natalie.mu/media/news/eiga/2021/0518/DSC_2050.jpg?imwidth=750",
+      "publishedAt": "2021-05-18T10:51:00Z",
+      "content": "Judas and the Black Messiah"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo.co.jp"
+      },
+      "author": "産経新聞",
+      "title": "入管法改正断念、衆院選と都議選への影響懸念 自民内から不満も（産経新聞） - Yahoo!ニュース - Yahoo!ニュース",
+      "description": "政府与党が１８日、外国人の収容や送還のルールを見直す入管難民法改正案の今国会成立を断念したのは、野党が対決姿勢を強める中で採決に踏み切れば、会期末にかけての国会運営だけでなく、近づく東京都議選や次",
+      "url": "https://news.yahoo.co.jp/articles/5066b9be906e08d17c0aecf7c2afd94befbaf9ab",
+      "urlToImage": "https://amd-pctr.c.yimg.jp/r/iwiz-amd/20210518-00000584-san-000-1-view.jpg",
+      "publishedAt": "2021-05-18T10:50:46Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Timeout.jp"
+      },
+      "author": "Time Out Tokyo Editors",
+      "title": "5月26日、スーパームーン皆既月食の鑑賞チャンスが到来 - Time Out Tokyo",
+      "description": "肉眼でも見える？ YouTubeで月食のライブ配信も",
+      "url": "https://www.timeout.jp/tokyo/ja/news/super-moon-lunar-eclipse-0526-051821",
+      "urlToImage": "https://media.timeout.com/images/105775574/image.jpg",
+      "publishedAt": "2021-05-18T10:12:56Z",
+      "content": "2021526201844200920282152\r\nYouTube\r\n183022\r\n5\r\n524\r\n11\r\n6"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo.co.jp"
+      },
+      "author": "日刊スポーツ",
+      "title": "巨人宮本コーチ危機一髪 巨人ベンチを広島大瀬良打球襲撃もギリギリ回避 （日刊スポーツ） - Yahoo!ニュース - スポーツナビ",
+      "description": "＜巨人7－2広島＞◇18日◇東京ドーム\n\n宮本投手チームコーチが間一髪で大惨事を回避した。\n\n3回表2死、打者大瀬良のファウルボールの打球が巨人ベンチを襲撃した。カウント1－2からの4球目。巨人戸郷",
+      "url": "https://news.yahoo.co.jp/articles/d3abf1efcdb49d099a30e11c842397ac5b2ea49a",
+      "urlToImage": "https://amd-pctr.c.yimg.jp/r/iwiz-amd/20210518-35180830-nksports-000-3-view.jpg",
+      "publishedAt": "2021-05-18T09:55:52Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Mainichi"
+      },
+      "author": "毎日新聞",
+      "title": "自民・甘利氏、買収事件の1.5億円に「1ミクロンも関わりない」 - 毎日新聞 - 毎日新聞",
+      "description": "自民党の甘利明税調会長は18日、2019年参院選広島選挙区を巡る大規模買収事件で、公職選挙法違反に問われた河井克行元法相らが代表の政党支部に党本部が支給した資金1億5000万円について問われ、「私は1ミリも関与していない。もっと正確に言えば、1ミクロンも関わっていない」と全否定した。国会内で記者団",
+      "url": "https://mainichi.jp/articles/20210518/k00/00m/010/239000c",
+      "urlToImage": "https://cdn.mainichi.jp/vol1/2019/11/25/20191125k0000m010379000p/0c10.jpg?1",
+      "publishedAt": "2021-05-18T09:38:26Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sankei.com"
+      },
+      "author": "産経ニュース",
+      "title": "安倍前首相「朝日・毎日は悪質な妨害愉快犯」 大規模接種の架空予約 - 産経ニュース",
+      "description": "安倍晋三前首相は１８日、架空の接種券番号で新型コロナウイルスワクチンの大規模接種センターの予約ができるか検証したとするニュースサイト「ＡＥＲＡｄｏｔ．（アエラド…",
+      "url": "https://www.sankei.com/politics/news/210518/plt2105180031-n1.html",
+      "urlToImage": "https://www.sankei.com/images/news/210518/plt2105180031-p1.jpg",
+      "publishedAt": "2021-05-18T09:35:00Z",
+      "content": "PR\r\nPR\r\nPR\r\n©2021 The Sankei Shimbun All rights reserved."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nikkei.com"
+      },
+      "author": "日本経済新聞社",
+      "title": "ワクチン接種券、都内6区で19万人分未発送 予約できず - 日本経済新聞",
+      "description": "国による新型コロナウイルスワクチンの大規模接種の予約受け付けが進む中、東京23区のうち6区で、予約に必要な接種券約19万6000人分が18日時点で発送されていないことが同日、分かった。混乱を防ぐため各区が接種券を段階的に発送した結果、区によって国の大規模接種を予約できない事態が生じた。各区は接種番号を個別に伝えるなど対応に苦慮している。日本経済新聞が都内23区の接種券の発送状況を調べたところ、",
+      "url": "https://www.nikkei.com/article/DGXZQOUE184CC0Y1A510C2000000/",
+      "urlToImage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO0615224018052021000000-1.jpg?auto=format%2Ccompress&ch=Width%2CDPR&q=45&fit=crop&bg=FFFFFF&w=1200&h=630&fp_x=0.5&fp_y=0.5&fp_z=1&crop=focalpoint&ixlib=js-1.4.1&s=ffb726c2ebe998c14c140579e1177026",
+      "publishedAt": "2021-05-18T09:01:54Z",
       "content": null
     }
   ]

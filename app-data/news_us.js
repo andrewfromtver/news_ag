@@ -5,67 +5,171 @@ news_us = {
     {
       "source": {
         "id": null,
-        "name": "The Guardian"
+        "name": "WABC-TV"
       },
-      "author": "Martin Pengelly",
-      "title": "‘Naughty favours’: Matt Gaetz seeks to ridicule allegations he paid underaged girl for sex - The Guardian",
-      "description": "Embattled Republican congressman compares allegations of sexual misconduct involving a minor to congressional earmarks",
-      "url": "https://amp.theguardian.com/us-news/2021/may/16/matt-gaetz-sexual-misconduct-allegations-earmarks",
+      "author": null,
+      "title": "COVID NY Update: New York to adopt CDC guidance for fully vaccinated, but NYC recommends indoor masking - WABC-TV",
+      "description": "New York state will end mask mandates and adopt CDC guidelines for the fully vaccinated beginning Wednesday, but New York City's health commissioner is still recommending masks indoors.",
+      "url": "https://abc7ny.com/ny-covid-vaccine-cuomo-cdc-mask-guidance/10655206/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/6327452_shutterstock-elderly-face-mask-img.jpg?w=1600",
+      "publishedAt": "2021-05-18T15:58:24Z",
+      "content": "NEW YORK (WABC) -- New York state will end mask mandates and adopt CDC guidelines for the fully vaccinated beginning Wednesday, but New York City's health commissioner is still recommending masks ind… [+2553 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Dow Jones Falls As Home Depot, Walmart Report Earnings; Tesla Reverses Higher - Investor's Business Daily",
+      "description": "The Dow Jones Industrial Average fell 100 points Tuesday, as Home Depot and Walmart both reported strong earnings results. Tesla stock reversed.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-reverses-as-home-depot-walmart-report-strong-earnings-tesla-stock-slides-again/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/10/stock-walmart-02-company.jpg",
+      "publishedAt": "2021-05-18T15:43:00Z",
+      "content": "The Dow Jones Industrial Average briefly declined 100 points Tuesday, as Home Depot and Walmart both reported strong earnings results. Tesla stock reversed higher in morning trade, as it looks to ret… [+5980 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Lexy Savvides",
+      "title": "Google I/O starts today: Android 12, Pixel Buds and everything we're expecting - CNET",
+      "description": "The annual developers conference, running May 18 to 20, is likely to be packed with hardware and software updates.",
+      "url": "https://www.cnet.com/news/google-io-starts-today-android-12-pixel-buds-everything-were-expecting/",
+      "urlToImage": "https://www.cnet.com/a/img/IpyHVAuCd4sPwp6OE40U1r8ruWg=/280x196:4000x2667/1200x630/2019/05/08/f0936864-d11d-4fc3-94ee-10c34c32e6c0/google-io-2019-0936.jpg",
+      "publishedAt": "2021-05-18T15:35:20Z",
+      "content": "James Martin/CNET\r\nGoogle I/O kicks off in just a few hours, and even though it's a developers conference, we're still expecting to see some major product announcements. We're expecting more details … [+4413 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Houston Keene",
+      "title": "19 GOP AGs urge Biden to reinstate Keystone, protect energy infrastructure in wake of Colonial Pipeline attack - Fox News",
+      "description": "Nineteen Republican attorneys general sent a letter to President Biden calling on his administration to support energy infrastructure, including reinstating the Keystone XL Pipeline permit, in light of the cyberattack that shut down the Colonial Pipeline.",
+      "url": "https://www.foxnews.com/politics/biden-colonial-pipeline-hack-energy-infrastructure",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/biden-mask.jpg",
+      "publishedAt": "2021-05-18T15:28:14Z",
+      "content": "Nineteen Republican\r\n attorneys general sent a letter to President Biden\r\n calling on his administration to support energy infrastructure\r\n, including reinstating the Keystone XL Pipeline permit, in … [+2939 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "",
+      "title": "McCarthy Opposes Jan. 6 Commission To Probe Insurrection - NPR",
+      "description": "House Minority Leader Kevin McCarthy, who directed the ranking Republican on the Homeland Security Committee to negotiate the structure of the commission, now says he will vote against the deal.",
+      "url": "https://www.npr.org/2021/05/18/997836874/top-house-republican-opposes-bipartisan-commission-to-probe-capitol-riot",
+      "urlToImage": "https://media.npr.org/assets/img/2021/05/18/ap_21132641215828_wide-a459f7e68a01ff3bd8b4d7ed05bedbb9b5ff807a.jpg?s=1400",
+      "publishedAt": "2021-05-18T15:26:46Z",
+      "content": "House Minority Leader Kevin McCarthy, R-Calif., opposes a deal setting up a 9/11-style commission to investigate the Jan. 6 attacks on the U.S. Capitol.\r\nEvan Vucci/AP\r\nHouse Minority Leader Kevin Mc… [+4666 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/jon-fingas",
+      "title": "The next MacBook Pros may pair Apple silicon with 64GB of RAM - Engadget",
+      "description": "Apple's redesigned 14- and 16-inch MacBook Pros will reportedly pack new chips that support up to 64GB of RAM, not to mention four Thunderbolt ports..",
+      "url": "https://www.engadget.com/apple-macbook-pro-mac-mini-cpu-leaks-151945192.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/c3f773a0-b7e5-11eb-bfff-8865a6ff63da",
+      "publishedAt": "2021-05-18T15:21:28Z",
+      "content": "The 16GB memory ceiling and two Thunderbolt ports on M1-based Macs has left pro users more than a little concerned will the eventual higher-end systems be hobbled compared to their Intel counterparts… [+1836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Covid-19: Nothing conclusive on changing roadmap, Boris Johnson says - BBC News",
+      "description": "Boris Johnson says \"we’ll know a lot more in a few days time\", amid concern over the Indian variant.",
+      "url": "https://www.bbc.com/news/uk-57159286",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/57EA/production/_118560522_mediaitem118560521.jpg",
+      "publishedAt": "2021-05-18T15:21:13Z",
+      "content": "By Emma Harrison &amp; Becky MortonBBC News\r\nimage captionThere have been long queues for Covid vaccines in Bolton, where the spread of the Indian variant is being studied\r\nThere is \"nothing conclusi… [+5451 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Bill Hutchinson",
+      "title": "No charges for deputies in Andrew Brown Jr. shooting, district attorney says - ABC News",
+      "description": "",
+      "url": "https://abcnews.go.com/US/charges-deputies-andrew-brown-jr-shooting-district-attorney/story?id=77753720",
+      "urlToImage": "https://s.abcnews.com/images/US/brown-protest-gty-ps-210517_1621346615577_hpMain_16x9_992.jpg",
+      "publishedAt": "2021-05-18T15:15:14Z",
+      "content": "No charges will be filed against North Carolina sheriff's deputies who shot and killed Andrew Brown Jr., a 42-year-old Black man whose family claims he was \"executed\" as he sat in his car.\r\nElizabeth… [+4154 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "A Quiet Place: Part II Review - IGN",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TlYzOHQ3VnozRGfSAQA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2021-05-16T15:06:00Z",
-      "content": "RepublicansEmbattled Republican congressman compares allegations of sexual misconduct involving a minor to congressional earmarks\r\nThe embattled Florida congressman Matt Gaetz has compared allegation… [+3525 chars]"
+      "publishedAt": "2021-05-18T15:00:10Z",
+      "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "WTVD-TV"
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Lauren Mascarenhas, CNN",
+      "title": "US task force lowers recommended age to start colorectal cancer screening to 45 - CNN ",
+      "description": "The US Preventive Services Task Force on Tuesday lowered the recommended age to start screening for colon and rectal cancers from 50 to 45.",
+      "url": "https://www.cnn.com/2021/05/18/health/colorectal-cancer-screening-45-wellness/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/170807172633-colorectal-cancer-1-super-tease.jpg",
+      "publishedAt": "2021-05-18T15:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Associated Press",
+      "title": "Strike from Gaza kills 2 as Israel topples 6-story building - POLITICO",
+      "description": "The war between Israel and Gaza's Hamas rulers showing no sign of abating.",
+      "url": "https://www.politico.com/news/2021/05/18/palestinians-go-on-strike-violence-continues-489234",
+      "urlToImage": "https://static.politico.com/07/83/55b7a9654fd69595aedf73d0600b/210518-palestine-ap-773.jpg",
+      "publishedAt": "2021-05-18T14:59:30Z",
+      "content": "The general strike was an uncommon show of unity among Palestinian citizens of Israel, who make up 20% of its population, and those in the territories Israel seized in 1967 that the Palestinians have… [+6155 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
       },
       "author": null,
-      "title": "NC gas shortage update: Colonial Pipeline returns to normal operations but majority of North Carolina gas stations without gas - WTVD-TV",
-      "description": "Despite the Colonial Pipeline being back up and running, Gas Buddy reports an increase in gas outages in North Carolina as of Saturday night.",
-      "url": "https://abc11.com/nc-gas-shortage-update-where-to-find-near-me-buddy-station/10643819/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/10617121_outofservicepic.jpg?w=1600",
-      "publishedAt": "2021-05-16T14:42:14Z",
-      "content": "RALEIGH (WTVD) -- Despite the Colonial Pipeline being back up and running, GasBuddy reports more than half of North Carolina gas stations are without fuel.Colonial Pipeline has restarted its pipeline… [+5948 chars]"
+      "title": "Max explains why LeBron has hurt Steph Curry's legacy | First Take - ESPN",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9azdQSGwweG5lejDSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-05-18T14:52:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "ESPN"
+        "name": "New York Post"
       },
-      "author": "Jordan Raanan",
-      "title": "New York Giants sign former first-rounder Kelvin Benjamin - ESPN",
-      "description": "The New York Giants signed Kelvin Benjamin, a wide receiver who had over 1,000 yards as a rookie for the Panthers in 2013, and has not played in the NFL since 2018. He worked primarily as a tight end at his tryout.",
-      "url": "https://www.espn.com/nfl/story/_/id/31455169/new-york-giants-sign-former-first-rounder-kelvin-benjamin-move-tight-end",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2019%2F0120%2Fr491315_1296x729_16%2D9.jpg",
-      "publishedAt": "2021-05-16T14:36:42Z",
-      "content": "EAST RUTHERFORD, N.J. -- The New York Giants have signed former Carolina Panthers first-round pick Kelvin Benjamin, the team announced Sunday.\r\nBenjamin and former Philadelphia Eagles running back an… [+2313 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "Republicans weigh in on Liz Cheney and direction of GOP — CBS News poll - CBS News",
-      "description": "CBS News asked self-identified Republicans, what should happen to those who publicly break with Trump?",
-      "url": "https://www.cbsnews.com/news/republicans-liz-cheney-opinion-poll/",
-      "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/16/c169b2e0-21d2-411e-8a7c-7dcfe5f75ced/thumbnail/1200x630g2/c04679e9b9e579e051d9f3cafb466142/gettyimages-1317621965.jpg",
-      "publishedAt": "2021-05-16T14:30:00Z",
-      "content": "When House Republicans ousted Congresswoman Liz Cheney from her leadership post, it spoke to the direction of the Republican Party in at least one specific way: what should happen to those who public… [+3290 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Stone"
-      },
-      "author": "Angie Martoccio",
-      "title": "Joni Mitchell Gives Rare Interview at Clive Davis’ Virtual Grammy Party - Rolling Stone",
-      "description": "Reclusive singer-songwriter talks with industry mogul about Both Sides Now her legacy, and more",
-      "url": "https://www.rollingstone.com/music/music-news/joni-mitchell-clive-davis-grammy-party-interview-1170210/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-15-at-11.42.55-PM.png",
-      "publishedAt": "2021-05-16T14:04:57Z",
-      "content": "Joni Mitchell gave a rare interview on Saturday evening at Clive Davis’ virtual Grammy party, where she spoke to the industry mogul about her early career, songwriting, and her legacy.\r\nDavis’ annual… [+3482 chars]"
+      "author": "Justin Tasch",
+      "title": "Mets' Kevin Pillar has multiple nasal fractures after bloody beaning - New York Post ",
+      "description": "Mets outfielder Kevin Pillar suffered multiple nasal fractures after being hit in the face with a fastball Monday night.",
+      "url": "https://nypost.com/2021/05/18/kevin-pillar-has-multiple-nasal-fractures-after-bloody-beaning/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/05/pillar.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2021-05-18T14:17:00Z",
+      "content": "Mets outfielder Kevin Pillar suffered multiple nasal fractures after being hit in the face with a fastball Monday night, the team announced. He’s set to meet a facial specialist in Atlanta to determi… [+736 chars]"
     },
     {
       "source": {
@@ -73,194 +177,90 @@ news_us = {
         "name": "CBS Sports"
       },
       "author": "",
-      "title": "Vanessa Bryant honors late husband Kobe Bryant with speech at 2020 Basketball Hall of Fame ceremony - CBS Sports",
-      "description": "The late Lakers legend was inducted into the Naismith Memorial Basketball Hall of Fame on Saturday",
-      "url": "https://www.cbssports.com/nba/news/vanessa-bryant-honors-late-husband-kobe-bryant-with-speech-at-2020-basketball-hall-of-fame-ceremony/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/05/16/6c918619-0497-43d5-8092-0a83ca869c62/thumbnail/1200x675/6a63633bc1b3d9d88073681769e67d64/vanessa-bryant.jpg",
-      "publishedAt": "2021-05-16T13:59:00Z",
-      "content": "The Class of 2020 was inducted into the Naismith Memorial Basketball Hall of Fame on Saturday, and this group featured a number of all-time legends including Kevin Garnett, Tim Duncan and Tamika Catc… [+4563 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Times"
-      },
-      "author": "Joe Drape",
-      "title": "Rombauer Wins the 2021 Preakness, Surging Past Medina Spirit - The New York Times",
-      "description": "The long-shot win assured that Bob Baffert’s colt could not claim a Triple Crown under the cloud of a positive drug test.",
-      "url": "https://www.nytimes.com/2021/05/15/sports/horse-racing/preakness-rombauer.html",
-      "urlToImage": "https://static01.nyt.com/images/2021/05/15/sports/15preakness-whattowatch-rombauer1/15preakness-whattowatch-rombauer1-facebookJumbo.jpg",
-      "publishedAt": "2021-05-16T13:35:00Z",
-      "content": "On Monday, Baffert criticized Churchill Downss suspension of him as harsh, blamed cancel culture for the controversy and said racing officials were out to get him.\r\nOn Tuesday, however, he acknowledg… [+1467 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Lee Brown",
-      "title": "SNL mocks CDC mask rule mayhem with 'patron saint of Purell' Anthony Fauci - New York Post ",
-      "description": "Saturday Night Live didn’t mask the confusion over current government guidance on face coverings with a cold-open skit mocking the mayhem over when and where masks are needed.",
-      "url": "https://nypost.com/2021/05/16/snl-mocks-mask-rule-mayhem-with-patron-saint-of-purell/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/05/snl-01.jpg?quality=90&strip=all&w=1200",
-      "publishedAt": "2021-05-16T13:28:00Z",
-      "content": "Saturday Night Live didn’t mask the confusion over current government guidance on face coverings — with a cold-open skit mocking the mayhem over when and where masks are needed.\r\nThe latest episode o… [+3252 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Reuters",
-      "title": "Israel airstrikes kill 33 Palestinians, rockets fired from Gaza - CNBC",
-      "description": "With no sign of an end to the worst outbreak of Israeli-Palestinian violence in years, the UN Security Council was due to meet on Sunday over the situation.",
-      "url": "https://www.cnbc.com/2021/05/16/israel-air-strikes-kill-33-palestinians-rockets-fired-from-gaza.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106883649-1621174306903-106883649-1621166555490-gettyimages-1232918919-AFP_9A34TK.jpg?v=1621174384",
-      "publishedAt": "2021-05-16T13:16:37Z",
-      "content": "Palestinians carry one of survivers from under the rubble of a building, after it was struck by Israeli strikes, in Gaza City, May 16, 2021.\r\nIsraeli air strikes killed 33 Palestinians, including 13 … [+5528 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "Davone Morales",
-      "title": "New mask guidance does not grant permission for widespread mask removal: Walensky - ABC News",
-      "description": "",
-      "url": "https://abcnews.go.com/Politics/mask-guidance-grant-permission-widespread-mask-removal-walensky/story?id=77713729",
-      "urlToImage": "https://s.abcnews.com/images/Politics/this-week-rochelle-walensky-01-gty-llr-210515_1621101148671_hpMain_16x9_992.jpg",
-      "publishedAt": "2021-05-16T13:10:32Z",
-      "content": "New mask guidance for vaccinated individuals does not grant permission for widespread removal of masks, Centers of Disease Control and Prevention Director Dr. Rochelle Walensky said on ABC's \"This We… [+2955 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Kim Lyons",
-      "title": "New leak ahead of Google I/O claims Android 12 may include changes for widgets and notifications - The Verge",
-      "description": "A new video shows what looks like a revamped user interface for Android 12. Much of the info is in line with previous leaks about the latest build expected to be unveiled this week at Google I/O",
-      "url": "https://www.theverge.com/2021/5/16/22438065/new-leaks-ahead-google-io-android-12-big-changes",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/boTjDXiAQk6TZ8RAoxIgfoqSLws=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22311867/VRG_1777_Android_12_005.jpg",
-      "publishedAt": "2021-05-16T13:04:17Z",
-      "content": "Stacked widgets are among the new features that have been rumored for a while\r\nIllustration by Grayson Blackmon / The Verge\r\nJust ahead of Google I/O, which gets underway on Tuesday, a new leak purpo… [+1892 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Stone"
-      },
-      "author": "Daniel Kreps",
-      "title": "See Olivia Rodrigo Perform ‘Drivers License,’ ‘Good 4 U’ on ‘SNL’ - Rolling Stone",
-      "description": "Singer makes musical guest debut ahead of new album Sour",
-      "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-snl-1170222/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2021/05/GettyImages-1232919249.jpg",
-      "publishedAt": "2021-05-16T13:01:22Z",
-      "content": "Olivia Rodrigo made her Saturday Night Live musical guest debut on the series’ latest episode, performing her breakout hit “Drivers License” and her latest single “Good 4 U.”\r\nThe singer opened with … [+1029 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": null,
-      "title": "AT&T Is Said in Talks to Combine Content Assets With Discovery - Bloomberg",
-      "description": null,
-      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=da206190-b656-11eb-8749-1180f6746330&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wNS0xNi9hdC10LWlzLXNhaWQtaW4tdGFsa3MtdG8tY29tYmluZS1jb250ZW50LWFzc2V0cy13aXRoLWRpc2NvdmVyeS1rb3I2cjJ1ag==",
-      "urlToImage": null,
-      "publishedAt": "2021-05-16T12:59:44Z",
-      "content": "To continue, please click the box below to let us know you're not a robot."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KABC-TV"
-      },
-      "author": null,
-      "title": "Pacific Palisades brush fire: Evacuations remain for some Topanga residents amid 750-acre blaze; arson suspect sought - KABC-TV",
-      "description": "Mandatory evacuation orders remain in effect Sunday for residents in the Topanga area as firefighters continue to battle a 750-acre brush fire near Pacific Palisades, and authorities search for a person suspected of setting the blaze.",
-      "url": "https://abc7.com/pacific-palisades-brush-fire-topanga-evacuations-arson/10644053/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/10644170_051621-kabc-5am-palisades-fire-CC-vid.jpg?w=1600",
-      "publishedAt": "2021-05-16T12:56:06Z",
-      "content": "PACIFIC PALISADES, Calif. (KABC) -- Mandatory evacuation orders remain in effect Sunday for residents in the Topanga area as firefighters continue to battle a 750-acre brush fire near Pacific Palisad… [+2151 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Associated Press",
-      "title": "Kid reporter who interviewed Obama at White House dies at 23 - Fox News",
-      "description": "The student reporter who gained national acclaim when he interviewed President Barack Obama at the White House in 2009 has died of natural causes, his family says.",
-      "url": "https://www.foxnews.com/us/kid-reporter-interviewed-obama-white-house-dies",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/AP21135475319490.jpg",
-      "publishedAt": "2021-05-16T12:17:33Z",
-      "content": "The student reporter who gained national acclaim when he interviewed President Barack Obama at the White House in 2009 has died of natural causes, his family says.\r\nDamon Weaver was 23 when he died M… [+1342 chars]"
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Mychael Schnell",
-      "title": "Maricopa County Republican official calls Trump 'unhinged' | TheHill - The Hill",
-      "description": "The Maricopa County Republican who leads the Arizona county's ele...",
-      "url": "https://thehill.com/homenews/state-watch/553745-maricopa-county-republican-official-calls-trump-unhinged",
-      "urlToImage": "https://thehill.com/sites/default/files/voting_az_082820getty_arizona.jpg",
-      "publishedAt": "2021-05-16T12:08:12Z",
-      "content": "The Maricopa County Republican who leads the Arizona county's elections department slammed former President TrumpDonald TrumpSunday shows preview: House GOP removes Cheney from leadership position; C… [+2604 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "The Associated Press",
-      "title": "Hundreds of bodies found buried in shallow graves along Indian riverbanks - NBC News",
-      "description": "Bodies have been buried in shallow sand graves and washed up on the banks Ganges River in India prompting speculation that they were Covid-19 victims.",
-      "url": "https://www.nbcnews.com/news/world/hundreds-bodies-found-buried-shallow-graves-along-indian-riverbanks-n1267518",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_19/3475121/virus_outbreak_india_40836-jpg-42f96.jpg",
-      "publishedAt": "2021-05-16T11:47:36Z",
-      "content": "PRAYAGRAJ, India Police are reaching out to villagers in northern India to investigate the recovery of bodies buried in shallow sand graves or washing up on the Ganges River banks, prompting speculat… [+2861 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "Keith Noonan, Joe Tenebruso, and Jamal Carnette, CFA",
-      "title": "Stock Market Crash: 3 Companies to Buy and Hold for the Long Term - Motley Fool",
-      "description": "The market looks shaky, but these stocks have what it takes to push your portfolio to the next level.",
-      "url": "https://www.fool.com/investing/2021/05/16/stock-market-crash-3-companies-to-buy-and-hold-for/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/626758/gettyimages-623521042.jpg",
-      "publishedAt": "2021-05-16T11:30:00Z",
-      "content": "Depending on your perspective and positioning, a stock market crash can be an absolute nightmare or a blessing in disguise. Recent volatility has pulled down prices on some promising stocks, and it's… [+6374 chars]"
+      "title": "NBA playoffs: Play-in tournament TV schedule, live stream, matchups, dates, start times, how to watch online - CBS Sports",
+      "description": "The play-in tournament starts on May 18 and runs through May 21",
+      "url": "https://www.cbssports.com/nba/news/nba-playoffs-play-in-tournament-tv-schedule-live-stream-matchups-dates-start-times-how-to-watch-online/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2020/10/14/de8e8798-da83-4086-bbc6-891e85ba44f2/thumbnail/1200x675/e96bfb67f4b2a53d34ef64b4e02aa8f6/nba-logo.jpg",
+      "publishedAt": "2021-05-18T14:14:00Z",
+      "content": "The 2020-21 NBA regular season is all wrapped up, but before the postseason can officially begin there's still six games left to be played to determine the seventh and eighth seeds in both conference… [+2119 chars]"
     },
     {
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "Rosa Flores, Christina Maxouris and Ashley Killough, CNN",
-      "title": "A tiger went missing in Houston for nearly a week. Here's how the search unfolded and who police say the owners are - CNN ",
-      "description": "Jose Ramos looked up from his dinner and met a strange sight outside his Houston home last Sunday.",
-      "url": "https://www.cnn.com/2021/05/16/us/india-tiger-houston-missing-sunday/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210516025708-02-tiger-found-houston-super-tease.jpg",
-      "publishedAt": "2021-05-16T11:24:00Z",
-      "content": "(CNN)Jose Ramos looked up from his dinner and met a strange sight outside his Houston home last Sunday. \r\nHe grabbed his phone, snapped a few pictures of the animal sitting in his front yard and post… [+7011 chars]"
+      "author": "Nathaniel Meyersohn, CNN Business",
+      "title": "Walmart got a boost from shoppers spending their stimulus checks - CNN ",
+      "description": "The latest round of federal stimulus payments of up to $1,400 per person lifted sales at Walmart, the largest retailer in the United States, as shoppers used their checks to buy clothing, home goods and other merchandise at stores and online.",
+      "url": "https://www.cnn.com/2021/05/18/business/walmart-stock-stimulus-retail/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210518075207-walmart-store-california-0513-restricted-super-tease.jpg",
+      "publishedAt": "2021-05-18T14:05:00Z",
+      "content": "New York (CNN Business)The latest round of federal stimulus payments of up to $1,400 per person lifted sales at Walmart, the largest retailer in the United States, as shoppers used their checks to bu… [+1372 chars]"
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": null,
+        "name": "Deadline"
       },
-      "author": "Sophie Lewis",
-      "title": "Prince Harry says parenting style of royal family inflicts \"pain and suffering\" - CBS News",
-      "description": "In a new interview, Prince Harry criticizes the parenting of his father, Prince Charles, saying that he wants to break the cycle of \"pain and suffering.\"",
-      "url": "https://www.cbsnews.com/news/prince-harry-royal-family-prince-charles-parenting-style/",
-      "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/14/20cf1684-ae25-4cc5-9003-27dc84a3ed78/thumbnail/1200x630g2/fcc926c49835b9d773a21dd7310ed8d4/gettyimages-469137027.jpg",
-      "publishedAt": "2021-05-16T11:02:06Z",
-      "content": "Prince Harry says he was caught in a cycle of \"pain and suffering\" growing up as a member of the British royal family, speaking candidly about his father, Prince Charles, and comparing his upbringing… [+5361 chars]"
+      "author": "Denise Petski",
+      "title": "‘Project Greenlight’ Revival From Issa Rae Gets Series Order At HBO Max - Deadline",
+      "description": "Project Greenlight is coming back. HBO Max has given an eight-episode series order to a new installment, from Issa Rae and Miramax Television. It is a reinvention of the critically acclaimed original Miramax and HBO docuseries. Project Greenlight will focus o…",
+      "url": "https://deadline.com/2021/05/project-greenlight-revival-issa-rae-gets-series-order-hbo-max-1234759108/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2021/05/Issa-Rae.jpg?w=1000",
+      "publishedAt": "2021-05-18T14:00:00Z",
+      "content": "Project Greenlight is coming back. HBO Max has given an eight-episode series order to a new installment, from Issa Rae and Miramax Television. It is a reinvention of the critically acclaimed original… [+1989 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Al Goodman, CNN",
+      "title": "Thousands of migrants swim from Morocco to Spanish enclave of Ceuta - CNN ",
+      "description": "At least 6,000 people, including around 1,500 minors, swam from Morocco to the bordering Spanish enclave of Ceuta on Monday in the largest influx of illegal migration there in a single day, Spanish authorities said.",
+      "url": "https://www.cnn.com/2021/05/18/europe/migrants-swim-morocco-spanish-enclave-ceuta-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210518123743-01-ceuta-migrants-0518-super-tease.jpg",
+      "publishedAt": "2021-05-18T13:48:00Z",
+      "content": "Madrid (CNN)At least 6,000 people, including around 1,500 minors, swam from Morocco to the bordering Spanish enclave of Ceuta on Monday in the largest influx of illegal migration there in a single da… [+3533 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Natasha Turak",
+      "title": "Thai workers killed in Israel, Gaza bombings rage as Biden’s cease-fire call ignored - CNBC",
+      "description": "Israel's military reported that 62 of its fighter jets dropped 110 guided bombs onto the Gaza Strip overnight and into Tuesday.",
+      "url": "https://www.cnbc.com/2021/05/18/israel-palestine-gaza-strikes-rage-as-bidens-cease-fire-call-ignored.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106884461-1621337876730-gettyimages-1232959907-AFP_9A84GZ.jpeg?v=1621337954",
+      "publishedAt": "2021-05-18T13:45:37Z",
+      "content": "Israeli security forces take aim at Palestinian demonstrators during protests against Israel's occupation and its air campaign on the Gaza strip, in the occupied West Bank town of Hebron May 18, 2021… [+3225 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Nvidia is nerfing new RTX 3080 and 3070 cards for Ethereum cryptocurrency mining - The Verge",
+      "description": "Nvidia is nerfing new RTX 3080, RTX 3070, and RTX 3060 Ti cards for cryptocurrency mining. The new cards will have an LHR identifier and will begin shipping in late May.",
+      "url": "https://www.theverge.com/2021/5/18/22441847/nvidia-rtx-3080-3070-ethereum-mining-drivers-limit-cryptocurrency",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/q3jA2DoIjyoncGoLh3VnsmWoVGg=/0x184:2640x1566/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21901327/twarren_rtx3080_3_2.jpg",
+      "publishedAt": "2021-05-18T13:41:18Z",
+      "content": "New Nvidia cards will be branded as Lite Hash Rate\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nPhoto by Tom Warren / The Verge\r\nNvidia is exte… [+2116 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Alexandria Hein",
+      "title": "Here's when fully vaccinated people need masks - Fox News",
+      "description": "The Centers for Disease Control and Prevention's (CDC) updated guidance for fully vaccinated people says that they no longer need to wear masks while outdoors or indoors, except for in certain circumstances, which has caused some confusion about when to bring…",
+      "url": "https://www.foxnews.com/health/heres-when-fully-vaccinated-people-need-masks",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/mask_required_istock.jpg",
+      "publishedAt": "2021-05-18T13:36:22Z",
+      "content": "The Centers for Disease Control and Prevention's (CDC) updated guidance for people fully vaccinated against coronavirus says that they no longer need to wear masks while outdoors or indoors, except f… [+2611 chars]"
     }
   ]
 }
