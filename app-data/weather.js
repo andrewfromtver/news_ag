@@ -1,41 +1,41 @@
-weather = {
+weather_json = {
   "coord": {
     "lon": 35.942,
     "lat": 56.8306
   },
   "weather": [
     {
-      "id": 800,
-      "main": "Clear",
-      "description": "clear sky",
-      "icon": "01n"
+      "id": 802,
+      "main": "Clouds",
+      "description": "scattered clouds",
+      "icon": "03n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 19.21,
-    "feels_like": 18.78,
-    "temp_min": 19.21,
-    "temp_max": 19.21,
-    "pressure": 1006,
-    "humidity": 61,
-    "sea_level": 1006,
+    "temp": 17.76,
+    "feels_like": 17.58,
+    "temp_min": 17.76,
+    "temp_max": 17.76,
+    "pressure": 1005,
+    "humidity": 76,
+    "sea_level": 1005,
     "grnd_level": 990
   },
   "visibility": 10000,
   "wind": {
-    "speed": 5.27,
-    "deg": 113,
-    "gust": 16.07
+    "speed": 4.09,
+    "deg": 115,
+    "gust": 12.45
   },
   "clouds": {
-    "all": 5
+    "all": 48
   },
-  "dt": 1621362699,
+  "dt": 1621374636,
   "sys": {
     "country": "RU",
-    "sunrise": 1621300391,
-    "sunset": 1621360343
+    "sunrise": 1621386684,
+    "sunset": 1621446856
   },
   "timezone": 10800,
   "id": 480060,
