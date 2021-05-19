@@ -23,10 +23,10 @@ def WeatherFetch(lat, lon, owm_mode, lang, units):
 	# fetching data in json format
 	res = requests.get(main_url, params=query_params)
 	weather_page = res.json()
-	text_file = open('./app-data/weather.js', 'w')
+	text_file = open('/usr/share/nginx/html/app-data/weather.js', 'w')
 	text_file.write('weather_json = ')
 	text_file.close()
-	with open('./app-data/weather.js', 'a', encoding='utf-8') as f:
+	with open('/usr/share/nginx/html/app-data/weather.js', 'a', encoding='utf-8') as f:
 		json.dump(weather_page, f, ensure_ascii=False, indent=2)
     # print result
 	print(weather_page)
