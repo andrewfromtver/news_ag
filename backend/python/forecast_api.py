@@ -1,10 +1,11 @@
 import requests
 import json
 import app_config
+import sys
 
 token = app_config.owm_token
-a = 56.8306
-b = 35.942
+a = str(sys.argv[1])
+b = str(sys.argv[2])
 c = 'json'
 d = 'en'
 e = 'metric'
@@ -25,12 +26,6 @@ def ForecastFetch(lat, lon, owm_mode, lang, units, exclude):
 	# fetching data in json format
 	res = requests.get(main_url, params=query_params)
 	forecast_page = res.json()
-	text_file = open('/usr/share/nginx/html/app-data/forecast.js', 'w')
-	text_file.write('forecast_json = ')
-	text_file.close()
-	with open('/usr/share/nginx/html/app-data/forecast.js', 'a', encoding='utf-8') as f:
-		json.dump(forecast_page, f, ensure_ascii=False, indent=2)
-    # print result
 	print(forecast_page)
 
 # Driver Code

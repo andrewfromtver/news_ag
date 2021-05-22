@@ -4,12 +4,9 @@
         let name = document.querySelector('.name').value
         let email = document.querySelector('.email').value
         if (msg && name && email) {
-            alert('Websocket not implemented in github pages, cant send your message')
-            //
-            //
-            // websocket => serverside reques to telegram api
-            //
-            //
+            var objReq = new XMLHttpRequest()
+            objReq.open('GET', 'http://172.17.0.2:8000' + '?name=' + name.split(' ').join('_') + '&email=' + email + '&msg=' + msg.split(' ').join('_'), false)
+            objReq.send(null)
             setTimeout(leftFirst, 50)
             setTimeout(leftSecond, 100)
             setTimeout(() => {document.getElementById('contacts').remove()}, 200)
@@ -47,13 +44,6 @@
             setTimeout(rightSecond, 200)
             setTimeout(clearColor, 600)
         }
-    }
-    window.onload = () => {
-        let url = window.location.href
-        document.getElementById('facebook').href = 'https://facebook.com/sharer/sharer.php?u=' + url
-        document.getElementById('vkontakte').href = 'https://vk.com/share.php?url=' + url
-        document.getElementById('whatsapp').href = 'whatsapp://send?text=' + url
-        document.getElementById('telegram').href = 'https://t.me/share/url?url=' + url
     }
 </script>
 
@@ -118,55 +108,9 @@
         box-shadow: none;
         font-weight: 500;
     }
-    .share {
-        box-shadow: 0 0 16px #ccc;
-        display: flex;
-        justify-content: center;
-        overflow-x: auto;
-    }
-
-    .share > a > img {
-        margin: 8px;
-        opacity: 0.72;
-        border-radius: 6px;
-    }
-
-    .share > a > img:hover {
-        opacity: 1;
-    }
 </style>
 
 <body>
-    <div class="share">
-        <!-- Sharingbutton Facebook -->
-        <a id="facebook" target="_blank" rel="noopener">
-            <img
-                height="24px" width="24px" 
-                src="../assets/fb.png" alt="sharedmedia"
-            >
-        </a>
-        <!-- Sharingbutton Vkontakte -->
-        <a id="vkontakte" target="_blank" rel="noopener">
-            <img
-                height="24px" width="24px" 
-                src="../assets/vk.png" alt="sharedmedia"
-            >
-        </a>
-        <!-- Sharingbutton WhatsApp -->
-        <a id="whatsapp" target="_blank" rel="noopener">
-            <img
-                height="24px" width="24px" 
-                src="../assets/wp.png" alt="sharedmedia"
-            >
-        </a>
-        <!-- Sharingbutton Telegram -->
-        <a id="telegram" target="_blank" rel="noopener">
-            <img
-                height="24px" width="24px" 
-                src="../assets/tm.png" alt="sharedmedia"
-            >
-        </a>  
-    </div>
     <h3>Andranik Sarkisyan</h3>
     <div>
         <p>Hi there!</p>
@@ -198,9 +142,9 @@
     </table>
     <h3>If you want to create web app - better call Andranik =D</h3>
     <div class="info" id="contacts">
-        <textarea class="msg" type="" placeholder="Message"></textarea>
-        <input class="name" type="text" placeholder="Name">
-        <input class="email" type="text" placeholder="e-mail">
+        <textarea class="msg" type="" placeholder="Message" maxlength="130"></textarea>
+        <input class="name" type="text" placeholder="Name" maxlength="35">
+        <input class="email" type="text" placeholder="e-mail" maxlength="35">
         <button class="send__btn" onclick="sendRequest()">Send</button>
         <br>
         <br>

@@ -1,12 +1,13 @@
 import requests
 import json
 import app_config
+import sys
 
 token = app_config.telegram_bot_token
-chat_id = app_config.telegra_chat_id
-a = 'John Doe'
-b = 'johndoe@company.com'
-c = 'test message'
+chat_id = app_config.telegram_chat_id
+a = str(sys.argv[1])
+b = str(sys.argv[2])
+c = str(sys.argv[3])
 
 def ForecastFetch(name, email, msg):	
 	# telegram api
@@ -14,7 +15,7 @@ def ForecastFetch(name, email, msg):
 	'chat_id': chat_id,
 	'text': 'name: ' + name + ' / email: ' + email + ' / message: ' + msg
 	}
-	main_url = 'https://api.telegram.org/bot' + token + '/sendMessage'
+	main_url = 'http://api.telegram.org/bot' + token + '/sendMessage'
 	# fetching data in json format
 	res = requests.get(main_url, params=query_params)
 	request_result = res.json()

@@ -10,6 +10,7 @@ sideMenu = (state) => {
   }
 }
 sideButton = (type) => {
+  document.getElementById('newsframe').sandbox="allow-scripts allow-top-navigation allow-same-origin"
   sideMenu(true)
   if (type === 'weather') {
     document.querySelector('body').style.overflow = 'hidden'
@@ -67,7 +68,9 @@ goTo = (url, title) => {
 // Close popup
 closePopup = () => {
   document.getElementById('popupactions').innerHTML = `
-      <img src="./assets/close.png" alt="close" onclick="closePopup()">
+      <a>
+        <img src="./assets/close.png" alt="close" onclick="closePopup()">
+      </a>
     `
   document.querySelector('body').style.overflow = 'auto'
   document.getElementById('popupplaceholder').style.display = 'none'
@@ -79,22 +82,27 @@ refresh = () => {
 }
 // CORS detection
 corsClear = (url) => {
-  alert('Can\'t use cashed html on github pages, some pages my be blocked (use redirect button to visit original page)')
-//  // get html via proxy
-//  let lang = document.getElementById('lang').value || 'gb'
-//  let news_index = eval('news_' + lang).articles.findIndex(x => x.url === url) + 1
-//  console.log(news_index)
-//  document.getElementById('newsframe').src = './app-data/news-storage/' + lang + '/' + news_index + '.html'
-  document.getElementById('newsframe').src = url
+  // get html via proxy
+  let lang = document.getElementById('lang').value || 'gb'
+  let news_index = eval('news_' + lang).articles.findIndex(x => x.url === url) + 1
+  document.getElementById('newsframe').sandbox="allow-scripts"
+  document.getElementById('newsframe').src = './app-data/news-storage/' + lang + '/' + news_index + '.html'
   document.getElementById('popupactions').innerHTML = `
     <a href="${url}" target="blank">
       <img id="redirect" src="./assets/redirect.png">
     </a>
-    <img src="./assets/close.png" alt="close" onclick="closePopup()">
+    <a>
+      <img src="./assets/close.png" alt="close" onclick="closePopup()">
+    </a>
   `
 }
 // Init
 window.onload = () => {
+  let url = window.location.href
+  document.getElementById('facebook').href = 'https://facebook.com/sharer/sharer.php?u=' + url
+  document.getElementById('vkontakte').href = 'https://vk.com/share.php?url=' + url
+  document.getElementById('whatsapp').href = 'whatsapp://send?text=' + url
+  document.getElementById('telegram').href = 'https://t.me/share/url?url=' + url
   loadNews(document.getElementById('lang').value)
   loadCurrency()
   setTimeout(()=>{

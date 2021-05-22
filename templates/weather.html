@@ -4,6 +4,8 @@
 
 <script>
     /* Service variables */
+    var weather_json = {};
+    var forecast_json = {};
     var globallat = null;
     var globallon = null;
     var globalplace = '';
@@ -675,12 +677,15 @@
             weatherplace = place;
         }
         if (lat && lon) {
-            alert('Websocket not implemented in github pages, cant apply serverside request, test data loaded')
-            //
-            //
-            // websocket -> serverside owm api recuest -> get data (weather_json & forecast_json)
-            //
-            //
+            var objReq = new XMLHttpRequest()
+            objReq.open('GET', 'http://172.17.0.2:8100' + '?lat=' + lat + '&lon=' + lon, false)
+            objReq.send(null)
+            weather_json = objReq.response
+            weather_json = JSON.parse(weather_json.split("'").join('"'))
+            objReq.open('GET', 'http://172.17.0.2:8200' + '?lat=' + lat + '&lon=' + lon, false)
+            objReq.send(null)
+            forecast_json = objReq.response
+            forecast_json = JSON.parse(forecast_json.split("'").join('"'))
             weatherrequest (lat, lon, 'json');
         }
         if (lat == null || lon == null) {
@@ -696,10 +701,6 @@
     /* Init */
     window.onload = function() {
         let url = window.location.href
-        document.getElementById('facebook').href = 'https://facebook.com/sharer/sharer.php?u=' + url
-        document.getElementById('vkontakte').href = 'https://vk.com/share.php?url=' + url
-        document.getElementById('whatsapp').href = 'whatsapp://send?text=' + url
-        document.getElementById('telegram').href = 'https://t.me/share/url?url=' + url
         document.querySelector('.container').style.display = 'none';
         document.querySelector('.content').style.display = 'none';
         document.querySelector('.detail').style.display = 'none';
@@ -970,36 +971,6 @@
 </style>
 
 <body>
-    <div class="share">
-        <!-- Sharingbutton Facebook -->
-        <a id="facebook" target="_blank" rel="noopener">
-            <img
-                height="24px" width="24px" 
-                src="../assets/fb.png" alt="sharedmedia"
-            >
-        </a>
-        <!-- Sharingbutton Vkontakte -->
-        <a id="vkontakte" target="_blank" rel="noopener">
-            <img
-                height="24px" width="24px" 
-                src="../assets/vk.png" alt="sharedmedia"
-            >
-        </a>
-        <!-- Sharingbutton WhatsApp -->
-        <a id="whatsapp" target="_blank" rel="noopener">
-            <img
-                height="24px" width="24px" 
-                src="../assets/wp.png" alt="sharedmedia"
-            >
-        </a>
-        <!-- Sharingbutton Telegram -->
-        <a id="telegram" target="_blank" rel="noopener">
-            <img
-                height="24px" width="24px" 
-                src="../assets/tm.png" alt="sharedmedia"
-            >
-        </a>  
-    </div>
     <div class="popup_placeholder">
         <div class="popup">
             <h3>GPS warning</h3>
@@ -1014,6 +985,4 @@
     <div class="detail"></div>
     <div class="content"></div>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
-    <script src="../app-data/forecast.js"></script>
-    <script src="../app-data/weather.js"></script>
 </body>
