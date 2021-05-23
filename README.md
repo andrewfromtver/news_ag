@@ -1,4 +1,4 @@
-# news_ag
+# news-ag
 
 1. Install docker
 
