@@ -10,7 +10,7 @@ sideMenu = (state) => {
   }
 }
 sideButton = (type) => {
-  document.getElementById('newsframe').sandbox = 'allow-scripts allow-same-origin'
+  document.getElementById('newsframe').sandbox = 'allow-scripts allow-same-origin allow-modals'
   sideMenu(true)
   if (type === 'weather') {
     document.querySelector('body').style.overflow = 'hidden'
