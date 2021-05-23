@@ -133,6 +133,7 @@ nav {
     padding: 8px;
     border-radius: 4px;
 }
+#country > select:active { background-color: #fff; color: #6699CC;}
 .share {
     margin-top: 32px;
     display: flex;
