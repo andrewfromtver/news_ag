@@ -1,14 +1,11 @@
 FROM centos:latest
-
 # Prepare web server
-RUN dnf install -y --nogpgcheck https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm
-RUN dnf install -y --nogpgcheck https://mirrors.rpmfusion.org/free/el/rpmfusion-free-release-8.noarch.rpm https://mirrors.rpmfusion.org/nonfree/el/rpmfusion-nonfree-release-8.noarch.rpm
+RUN dnf install -y --nogpgcheck https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm https://mirrors.rpmfusion.org/free/el/rpmfusion-free-release-8.noarch.rpm https://mirrors.rpmfusion.org/nonfree/el/rpmfusion-nonfree-release-8.noarch.rpm
 RUN dnf update -y
 RUN dnf module enable -y nodejs:12
 RUN dnf install -y nginx python3 vim htop mc nodejs
 RUN pip3 install requests
-
-# Loading frontend components ...
+# Load frontend components ...
 RUN rm /usr/share/nginx/html/*
 RUN mkdir /usr/share/nginx/html/app-data
 RUN mkdir /usr/share/nginx/html/app-data/news-storage
@@ -27,14 +24,12 @@ COPY ./templates /usr/share/nginx/html/templates
 COPY ./index.html /usr/share/nginx/html
 COPY ./style.css /usr/share/nginx/html
 COPY ./index.js /usr/share/nginx/html
-
-# Loading backend components...
+# Load backend components...
 RUN mkdir /backend
 COPY ./backend/bash /backend
 COPY ./backend/python /backend
 COPY ./backend/js /backend
 RUN chmod +x /backend/*
-
-# Loading statick data...
+# Load statick data...
 RUN python3 /backend/currency_api.py
 RUN python3 /backend/news_api.py
