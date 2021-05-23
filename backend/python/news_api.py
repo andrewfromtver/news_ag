@@ -1,6 +1,6 @@
 import requests, json, app_config, urllib.request, socket
 
-socket.setdefaulttimeout(300)
+socket.setdefaulttimeout(60)
 
 token = app_config.news_api_key
 lang_array = ['ca', 'cn', 'de', 'fr', 'gb', 'in', 'it', 'jp', 'ru', 'us']

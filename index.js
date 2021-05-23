@@ -10,7 +10,7 @@ sideMenu = (state) => {
   }
 }
 sideButton = (type) => {
-  document.getElementById('newsframe').sandbox="allow-scripts allow-top-navigation allow-same-origin"
+  document.getElementById('newsframe').sandbox = 'allow-scripts allow-same-origin'
   sideMenu(true)
   if (type === 'weather') {
     document.querySelector('body').style.overflow = 'hidden'
@@ -85,7 +85,7 @@ corsClear = (url) => {
   // get html via proxy
   let lang = document.getElementById('lang').value || 'gb'
   let news_index = eval('news_' + lang).articles.findIndex(x => x.url === url) + 1
-  document.getElementById('newsframe').sandbox="allow-scripts"
+  document.getElementById('newsframe').sandbox = ''
   document.getElementById('newsframe').src = './app-data/news-storage/' + lang + '/' + news_index + '.html'
   document.getElementById('popupactions').innerHTML = `
     <a href="${url}" target="blank">
