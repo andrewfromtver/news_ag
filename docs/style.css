@@ -134,6 +134,7 @@ nav {
     border-radius: 4px;
 }
 #country > select:active { background-color: #fff; color: #6699CC;}
+#country > select:focus { background-color: #fff; color: #6699CC;}
 .share {
     margin-top: 32px;
     display: flex;
