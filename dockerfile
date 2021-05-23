@@ -38,7 +38,3 @@ RUN chmod +x /backend/*
 # Loading statick data...
 RUN python3 /backend/currency_api.py
 RUN python3 /backend/news_api.py
-
-# docker build -t news-ag:v1 .
-# docker run -p 80:80 --rm -it news-ag:v1
-# /backend/start.sh
