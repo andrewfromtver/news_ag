@@ -17,3 +17,5 @@
     /backend/start.sh
 
 5. Enjoy
+
+    open news_ag in web browser (http:/localhost)
