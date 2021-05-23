@@ -197,7 +197,7 @@ nav {
     left: 0;
     z-index: 9999;
     width: 100%;
-    height: calc(100% - 6px);
+    height: calc(100% - 4px);
 }
 .popup {
     color: #fff;

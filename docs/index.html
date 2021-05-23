@@ -74,6 +74,36 @@
                 <h3 id="weather" onclick="sideButton(this.id)">Weather</h3>
                 <h3 id="movies" onclick="sideButton(this.id)">Movies & TV series</h3>
                 <h3 id="about" onclick="sideButton(this.id)">About</h3>
+                <div class="share">
+                    <!-- Sharingbutton Facebook -->
+                    <a id="facebook" target="_blank" rel="noopener">
+                        <img
+                            height="24px" width="24px" 
+                            src="../assets/fb.png" alt="sharedmedia"
+                        >
+                    </a>
+                    <!-- Sharingbutton Vkontakte -->
+                    <a id="vkontakte" target="_blank" rel="noopener">
+                        <img
+                            height="24px" width="24px" 
+                            src="../assets/vk.png" alt="sharedmedia"
+                        >
+                    </a>
+                    <!-- Sharingbutton WhatsApp -->
+                    <a id="whatsapp" target="_blank" rel="noopener">
+                        <img
+                            height="24px" width="24px" 
+                            src="../assets/wp.png" alt="sharedmedia"
+                        >
+                    </a>
+                    <!-- Sharingbutton Telegram -->
+                    <a id="telegram" target="_blank" rel="noopener">
+                        <img
+                            height="24px" width="24px" 
+                            src="../assets/tm.png" alt="sharedmedia"
+                        >
+                    </a>  
+                </div>
             </div>
         </nav>
         <div class="container" id="news"></div>
@@ -82,28 +112,18 @@
                 <header>
                     <code id="title">News AG</code>
                     <div id="popupactions">
-                        <img src="./assets/close.png" alt="close" onclick="closePopup()">
+                        <a>
+                            <img src="./assets/close.png" alt="close" onclick="closePopup()">
+                        </a>
                     </div>
                 </header>
-                <iframe id="newsframe" src="./templates/loader.html" style="border: none;"></iframe>
+                <iframe id="newsframe" sandbox="" src="./templates/loader.html" style="border: none;"></iframe>
             </div>
         </div>
     </div>
 
-    <script src="./app-data/news_ca.js"></script>
-    <script src="./app-data/news_cn.js"></script>
-    <script src="./app-data/news_de.js"></script>
-    <script src="./app-data/news_fr.js"></script>
-    <script src="./app-data/news_gb.js"></script>
-    <script src="./app-data/news_in.js"></script>
-    <script src="./app-data/news_it.js"></script>
-    <script src="./app-data/news_jp.js"></script>
-    <script src="./app-data/news_ru.js"></script>
-    <script src="./app-data/news_us.js"></script>
-
+    <script src="./app-data/news.js"></script>
     <script src="./app-data/currency.js"></script>
-
-    <script src="./app-data/weather.js"></script>
     <script src="./index.js"></script>
 </body>
 </html>

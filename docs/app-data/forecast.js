@@ -1,3 +1,5 @@
+// Example OWM forecast API output json
+
 forecast_json = {
   "lat": 56.8306,
   "lon": 35.942,

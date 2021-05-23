@@ -10,6 +10,7 @@ sideMenu = (state) => {
   }
 }
 sideButton = (type) => {
+  document.getElementById('newsframe').sandbox = 'allow-scripts allow-same-origin'
   sideMenu(true)
   if (type === 'weather') {
     document.querySelector('body').style.overflow = 'hidden'
@@ -67,7 +68,9 @@ goTo = (url, title) => {
 // Close popup
 closePopup = () => {
   document.getElementById('popupactions').innerHTML = `
-      <img src="./assets/close.png" alt="close" onclick="closePopup()">
+      <a>
+        <img src="./assets/close.png" alt="close" onclick="closePopup()">
+      </a>
     `
   document.querySelector('body').style.overflow = 'auto'
   document.getElementById('popupplaceholder').style.display = 'none'
@@ -85,12 +88,15 @@ corsClear = (url) => {
 //  let news_index = eval('news_' + lang).articles.findIndex(x => x.url === url) + 1
 //  console.log(news_index)
 //  document.getElementById('newsframe').src = './app-data/news-storage/' + lang + '/' + news_index + '.html'
+  document.getElementById('newsframe').sandbox = ''
   document.getElementById('newsframe').src = url
   document.getElementById('popupactions').innerHTML = `
     <a href="${url}" target="blank">
       <img id="redirect" src="./assets/redirect.png">
     </a>
-    <img src="./assets/close.png" alt="close" onclick="closePopup()">
+    <a>
+      <img src="./assets/close.png" alt="close" onclick="closePopup()">
+    </a>
   `
 }
 // Init

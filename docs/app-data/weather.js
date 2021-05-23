@@ -1,3 +1,5 @@
+// Example OWM weather API output json
+
 weather_json = {
   "coord": {
     "lon": 35.942,
