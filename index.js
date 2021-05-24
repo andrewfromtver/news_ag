@@ -33,6 +33,7 @@ sideButton = (type) => {
 }
 // Generate news cards 
 loadNews = (lang) => {
+  document.querySelector('.menubutton').id = 'false'
   document.querySelector('body').style.overflow = 'auto'
   document.getElementById('news').innerHTML = ``
   document.getElementById('popupplaceholder').style.display = 'none'
