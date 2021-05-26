@@ -3,7 +3,7 @@ import requests, json, app_config, urllib.request, socket
 socket.setdefaulttimeout(120)
 
 token = app_config.news_api_key
-lang_array = ['ru']
+lang_array = ['ca', 'cn', 'de', 'fr', 'gb', 'in', 'it', 'jp', 'ru', 'us']
 
 def NewsFetch(lang):
 	# news api (country and apiKey)
