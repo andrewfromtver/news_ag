@@ -157,7 +157,6 @@
     }
     /* Weather request OWM API */
     function weatherrequest(lat, lon, mode, time = '') {
-        event.preventDefault();
         if (lat & lon) {
             if (!fetchweatherdata) {
                         fetchweatherdata = weather_json;
@@ -653,8 +652,8 @@
     }
     /* Main function */
     function weather(lat, lon, place = null) {
-        event.preventDefault();
-        document.querySelector('.detail').innerHTML = '';
+        event.preventDefault()
+        document.querySelector('.detail').innerHTML = ''
         document.querySelector('.container').innerHTML = `
             <br>
             <form>
@@ -663,40 +662,51 @@
                 <div class="suggestions"></div>
                 <div class="geoloc"></div>
             </form>
-        `;
-        document.querySelector('.content').innerHTML = `
-            <div class="weatherinfo"></div>
-            <form>
-                <button onclick="weather(null, null)">Forecast for today</button>
-                <button onclick="forecast(2)">2-day forecast</button>
-                <button onclick="forecast(6)">6-day forecast</button>
-            </form>
-        `;
+        `
         if (place) {
             document.querySelector('.input').value = place;
             weatherplace = place;
         }
         if (lat && lon) {
-            var objReq = new XMLHttpRequest()
-            objReq.open('GET', 'http://172.17.0.2:8100' + '?lat=' + lat + '&lon=' + lon, false)
-            objReq.send(null)
-            weather_json = objReq.response
-            weather_json = JSON.parse(weather_json.split("'").join('"'))
-            objReq.open('GET', 'http://172.17.0.2:8200' + '?lat=' + lat + '&lon=' + lon, false)
-            objReq.send(null)
-            forecast_json = objReq.response
-            forecast_json = JSON.parse(forecast_json.split("'").join('"'))
-            weatherrequest (lat, lon, 'json');
+            fetch('http://172.17.0.2:8100' + '?lat=' + lat + '&lon=' + lon)
+                .then( (value) => {
+                    if(value.status !== 200){
+                        return Promise.reject(new Error('Error ' + value.status))
+                    }
+                    return value.json()
+                })
+                .then( (value) => {
+                    weather_json = value
+                    fetch('http://172.17.0.2:8200' + '?lat=' + lat + '&lon=' + lon)
+                        .then( (value) => {
+                            if(value.status !== 200){
+                                return Promise.reject(new Error('Error ' + value.status))
+                            }
+                            return value.json()
+                        })
+                        .then( (value) => {
+                            forecast_json = value
+                            document.querySelector('.content').innerHTML = `
+                                <div class="weatherinfo"></div>
+                                <form>
+                                    <button onclick="weather(null, null)">Forecast for today</button>
+                                    <button onclick="forecast(2)">2-day forecast</button>
+                                    <button onclick="forecast(6)">6-day forecast</button>
+                                </form>
+                            `
+                            weatherrequest (lat, lon, 'json')
+                            addinfo()
+                        })
+                })
         }
         if (lat == null || lon == null) {
-            document.querySelector('.content').innerHTML = '';
+            document.querySelector('.content').innerHTML = ''
             if (weathertab.length > 1) {
-                document.querySelector('.content').innerHTML = weathertab;
-                document.querySelector('.input').value = weatherplace;
+                document.querySelector('.content').innerHTML = weathertab
+                document.querySelector('.input').value = weatherplace
             }
         }
-        document.querySelector('.suggestions').style.display = 'none';
-        addinfo();
+        document.querySelector('.suggestions').style.display = 'none'
     }
     /* Init */
     window.onload = function() {

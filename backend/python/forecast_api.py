@@ -26,7 +26,7 @@ def ForecastFetch(lat, lon, owm_mode, lang, units, exclude):
 	# fetching data in json format
 	res = requests.get(main_url, params=query_params)
 	forecast_page = res.json()
-	print(forecast_page)
+	print(str(forecast_page).replace("'", '"'))
 
 # Driver Code
 if __name__ == '__main__':

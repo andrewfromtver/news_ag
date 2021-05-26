@@ -4,12 +4,18 @@
         let name = document.querySelector('.name').value
         let email = document.querySelector('.email').value
         if (msg && name && email) {
-            var objReq = new XMLHttpRequest()
-            objReq.open('GET', 'http://172.17.0.2:8000' + '?name=' + name.split(' ').join('_') + '&email=' + email + '&msg=' + msg.split(' ').join('_'), false)
-            objReq.send(null)
-            setTimeout(leftFirst, 50)
-            setTimeout(leftSecond, 100)
-            setTimeout(() => {document.getElementById('contacts').remove()}, 200)
+            let fixedName = name.split(' ').join('_').replace(/[^a-z0-9_]/gi,'')
+            let fixedEmail = email.replace(/[^a-z0-9.@]/gi,'')
+            let fixedMsg = msg.split(' ').join('_').replace(/[^a-z0-9_]/gi,'')
+            fetch('http://172.17.0.2:8000' + '?name=' + fixedName + '&email=' + fixedEmail + '&msg=' + fixedMsg)
+                .then(function(value){
+                    if(value.status !== 200){
+                        return Promise.reject(new Error('Error ' + value.status));
+                    }
+                    setTimeout(leftFirst, 50)
+                    setTimeout(leftSecond, 100)
+                    setTimeout(() => {document.getElementById('contacts').remove()}, 200)
+                })
         }
         else {
             function leftFirst() {

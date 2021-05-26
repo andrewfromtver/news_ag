@@ -1,9 +1,9 @@
 import requests, json, app_config, urllib.request, socket
 
-socket.setdefaulttimeout(300)
+socket.setdefaulttimeout(120)
 
 token = app_config.news_api_key
-lang_array = ['ca', 'cn', 'de', 'fr', 'gb', 'in', 'it', 'jp', 'ru', 'us']
+lang_array = ['ru']
 
 def NewsFetch(lang):
 	# news api (country and apiKey)
@@ -22,7 +22,7 @@ def NewsFetch(lang):
 	# empty list which will contain all trending news
 	count = 1
 	for ar in article:
-		print(ar["title"])
+		print(str(count) + ' -> ' + ar["title"])
 		try:
 			opener = urllib.request.build_opener()
 			opener.addheaders = [('User-agent', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36')]

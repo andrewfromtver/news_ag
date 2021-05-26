@@ -25,7 +25,7 @@ def WeatherFetch(lat, lon, owm_mode, lang, units):
 	res = requests.get(main_url, params=query_params)
 	weather_page = res.json()
     # print result
-	print(weather_page)
+	print(str(weather_page).replace("'", '"'))
 
 # Driver Code
 if __name__ == '__main__':
