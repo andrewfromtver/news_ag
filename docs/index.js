@@ -100,6 +100,20 @@ corsClear = (url) => {
     </a>
   `
 }
+// Translate by doubleclick
+document.ondblclick = function () {
+  let sel = (document.selection && document.selection.createRange().text) || (window.getSelection && window.getSelection().toString())
+  let translation = document.createElement('div')
+  translation.id = 'translation'
+  translation.innerHTML = `
+    <div class="loader">
+      <div class="loader__element"></div>
+    </div>
+    <p>${sel}</>
+  `
+  document.body.appendChild(translation)
+  setTimeout(()=>{translation.remove()}, 3000)
+}
 // Init
 window.onload = () => {
   loadNews(document.getElementById('lang').value)
