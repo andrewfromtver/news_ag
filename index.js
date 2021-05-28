@@ -100,16 +100,37 @@ corsClear = (url) => {
 // Translate by doubleclick
 document.ondblclick = function () {
   let sel = (document.selection && document.selection.createRange().text) || (window.getSelection && window.getSelection().toString())
-  let translation = document.createElement('div')
-  translation.id = 'translation'
-  translation.innerHTML = `
-    <div class="loader">
-      <div class="loader__element"></div>
-    </div>
-    <p>${sel}</>
-  `
-  document.body.appendChild(translation)
-  setTimeout(()=>{translation.remove()}, 3000)
+  if (sel) {
+    let loader = document.createElement('div')
+    loader.id = 'translation'
+    loader.innerHTML = `
+      <div class='loader_placeholder'>
+        <div class='lds-ellipsis loader'><div></div><div></div><div></div><div></div></div>
+      </div>
+    `
+    document.body.appendChild(loader)
+    fetch('http://172.17.0.2:8300' + '?query=' + sel + '&lang=ru')
+      .then( (value) => {
+          if(value.status !== 200){
+              return Promise.reject(new Error('Error ' + value.status))
+          }
+          return value.text()
+      })
+      .then( (value) => {
+        loader.remove()
+        let response = value
+        let translation = document.createElement('div')
+        translation.id = 'translation'
+        translation.innerHTML = `
+          <div class="loader">
+            <div class="loader__element"></div>
+          </div>
+          <p>${sel} - ${response}</>
+        `
+        document.body.appendChild(translation)
+        setTimeout(()=>{translation.remove()}, 3000)
+      })
+  }
 }
 // Init
 window.onload = () => {

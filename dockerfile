@@ -4,7 +4,7 @@ RUN dnf install -y --nogpgcheck https://dl.fedoraproject.org/pub/epel/epel-relea
 RUN dnf update -y
 RUN dnf module enable -y nodejs:12
 RUN dnf install -y nginx python3 vim htop mc nodejs
-RUN pip3 install requests
+RUN pip3 install requests googletrans==3.1.0a0
 # Load frontend components ...
 RUN rm /usr/share/nginx/html/*
 RUN mkdir /usr/share/nginx/html/app-data
@@ -31,9 +31,9 @@ COPY ./backend/python /backend
 COPY ./backend/js /backend
 RUN chmod +x /backend/*
 # Load statick data...
-RUN python3 /backend/currency_api.py
-RUN python3 /backend/news_api.py
+# RUN python3 /backend/currency_api.py
+# RUN python3 /backend/news_api.py
 
 # Test data - debug mode
-# COPY ./docs/app-data/currency.js /usr/share/nginx/html/app-data
-# COPY ./docs/app-data/news.js /usr/share/nginx/html/app-data
+COPY ./docs/app-data/currency.js /usr/share/nginx/html/app-data
+COPY ./docs/app-data/news.js /usr/share/nginx/html/app-data

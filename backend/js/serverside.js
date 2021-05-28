@@ -41,6 +41,22 @@ function owmApiForecast(request, response) {
     })
 }
 
+function googleTranslateApi(request, response) {
+    var params = url.parse(request.url,true).query;
+    exec("python3 /backend/translate_api.py " + params.query + ' ' + params.lang, (error, stdout, stderr) => {
+        response.setHeader('Access-Control-Allow-Origin', '*');
+        response.setHeader('Access-Control-Allow-Headers', 'origin, content-type, accept');
+        response.writeHead(200, {'Content-Type': 'text/plain; charset=utf-8'});
+        if (stdout) {
+            response.end(stdout);
+        }
+        else {
+            response.end('Google translate API not available, please try again later ...');
+        }
+    })
+}
+
 http.createServer(telegramApi).listen(8000)
 http.createServer(owmApiWeather).listen(8100)
 http.createServer(owmApiForecast).listen(8200)
+http.createServer(googleTranslateApi).listen(8300)
