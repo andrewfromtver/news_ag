@@ -19,12 +19,8 @@ and add variables (tokens to wep API's) like in example below
 
 3. Run docker container
 
-    docker run -p 80:80 --rm -it news_ag:v1
+    docker run -p 80:80 --rm -it news_ag:v1 /backend/start.sh
 
-4. Start web server in docker container
-
-    /backend/start.sh
-
-5. Enjoy
+4. Enjoy
 
     open news_ag in web browser (http:/localhost)
