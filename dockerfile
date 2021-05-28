@@ -31,9 +31,9 @@ COPY ./backend/python /backend
 COPY ./backend/js /backend
 RUN chmod +x /backend/*
 # Load statick data...
-# RUN python3 /backend/currency_api.py
-# RUN python3 /backend/news_api.py
+RUN python3 /backend/currency_api.py
+RUN python3 /backend/news_api.py
 
 # Test data - debug mode
-COPY ./docs/app-data/currency.js /usr/share/nginx/html/app-data
-COPY ./docs/app-data/news.js /usr/share/nginx/html/app-data
+# COPY ./docs/app-data/currency.js /usr/share/nginx/html/app-data
+# COPY ./docs/app-data/news.js /usr/share/nginx/html/app-data
