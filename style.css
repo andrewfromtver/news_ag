@@ -238,12 +238,29 @@ nav {
     box-shadow: 0 0 24px #333;
     font-weight: 900;
 }
+.translate {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+.translate:focus, .translate:active {
+    opacity: 0.72;
+}
+.translate > img {
+    height: 56px;
+    width: 56px;
+    background-color: #fff;
+    border-radius: 16px;
+    margin: 32px;
+    box-shadow: 0 0 24px #333;
+    cursor: pointer;
+}
 /* Line loader */
 :root {
     --main-color: #fff;
     --loader-color: #6699CC;
     --back-color: #fff;
-    --time: 3s;
+    --time: 12s;
     --size: 3px;
 }
 .loader {

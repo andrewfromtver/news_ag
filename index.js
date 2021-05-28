@@ -98,9 +98,10 @@ corsClear = (url) => {
   `
 }
 // Translate by doubleclick
-document.ondblclick = function () {
+translateSelceted = () => {
   let sel = (document.selection && document.selection.createRange().text) || (window.getSelection && window.getSelection().toString())
   if (sel) {
+    document.querySelector('.translate').style.display = 'none'
     let loader = document.createElement('div')
     loader.id = 'translation'
     loader.innerHTML = `
@@ -126,22 +127,32 @@ document.ondblclick = function () {
           <div class="loader">
             <div class="loader__element"></div>
           </div>
-          <p>${sel} - ${response}</>
+          <p>${response}</p>
         `
         document.body.appendChild(translation)
-        setTimeout(()=>{translation.remove()}, 3000)
+        setTimeout(()=>{translation.remove()}, 12000)
       })
   }
 }
 // Init
 window.onload = () => {
   let url = window.location.href
+  document.querySelector('.translate').style.display = 'none'
   document.getElementById('facebook').href = 'https://facebook.com/sharer/sharer.php?u=' + url
   document.getElementById('vkontakte').href = 'https://vk.com/share.php?url=' + url
   document.getElementById('whatsapp').href = 'whatsapp://send?text=' + url
   document.getElementById('telegram').href = 'https://t.me/share/url?url=' + url
   loadNews(document.getElementById('lang').value)
   loadCurrency()
+  window.addEventListener('mouseup', () => {
+    let sel = (document.selection && document.selection.createRange().text) || (window.getSelection && window.getSelection().toString())
+    if (sel) {
+      document.querySelector('.translate').style.display = ''
+    }
+    else {
+      document.querySelector('.translate').style.display = 'none'
+    }
+  })
   setTimeout(()=>{
     document.querySelector('.init').remove()
   }, 250)
