@@ -111,10 +111,11 @@ document.ondblclick = function () {
     document.body.appendChild(loader)
     fetch('http://172.17.0.2:8300' + '?query=' + sel + '&lang=ru')
       .then( (value) => {
-          if(value.status !== 200){
-              return Promise.reject(new Error('Error ' + value.status))
-          }
-          return value.text()
+        loader.remove()
+        if(value.status !== 200){
+          return Promise.reject(new Error('Error ' + value.status))
+        }
+        return value.text()
       })
       .then( (value) => {
         loader.remove()
