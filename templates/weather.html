@@ -668,7 +668,7 @@
             weatherplace = place;
         }
         if (lat && lon) {
-            fetch('http://172.17.0.2:8100' + '?lat=' + lat + '&lon=' + lon)
+            fetch('http://localhost:8100' + '?lat=' + lat + '&lon=' + lon)
                 .then( (value) => {
                     if(value.status !== 200){
                         return Promise.reject(new Error('Error ' + value.status))
@@ -677,7 +677,7 @@
                 })
                 .then( (value) => {
                     weather_json = value
-                    fetch('http://172.17.0.2:8200' + '?lat=' + lat + '&lon=' + lon)
+                    fetch('http://localhost:8200' + '?lat=' + lat + '&lon=' + lon)
                         .then( (value) => {
                             if(value.status !== 200){
                                 return Promise.reject(new Error('Error ' + value.status))

@@ -7,7 +7,7 @@
             let fixedName = name.split(' ').join('_').replace(/[^a-z0-9_]/gi,'')
             let fixedEmail = email.replace(/[^a-z0-9.@]/gi,'')
             let fixedMsg = msg.split(' ').join('_').replace(/[^a-z0-9_]/gi,'')
-            fetch('http://172.17.0.2:8000' + '?name=' + fixedName + '&email=' + fixedEmail + '&msg=' + fixedMsg)
+            fetch('http://localhost:8000' + '?name=' + fixedName + '&email=' + fixedEmail + '&msg=' + fixedMsg)
                 .then(function(value){
                     if(value.status !== 200){
                         return Promise.reject(new Error('Error ' + value.status));

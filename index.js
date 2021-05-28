@@ -109,7 +109,7 @@ document.ondblclick = function () {
       </div>
     `
     document.body.appendChild(loader)
-    fetch('http://172.17.0.2:8300' + '?query=' + sel + '&lang=ru')
+    fetch('http://localhost:8300' + '?query=' + sel + '&lang=ru')
       .then( (value) => {
         loader.remove()
         if(value.status !== 200){
