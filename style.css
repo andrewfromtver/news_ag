@@ -240,7 +240,7 @@ nav {
 }
 /* Line loader */
 :root {
-    --main-color: #111;
+    --main-color: #fff;
     --loader-color: #6699CC;
     --back-color: #fff;
     --time: 3s;
@@ -341,7 +341,7 @@ nav {
 .loader_placeholder{
     display: flex;
     justify-content: center;
-    margin: 16px auto;
+    margin: 21px auto;
 }
 .lds-ellipsis {
     display: inline-block;
