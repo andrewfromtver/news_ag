@@ -19,7 +19,7 @@ and add variables (tokens to wep API's) like in example below
 
 3. Run docker container
 
-    docker run -p 80:80 --rm -it news_ag:v1 /backend/start.sh
+    docker run -p 80:80 -p 8100:8100 -p 8200:8200 -p 8300:8300 --rm -it news_ag:v1 /backend/start.sh
 
 4. Enjoy
 
