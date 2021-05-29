@@ -1,32 +1,23 @@
 <script>
-    function sendRequest() {
-        let msg = document.querySelector('.msg').value
-        let name = document.querySelector('.name').value
-        let email = document.querySelector('.email').value
+    sendRequest = () => {
+        let url = 'http://localhost:8000',
+            msg = document.querySelector('.msg').value,
+            name = document.querySelector('.name').value,
+            email = document.querySelector('.email').value
+
         if (msg && name && email) {
-            alert('Backend requests not implemented in github pages, cant send your message')
-            //
-            //
-            // serverside reques to telegram api
-            //
-            //
-            setTimeout(leftFirst, 50)
-            setTimeout(leftSecond, 100)
-            setTimeout(() => {document.getElementById('contacts').remove()}, 200)
+            fetch(url + '?name=' + name + '&email=' + email + '&msg=' + msg)
+                .then(function(value){
+                    if(value.status !== 200){
+                        return Promise.reject(new Error('Error ' + value.status));
+                    }
+                    document.getElementById('contacts').remove()
+                })
+                .catch( (e) => {
+                    alert(e + ' please try again later...')
+                })
         }
         else {
-            function leftFirst() {
-                document.querySelector('#contacts').style = "margin-left: 50px;"
-            }
-            function leftSecond() {
-                document.querySelector('#contacts').style = "margin-left: 100px;"
-            }
-            function rightFirst() {
-                document.querySelector('#contacts').style = "margin-left: 50px;"
-            }
-            function rightSecond() {
-                document.querySelector('#contacts').style = ""
-            }
             if (!document.querySelector('.msg').value) {
                 document.querySelector('.msg').style = "border-color: tomato;"
             }
@@ -36,16 +27,11 @@
             if (!document.querySelector('.email').value) {
                 document.querySelector('.email').style = "border-color: tomato;"
             }
-            function clearColor() {
+            setTimeout( () => {
                 document.querySelector('.msg').style = ""
                 document.querySelector('.name').style = ""
                 document.querySelector('.email').style = ""
-            }
-            setTimeout(leftFirst, 50)
-            setTimeout(leftSecond, 100)
-            setTimeout(rightFirst, 150)
-            setTimeout(rightSecond, 200)
-            setTimeout(clearColor, 600)
+            }, 600)
         }
     }
 </script>
@@ -111,22 +97,6 @@
         box-shadow: none;
         font-weight: 500;
     }
-    .share {
-        box-shadow: 0 0 16px #ccc;
-        display: flex;
-        justify-content: center;
-        overflow-x: auto;
-    }
-
-    .share > a > img {
-        margin: 8px;
-        opacity: 0.72;
-        border-radius: 6px;
-    }
-
-    .share > a > img:hover {
-        opacity: 1;
-    }
 </style>
 
 <body>
@@ -161,11 +131,11 @@
     </table>
     <h3>If you want to create web app - better call Andranik =D</h3>
     <div class="info" id="contacts">
-        <textarea class="msg" type="" placeholder="Message"></textarea>
-        <input class="name" type="text" placeholder="Name">
-        <input class="email" type="text" placeholder="e-mail">
-        <button class="send__btn" onclick="sendRequest()">Send</button>
-        <br>
-        <br>
+        <form action="javascript:sendRequest()">
+            <textarea class="msg" type="text" placeholder="Message" maxlength="130"></textarea>
+            <input class="name" type="text" placeholder="Name" maxlength="35">
+            <input class="email" type="email" placeholder="E-mail" maxlength="35">
+            <button class="send__btn">Send</button>
+        </form>
     </div>
 </body>

@@ -19,21 +19,21 @@ RUN mkdir /usr/share/nginx/html/app-data/news-storage/it
 RUN mkdir /usr/share/nginx/html/app-data/news-storage/jp
 RUN mkdir /usr/share/nginx/html/app-data/news-storage/ru
 RUN mkdir /usr/share/nginx/html/app-data/news-storage/us
-COPY ./assets /usr/share/nginx/html/assets
-COPY ./templates /usr/share/nginx/html/templates
-COPY ./index.html /usr/share/nginx/html
-COPY ./style.css /usr/share/nginx/html
-COPY ./index.js /usr/share/nginx/html
+COPY ./src/assets /usr/share/nginx/html/assets
+COPY ./src/templates /usr/share/nginx/html/templates
+COPY ./src/index.html /usr/share/nginx/html
+COPY ./src/style.css /usr/share/nginx/html
+COPY ./src/index.js /usr/share/nginx/html
 # Load backend components...
 RUN mkdir /backend
-COPY ./backend/bash /backend
-COPY ./backend/python /backend
-COPY ./backend/js /backend
+COPY ./src/backend/bash /backend
+COPY ./src/backend/python /backend
+COPY ./src/backend/js /backend
 RUN chmod +x /backend/*
 # Load statick data...
-RUN python3 /backend/currency_api.py
-RUN python3 /backend/news_api.py
+# RUN python3 /backend/currency_api.py
+# RUN python3 /backend/news_api.py
 
 # Test data - debug mode
-# COPY ./docs/app-data/currency.js /usr/share/nginx/html/app-data
-# COPY ./docs/app-data/news.js /usr/share/nginx/html/app-data
+COPY ./src/debug-data/currency.js /usr/share/nginx/html/app-data
+COPY ./src/debug-data/news.js /usr/share/nginx/html/app-data

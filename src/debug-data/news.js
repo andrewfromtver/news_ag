@@ -24,11 +24,11 @@ news_ca = {
       },
       "author": null,
       "title": "All Ottawa vaccine appointments booked - CBC.ca",
-      "description": "Some newly eligible eastern Ontarians lost out on getting a COVID-19 vaccine appointment as slots filled up quickly for their age group on Tuesday morning.",
+      "description": "Some newly eligible eastern Ontarians lost out on getting a COVID-19 vaccine appointment as slots filled up quickly for their age group on Tuesday morning.",
       "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-kingston-belleville-covid19-vaccine-1.6030892",
       "urlToImage": "https://i.cbc.ca/1.5969720.1617122565!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/vaccine-clinic-ottawa-covid-coronavirus.jpg",
       "publishedAt": "2021-05-18T15:51:43Z",
-      "content": "Some newly eligible eastern Ontarians lost out on getting a COVID-19 vaccine appointment as slots filled up quickly for their age group on Tuesday morning.\r\nThe province lowered the general vaccinati… [+868 chars]"
+      "content": "Some newly eligible eastern Ontarians lost out on getting a COVID-19 vaccine appointment as slots filled up quickly for their age group on Tuesday morning.\r\nThe province lowered the general vaccinati… [+868 chars]"
     },
     {
       "source": {
@@ -158,7 +158,7 @@ news_ca = {
       "url": "https://www.cbc.ca/news/canada/toronto/td-bank-rsp-1.6029875",
       "urlToImage": "https://i.cbc.ca/1.6029898.1621283744!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/bhupendra-and-anila-narsey.jpg",
       "publishedAt": "2021-05-18T13:42:13Z",
-      "content": "More TD Canada Trust customers are accusing the bank of losing tens of thousands of dollars in Retirement Savings Plan contributions they deposited with the financial institution.\r\nTwo TD clients who… [+7683 chars]"
+      "content": "More TD Canada Trust customers are accusing the bank of losing tens of thousands of dollars in Retirement Savings Plan contributions they deposited with the financial institution.\r\nTwo TD clients who… [+7683 chars]"
     },
     {
       "source": {
@@ -575,7 +575,7 @@ news_de = {
       "url": "https://www.stern.de/panorama/weltgeschehen/news-heute--erstmaliger-schusswaffengebrauch-militanter-palaestinenser-30531026.html",
       "urlToImage": "https://image.stern.de/30533248/t/5l/v4/w1440/r1.7778/-/israelische-soldaten.jpg",
       "publishedAt": "2021-05-18T15:21:00Z",
-      "content": "Die Nachrichten von heute im stern-Ticker.\r\nDie News von heute im stern-Ticker: \r\n17.39 Uhr: Republikaner-Führung im US-Kongress gegen Gremium zu Kapitol-Attacke\r\nNach einer Einigung beider Parteien … [+23929 chars]"
+      "content": "Die Nachrichten von heute im stern-Ticker.\r\nDie News von heute im stern-Ticker: \r\n17.39 Uhr: Republikaner-Führung im US-Kongress gegen Gremium zu Kapitol-Attacke\r\nNach einer Einigung beider Parteien … [+23929 chars]"
     },
     {
       "source": {
@@ -679,7 +679,7 @@ news_de = {
       "url": "https://www.fr.de/wissen/corona-neuinfektionen-deutschland-coronavirus-fallzahlen-rki-inzidenz-pandemie-gesundheit-90578998.html",
       "urlToImage": "https://www.fr.de/bilder/2021/05/17/90578998/26044462-coronavirus-1yef.jpg",
       "publishedAt": "2021-05-18T14:08:00Z",
-      "content": "Das Robert Koch-Institut meldet täglich die aktuellen Fallzahlen an Corona-Neuinfektionen alle Informationen im News-Ticker. \r\n<ul><li>Täglich informiert das RKI über die Entwicklung der Corona-Pande… [+4212 chars]"
+      "content": "Das Robert Koch-Institut meldet täglich die aktuellen Fallzahlen an Corona-Neuinfektionen alle Informationen im News-Ticker. \r\n<ul><li>Täglich informiert das RKI über die Entwicklung der Corona-Pande… [+4212 chars]"
     },
     {
       "source": {
@@ -744,7 +744,7 @@ news_de = {
       "url": "https://www.sport1.de/fussball/2021/05/dfb-kontrollausschuss-ermittelt-gegen-moelders",
       "urlToImage": "https://reshape.sport1.de/c/t/EBA95F3C-8B43-4E0D-801F-2F28EFA96803/1200x630",
       "publishedAt": "2021-05-18T13:40:14Z",
-      "content": "Es war ein ziemlicher Aufreger nach dem 2:2 im Drittliga-Punktspiel gegen die zweite Mannschaft des FC Bayern München:\r\nSascha Mölders von 1860 München hatte nach Abpfiff mächtig Dampf abgelassen und… [+1773 chars]"
+      "content": "Es war ein ziemlicher Aufreger nach dem 2:2 im Drittliga-Punktspiel gegen die zweite Mannschaft des FC Bayern München:\r\nSascha Mölders von 1860 München hatte nach Abpfiff mächtig Dampf abgelassen und… [+1773 chars]"
     },
     {
       "source": {
@@ -864,11 +864,11 @@ news_fr = {
       },
       "author": "Grégoire Huvelin",
       "title": "Test Xiaomi Redmi Note 10 5G : notre avis complet - Smartphones - Frandroid - Frandroid",
-      "description": "Le Xiaomi Redmi Note 10 n’a pas eu le droit qu’à une version Pro : une déclinaison 5G a également rejoint le catalogue du constructeur chinois, avec quelques évolutions notables testées par la rédaction.",
+      "description": "Le Xiaomi Redmi Note 10 n’a pas eu le droit qu’à une version Pro : une déclinaison 5G a également rejoint le catalogue du constructeur chinois, avec quelques évolutions notables testées par la rédaction.",
       "url": "https://www.frandroid.com/marques/xiaomi/938313_test-xiaomi-redmi-note-10-5g",
       "urlToImage": "https://images.frandroid.com/wp-content/uploads/2021/05/xiaomi-redmi-note-10-5g-photos-illu-1.jpg",
       "publishedAt": "2021-05-18T14:00:08Z",
-      "content": "Introduction\r\nLe Xiaomi Redmi Note 10 na pas eu le droit quà une version Pro : une déclinaison 5G a également rejoint le catalogue du constructeur chinois, avec quelques évolutions notables testées p… [+12494 chars]"
+      "content": "Introduction\r\nLe Xiaomi Redmi Note 10 na pas eu le droit quà une version Pro : une déclinaison 5G a également rejoint le catalogue du constructeur chinois, avec quelques évolutions notables testées p… [+12494 chars]"
     },
     {
       "source": {
@@ -877,11 +877,11 @@ news_fr = {
       },
       "author": null,
       "title": "Le rappeur Doc Gyneco condamné à 5 mois de prison avec sursis pour violences conjugales - franceinfo",
-      "description": "Le rappeur Doc Gyneco a été condamné mardi 18 mai à cinq mois d'emprisonnement avec sursis et à 2 000 euros d'amende pour violences conjugales.",
+      "description": "Le rappeur Doc Gyneco a été condamné mardi 18 mai à cinq mois d'emprisonnement avec sursis et à 2 000 euros d'amende pour violences conjugales.",
       "url": "https://www.francetvinfo.fr/culture/musique/doc-gyneco-condamne-a-5-mois-de-prison-avec-sursis-pour-violences-conjugales_4628385.html",
       "urlToImage": "https://www.francetvinfo.fr/pictures/6zjQTAPXHbvjtXtcN9LOBvO4CvM/1500x843/2021/05/18/phppO8efi.jpg",
       "publishedAt": "2021-05-18T13:56:54Z",
-      "content": "Condamné à cinq mois d'emprisonnement avec sursis et à 2.000 euros d'amende, Doc Gynéco a reçu une peine légèrement en-deçà des réquisitions du parquet, qui avait demandé en fin de matinée six mois d… [+2746 chars]"
+      "content": "Condamné à cinq mois d'emprisonnement avec sursis et à 2.000 euros d'amende, Doc Gynéco a reçu une peine légèrement en-deçà des réquisitions du parquet, qui avait demandé en fin de matinée six mois d… [+2746 chars]"
     },
     {
       "source": {
@@ -894,7 +894,7 @@ news_fr = {
       "url": "https://www.francetvinfo.fr/replay-jt/france-2/13-heures/espagne-6-000-migrants-sont-arrives-en-24-heures-dans-l-enclave-de-ceuta_4628403.html",
       "urlToImage": "https://www.francetvinfo.fr/pictures/yd_pSMUuYHiG6MR5UAZ3FPnOUqU/1500x843/2021/05/18/phpQEiCuQ.jpg",
       "publishedAt": "2021-05-18T13:41:00Z",
-      "content": "De nouveaux migrants marocains sont arrivés dans l'enclave de Ceuta, aux portes de l'Espagne, par la mer, et parfois à la nage. Des expulsions sont déjà en cours. Mardi 18 mai, l'Espagne a appelé l'a… [+1147 chars]"
+      "content": "De nouveaux migrants marocains sont arrivés dans l'enclave de Ceuta, aux portes de l'Espagne, par la mer, et parfois à la nage. Des expulsions sont déjà en cours. Mardi 18 mai, l'Espagne a appelé l'a… [+1147 chars]"
     },
     {
       "source": {
@@ -985,7 +985,7 @@ news_fr = {
       "url": "https://www.lesnumeriques.com/reflex-hybride/face-a-face/60501-59107.html",
       "urlToImage": "https://dyw7ncnq1en5l.cloudfront.net/optim/publication-versus/16/163613/59393781-duel-d-appareil-photo-hybrides-canon-eos-m50-mark-ii-vs-olympus-om-d-e-m10-mark-iv__908_512__overflow_wtmk.jpeg",
       "publishedAt": "2021-05-18T12:00:00Z",
-      "content": "Des appareils compacts\r\nLorsqu'on observe le Canon EOS M50 Mark II et l'Olympus OM-D E-M10 Mark IV, on remarque assez aisément leur lien de parenté avec le monde des reflex. Les deux appareils photo … [+2471 chars]"
+      "content": "Des appareils compacts\r\nLorsqu'on observe le Canon EOS M50 Mark II et l'Olympus OM-D E-M10 Mark IV, on remarque assez aisément leur lien de parenté avec le monde des reflex. Les deux appareils photo … [+2471 chars]"
     },
     {
       "source": {
@@ -998,7 +998,7 @@ news_fr = {
       "url": "https://www.huffingtonpost.fr/entry/dans-une-lettre-adressee-aux-prefets-marine-le-pen-soppose-a-la-reforme-de-la-haute-fonction-publique_fr_60a38179e4b0daf2b5a5d1ba",
       "urlToImage": "https://img.huffingtonpost.com/asset/60a39b8a2100009e797f1c82.jpg?ops=1200_630",
       "publishedAt": "2021-05-18T11:43:12Z",
-      "content": "POLITIQUE - Bien que censée répondre aux attentes soulevées par la crise des Gilets jaunes, la présidente du Rassemblement National se positionne contre la réforme de la Haute fonction publique porté… [+4661 chars]"
+      "content": "POLITIQUE - Bien que censée répondre aux attentes soulevées par la crise des Gilets jaunes, la présidente du Rassemblement National se positionne contre la réforme de la Haute fonction publique porté… [+4661 chars]"
     },
     {
       "source": {
@@ -1059,7 +1059,7 @@ news_fr = {
       },
       "author": "Neïla Beyler",
       "title": "Déconfinement : couvre-feu, terrasses, culture, commerces... ce qui change à partir de ce mercredi - Les Échos",
-      "description": "Ce mercredi 19 mai marque la deuxième étape du déconfinement en France avec la réouverture des terrasses de cafés et restaurants, fermées depuis plus de six mois. Les commerces et les lieux culturels pourront également retrouver une partie de leur public.",
+      "description": "Ce mercredi 19 mai marque la deuxième étape du déconfinement en France avec la réouverture des terrasses de cafés et restaurants, fermées depuis plus de six mois. Les commerces et les lieux culturels pourront également retrouver une partie de leur public.",
       "url": "https://www.lesechos.fr/politique-societe/societe/deconfinement-couvre-feu-terrasses-culture-commerces-ce-qui-change-a-partir-de-ce-mercredi-1315904",
       "urlToImage": "https://media.lesechos.com/api/v1/images/view/60a394ba3e45465d1e026ec6/1280x720/0611029554549-web-tete.jpg",
       "publishedAt": "2021-05-18T10:18:06Z",
@@ -1291,7 +1291,7 @@ news_gb = {
       "url": "https://www.dailyecho.co.uk/news/19311082.cases-covid-19s-indian-variant-identified-southampton/",
       "urlToImage": "https://www.dailyecho.co.uk/resources/images/11779446/",
       "publishedAt": "2021-05-18T13:28:06Z",
-      "content": "A \"very small number\" of cases of the B.1.617.2 Covid strand - which first originated in India - have been detected in the city since the variant was first discovered, Southampton City Council has co… [+1623 chars]"
+      "content": "A \"very small number\" of cases of the B.1.617.2 Covid strand - which first originated in India - have been detected in the city since the variant was first discovered, Southampton City Council has co… [+1623 chars]"
     },
     {
       "source": {
@@ -1558,7 +1558,7 @@ news_in = {
       "url": "https://www.moneycontrol.com/news/business/markets/taking-stock-sensex-nifty-rise-a-percent-each-investors-richer-by-rs-2-8-lakh-crore-6908311.html",
       "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/05/Midcaps-770x433.jpg",
       "publishedAt": "2021-05-18T11:36:35Z",
-      "content": "Indian equities logged healthy gains on May 18 as investor sentiment improved over the decline in India's COVID-19 cases and positive Asian markets also underpinned the momentum.\r\nThe Sensex closed 6… [+3315 chars]"
+      "content": "Indian equities logged healthy gains on May 18 as investor sentiment improved over the decline in India's COVID-19 cases and positive Asian markets also underpinned the momentum.\r\nThe Sensex closed 6… [+3315 chars]"
     },
     {
       "source": {
@@ -1760,7 +1760,7 @@ news_it = {
       "url": "https://firenze.repubblica.it/cronaca/2021/05/18/news/livorno_vaccini_toscanavirus_4_dosi_sovradosaggio_pfizer-301568669/",
       "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-firenze/2021/05/18/121657416-bdb82fac-df64-4687-bdbf-b68495213c89.jpg",
       "publishedAt": "2021-05-18T12:14:44Z",
-      "content": "E' successo ancora, 4 dosi di vaccino al posto di una. Il nuovo caso è a Livorno, il primo era avvenuto a Massa il 9 maggio scorso.\r\nUn caso di sovradosaggio di vaccino Pfizer, con quattro dosi  somm… [+5813 chars]"
+      "content": "E' successo ancora, 4 dosi di vaccino al posto di una. Il nuovo caso è a Livorno, il primo era avvenuto a Massa il 9 maggio scorso.\r\nUn caso di sovradosaggio di vaccino Pfizer, con quattro dosi  somm… [+5813 chars]"
     },
     {
       "source": {
@@ -1847,7 +1847,7 @@ news_it = {
       },
       "author": "Mario Esposito",
       "title": "Quando Franco Battiato chiese l’autografo a Belen - L'Occhio",
-      "description": "Franco Battiato ha chiesto un autografo a Belen Rodriguez. È stato il comico e presentatore tv Luca Bizzarri a svelare il simpatico siparietto legato al maestro siciliano morto oggi, all'età di 76 ann",
+      "description": "Franco Battiato ha chiesto un autografo a Belen Rodriguez. È stato il comico e presentatore tv Luca Bizzarri a svelare il simpatico siparietto legato al maestro siciliano morto oggi, all'età di 76 ann",
       "url": "https://www.occhionotizie.it/franco-battiato-autografo-belen-storia/",
       "urlToImage": "https://www.occhionotizie.it/wp-content/uploads/2021/05/franco-battiato.png",
       "publishedAt": "2021-05-18T10:26:21Z",
@@ -2177,7 +2177,7 @@ news_ru = {
       "url": "https://quote.rbc.ru/news/article/60a3ca359a7947dee4f3030a",
       "urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/6/21/756213488869216.jpg",
       "publishedAt": "2021-05-18T15:50:45Z",
-      "content": "«» 18 16:46 16:48 2,6%. 5299 5162 .\r\n «» — 4,78%.\r\n «», , , . , 131,2 ,  — 1,8 , 2020 .\r\n 16:46 , 16:47 16:48 , TradingView,  — 5277 5162.  — , .\r\n  , 17:57  — 5244 .\r\n «»  —   . 2020 245,31 .\r\n «» 2… [+135 chars]"
+      "content": "«» 18 16:46 16:48 2,6%. 5299 5162 .\r\n «» — 4,78%.\r\n «», , , . , 131,2 ,  — 1,8 , 2020 .\r\n 16:46 , 16:47 16:48 , TradingView,  — 5277 5162.  — , .\r\n  , 17:57  — 5244 .\r\n «»  —   . 2020 245,31 .\r\n «» 2… [+135 chars]"
     },
     {
       "source": {
@@ -2190,7 +2190,7 @@ news_ru = {
       "url": "https://www.rbc.ru/crypto/news/60a366669a7947aeb60fac6e",
       "urlToImage": "images/social-facebook.png",
       "publishedAt": "2021-05-18T15:49:00Z",
-      "content": "Binance $3 . $45,5 . , $42,1 . 10:05 $45 .\r\n Tesla , . «»  , , . , Tesla .\r\n Tesla - . , « » « ».\r\n $1,5 . $272 $101 . , Tesla, $2,48 .\r\n— « ». \r\n— Ethereum 74% \r\n— MySpace \r\n - -."
+      "content": "Binance $3 . $45,5 . , $42,1 . 10:05 $45 .\r\n Tesla , . «»  , , . , Tesla .\r\n Tesla - . , « » « ».\r\n $1,5 . $272 $101 . , Tesla, $2,48 .\r\n— « ». \r\n— Ethereum 74% \r\n— MySpace \r\n - -."
     },
     {
       "source": {
@@ -2264,11 +2264,11 @@ news_ru = {
       },
       "author": null,
       "title": "НАТО подготовило диверсантов для высадки в Крыму - Lenta.ru",
-      "description": "На учениях специальных сил НАТО Trojan Footprint 21 и Black Swan 21, прошедших в начале мая, войска отрабатывали сценарии конфликта с Россией — в том числе высадку групп диверсантов в Крыму, важной «крепости» российской армии. Об этом сообщает РИА Новости со …",
+      "description": "На учениях специальных сил НАТО Trojan Footprint 21 и Black Swan 21, прошедших в начале мая, войска отрабатывали сценарии конфликта с Россией — в том числе высадку групп диверсантов в Крыму, важной «крепости» российской армии. Об этом сообщает РИА Новости со …",
       "url": "https://lenta.ru/news/2021/05/18/crimea_attack/",
       "urlToImage": "https://icdn.lenta.ru/images/2021/05/18/17/20210518171508048/share_71a01987ad4485f4d935ac9979e011dc.jpg",
       "publishedAt": "2021-05-18T14:09:00Z",
-      "content": "Trojan Footprint 21 Black Swan 21, ,   , «» . Business Insider.\r\n« . \"\" , , , , », .\r\n , , . , 2014 .\r\n : , .\r\n CNN, . , , , . , : ."
+      "content": "Trojan Footprint 21 Black Swan 21, ,   , «» . Business Insider.\r\n« . \"\" , , , , », .\r\n , , . , 2014 .\r\n : , .\r\n CNN, . , , , . , : ."
     },
     {
       "source": {
@@ -2346,7 +2346,7 @@ news_ru = {
       "url": "https://www.kommersant.ru/doc/4816739",
       "urlToImage": "https://im.kommersant.ru/SocialPics/4816739_26_2055855_1610535377",
       "publishedAt": "2021-05-18T12:50:13Z",
-      "content": ", - Tut.by. , Tut.by, , . « \" \"» . , , , « BySol». «», .\r\n - Tut.by. , 2020 , - . 18 .\r\n« , , , , Tut.by . . , , . . Onliner.by Belsat, , ».\r\n , , Tut.by, Hoster Av.by.\r\n , , , () -. , « \" \" , . 2 . … [+408 chars]"
+      "content": ", - Tut.by. , Tut.by, , . « \" \"» . , , , « BySol». «», .\r\n - Tut.by. , 2020 , - . 18 .\r\n« , , , , Tut.by . . , , . . Onliner.by Belsat, , ».\r\n , , Tut.by, Hoster Av.by.\r\n , , , () -. , « \" \" , . 2 . … [+408 chars]"
     },
     {
       "source": {
@@ -2359,7 +2359,7 @@ news_ru = {
       "url": "https://www.kommersant.ru/doc/4816763",
       "urlToImage": "https://im.kommersant.ru/SocialPics/4816763_26_2055920_398817149",
       "publishedAt": "2021-05-18T12:49:15Z",
-      "content": "18.05.2021, 15:49\r\n18.05.2021, 15:49\r\n:\r\n / \r\n  |  \r\n, , , . (« »).\r\n, , , . , . . , .\r\n, . .\r\n« -»."
+      "content": "18.05.2021, 15:49\r\n18.05.2021, 15:49\r\n:\r\n / \r\n  |  \r\n, , , . (« »).\r\n, , , . , . . , .\r\n, . .\r\n« -»."
     },
     {
       "source": {
@@ -2372,7 +2372,7 @@ news_ru = {
       "url": "https://news.mail.ru/society/46363834/",
       "urlToImage": "https://news.mail.ru/social_preview/46363834/?time=28786c5a274841883a32042df2156689",
       "publishedAt": "2021-05-18T12:25:23Z",
-      "content": ",    , ,        , ,  «»  .     ,   .   .   . ,   ,  «  ».\r\n , ,     .      .\r\n   . , , , , , ,  , , . -\r\nYouTube-\r\n « ».   .  ,   .\r\n , ,     ,  «»   -.\r\n ,         2020     -\r\n .\r\n  ,    . ,       .… [+45 chars]"
+      "content": ",    , ,        , ,  «»  .     ,   .   .   . ,   ,  «  ».\r\n , ,     .      .\r\n   . , , , , , ,  , , . -\r\nYouTube-\r\n « ».   .  ,   .\r\n , ,     ,  «»   -.\r\n ,         2020     -\r\n .\r\n  ,    . ,       .… [+45 chars]"
     },
     {
       "source": {
@@ -2587,7 +2587,7 @@ news_us = {
       "url": "https://www.cbssports.com/nba/news/nba-playoffs-play-in-tournament-tv-schedule-live-stream-matchups-dates-start-times-how-to-watch-online/",
       "urlToImage": "https://sportshub.cbsistatic.com/i/r/2020/10/14/de8e8798-da83-4086-bbc6-891e85ba44f2/thumbnail/1200x675/e96bfb67f4b2a53d34ef64b4e02aa8f6/nba-logo.jpg",
       "publishedAt": "2021-05-18T14:14:00Z",
-      "content": "The 2020-21 NBA regular season is all wrapped up, but before the postseason can officially begin there's still six games left to be played to determine the seventh and eighth seeds in both conference… [+2119 chars]"
+      "content": "The 2020-21 NBA regular season is all wrapped up, but before the postseason can officially begin there's still six games left to be played to determine the seventh and eighth seeds in both conference… [+2119 chars]"
     },
     {
       "source": {
@@ -2669,3 +2669,8 @@ news_us = {
     }
   ]
 }
+
+
+// clear all links to images
+let newsArray = [news_ca, news_cn, news_de, news_fr, news_gb, news_in, news_it, news_jp, news_ru, news_us]
+newsArray.forEach( (region) => {region.articles.forEach( (article) => {article.urlToImage = null} )} )

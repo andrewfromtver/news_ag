@@ -10,7 +10,7 @@ sideMenu = (state) => {
   }
 }
 sideButton = (type) => {
-  document.getElementById('newsframe').sandbox = 'allow-scripts allow-same-origin allow-modals'
+  document.getElementById('newsframe').sandbox = 'allow-scripts allow-same-origin allow-forms allow-modals'
   sideMenu(true)
   if (type === 'weather') {
     document.querySelector('body').style.overflow = 'hidden'
@@ -83,14 +83,11 @@ refresh = () => {
 }
 // CORS detection
 corsClear = (url) => {
-  alert('Can\'t use cashed html on github pages, some pages my be blocked (use redirect button to visit original page)')
-//  // get html via proxy
-//  let lang = document.getElementById('lang').value || 'gb'
-//  let news_index = eval('news_' + lang).articles.findIndex(x => x.url === url) + 1
-//  console.log(news_index)
-//  document.getElementById('newsframe').src = './app-data/news-storage/' + lang + '/' + news_index + '.html'
+  // get html via proxy
+  let lang = document.getElementById('lang').value || 'gb'
+  let news_index = eval('news_' + lang).articles.findIndex(x => x.url === url) + 1
   document.getElementById('newsframe').sandbox = ''
-  document.getElementById('newsframe').src = url
+  document.getElementById('newsframe').src = './app-data/news-storage/' + lang + '/' + news_index + '.html'
   document.getElementById('popupactions').innerHTML = `
     <a href="${url}" target="blank">
       <img id="redirect" src="./assets/redirect.png">
@@ -101,23 +98,61 @@ corsClear = (url) => {
   `
 }
 // Translate by doubleclick
-document.ondblclick = function () {
+translateSelceted = () => {
   let sel = (document.selection && document.selection.createRange().text) || (window.getSelection && window.getSelection().toString())
-  let translation = document.createElement('div')
-  translation.id = 'translation'
-  translation.innerHTML = `
-    <div class="loader">
-      <div class="loader__element"></div>
-    </div>
-    <p>${sel}</>
-  `
-  document.body.appendChild(translation)
-  setTimeout(()=>{translation.remove()}, 3000)
+  if (sel) {
+    document.querySelector('.translate').style.display = 'none'
+    let loader = document.createElement('div')
+    loader.id = 'translation'
+    loader.innerHTML = `
+      <div class='loader_placeholder'>
+        <div class='lds-ellipsis loader'><div></div><div></div><div></div><div></div></div>
+      </div>
+    `
+    document.body.appendChild(loader)
+    fetch('http://localhost:8300' + '?query=' + sel + '&lang=ru')
+      .then( (value) => {
+        loader.remove()
+        if(value.status !== 200){
+          return Promise.reject(new Error('Error ' + value.status))
+        }
+        return value.text()
+      })
+      .then( (value) => {
+        loader.remove()
+        let response = value
+        let translation = document.createElement('div')
+        translation.id = 'translation'
+        translation.innerHTML = `
+          <div class="loader">
+            <div class="loader__element"></div>
+          </div>
+          <p>${response}</p>
+        `
+        document.body.appendChild(translation)
+        setTimeout(()=>{translation.remove()}, 12000)
+      })
+  }
 }
 // Init
 window.onload = () => {
+  let url = window.location.href
+  document.querySelector('.translate').style.display = 'none'
+  document.getElementById('facebook').href = 'https://facebook.com/sharer/sharer.php?u=' + url
+  document.getElementById('vkontakte').href = 'https://vk.com/share.php?url=' + url
+  document.getElementById('whatsapp').href = 'whatsapp://send?text=' + url
+  document.getElementById('telegram').href = 'https://t.me/share/url?url=' + url
   loadNews(document.getElementById('lang').value)
   loadCurrency()
+  window.addEventListener('mouseup', () => {
+    let sel = (document.selection && document.selection.createRange().text) || (window.getSelection && window.getSelection().toString())
+    if (sel) {
+      document.querySelector('.translate').style.display = ''
+    }
+    else {
+      document.querySelector('.translate').style.display = 'none'
+    }
+  })
   setTimeout(()=>{
     document.querySelector('.init').remove()
   }, 250)

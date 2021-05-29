@@ -243,8 +243,11 @@ nav {
     bottom: 0;
     right: 0;
 }
-.translate:focus, .translate:active {
-    opacity: 0.72;
+.translate > img:hover {
+    box-shadow: 0 0 24px #5699CC;
+}
+.translate > img:focus, .translate > img:active {
+    box-shadow: none;
 }
 .translate > img {
     height: 56px;

@@ -4,8 +4,8 @@ import app_config
 import sys
 
 token = app_config.owm_token
-a = str(sys.argv[1])
-b = str(sys.argv[2])
+a = str(sys.argv[2])
+b = str(sys.argv[1])
 c = 'json'
 d = 'en'
 e = 'metric'
@@ -25,7 +25,7 @@ def WeatherFetch(lat, lon, owm_mode, lang, units):
 	res = requests.get(main_url, params=query_params)
 	weather_page = res.json()
     # print result
-	print(str(weather_page).replace("'", '"'))
+	print(str(weather_page).replace("'\"",'"').replace("'",'"'))
 
 # Driver Code
 if __name__ == '__main__':

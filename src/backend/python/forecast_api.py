@@ -4,8 +4,8 @@ import app_config
 import sys
 
 token = app_config.owm_token
-a = str(sys.argv[1])
-b = str(sys.argv[2])
+a = str(sys.argv[2])
+b = str(sys.argv[1])
 c = 'json'
 d = 'en'
 e = 'metric'
@@ -26,7 +26,7 @@ def ForecastFetch(lat, lon, owm_mode, lang, units, exclude):
 	# fetching data in json format
 	res = requests.get(main_url, params=query_params)
 	forecast_page = res.json()
-	print(str(forecast_page).replace("'", '"'))
+	print(str(forecast_page).replace("'\"",'"').replace("'",'"'))
 
 # Driver Code
 if __name__ == '__main__':
