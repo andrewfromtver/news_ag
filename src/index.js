@@ -53,7 +53,7 @@ loadNews = (lang) => {
     `
   })
 }
-// Get currencys
+// Get currency
 loadCurrency = () => {
   document.getElementById('usd').innerText = String(currency.quotes.USDRUB).substring(0, 5)
   document.getElementById('eur').innerText = String(currency.quotes.USDRUB / currency.quotes.USDEUR).substring(0, 5)
@@ -81,7 +81,7 @@ closePopup = () => {
 refresh = () => {
   window.location.reload()
 }
-// CORS detection
+// CORS workaround
 corsClear = (url) => {
   // get html via proxy
   let lang = document.getElementById('lang').value || 'gb'
@@ -97,7 +97,7 @@ corsClear = (url) => {
     </a>
   `
 }
-// Translate by doubleclick
+// Translation
 translateSelceted = () => {
   let sel = (document.selection && document.selection.createRange().text) || (window.getSelection && window.getSelection().toString())
   if (sel) {
@@ -144,6 +144,7 @@ window.onload = () => {
   document.getElementById('telegram').href = 'https://t.me/share/url?url=' + url
   loadNews(document.getElementById('lang').value)
   loadCurrency()
+  // Show translation button
   window.addEventListener('mouseup', () => {
     let sel = (document.selection && document.selection.createRange().text) || (window.getSelection && window.getSelection().toString())
     if (sel) {
@@ -153,6 +154,7 @@ window.onload = () => {
       document.querySelector('.translate').style.display = 'none'
     }
   })
+  // Remove init loader
   setTimeout(()=>{
     document.querySelector('.init').remove()
   }, 250)
