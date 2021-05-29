@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+.chapter {
+    margin: 16px 0;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 0 32px #aaa;
+}
+h1, h2, h3, p {
+    filter: drop-shadow(0 0 2px #aaa);
+    color: #333;
+}
+h1, h2 {
+    text-align: center;
+}

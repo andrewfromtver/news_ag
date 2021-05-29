@@ -14,21 +14,105 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-    <br>
     <h1>News-AG</h1>
-    <br>
     <h2>Documentation for News-AG project</h2>
-    <br>
-    <h3>Chapter 1 - Description</h3>
-    <p>
-        News-AG is a news aggregator based on News API (<a href="https://newsapi.org">https://newsapi.org</a>)
-        it accumulate news links from all over the world 
-        (well, OK not all over the world, only Canada, Cina, Germany, France, Great Britain, India, Italy, Japan, Russia and USA) 
-        all links cashed on serverside due to CORS policy (cause News-AG opens them in sandboxed iframe). 
-        Why sandboxed? No javascript, no pop-ups, no commercial - easy =D (Honestly there is some commercial in frames, but comon, its not an Add Block!)
-        Also there is a weather and forecast service based on OWM API (<a href="https://openweathermap.org/api">https://openweathermap.org/api</a>)
-        it can show weather and forecast based on your geolocation and collect dat in nice charts 
-        thanks to Charts.js (<a href="https://www.chartjs.org">https://www.chartjs.org</a>)
-        also it shows your location on the map thanks to OSM service (<a href="https://www.openstreetmap.org">https://www.openstreetmap.org</a>)
-    </p>
+    <div id="0" class="chapter">
+        <h3>Chapter 0 - Introduction</h3>
+        <p>
+            Well, my pet project became more than statick html hosted on Gihub Pages 
+            thats why I created this simple page to describe all features implemented 
+            in News-AG.
+        </p>
+    </div>
+    <div id="1" class="chapter">
+        <h3>Chapter 1 - Description</h3>
+        <p>
+            News-AG is a news aggregator based on News API (<a href="https://newsapi.org">https://newsapi.org</a>)
+            it accumulate news links from all over the world 
+            (well OK not all over the world only Canada Cina Germany France Great Britain India Italy Japan Russia and USA) 
+            all links cashed on serverside due to CORS policy (cause News-AG opens pages in sandboxed iframe). 
+            Why sandboxed? No javascript, no pop-ups, no commercial - easy =D (honestly there is some commercial in frames, but comon, its not an Add Block!)
+            Also there is a weather and forecast service based on OWM API (<a href="https://openweathermap.org/api">https://openweathermap.org/api</a>)
+            it can show weather and forecast based on your geolocation and collect data in nice charts 
+            thanks to Charts.js (<a href="https://www.chartjs.org">https://www.chartjs.org</a>)
+            also it shows your location on the map thanks to OSM service (<a href="https://www.openstreetmap.org">https://www.openstreetmap.org</a>)
+            And ofcorse it uses Google translate API to translate (Oh REALY ???) Googletrans python library to be precise (<a href="https://pypi.org/project/googletrans">https://pypi.org/project/googletrans</a>)
+        </p>
+    </div>
+    <div id="2" class="chapter">
+        <h3>Chapter 2 - Architecture</h3>
+        <p>
+            Here is a simple shema of News-AG architecture:
+        </p>
+        <img src="./img/architecture.png" alt="architecture">
+    </div>
+    <div id="3" class="chapter">
+        <h3>Chapter 3 - Used technologies</h3>
+        <p>
+            I think it's better to put all technologies in tables and firstly I will show all used langwiges:
+        </p>
+        <table>
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Used lang.</th>
+                    <th>Purpose</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>HTML</td>
+                    <td>To create standard markup</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>CSS</td>
+                    <td>To define styles of pages</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>javaScript</td>
+                    <td>To program the behavior of web pages on clientside & create serverside functions</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Python</td>
+                    <td>To make serverside API requests, collect and format data for clientside</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Shell script</td>
+                    <td>To configure web server and organize simple loging</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>And now all used technologies:</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Used tech.</th>
+                    <th>Purpose</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Docker</td>
+                    <td>To keep all in container and simply implement in any env.</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>NGINX</td>
+                    <td>Just best and easy to use web server</td>    
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Node JS</td>
+                    <td>To handle clientside requests and init backend scripts</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 </body>
