@@ -154,6 +154,15 @@ window.onload = () => {
       document.querySelector('.translate').style.display = 'none'
     }
   })
+  window.addEventListener('touchend', () => {
+    let sel = (document.selection && document.selection.createRange().text) || (window.getSelection && window.getSelection().toString())
+    if (sel) {
+      document.querySelector('.translate').style.display = ''
+    }
+    else {
+      document.querySelector('.translate').style.display = 'none'
+    }
+  })
   // Remove init loader
   setTimeout(()=>{
     document.querySelector('.init').remove()

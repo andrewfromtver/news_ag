@@ -5,7 +5,10 @@ var url = require("url")
 function telegramApi(request, response) {
     var params = url.parse(request.url,true).query
     if (params.name && params.email && params.msg) {
-        exec("python3 /backend/telegram_api.py " + params.name + ' ' + params.email + ' ' + params.msg)
+        var clearName = params.name.replace(" ", "_").replace(";", ",")
+        var clearMsg = params.msg.replace(" ", "_").replace(";", ",")
+        var clearEmail = params.email.replace(" ", "_").replace(";", ",")
+        exec("python3 /backend/telegram_api.py " + clearName + ' ' + clearEmail + ' ' + clearMsg)
         response.setHeader('Access-Control-Allow-Origin', '*')
         response.setHeader('Access-Control-Allow-Headers', 'origin, content-type, accept')
         response.writeHead(200, {'Content-Type': 'text/plain'})
