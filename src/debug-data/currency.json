@@ -1,6 +1,4 @@
-// Example currency API output json
-
-currency = {
+{
     "success": true,
     "terms": "https://currencylayer.com/terms",
     "privacy": "https://currencylayer.com/privacy",

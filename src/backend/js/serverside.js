@@ -84,12 +84,26 @@ function googleTranslateApi(request, response) {
         console.log('Wrong request to Google translate API')
     }
 }
+function currencyApi(request, response) {
+    exec('cat /usr/share/nginx/html/app-data/currency.json', (error, stdout, stderr) => {
+        response.setHeader('Access-Control-Allow-Origin', '*')
+        response.setHeader('Access-Control-Allow-Headers', 'origin, content-type, accept')
+        response.writeHead(200, {'Content-Type': 'json'})
+        if (stdout) {
+            response.end(stdout)
+        }
+        else {
+            response.end('Google translate API not available, please try again later ...')
+        }
+    })
+}
 function initServer() {
     try {
         http.createServer(telegramApi).listen(8000)
         http.createServer(owmApiWeather).listen(8100)
         http.createServer(owmApiForecast).listen(8200)
         http.createServer(googleTranslateApi).listen(8300)
+        http.createServer(currencyApi).listen(8400)
     } catch (error) {
         initServer()
         console.log(error)

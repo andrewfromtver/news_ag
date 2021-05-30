@@ -1,5 +1,6 @@
 #!/bin/bash
 
+/backend/update.sh&
 node /backend/serverside.js&
 nginx
 ps fx | grep -E 'nod[e]|ngin[x]'

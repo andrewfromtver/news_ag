@@ -55,8 +55,22 @@ loadNews = (lang) => {
 }
 // Get currency
 loadCurrency = () => {
-  document.getElementById('usd').innerText = String(currency.quotes.USDRUB).substring(0, 5)
-  document.getElementById('eur').innerText = String(currency.quotes.USDRUB / currency.quotes.USDEUR).substring(0, 5)
+  fetch('http://localhost:8400')
+      .then( (value) => {
+        if(value.status !== 200){
+          return Promise.reject(new Error('Error ' + value.status))
+        }
+        return value.json()
+      })
+      .then( (value) => {
+        document.getElementById('usd').innerText = String(value.quotes.USDRUB).substring(0, 5)
+        document.getElementById('eur').innerText = String(value.quotes.USDRUB / value.quotes.USDEUR).substring(0, 5)
+      })
+      .catch( (e) => {
+        document.getElementById('usd').innerText = '--.--'
+        document.getElementById('eur').innerText = '--.--'
+        alert(e + ' please try again leter')
+      })
 }
 // Open provided news page in frame
 goTo = (url, title) => {

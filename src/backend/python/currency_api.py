@@ -13,10 +13,7 @@ def CurrencyFetch(token):
 	# fetching data in json format
 	res = requests.get(main_url, params=query_params)
 	currency_page = res.json()
-	text_file = open('/usr/share/nginx/html/app-data/currency.js', 'w')
-	text_file.write('currency = ')
-	text_file.close()
-	with open('/usr/share/nginx/html/app-data/currency.js', 'a', encoding='utf-8') as f:
+	with open('/usr/share/nginx/html/app-data/currency.json', 'w', encoding='utf-8') as f:
 		json.dump(currency_page, f, ensure_ascii=False, indent=2)
     # getting all currencys in a string currency
 	article = currency_page['quotes']

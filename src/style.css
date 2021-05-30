@@ -73,14 +73,9 @@ nav {
     border-radius: 4px;
 }
 .navlink > select, .navlink > input, .navlink > button {
-    border: none;
-    outline: none;
     cursor: pointer;
-    background-color: #6699CC;
     font-weight: 900;
     font-size: 16px;
-    color: #fff;
-    border: 1px solid #5699CC;
     border-radius: 4px;
 }
 #translate_lang {
@@ -88,6 +83,7 @@ nav {
     border-radius: 4px;
     padding: 0 8px;
     background-color: #fff;
+    cursor: pointer;
 }
 /* Side menu */
 .menu {
@@ -106,14 +102,12 @@ nav {
 .menu > h3 {
     background-color: #6699CC;
     color: #fff;
-    height: 32px;
     margin: 24px;
-    padding: 8px;
     border: 1px solid #6699CC;
     border-radius: 4px;
     font-weight: 900;
     font-size: 16px;
-    padding: 16px 0 0 8px;
+    padding: 10px 8px;
     box-shadow: 0 0 8px #333;
     cursor: pointer;
 }
@@ -121,28 +115,26 @@ nav {
     padding: 0;
     height: 48px;
     cursor: pointer;
-    opacity: 0.72;
     margin: 64px 18px 32px 18px;
     width: 100%;
     font-weight: 900;
     font-size: 16px;
     color: #333;
-    filter: drop-shadow(0 0 2px #333);
+    filter: drop-shadow(0 0 2px #aaa);
     border-radius: 4px;
 }
-.currency:active { opacity: 0.64; color: #fff; }
+.currency:active { opacity: 0.64; color: tomato; }
 .currency > tbody > tr > td { padding-left: 8px; }
 #country { margin: 24px; border-radius: 4px; }
 #country > select {
     width: 100%;
-    height: 48px;
+    height: 40px;
     padding: 8px;
     border-radius: 4px;
+    background-color: #fff;
 }
-#country > select:active { background-color: #fff; color: #6699CC;}
-#country > select:focus { background-color: #fff; color: #6699CC;}
 .share {
-    margin-top: 32px;
+    margin-top: 48px;
     display: flex;
     justify-content: center;
     overflow-x: auto;

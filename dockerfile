@@ -3,7 +3,7 @@ FROM centos:latest
 RUN dnf install -y --nogpgcheck https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm https://mirrors.rpmfusion.org/free/el/rpmfusion-free-release-8.noarch.rpm https://mirrors.rpmfusion.org/nonfree/el/rpmfusion-nonfree-release-8.noarch.rpm
 RUN dnf update -y
 RUN dnf module enable -y nodejs:12
-RUN dnf install -y nginx python3 vim htop mc nodejs
+RUN dnf install -y nginx python3 vim htop mc cronie nodejs
 RUN pip3 install requests googletrans==3.1.0a0
 # Load frontend components ...
 RUN rm /usr/share/nginx/html/*
@@ -32,9 +32,9 @@ COPY ./src/backend/python /backend
 COPY ./src/backend/js /backend
 RUN chmod +x /backend/*
 # Generate statick data...
-RUN python3 /backend/currency_api.py
-RUN python3 /backend/news_api.py
+# RUN python3 /backend/currency_api.py
+# RUN python3 /backend/news_api.py
 
 # Test data - debug mode
-# COPY ./src/debug-data/currency.js /usr/share/nginx/html/app-data
-# COPY ./src/debug-data/news.js /usr/share/nginx/html/app-data
+COPY ./src/debug-data/currency.json /usr/share/nginx/html/app-data
+COPY ./src/debug-data/news.js /usr/share/nginx/html/app-data
