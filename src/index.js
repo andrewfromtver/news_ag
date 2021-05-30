@@ -78,9 +78,7 @@ closePopup = () => {
   document.getElementById('newsframe').src = './templates/loader.html'
 }
 // Refresh page
-refresh = () => {
-  window.location.reload()
-}
+refresh = () => { window.location.reload() }
 // CORS workaround
 corsClear = (url) => {
   // get html via proxy
