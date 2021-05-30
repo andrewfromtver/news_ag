@@ -97,6 +97,7 @@ corsClear = (url) => {
 }
 // Translation
 translateSelceted = () => {
+  let translateLang = document.getElementById('translate_lang').value || 'ru'
   let sel = (document.selection && document.selection.createRange().text) || (window.getSelection && window.getSelection().toString())
   if (sel) {
     setTimeout( () => {document.querySelector('.translate').style.display = 'none'}, 275)
@@ -108,7 +109,7 @@ translateSelceted = () => {
       </div>
     `
     document.body.appendChild(loader)
-    fetch('http://localhost:8300' + '?query=' + sel + '&lang=ru')
+    fetch('http://localhost:8300' + '?query=' + sel + '&lang=' + translateLang)
       .then( (value) => {
         loader.remove()
         if(value.status !== 200){

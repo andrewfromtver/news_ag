@@ -24,13 +24,14 @@ COPY ./src/templates /usr/share/nginx/html/templates
 COPY ./src/index.html /usr/share/nginx/html
 COPY ./src/style.css /usr/share/nginx/html
 COPY ./src/index.js /usr/share/nginx/html
+RUN mv /usr/share/nginx/html/templates/404.html /usr/share/nginx/html/404.html
 # Load backend components...
 RUN mkdir /backend
 COPY ./src/backend/bash /backend
 COPY ./src/backend/python /backend
 COPY ./src/backend/js /backend
 RUN chmod +x /backend/*
-# Load statick data...
+# Generate statick data...
 # RUN python3 /backend/currency_api.py
 # RUN python3 /backend/news_api.py
 

@@ -83,6 +83,12 @@ nav {
     border: 1px solid #5699CC;
     border-radius: 4px;
 }
+#translate_lang {
+    height: 24px;
+    border-radius: 4px;
+    padding: 0 8px;
+    background-color: #fff;
+}
 /* Side menu */
 .menu {
     background-color: #fff;
