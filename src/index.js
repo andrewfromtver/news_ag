@@ -101,7 +101,7 @@ corsClear = (url) => {
 translateSelceted = () => {
   let sel = (document.selection && document.selection.createRange().text) || (window.getSelection && window.getSelection().toString())
   if (sel) {
-    document.querySelector('.translate').style.display = 'none'
+    setTimeout( () => {document.querySelector('.translate').style.display = 'none'}, 275)
     let loader = document.createElement('div')
     loader.id = 'translation'
     loader.innerHTML = `
@@ -132,6 +132,10 @@ translateSelceted = () => {
         document.body.appendChild(translation)
         setTimeout(()=>{translation.remove()}, 12000)
       })
+      .catch( (e) => {
+        translation.remove()
+        alert(e + ' please try again leter')
+      })
   }
 }
 // Init
@@ -145,7 +149,7 @@ window.onload = () => {
   loadNews(document.getElementById('lang').value)
   loadCurrency()
   // Show translation button
-  window.addEventListener('mouseup', () => {
+  window.addEventListener('mouseup', () => {setTimeout(() => {
     let sel = (document.selection && document.selection.createRange().text) || (window.getSelection && window.getSelection().toString())
     if (sel) {
       document.querySelector('.translate').style.display = ''
@@ -153,8 +157,8 @@ window.onload = () => {
     else {
       document.querySelector('.translate').style.display = 'none'
     }
-  })
-  window.addEventListener('touchend', () => {
+  }, 250)})
+  window.addEventListener('touchend', () => {setTimeout(() => {
     let sel = (document.selection && document.selection.createRange().text) || (window.getSelection && window.getSelection().toString())
     if (sel) {
       document.querySelector('.translate').style.display = ''
@@ -162,7 +166,7 @@ window.onload = () => {
     else {
       document.querySelector('.translate').style.display = 'none'
     }
-  })
+  }, 250)})
   // Remove init loader
   setTimeout(()=>{
     document.querySelector('.init').remove()
