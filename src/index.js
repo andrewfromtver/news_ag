@@ -114,7 +114,7 @@ translateSelceted = () => {
   let translateLang = document.getElementById('translate_lang').value || 'ru'
   let sel = (document.selection && document.selection.createRange().text) || (window.getSelection && window.getSelection().toString())
   if (sel) {
-    setTimeout( () => {document.querySelector('.translate').style.display = 'none'}, 275)
+    setTimeout( () => {document.querySelector('.translate').style.display = 'none'}, 75)
     let loader = document.createElement('div')
     loader.id = 'translation'
     loader.innerHTML = `
@@ -170,7 +170,7 @@ window.onload = () => {
     else {
       document.querySelector('.translate').style.display = 'none'
     }
-  }, 250)})
+  }, 50)})
   window.addEventListener('touchend', () => {setTimeout(() => {
     let sel = (document.selection && document.selection.createRange().text) || (window.getSelection && window.getSelection().toString())
     if (sel) {
@@ -179,7 +179,7 @@ window.onload = () => {
     else {
       document.querySelector('.translate').style.display = 'none'
     }
-  }, 250)})
+  }, 50)})
   // Remove init loader
   setTimeout(()=>{
     document.querySelector('.init').remove()
