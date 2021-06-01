@@ -57,7 +57,7 @@ loadNews = (lang) => {
   else {
     document.getElementById('news').innerHTML = `
       <img class="nodata" src="./assets/nodata.png" alt="nodata">
-      <h3 id="nodata">Oops. Something went wrong. Please try again later ...</h3>
+      <h3 id="nodata">Please try again later ...</h3>
     `
   }
 }
