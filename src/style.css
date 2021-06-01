@@ -155,6 +155,11 @@ nav {
     justify-content: center;
     max-width: 1200px;
 }
+.nodata {
+    margin: 24px auto;
+    width: 100%;
+    max-width: 600px;
+}
 .card {
     width: 352px;
     max-width: 96vw;

@@ -33,12 +33,12 @@ sideButton = (type) => {
 }
 // Generate news cards 
 loadNews = (lang) => {
-  if (typeof eval('news_' + lang).articles.title !== 'undefined') {
-    document.querySelector('.menubutton').id = 'false'
-    document.querySelector('body').style.overflow = 'auto'
-    document.getElementById('news').innerHTML = ``
-    document.getElementById('popupplaceholder').style.display = 'none'
-    document.getElementById('menu').style.display = 'none'
+  document.querySelector('.menubutton').id = 'false'
+  document.querySelector('body').style.overflow = 'auto'
+  document.getElementById('news').innerHTML = ``
+  document.getElementById('popupplaceholder').style.display = 'none'
+  document.getElementById('menu').style.display = 'none'
+  if (typeof eval('news_' + lang).articles[0] !== 'undefined') {
     eval('news_' + lang).articles.forEach(e => {
       document.getElementById('news').innerHTML += `
         <div class="card">
@@ -53,6 +53,11 @@ loadNews = (lang) => {
         </div>
       `
     })
+  }
+  else {
+    document.getElementById('news').innerHTML = `
+      <img class="nodata" src="./assets/nodata.png" alt="nodata">
+    `
   }
 }
 // Get currency
