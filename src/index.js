@@ -57,6 +57,7 @@ loadNews = (lang) => {
   else {
     document.getElementById('news').innerHTML = `
       <img class="nodata" src="./assets/nodata.png" alt="nodata">
+      <h3 id="nodata">Oops. Something went wrong. Please try again later ...</h3>
     `
   }
 }
@@ -121,7 +122,6 @@ translateSelceted = () => {
   let translateLang = document.getElementById('translate_lang').value || 'ru'
   let sel = (document.selection && document.selection.createRange().text) || (window.getSelection && window.getSelection().toString())
   if (sel) {
-    setTimeout( () => {document.querySelector('.translate').style.display = 'none'}, 75)
     let loader = document.createElement('div')
     loader.id = 'translation'
     loader.innerHTML = `
@@ -157,36 +157,28 @@ translateSelceted = () => {
         alert(e + ' please try again leter')
       })
   }
+  else {
+    let translation = document.createElement('div')
+        translation.id = 'translation'
+        translation.innerHTML = `
+          <div class="loader">
+            <div class="loader__element"></div>
+          </div>
+          <p>Please highlight the text in order to translate it</p>
+        `
+        document.body.appendChild(translation)
+        setTimeout(()=>{translation.remove()}, 12000)
+  }
 }
 // Init
 window.onload = () => {
   let url = window.location.href
-  document.querySelector('.translate').style.display = 'none'
   document.getElementById('facebook').href = 'https://facebook.com/sharer/sharer.php?u=' + url
   document.getElementById('vkontakte').href = 'https://vk.com/share.php?url=' + url
   document.getElementById('whatsapp').href = 'whatsapp://send?text=' + url
   document.getElementById('telegram').href = 'https://t.me/share/url?url=' + url
   loadNews(document.getElementById('lang').value)
   loadCurrency()
-  // Show translation button
-  window.addEventListener('mouseup', () => {setTimeout(() => {
-    let sel = (document.selection && document.selection.createRange().text) || (window.getSelection && window.getSelection().toString())
-    if (sel) {
-      document.querySelector('.translate').style.display = ''
-    }
-    else {
-      document.querySelector('.translate').style.display = 'none'
-    }
-  }, 50)})
-  window.addEventListener('touchend', () => {setTimeout(() => {
-    let sel = (document.selection && document.selection.createRange().text) || (window.getSelection && window.getSelection().toString())
-    if (sel) {
-      document.querySelector('.translate').style.display = ''
-    }
-    else {
-      document.querySelector('.translate').style.display = 'none'
-    }
-  }, 50)})
   // Remove init loader
   setTimeout(()=>{
     document.querySelector('.init').remove()

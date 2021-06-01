@@ -158,7 +158,14 @@ nav {
 .nodata {
     margin: 24px auto;
     width: 100%;
-    max-width: 600px;
+    max-width: 300px;
+    filter: drop-shadow(0 0 16px #333);
+}
+#nodata {
+    text-align: center;
+    width: 100%;
+    filter: drop-shadow(0 0 8px #333);
+    color: #333;
 }
 .card {
     width: 352px;
@@ -240,6 +247,7 @@ nav {
     text-align: center;
     box-shadow: 0 0 24px #333;
     font-weight: 900;
+    min-height: 88px;
 }
 .translate {
     position: fixed;
