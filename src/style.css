@@ -98,6 +98,8 @@ nav {
     z-index: 999;
     box-shadow: 0 0 8px #333;
     border-radius: 4px 0 0 4px;
+    overflow-y: auto;
+    overflow-x: hidden;
 }
 .menu > h3 {
     background-color: #6699CC;
