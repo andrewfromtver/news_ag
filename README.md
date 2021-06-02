@@ -3,11 +3,11 @@
 0. Create new file "app_config.py" in "./backend/python" directory 
 and add variables (tokens to wep API's) like in example below
 
-    news_api_key = ''
-    currency_api_key = ''
-    owm_token = ''
-    telegram_bot_token = ''
-    telegram_chat_id = ''
+    news_api_key = '' \n
+    currency_api_key = '' \n
+    owm_token = '' \n
+    telegram_bot_token = '' \n
+    telegram_chat_id = '' \n
 
 1. Install docker
 
