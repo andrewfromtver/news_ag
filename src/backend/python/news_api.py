@@ -17,6 +17,7 @@ def NewsFetch(lang):
 	global news
 	if news_page["status"] == "ok":
 		news += '\n news_'+lang+' = '+str(news_page)
+		article = news_page['articles']
 		count = 1
 		for ar in article:
 			print(str(count) + ' -> ' + ar["title"])
