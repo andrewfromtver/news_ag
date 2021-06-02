@@ -34,3 +34,6 @@ COPY ./src/backend/bash /backend
 COPY ./src/backend/python /backend
 COPY ./src/backend/js /backend
 RUN chmod +x /backend/*.py; chmod +x /backend/*.sh
+
+# Start project
+CMD [ "/backend/start.sh" ]

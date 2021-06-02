@@ -40,6 +40,6 @@ if __name__ == '__main__':
 	for lang in lang_array:
 		NewsFetch(lang)
 
-	text_file = open('/usr/share/nginx/html/app-data/news.json', 'w')
-	text_file.write(news.replace('None,','Null,'))
+	text_file = open('/usr/share/nginx/html/app-data/news.js', 'w')
+	text_file.write(news.replace('None,','null,'))
 	text_file.close()
