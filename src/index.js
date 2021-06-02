@@ -39,6 +39,7 @@ loadNews = (lang) => {
   document.getElementById('popupplaceholder').style.display = 'none'
   document.getElementById('menu').style.display = 'none'
   if (typeof eval('news_' + lang).articles[0] !== 'undefined') {
+    document.querySelector('.translate').hidden = false
     eval('news_' + lang).articles.forEach(e => {
       document.getElementById('news').innerHTML += `
         <div class="card">
@@ -55,6 +56,7 @@ loadNews = (lang) => {
     })
   }
   else {
+    document.querySelector('.translate').hidden = true
     document.getElementById('news').innerHTML = `
       <img class="nodata" src="./assets/nodata.png" alt="nodata">
       <h3 id="nodata">Please try again later ...</h3>

@@ -1,6 +1,6 @@
 import requests, json, app_config, urllib.request, socket
 
-socket.setdefaulttimeout(120)
+socket.setdefaulttimeout(0)
 
 token = app_config.news_api_key
 lang_array = ['ca', 'cn', 'de', 'fr', 'gb', 'in', 'it', 'jp', 'ru', 'us']
@@ -40,6 +40,6 @@ if __name__ == '__main__':
 	for lang in lang_array:
 		NewsFetch(lang)
 
-	text_file = open('/usr/share/nginx/html/app-data/news.js', 'w')
-	text_file.write('// News-AG html fetcher \n' + news)
+	text_file = open('/usr/share/nginx/html/app-data/news.json', 'w')
+	text_file.write(news.replace('None,','Null,'))
 	text_file.close()
