@@ -1,10 +1,4 @@
 {
-    "success": true,
-    "terms": "https://currencylayer.com/terms",
-    "privacy": "https://currencylayer.com/privacy",
-    "timestamp": 1621303989,
-    "source": "USD",
-    "quotes": {
       "USDAED": 3.673198,
       "USDAFN": 77.402876,
       "USDALL": 101.475003,
@@ -173,5 +167,4 @@
       "USDZMK": 9001.199204,
       "USDZMW": 22.456534,
       "USDZWL": 322.000305
-    }
-  }
+}

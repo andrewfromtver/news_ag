@@ -39,7 +39,8 @@ loadNews = (lang) => {
   document.getElementById('popupplaceholder').style.display = 'none'
   document.getElementById('menu').style.display = 'none'
   if (typeof eval('news_' + lang).articles[0] !== 'undefined') {
-    document.querySelector('.translate').hidden = false
+    document.querySelector('.translate > button > img').src = '/assets/translate.png'
+    document.querySelector('.translate > button').disabled = false
     eval('news_' + lang).articles.forEach(e => {
       document.getElementById('news').innerHTML += `
         <div class="card">
@@ -56,7 +57,8 @@ loadNews = (lang) => {
     })
   }
   else {
-    document.querySelector('.translate').hidden = true
+    document.querySelector('.translate > button > img').src = '/assets/waiting.gif'
+    document.querySelector('.translate > button').disabled = true
     document.getElementById('news').innerHTML = `
       <img class="nodata" src="./assets/nodata.png" alt="nodata">
       <h3 id="nodata">Please try again later ...</h3>
@@ -66,21 +68,23 @@ loadNews = (lang) => {
 // Get currency
 loadCurrency = () => {
   fetch('http://localhost:8400')
-      .then( (value) => {
-        if(value.status !== 200){
-          return Promise.reject(new Error('Error ' + value.status))
-        }
-        return value.json()
-      })
-      .then( (value) => {
-        document.getElementById('usd').innerText = String(value.quotes.USDRUB).substring(0, 5)
-        document.getElementById('eur').innerText = String(value.quotes.USDRUB / value.quotes.USDEUR).substring(0, 5)
-      })
-      .catch( (e) => {
-        document.getElementById('usd').innerText = '--.--'
-        document.getElementById('eur').innerText = '--.--'
-        alert(e + ' please try again leter')
-      })
+    .then( (v) => {
+      if(v.status !== 200){
+        return Promise.reject(new Error('Error ' + v.status))
+      }
+      return v.json()
+    })
+    .then( (v) => {
+      document.getElementById('usd')
+        .innerText = String(v.USDRUB).substring(0, 5)
+      document.getElementById('eur')
+        .innerText = String(v.USDRUB / v.USDEUR).substring(0, 5)
+    })
+    .catch( (e) => {
+      document.getElementById('usd').innerText = '--.--'
+      document.getElementById('eur').innerText = '--.--'
+      alert(e + ' please try again leter')
+    })
 }
 // Open provided news page in frame
 goTo = (url, title) => {
@@ -108,7 +112,7 @@ corsClear = (url) => {
   // get html via proxy
   let lang = document.getElementById('lang').value || 'gb'
   let news_index = eval('news_' + lang).articles.findIndex(x => x.url === url) + 1
-  document.getElementById('newsframe').sandbox = ''
+  document.getElementById('newsframe').sandbox = 'allow-same-origin'
   document.getElementById('newsframe').src = './app-data/news-storage/' + lang + '/' + news_index + '.html'
   document.getElementById('popupactions').innerHTML = `
     <a href="${url}" target="blank">
@@ -122,7 +126,9 @@ corsClear = (url) => {
 // Translation
 translateSelceted = () => {
   let translateLang = document.getElementById('translate_lang').value || 'ru'
-  let sel = (document.selection && document.selection.createRange().text) || (window.getSelection && window.getSelection().toString())
+  let sel = (document.selection && document.selection.createRange().text) || (window.getSelection && window.getSelection().toString()) || (document.getElementById('newsframe').contentWindow.document.selection && document.getElementById('newsframe').contentWindow.document.selection.createRange().text) || (document.getElementById('newsframe').contentWindow.window.getSelection && document.getElementById('newsframe').contentWindow.window.getSelection().toString())
+  document.querySelector('.translate > button > img').src = '/assets/waiting.gif'
+  document.querySelector('.translate > button').disabled = true
   if (sel) {
     let loader = document.createElement('div')
     loader.id = 'translation'
@@ -152,9 +158,15 @@ translateSelceted = () => {
           <p>${response}</p>
         `
         document.body.appendChild(translation)
-        setTimeout(()=>{translation.remove()}, 12000)
+        setTimeout(()=>{
+          document.querySelector('.translate > button > img').src = '/assets/translate.png'
+          document.querySelector('.translate > button').disabled = false
+          translation.remove()
+        }, 12000)
       })
       .catch( (e) => {
+        document.querySelector('.translate > button > img').src = '/assets/translate.png'
+        document.querySelector('.translate > button').disabled = false
         translation.remove()
         alert(e + ' please try again leter')
       })
@@ -168,8 +180,12 @@ translateSelceted = () => {
           </div>
           <p>Please highlight the text in order to translate it</p>
         `
-        document.body.appendChild(translation)
-        setTimeout(()=>{translation.remove()}, 12000)
+    document.body.appendChild(translation)
+    setTimeout(()=>{
+      document.querySelector('.translate > button > img').src = '/assets/translate.png'
+      document.querySelector('.translate > button').disabled = false
+      translation.remove()
+    }, 12000)
   }
 }
 // Init

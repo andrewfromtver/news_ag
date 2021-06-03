@@ -9,7 +9,7 @@ select {
     -webkit-appearance: none;
 }
 select:hover { background-color: #fff; color: #6699CC; }
-button:hover, select:hover, .menu > h3:hover { box-shadow: 0 0 24px #6699CC; }
+button:hover, .menu > h3:hover { box-shadow: 0 0 24px #6699CC; }
 button:active, select:active, .menu > h3:active {
     box-shadow: 0 0 8px #6699CC;
     color: #6699CC;
@@ -61,8 +61,6 @@ nav {
     margin-left: 8px;
     cursor: pointer;
 }
-.navlink > div:hover { opacity: 0.75; }
-.navlink > div:active { opacity: 1; }
 .navlink > div > h3 { font-weight: 900; }
 .navlink > div > p {
     margin: 2px;
@@ -205,17 +203,18 @@ nav {
 }
 /* Popup iframe */
 #popupplaceholder {
+    margin-top: 48px;
     position: fixed;
     top: 0;
     left: 0;
-    z-index: 9999;
+    z-index: 99;
     width: 100%;
-    height: calc(100% - 4px);
+    height: calc(100% - 48px);
 }
 .popup {
     color: #fff;
     background-color: #6699CC;
-    margin: 8px auto 0 auto;
+    margin: 0 auto;
     border-radius: 8px 8px 0 0;
     box-shadow: 0 0 16px #6699CC;
     overflow: hidden;
@@ -239,6 +238,7 @@ nav {
     overflow-x: hidden;
 }
 #translation {
+    z-index: 9998;
     position: fixed;
     bottom: 0;
     left: 0;
@@ -249,25 +249,26 @@ nav {
     text-align: center;
     box-shadow: 0 0 24px #333;
     font-weight: 900;
-    min-height: 92px;
 }
-.translate {
-    position: fixed;
-    bottom: 0;
-    right: 0;
+#translation > p {
+    padding: 0 16px;
 }
-.translate > img:hover {
-    box-shadow: 0 0 24px #5699CC;
-}
-.translate > img:focus, .translate > img:active {
+.translate > button > img:focus, .translate > button > img:active {
     box-shadow: none;
 }
-.translate > img {
-    height: 56px;
-    width: 56px;
+.translate > button {
+    height: 24px;
+    margin: 0;
+    padding: 0;
+    border: none;
+    border-radius: 8px;
+}
+.translate > button:hover { box-shadow: none; }
+.translate > button > img {
+    height: 24px;
+    width: 32px;
     background-color: #fff;
-    border-radius: 16px;
-    margin: 32px;
+    border-radius: 6px;
     box-shadow: 0 0 24px #333;
     cursor: pointer;
 }

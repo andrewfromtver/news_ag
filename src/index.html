@@ -31,6 +31,11 @@
                     </div>
                 </div>
                 <div class="navlink">
+                <div class="translate">
+                    <button onclick="translateSelceted()">
+                        <img src="./assets/translate.png" >
+                    </button>
+                </div>
                     <div>
                         <select name="translate_lang" id="translate_lang">
                             <option value="ru">Russian</option>
@@ -99,6 +104,7 @@
                     </a>  
                 </div>
             </div>
+
         </nav>
         <div class="container" id="news"></div>
         <div id="popupplaceholder">
@@ -113,9 +119,6 @@
                 </header>
                 <iframe id="newsframe" sandbox="" src="./templates/loader.html" style="border: none;"></iframe>
             </div>
-        </div>
-        <div class="translate">
-            <img src="./assets/translate.png" onclick="translateSelceted()">
         </div>
     </div>
     <script src="./app-data/news.js"></script>
