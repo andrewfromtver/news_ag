@@ -38,10 +38,10 @@ loadNews = (lang) => {
   document.getElementById('news').innerHTML = ``
   document.getElementById('popupplaceholder').style.display = 'none'
   document.getElementById('menu').style.display = 'none'
-  if (typeof eval('news_' + lang).articles[0] !== 'undefined') {
+  if (eval('news_' + lang).length > 0) {
     document.querySelector('.translate > button > img').src = '/assets/translate.png'
     document.querySelector('.translate > button').disabled = false
-    eval('news_' + lang).articles.forEach(e => {
+    eval('news_' + lang).forEach(e => {
       document.getElementById('news').innerHTML += `
         <div class="card">
           <div id="${e.publishedAt}">
@@ -88,6 +88,16 @@ loadCurrency = () => {
 }
 // Open provided news page in frame
 goTo = (url, title) => {
+  if (window.getSelection) {
+    if (window.getSelection().empty) {  // Chrome
+      window.getSelection().empty();
+    } else if (window.getSelection().removeAllRanges) {  // Firefox
+      window.getSelection().removeAllRanges();
+    }
+  } else if (document.selection) {  // IE?
+    document.selection.empty();
+  }
+  document.querySelector('nav').click()
   sideMenu(true)
   document.querySelector('body').style.overflow = 'hidden'
   document.getElementById('popupplaceholder').style.display = ''
@@ -96,6 +106,16 @@ goTo = (url, title) => {
 }
 // Close popup
 closePopup = () => {
+  if (window.getSelection) {
+    if (window.getSelection().empty) {  // Chrome
+      window.getSelection().empty();
+    } else if (window.getSelection().removeAllRanges) {  // Firefox
+      window.getSelection().removeAllRanges();
+    }
+  } else if (document.selection) {  // IE?
+    document.selection.empty();
+  }
+  document.querySelector('nav').click()
   document.getElementById('popupactions').innerHTML = `
       <a>
         <img src="./assets/close.png" alt="close" onclick="closePopup()">
@@ -111,7 +131,7 @@ refresh = () => { window.location.reload() }
 corsClear = (url) => {
   // get html via proxy
   let lang = document.getElementById('lang').value || 'gb'
-  let news_index = eval('news_' + lang).articles.findIndex(x => x.url === url) + 1
+  let news_index = eval('news_' + lang).findIndex(x => x.url === url) + 1
   document.getElementById('newsframe').sandbox = 'allow-same-origin'
   document.getElementById('newsframe').src = './app-data/news-storage/' + lang + '/' + news_index + '.html'
   document.getElementById('popupactions').innerHTML = `

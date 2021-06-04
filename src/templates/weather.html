@@ -668,6 +668,7 @@
             weatherplace = place;
         }
         if (lat && lon) {
+            document.querySelectorAll('button').forEach((b)=>{b.disabled=true})
             fetch('http://localhost:8100' + '?lat=' + lat + '&lon=' + lon)
                 .then( (value) => {
                     if(value.status !== 200){
@@ -685,6 +686,7 @@
                             return value.json()
                         })
                         .then( (value) => {
+                            document.querySelectorAll('button').forEach((b)=>{b.disabled=false})
                             forecast_json = value
                             document.querySelector('.content').innerHTML = `
                                 <div class="weatherinfo"></div>
@@ -721,6 +723,9 @@
 <style>
     * {
         font-family: sans-serif;
+    }
+    canvas {
+        filter: drop-shadow(0 0 4px #ccc);
     }
     p, h3 {
         filter: drop-shadow(0 0 2px #aaa);
@@ -799,7 +804,6 @@
     input:focus {    
         outline: none;
         border-color: #6699CC;
-        box-shadow: 0 0 8px #6699CC;
     }
     .popup_placeholder {
         background-color: #fff;
@@ -845,7 +849,6 @@
         text-align: start;
         padding: 0 24px;
         overflow: hidden;
-        margin: 0;
     }
     .suggestions {
         background-color: #fff;
@@ -879,9 +882,12 @@
         flex-wrap: wrap;
     }
     .meteoinfo {
-        width: 100%;
+        width: 96%;
         overflow: hidden;
         margin-bottom: 16px;
+        margin: 16px auto;
+        border-radius: 4px;
+        box-shadow: 0 0 8px #ccc;
     }
     .meteoinfo > p {
         padding: 8px 32px;

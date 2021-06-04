@@ -16,8 +16,8 @@ def NewsFetch(lang):
     # getting all articles
 	global news
 	if news_page["status"] == "ok":
-		news += '\n news_'+lang+' = '+str(news_page)
-		article = news_page['articles']
+		news += '\n news_'+lang+' = '+str(news_page["articles"])
+		article = news_page["articles"]
 		count = 1
 		for ar in article:
 			print(str(count) + ' -> ' + ar["title"])
@@ -32,7 +32,7 @@ def NewsFetch(lang):
 				text_file.close()
 			count += 1
 	else:
-		news += '\n news_'+lang+' = {"articles": {}}'
+		news += '\n news_'+lang+' = []'
 
 # Driver Code
 if __name__ == '__main__':

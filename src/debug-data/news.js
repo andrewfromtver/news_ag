@@ -1,9 +1,6 @@
 // Example news API output json
 
-news_ca = {
-  "status": "ok",
-  "totalResults": 38,
-  "articles": [
+news_ca = [
     {
       "source": {
         "id": null,
@@ -264,13 +261,9 @@ news_ca = {
       "publishedAt": "2021-05-18T11:25:00Z",
       "content": "TORONTO -- \r\nAnyone 18 and older living in Ontario is eligible to book a COVID-19 vaccine appointment starting today.\r\nAppointments can be booked through the provincial online portal, call centre or … [+467 chars]"
     }
-  ]
-}
+]
 
-news_cn = {
-  "status": "ok",
-  "totalResults": 26,
-  "articles": [
+news_cn = [
     {
       "source": {
         "id": null,
@@ -531,13 +524,9 @@ news_cn = {
       "publishedAt": "2021-05-18T08:56:11Z",
       "content": "{#if $T.t.abstract!=''}\r\n {$T.t.abstract.substring(0, 50)} [] \r\n{#/if}\r\n {$T.t.pub_date}{$T.t.source_name}"
     }
-  ]
-}
+]
 
-news_de = {
-  "status": "ok",
-  "totalResults": 34,
-  "articles": [
+news_de = [
     {
       "source": {
         "id": null,
@@ -798,13 +787,9 @@ news_de = {
       "publishedAt": "2021-05-18T11:57:08Z",
       "content": "In bayerischen Regionen mit einer stabilen Sieben-Tage-Inzidenz unter 50 sollen nach den Pfingstferien die Schüler aller Schularten wieder Präsenzunterricht haben - mit Test- und Maskenpflicht.\r\nDas … [+2024 chars]"
     }
-  ]
-}
+]
 
-news_fr = {
-  "status": "ok",
-  "totalResults": 34,
-  "articles": [
+news_fr = [
     {
       "source": {
         "id": null,
@@ -1065,13 +1050,9 @@ news_fr = {
       "publishedAt": "2021-05-18T10:18:06Z",
       "content": "Une étape de plus vers un retour à la vie d'avant. Même si la météo semble bouder cette deuxième phase du déconfinement , les terrasses de cafés, bars et restaurants vont pouvoir retrouver une partie… [+4700 chars]"
     }
-  ]
-}
+]
 
-news_gb = {
-  "status": "ok",
-  "totalResults": 38,
-  "articles": [
+news_gb = [
     {
       "source": {
         "id": "independent",
@@ -1332,13 +1313,9 @@ news_gb = {
       "publishedAt": "2021-05-18T13:00:59Z",
       "content": "The 24-inch iMac with the M1 chip is now available to order and set to begin arriving with customers starting on Friday, May 21.\r\nThe iMac features a 24-inch 4.5K Retina Display, Apple's custom silic… [+350 chars]"
     }
-  ]
-}
+]
 
-news_in = {
-  "status": "ok",
-  "totalResults": 38,
-  "articles": [
+news_in = [
     {
       "source": {
         "id": null,
@@ -1599,13 +1576,9 @@ news_in = {
       "publishedAt": "2021-05-18T10:38:02Z",
       "content": null
     }
-  ]
-}
+]
 
-news_it = {
-  "status": "ok",
-  "totalResults": 34,
-  "articles": [
+news_it = [
     {
       "source": {
         "id": null,
@@ -1866,13 +1839,9 @@ news_it = {
       "publishedAt": "2021-05-18T10:25:00Z",
       "content": "(ANSA) - MOSCA, 18 MAG - Il sito internet di Tut.by, uno dei\r\nprincipali media indipendenti bielorussi, non è accessibile dal\r\nterritorio della Bielorussia: lo riporta il giornale Nasha Niva,\r\nripres… [+445 chars]"
     }
-  ]
-}
+]
 
-news_jp = {
-  "status": "ok",
-  "totalResults": 30,
-  "articles": [
+news_jp = [
     {
       "source": {
         "id": null,
@@ -2133,13 +2102,9 @@ news_jp = {
       "publishedAt": "2021-05-18T09:01:54Z",
       "content": null
     }
-  ]
-}
+]
 
-news_ru = {
-  "status": "ok",
-  "totalResults": 34,
-  "articles": [
+news_ru = [
     {
       "source": {
         "id": null,
@@ -2400,13 +2365,9 @@ news_ru = {
       "publishedAt": "2021-05-18T11:46:54Z",
       "content": "https://ria.ru/20210518/izrail-1732806573.html\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdn25.img.ria.ru/images/07e5/05/0e/1732386679_0:9… [+677 chars]"
     }
-  ]
-}
+]
 
-news_us = {
-  "status": "ok",
-  "totalResults": 38,
-  "articles": [
+news_us = [
     {
       "source": {
         "id": null,
@@ -2667,10 +2628,19 @@ news_us = {
       "publishedAt": "2021-05-18T13:36:22Z",
       "content": "The Centers for Disease Control and Prevention's (CDC) updated guidance for people fully vaccinated against coronavirus says that they no longer need to wear masks while outdoors or indoors, except f… [+2611 chars]"
     }
-  ]
-}
-
+]
 
 // clear all links to images
-let newsArray = [news_ca, news_cn, news_de, news_fr, news_gb, news_in, news_it, news_jp, news_ru, news_us]
-newsArray.forEach( (region) => {region.articles.forEach( (article) => {article.urlToImage = null} )} )
+let newsArray = [
+  news_ca, news_cn, 
+  news_de, news_fr, 
+  news_gb, news_in, 
+  news_it, news_jp, 
+  news_ru, news_us
+]
+
+newsArray.forEach((region) => {
+  region.forEach((article) => {
+    article.urlToImage = null
+  })
+})
