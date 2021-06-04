@@ -19,7 +19,7 @@ and add variables (tokens to wep API's) like in example below
 
 3. Run docker container
 
-    docker run -p 80:80 -p 8000:8000 -p 8100:8100 -p 8200:8200 -p 8300:8300 -p 8400:8400 --rm -it news-ag:v1
+    docker run -p 80:80 -p 8000:8000 -p 8100:8100 -p 8200:8200 -p 8300:8300 -p 8400:8400 news-ag:v1
 
 4. Enjoy
 
