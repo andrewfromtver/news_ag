@@ -5,14 +5,15 @@ var url = require("url")
 function telegramApi(request, response) {
     var params = url.parse(request.url,true).query
     if (params.name && params.email && params.msg) {
-        var clearName = params.name.replace(" ", "_").replace(";", ",")
-        var clearMsg = params.msg.replace(" ", "_").replace(";", ",")
-        var clearEmail = params.email.replace(" ", "_").replace(";", ",")
-        exec("python3 /backend/telegram_api.py " + clearName + ' ' + clearEmail + ' ' + clearMsg)
+        var clearName = params.name.replace('"',"'")
+        var clearMsg = params.msg.replace('"',"'")
+        var clearEmail = params.email.replace('"',"'")
+        exec('python3 /backend/telegram_api.py "' + clearName + '" "' + clearEmail + '" "' + clearMsg + '"')
         response.setHeader('Access-Control-Allow-Origin', '*')
         response.setHeader('Access-Control-Allow-Headers', 'origin, content-type, accept')
         response.writeHead(200, {'Content-Type': 'text/plain'})
         response.end('Serverside request to Telegram API processed successfully')
+        console.log('New message from web form - name: ' + clearName + ' | email: ' + clearEmail)
     }
     else {
         response.writeHead(404, {'Content-Type': 'text/plain; charset=utf-8'})
@@ -23,7 +24,9 @@ function telegramApi(request, response) {
 function owmApiWeather(request, response) {
     var params = url.parse(request.url,true).query
     if (params.lat && params.lon) {
-        exec("python3 /backend/weather_api.py " + params.lat + ' ' + params.lon, (error, stdout, stderr) => {
+        var filteredLat = params.lat.replace('"',"'")
+        var filteredLon = params.lon.replace('"',"'")
+        exec('python3 /backend/weather_api.py "' + filteredLat + '" "' + filteredLon + '"', (error, stdout, stderr) => {
             response.setHeader('Access-Control-Allow-Origin', '*')
             response.setHeader('Access-Control-Allow-Headers', 'origin, content-type, accept')
             response.writeHead(200, {'Content-Type': 'json'})
@@ -34,6 +37,7 @@ function owmApiWeather(request, response) {
                 response.end('Serverside request to OWM weather API processed with errors, please try again later.')
             }
         })
+        console.log('Weather request lat - ' + params.lat + ' lon - ' + params.lon)
     }
     else {
         response.writeHead(404, {'Content-Type': 'text/plain; charset=utf-8'})
@@ -44,7 +48,9 @@ function owmApiWeather(request, response) {
 function owmApiForecast(request, response) {
     var params = url.parse(request.url,true).query
     if (params.lat && params.lon) {
-        exec("python3 /backend/forecast_api.py " + params.lat + ' ' + params.lon, (error, stdout, stderr) => {
+        var filteredLat = params.lat.replace('"',"'")
+        var filteredLon = params.lon.replace('"',"'")
+        exec('python3 /backend/forecast_api.py "' + filteredLat + '" "' + filteredLon + '"', (error, stdout, stderr) => {
             response.setHeader('Access-Control-Allow-Origin', '*')
             response.setHeader('Access-Control-Allow-Headers', 'origin, content-type, accept')
             response.writeHead(200, {'Content-Type': 'json'})
@@ -55,6 +61,7 @@ function owmApiForecast(request, response) {
                 response.end('Serverside request to OWM forecast API processed with errors, please try again later.')
             }
         })
+        console.log('Forecast request lat - ' + params.lat + ' lon - ' + params.lon)
     }
     else {
         response.writeHead(404, {'Content-Type': 'text/plain; charset=utf-8'})
@@ -66,7 +73,8 @@ function googleTranslateApi(request, response) {
     var params = url.parse(request.url,true).query
     if (params.query && params.lang) {
         var filteredQuery = params.query.replace('"',"'")
-        exec('python3 /backend/translate_api.py "' + filteredQuery + '" ' + params.lang, (error, stdout, stderr) => {
+        var filteradLang = params.lang.replace('"',"'")
+        exec('python3 /backend/translate_api.py "' + filteredQuery + '" "' + filteradLang + '"', (error, stdout, stderr) => {
             response.setHeader('Access-Control-Allow-Origin', '*')
             response.setHeader('Access-Control-Allow-Headers', 'origin, content-type, accept')
             response.writeHead(200, {'Content-Type': 'text/plain; charset=utf-8'})
@@ -77,6 +85,7 @@ function googleTranslateApi(request, response) {
                 response.end('Google translate API not available, please try again later ...')
             }
         })
+        console.log('Request to Google translate API target lang - ' + params.lang)
     }
     else {
         response.writeHead(404, {'Content-Type': 'text/plain; charset=utf-8'})
@@ -93,9 +102,10 @@ function currencyApi(request, response) {
             response.end(stdout)
         }
         else {
-            response.end('Google translate API not available, please try again later ...')
+            response.end('Currencu API not available, please try again later ...')
         }
     })
+    console.log('Request to currencu API')
 }
 function initServer() {
     try {
