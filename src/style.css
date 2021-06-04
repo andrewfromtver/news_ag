@@ -156,7 +156,7 @@ nav {
     max-width: 1200px;
 }
 .nodata {
-    margin: 24px auto;
+    margin: 12vh auto;
     width: 100%;
     max-width: 300px;
     filter: drop-shadow(0 0 16px #333);
