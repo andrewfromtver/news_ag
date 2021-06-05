@@ -5,6 +5,7 @@ and add variables (tokens to wep API's) like in example below
 
     news_api_key = ''
     currency_api_key = ''
+    address_api_key = ''
     owm_token = ''
     telegram_bot_token = ''
     telegram_chat_id = ''
