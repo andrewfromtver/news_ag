@@ -29,4 +29,4 @@ and add variables (tokens to wep API's) like in example below
 Extra. You can replace localhost with your hostname in all src files with sed util
 
     sed -i 's/localhost/your-host.name/g' src/index.js
-    sed -i 's/localhost/your-host.name/g' src/templates/*
+    sed -i 's/localhost/your-host.name/g' src/templates/js/*
