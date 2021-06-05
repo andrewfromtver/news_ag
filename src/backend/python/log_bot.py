@@ -16,10 +16,10 @@ print = logger.info
 bot = telebot.TeleBot(app_config.telegram_bot_token)
 keyboard = types.ReplyKeyboardMarkup()
 
-keyboard.row('Weather API', 'Currency API')
-keyboard.row('Translate API', 'Address API')
-keyboard.row('API engine 🌎')
-keyboard.row('Telegram API 🌎')
+keyboard.row('Weather API', 'Currency API', 'Address API')
+keyboard.row('Translate API', 'API engine', 'Telegram API')
+keyboard.row('NGINX access log 🌎')
+keyboard.row('NGINX error log 🌎')
 
 
 @bot.message_handler(commands=['start'])
@@ -43,14 +43,14 @@ def help_message(message):
 def log_message(message):
     if message.from_user.username == app_config.username and message.from_user.id == app_config.userid:
         try:
-            if message.text == 'Telegram API 🌎':
+            if message.text == 'Telegram API':
                 doc = open('/telegram_api.log','rb')
                 bot.send_document(message.chat.id, doc)
                 doc.close()
                 doc = open('/log_bot.log','rb')
                 bot.send_document(message.chat.id, doc)
                 doc.close()
-            elif message.text == 'API engine 🌎':
+            elif message.text == 'API engine':
                 doc = open('/api_engine.log','rb')
                 bot.send_document(message.chat.id, doc)
                 doc.close()
@@ -59,7 +59,7 @@ def log_message(message):
                 bot.send_document(message.chat.id, doc)
                 doc.close()
             elif message.text == 'Currency API':
-                doc = open('/cirrency_api.log','rb')
+                doc = open('/currency_api.log','rb')
                 bot.send_document(message.chat.id, doc)
                 doc.close()
             elif message.text == 'Translate API':
@@ -67,9 +67,17 @@ def log_message(message):
                 bot.send_document(message.chat.id, doc)
                 doc.close()
             elif message.text == 'Address API':
-                    doc = open('/address_api.log','rb')
-                    bot.send_document(message.chat.id, doc)
-                    doc.close()
+                doc = open('/address_api.log','rb')
+                bot.send_document(message.chat.id, doc)
+                doc.close()
+            elif message.text == 'NGINX access log 🌎':
+                doc = open('/var/log/nginx/access.log','rb')
+                bot.send_document(message.chat.id, doc)
+                doc.close()
+            elif message.text == 'NGINX error log 🌎':
+                doc = open('/var/log/nginx/error.log','rb')
+                bot.send_document(message.chat.id, doc)
+                doc.close()
         except:
             bot.send_sticker(message.chat.id,
                  'CAACAgIAAxkBAAFOWSVgu7FXRkNsTkAvuAslhe1gncLaVwACGgADtB8uBQmRkgAB0_zKyx8E')

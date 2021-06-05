@@ -15,5 +15,5 @@ nginx
 # check server status
 ps fx | grep -E 'nod[e]|ngin[x]'
 
-# container keep alive 
+# container keep alive
 tail -f /var/log/nginx/access.log

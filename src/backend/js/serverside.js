@@ -1,14 +1,14 @@
-var http = require("http")
-var exec = require('child_process').exec
-var url = require("url")
-var fs = require('fs')
+let http = require("http")
+let exec = require('child_process').exec
+let url = require("url")
+let fs = require('fs')
 
 function telegramApi(request, response) {
-    var params = url.parse(request.url,true).query
+    let params = url.parse(request.url,true).query
     if (params.name && params.email && params.msg) {
-        var clearName = params.name.replace('"',"").replace("'",'')
-        var clearMsg = params.msg.replace('"',"").replace("'",'')
-        var clearEmail = params.email.replace('"',"").replace("'",'')
+        let clearName = params.name.replace('"',"").replace("'",'')
+        let clearMsg = params.msg.replace('"',"").replace("'",'')
+        let clearEmail = params.email.replace('"',"").replace("'",'')
         exec('python3 /backend/telegram_api.py "' + clearName + '" "' + clearEmail + '" "' + clearMsg + '"')
         response.setHeader('Access-Control-Allow-Origin', '*')
         response.setHeader('Access-Control-Allow-Headers', 'origin, content-type, accept')
@@ -16,7 +16,7 @@ function telegramApi(request, response) {
         response.end('Serverside request to Telegram API processed successfully')
         fs.writeFile(
             '/telegram_api.log', 
-            'New message from web form - name: ' + clearName + ' | email: ' + clearEmail + '\n',
+            '\n' +new Date().getFullYear()+ "-" +("0" + (new Date().getMonth() + 1)).slice(-2)+ "-" +("0" + new Date().getDate()).slice(-2)+ " " +new Date().getHours()+ ":" +new Date().getMinutes()+ ":" +new Date().getSeconds()+' -> New message from web form - name: ' + clearName + ' | email: ' + clearEmail + '\n',
             { flag: 'a+' },
             err => {
                 if (err) {
@@ -31,7 +31,7 @@ function telegramApi(request, response) {
         response.end('404')
         fs.writeFile(
             '/telegram_api.log', 
-            'Wrong request to Telegram API\n',
+            '\n' +new Date().getFullYear()+ "-" +("0" + (new Date().getMonth() + 1)).slice(-2)+ "-" +("0" + new Date().getDate()).slice(-2)+ " " +new Date().getHours()+ ":" +new Date().getMinutes()+ ":" +new Date().getSeconds()+' -> Wrong request to Telegram API\n',
             { flag: 'a+' },
             err => {
                 if (err) {
@@ -43,10 +43,10 @@ function telegramApi(request, response) {
     }
 }
 function owmApiWeather(request, response) {
-    var params = url.parse(request.url,true).query
+    let params = url.parse(request.url,true).query
     if (params.lat && params.lon) {
-        var filteredLat = params.lat.replace('"',"").replace("'",'')
-        var filteredLon = params.lon.replace('"',"").replace("'",'')
+        let filteredLat = params.lat.replace('"',"").replace("'",'')
+        let filteredLon = params.lon.replace('"',"").replace("'",'')
         exec('python3 /backend/weather_api.py "' + filteredLat + '" "' + filteredLon + '"', (error, stdout, stderr) => {
             response.setHeader('Access-Control-Allow-Origin', '*')
             response.setHeader('Access-Control-Allow-Headers', 'origin, content-type, accept')
@@ -60,7 +60,7 @@ function owmApiWeather(request, response) {
         })
         fs.writeFile(
             '/weather_forecast_api.log', 
-            'Weather request lat - ' + params.lat + ' lon - ' + params.lon + '\n',
+            '\n' +new Date().getFullYear()+ "-" +("0" + (new Date().getMonth() + 1)).slice(-2)+ "-" +("0" + new Date().getDate()).slice(-2)+ " " +new Date().getHours()+ ":" +new Date().getMinutes()+ ":" +new Date().getSeconds()+' -> Weather request lat - ' + params.lat + ' lon - ' + params.lon + '\n',
             { flag: 'a+' },
             err => {
                 if (err) {
@@ -75,7 +75,7 @@ function owmApiWeather(request, response) {
         response.end('404')
         fs.writeFile(
             '/weather_forecast_api.log', 
-            'Wrong request to weather API\n',
+            '\n' +new Date().getFullYear()+ "-" +("0" + (new Date().getMonth() + 1)).slice(-2)+ "-" +("0" + new Date().getDate()).slice(-2)+ " " +new Date().getHours()+ ":" +new Date().getMinutes()+ ":" +new Date().getSeconds()+' -> Wrong request to weather API\n',
             { flag: 'a+' },
             err => {
                 if (err) {
@@ -87,10 +87,10 @@ function owmApiWeather(request, response) {
     }
 }
 function owmApiForecast(request, response) {
-    var params = url.parse(request.url,true).query
+    let params = url.parse(request.url,true).query
     if (params.lat && params.lon) {
-        var filteredLat = params.lat.replace('"',"'")
-        var filteredLon = params.lon.replace('"',"'")
+        let filteredLat = params.lat.replace('"',"'")
+        let filteredLon = params.lon.replace('"',"'")
         exec('python3 /backend/forecast_api.py "' + filteredLat + '" "' + filteredLon + '"', (error, stdout, stderr) => {
             response.setHeader('Access-Control-Allow-Origin', '*')
             response.setHeader('Access-Control-Allow-Headers', 'origin, content-type, accept')
@@ -104,7 +104,7 @@ function owmApiForecast(request, response) {
         })
         fs.writeFile(
             '/weather_forecast_api.log', 
-            'Forecast request lat - ' + params.lat + ' lon - ' + params.lon + '\n',
+            '\n' +new Date().getFullYear()+ "-" +("0" + (new Date().getMonth() + 1)).slice(-2)+ "-" +("0" + new Date().getDate()).slice(-2)+ " " +new Date().getHours()+ ":" +new Date().getMinutes()+ ":" +new Date().getSeconds()+' -> Forecast request lat - ' + params.lat + ' lon - ' + params.lon + '\n',
             { flag: 'a+' },
             err => {
                 if (err) {
@@ -119,7 +119,7 @@ function owmApiForecast(request, response) {
         response.end('404')
         fs.writeFile(
             '/weather_forecast_api.log', 
-            'Wrong request to forecast API\n',
+            '\n' +new Date().getFullYear()+ "-" +("0" + (new Date().getMonth() + 1)).slice(-2)+ "-" +("0" + new Date().getDate()).slice(-2)+ " " +new Date().getHours()+ ":" +new Date().getMinutes()+ ":" +new Date().getSeconds()+' -> Wrong request to forecast API\n',
             { flag: 'a+' },
             err => {
                 if (err) {
@@ -131,10 +131,10 @@ function owmApiForecast(request, response) {
     }
 }
 function googleTranslateApi(request, response) {
-    var params = url.parse(request.url,true).query
+    let params = url.parse(request.url,true).query
     if (params.query && params.lang) {
-        var filteredQuery = params.query.replace('"',"").replace("'",'')
-        var filteradLang = params.lang.replace('"',"").replace("'",'')
+        let filteredQuery = params.query.replace('"',"").replace("'",'')
+        let filteradLang = params.lang.replace('"',"").replace("'",'')
         exec('python3 /backend/translate_api.py "' + filteredQuery + '" "' + filteradLang + '"', (error, stdout, stderr) => {
             response.setHeader('Access-Control-Allow-Origin', '*')
             response.setHeader('Access-Control-Allow-Headers', 'origin, content-type, accept')
@@ -148,7 +148,7 @@ function googleTranslateApi(request, response) {
         })
         fs.writeFile(
             '/translate_api.log', 
-            'Request to translate API target lang - ' + params.lang + '\n',
+            '\n' +new Date().getFullYear()+ "-" +("0" + (new Date().getMonth() + 1)).slice(-2)+ "-" +("0" + new Date().getDate()).slice(-2)+ " " +new Date().getHours()+ ":" +new Date().getMinutes()+ ":" +new Date().getSeconds()+' -> Request to translate API target lang - ' + params.lang + '\n',
             { flag: 'a+' },
             err => {
                 if (err) {
@@ -163,7 +163,7 @@ function googleTranslateApi(request, response) {
         response.end('404')
         fs.writeFile(
             '/translate_api.log', 
-            'Wrong request to translate API\n',
+            '\n' +new Date().getFullYear()+ "-" +("0" + (new Date().getMonth() + 1)).slice(-2)+ "-" +("0" + new Date().getDate()).slice(-2)+ " " +new Date().getHours()+ ":" +new Date().getMinutes()+ ":" +new Date().getSeconds()+' -> Wrong request to translate API\n',
             { flag: 'a+' },
             err => {
                 if (err) {
@@ -188,7 +188,7 @@ function currencyApi(request, response) {
     })
     fs.writeFile(
         '/currency_api.log', 
-        'Request to currencu API\n',
+        '\n' +new Date().getFullYear()+ "-" +("0" + (new Date().getMonth() + 1)).slice(-2)+ "-" +("0" + new Date().getDate()).slice(-2)+ " " +new Date().getHours()+ ":" +new Date().getMinutes()+ ":" +new Date().getSeconds()+' -> Request to currencu API\n',
         { flag: 'a+' },
         err => {
             if (err) {
@@ -199,9 +199,9 @@ function currencyApi(request, response) {
     )
 }
 function addressApi(request, response) {
-    var params = url.parse(request.url,true).query
+    let params = url.parse(request.url,true).query
     if (params.query) {
-        var filteredQuery = params.query.replace('"',"'")
+        let filteredQuery = params.query.replace('"',"'")
         exec('python3 /backend/address_api.py "' + filteredQuery + '"', (error, stdout, stderr) => {
             response.setHeader('Access-Control-Allow-Origin', '*')
             response.setHeader('Access-Control-Allow-Headers', 'origin, content-type, accept')
@@ -219,7 +219,7 @@ function addressApi(request, response) {
         response.end('404')
         fs.writeFile(
             '/address_api.log', 
-            'Wrong request to address API\n',
+            '\n' +new Date().getFullYear()+ "-" +("0" + (new Date().getMonth() + 1)).slice(-2)+ "-" +("0" + new Date().getDate()).slice(-2)+ " " +new Date().getHours()+ ":" +new Date().getMinutes()+ ":" +new Date().getSeconds()+' -> Wrong request to address API\n',
             { flag: 'a+' },
             err => {
                 if (err) {
@@ -242,7 +242,7 @@ function initServer() {
         initServer()
         fs.writeFile(
             '/address_api.log', 
-            error + '\n',
+            '\n' +new Date().getFullYear()+ "-" +("0" + (new Date().getMonth() + 1)).slice(-2)+ "-" +("0" + new Date().getDate()).slice(-2)+ " " +new Date().getHours()+ ":" +new Date().getMinutes()+ ":" +new Date().getSeconds()+' -> ' + error + '\n',
             { flag: 'a+' },
             err => {
                 if (err) {
