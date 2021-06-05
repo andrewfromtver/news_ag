@@ -5,7 +5,7 @@ RUN dnf install -y --nogpgcheck https://dl.fedoraproject.org/pub/epel/epel-relea
 RUN dnf update -y
 RUN dnf module enable -y nodejs:12
 RUN dnf install -y nginx python3 vim htop mc nodejs
-RUN pip3 install requests googletrans==3.1.0a0 dadata
+RUN pip3 install requests googletrans==3.1.0a0 dadata pyTelegramBotAPI
 
 # Load frontend components ...
 RUN rm /usr/share/nginx/html/*
@@ -34,6 +34,15 @@ COPY ./src/backend/bash /backend
 COPY ./src/backend/python /backend
 COPY ./src/backend/js /backend
 RUN chmod +x /backend/*.py; chmod +x /backend/*.sh
+
+# Create log files
+RUN touch /telegram_api.log
+RUN touch /weather_forecast_api.log
+RUN touch /translate_api.log
+RUN touch /cirrency_api.log
+RUN touch /address_api.log
+RUN touch /api_engine.log
+RUN touch /log_bot.log
 
 # Start project
 CMD [ "/backend/start.sh" ]

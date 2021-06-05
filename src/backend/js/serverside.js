@@ -1,31 +1,52 @@
 var http = require("http")
 var exec = require('child_process').exec
 var url = require("url")
+var fs = require('fs')
 
 function telegramApi(request, response) {
     var params = url.parse(request.url,true).query
     if (params.name && params.email && params.msg) {
-        var clearName = params.name.replace('"',"'")
-        var clearMsg = params.msg.replace('"',"'")
-        var clearEmail = params.email.replace('"',"'")
+        var clearName = params.name.replace('"',"").replace("'",'')
+        var clearMsg = params.msg.replace('"',"").replace("'",'')
+        var clearEmail = params.email.replace('"',"").replace("'",'')
         exec('python3 /backend/telegram_api.py "' + clearName + '" "' + clearEmail + '" "' + clearMsg + '"')
         response.setHeader('Access-Control-Allow-Origin', '*')
         response.setHeader('Access-Control-Allow-Headers', 'origin, content-type, accept')
         response.writeHead(200, {'Content-Type': 'text/plain'})
         response.end('Serverside request to Telegram API processed successfully')
-        console.log('New message from web form - name: ' + clearName + ' | email: ' + clearEmail)
+        fs.writeFile(
+            '/telegram_api.log', 
+            'New message from web form - name: ' + clearName + ' | email: ' + clearEmail + '\n',
+            { flag: 'a+' },
+            err => {
+                if (err) {
+                  console.error(err)
+                  return
+                }
+            }
+        )
     }
     else {
         response.writeHead(404, {'Content-Type': 'text/plain; charset=utf-8'})
         response.end('404')
-        console.log('Wrong request to Telegram API')
+        fs.writeFile(
+            '/telegram_api.log', 
+            'Wrong request to Telegram API\n',
+            { flag: 'a+' },
+            err => {
+                if (err) {
+                  console.error(err)
+                  return
+                }
+            }
+        )
     }
 }
 function owmApiWeather(request, response) {
     var params = url.parse(request.url,true).query
     if (params.lat && params.lon) {
-        var filteredLat = params.lat.replace('"',"'")
-        var filteredLon = params.lon.replace('"',"'")
+        var filteredLat = params.lat.replace('"',"").replace("'",'')
+        var filteredLon = params.lon.replace('"',"").replace("'",'')
         exec('python3 /backend/weather_api.py "' + filteredLat + '" "' + filteredLon + '"', (error, stdout, stderr) => {
             response.setHeader('Access-Control-Allow-Origin', '*')
             response.setHeader('Access-Control-Allow-Headers', 'origin, content-type, accept')
@@ -37,12 +58,32 @@ function owmApiWeather(request, response) {
                 response.end('Serverside request to OWM weather API processed with errors, please try again later.')
             }
         })
-        console.log('Weather request lat - ' + params.lat + ' lon - ' + params.lon)
+        fs.writeFile(
+            '/weather_forecast_api.log', 
+            'Weather request lat - ' + params.lat + ' lon - ' + params.lon + '\n',
+            { flag: 'a+' },
+            err => {
+                if (err) {
+                  console.error(err)
+                  return
+                }
+            }
+        )
     }
     else {
         response.writeHead(404, {'Content-Type': 'text/plain; charset=utf-8'})
         response.end('404')
-        console.log('Wrong request to OWM API')
+        fs.writeFile(
+            '/weather_forecast_api.log', 
+            'Wrong request to weather API\n',
+            { flag: 'a+' },
+            err => {
+                if (err) {
+                  console.error(err)
+                  return
+                }
+            }
+        )
     }
 }
 function owmApiForecast(request, response) {
@@ -61,12 +102,32 @@ function owmApiForecast(request, response) {
                 response.end('Serverside request to OWM forecast API processed with errors, please try again later.')
             }
         })
-        console.log('Forecast request lat - ' + params.lat + ' lon - ' + params.lon)
+        fs.writeFile(
+            '/weather_forecast_api.log', 
+            'Forecast request lat - ' + params.lat + ' lon - ' + params.lon + '\n',
+            { flag: 'a+' },
+            err => {
+                if (err) {
+                  console.error(err)
+                  return
+                }
+            }
+        )
     }
     else {
         response.writeHead(404, {'Content-Type': 'text/plain; charset=utf-8'})
         response.end('404')
-        console.log('Wrong request to OWM API')
+        fs.writeFile(
+            '/weather_forecast_api.log', 
+            'Wrong request to forecast API\n',
+            { flag: 'a+' },
+            err => {
+                if (err) {
+                  console.error(err)
+                  return
+                }
+            }
+        )
     }
 }
 function googleTranslateApi(request, response) {
@@ -85,12 +146,32 @@ function googleTranslateApi(request, response) {
                 response.end('Google translate API not available, please try again later ...')
             }
         })
-        console.log('Request to Google translate API target lang - ' + params.lang)
+        fs.writeFile(
+            '/translate_api.log', 
+            'Request to translate API target lang - ' + params.lang + '\n',
+            { flag: 'a+' },
+            err => {
+                if (err) {
+                  console.error(err)
+                  return
+                }
+            }
+        )
     }
     else {
         response.writeHead(404, {'Content-Type': 'text/plain; charset=utf-8'})
         response.end('404')
-        console.log('Wrong request to Google translate API')
+        fs.writeFile(
+            '/translate_api.log', 
+            'Wrong request to translate API\n',
+            { flag: 'a+' },
+            err => {
+                if (err) {
+                  console.error(err)
+                  return
+                }
+            }
+        )
     }
 }
 function currencyApi(request, response) {
@@ -105,7 +186,17 @@ function currencyApi(request, response) {
             response.end('Currencu API not available, please try again later ...')
         }
     })
-    console.log('Request to currencu API')
+    fs.writeFile(
+        '/currency_api.log', 
+        'Request to currencu API\n',
+        { flag: 'a+' },
+        err => {
+            if (err) {
+              console.error(err)
+              return
+            }
+        }
+    )
 }
 function addressApi(request, response) {
     var params = url.parse(request.url,true).query
@@ -126,7 +217,17 @@ function addressApi(request, response) {
     else {
         response.writeHead(404, {'Content-Type': 'text/plain; charset=utf-8'})
         response.end('404')
-        console.log('Wrong request to Address API')
+        fs.writeFile(
+            '/address_api.log', 
+            'Wrong request to address API\n',
+            { flag: 'a+' },
+            err => {
+                if (err) {
+                  console.error(err)
+                  return
+                }
+            }
+        )
     }
 }
 function initServer() {
@@ -139,7 +240,17 @@ function initServer() {
         http.createServer(addressApi).listen(8500)
     } catch (error) {
         initServer()
-        console.log(error)
+        fs.writeFile(
+            '/address_api.log', 
+            error + '\n',
+            { flag: 'a+' },
+            err => {
+                if (err) {
+                  console.error(err)
+                  return
+                }
+            }
+        )
     }
 }
 
