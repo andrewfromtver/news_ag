@@ -1,40 +1,4 @@
-<script>
-    sendRequest = () => {
-        let url = 'http://localhost:8000',
-            msg = document.querySelector('.msg').value,
-            name = document.querySelector('.name').value,
-            email = document.querySelector('.email').value
-
-        if (msg && name && email) {
-            fetch(url + '?name=' + name + '&email=' + email + '&msg=' + msg)
-                .then(function(value){
-                    if(value.status !== 200){
-                        return Promise.reject(new Error('Error ' + value.status));
-                    }
-                    document.getElementById('contacts').remove()
-                })
-                .catch( (e) => {
-                    alert(e + ' please try again later...')
-                })
-        }
-        else {
-            if (!document.querySelector('.msg').value) {
-                document.querySelector('.msg').style = "border-color: tomato;"
-            }
-            if (!document.querySelector('.name').value) {
-                document.querySelector('.name').style = "border-color: tomato;"
-            }
-            if (!document.querySelector('.email').value) {
-                document.querySelector('.email').style = "border-color: tomato;"
-            }
-            setTimeout( () => {
-                document.querySelector('.msg').style = ""
-                document.querySelector('.name').style = ""
-                document.querySelector('.email').style = ""
-            }, 600)
-        }
-    }
-</script>
+<script src="./js/about.js"></script>
 
 <style>
     * { font-family: sans-serif; }
@@ -47,10 +11,12 @@
         flex-direction: column;
         justify-content: start;
         min-height: 100vh;
+        max-width: 600px;
+        margin: 0 auto;
     }
     h3, p, table {
         padding-left: 16px;
-        filter: drop-shadow(0 0 2px #aaa);
+        filter: drop-shadow(0 0 8px #aaa);
         color: #333;
     }
     .info {
@@ -58,6 +24,7 @@
         color: #fff;
         padding: 16px;
         box-shadow: 0 0 16px #ccc;
+        border-radius: 4px;
     }
     .msg {
         resize: none;
@@ -104,7 +71,7 @@
     <div>
         <p>Hi there!</p>
         <p>My name is Andranik.</p>
-        <p>I am a web & mobile developer from Russia.</p>
+        <p>I am web & mobile developer from Russia.</p>
     </div>
     <h3>I can help you to ...</h3>
     <table>
@@ -132,9 +99,9 @@
     <h3>If you want to create web app - better call Andranik =D</h3>
     <div class="info" id="contacts">
         <form action="javascript:sendRequest()">
-            <textarea class="msg" type="text" placeholder="Message" maxlength="130"></textarea>
-            <input class="name" type="text" placeholder="Name" maxlength="35">
-            <input class="email" type="email" placeholder="E-mail" maxlength="35">
+            <textarea class="msg" type="text" placeholder="Message" maxlength="130" required></textarea>
+            <input class="name" type="text" placeholder="Name" maxlength="35" required>
+            <input class="email" type="email" placeholder="E-mail" maxlength="35" required>
             <button class="send__btn">Send</button>
         </form>
     </div>
