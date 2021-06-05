@@ -2,7 +2,7 @@
 
 # load datasets
 python3 /backend/currency_api.py
-python3 /backend/news_api.py
+# python3 /backend/news_api.py
 
 # start update script
 /backend/update.sh&

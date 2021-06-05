@@ -107,6 +107,28 @@ function currencyApi(request, response) {
     })
     console.log('Request to currencu API')
 }
+function addressApi(request, response) {
+    var params = url.parse(request.url,true).query
+    if (params.query) {
+        var filteredQuery = params.query.replace('"',"'")
+        exec('python3 /backend/address_api.py "' + filteredQuery + '"', (error, stdout, stderr) => {
+            response.setHeader('Access-Control-Allow-Origin', '*')
+            response.setHeader('Access-Control-Allow-Headers', 'origin, content-type, accept')
+            response.writeHead(200, {'Content-Type': 'text/plain; charset=utf-8'})
+            if (stdout) {
+                response.end(stdout)
+            }
+            else {
+                response.end('{"msg": "Address API not available, please try again later ..."}')
+            }
+        })
+    }
+    else {
+        response.writeHead(404, {'Content-Type': 'text/plain; charset=utf-8'})
+        response.end('404')
+        console.log('Wrong request to Address API')
+    }
+}
 function initServer() {
     try {
         http.createServer(telegramApi).listen(8000)
@@ -114,6 +136,7 @@ function initServer() {
         http.createServer(owmApiForecast).listen(8200)
         http.createServer(googleTranslateApi).listen(8300)
         http.createServer(currencyApi).listen(8400)
+        http.createServer(addressApi).listen(8500)
     } catch (error) {
         initServer()
         console.log(error)

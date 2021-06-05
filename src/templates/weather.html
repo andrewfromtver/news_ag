@@ -1,8 +1,4 @@
 <script>
-    var sug_token = '0e16cee31b2f66a930741dcb0890816f4f9ecf15';
-</script>
-
-<script>
     /* Service variables */
     var weather_json = {};
     var forecast_json = {};
@@ -113,23 +109,10 @@
     }
     /* Address query DADATA API */
     function query(input, type) {
-        var url = 'https://suggestions.dadata.ru/suggestions/api/4_1/rs/suggest/address';
-        var token = sug_token;
-        var query = String(input);
-        var options = {
-            method: 'POST',
-            mode: 'cors',
-            headers: {
-                'Content-Type': 'application/json',
-                'Accept': 'application/json',
-                'Authorization': 'Token ' + token
-            },
-            body: JSON.stringify({query: query})
-        };
         if (input.length > 2) {
-            fetch(url, options)
+            fetch('http://localhost:8500/?query=' + input)
                 .then(response => response.text())
-                .then(result => suggestions = JSON.parse(result).suggestions)
+                .then(result => suggestions = JSON.parse(result))
                 .catch(error => console.log('error', error));
             var inner = `
                 <div class='loader_placeholder'>
