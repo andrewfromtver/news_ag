@@ -113,29 +113,37 @@
             fetch('http://localhost:8500/?query=' + input)
                 .then(response => response.text())
                 .then(result => suggestions = JSON.parse(result))
-                .catch(error => console.log('error', error));
+                .catch(error => console.log('error', error))
             var inner = `
                 <div class='loader_placeholder'>
-                    <div class='lds-ellipsis loader'><div></div><div></div><div></div><div></div></div>
+                    <div class='lds-ellipsis loader'>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
                 </div>
-            `;
+            `
             if (suggestions.length > 0) {
-                inner = '';
+                inner = ''
+                if (type == 'weather') {
+                    suggestions.forEach(function(item) {
+                        if (item.data.geo_lat & item.data.geo_lon) {
+                            inner += `<p 
+                                id='${item.data.geo_lon},${item.data.geo_lat}'
+                                onclick="writegeoloc(this)"
+                            >${item.value}</p>`
+                        }
+                    })
+                }
             }
-            if (type == 'weather') {
-                suggestions.forEach(function(item) {
-                    if (item.data.geo_lat & item.data.geo_lon) {
-                        inner += `<p id='${item.data.geo_lon},${item.data.geo_lat}' onclick="writegeoloc(this)">${item.value}</p>`;
-                    }
-                });
-            }
-            document.querySelector('.suggestions').style.display = 'block';
-            document.querySelector('.suggestions').innerHTML = inner;
+            document.querySelector('.suggestions').style.display = 'block'
+            document.querySelector('.suggestions').innerHTML = inner
         }
         if (input.length < 4) {
-            suggestions = [];
-            document.querySelector('.suggestions').innerHTML = '';
-            document.querySelector('.suggestions').style.display = 'none';
+            suggestions = []
+            document.querySelector('.suggestions').innerHTML = ''
+            document.querySelector('.suggestions').style.display = 'none'
         }
     }
     /* Weather request OWM API */
