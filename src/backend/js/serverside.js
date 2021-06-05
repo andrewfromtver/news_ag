@@ -72,8 +72,8 @@ function owmApiForecast(request, response) {
 function googleTranslateApi(request, response) {
     var params = url.parse(request.url,true).query
     if (params.query && params.lang) {
-        var filteredQuery = params.query.replace('"',"'")
-        var filteradLang = params.lang.replace('"',"'")
+        var filteredQuery = params.query.replace('"',"").replace("'",'')
+        var filteradLang = params.lang.replace('"',"").replace("'",'')
         exec('python3 /backend/translate_api.py "' + filteredQuery + '" "' + filteradLang + '"', (error, stdout, stderr) => {
             response.setHeader('Access-Control-Allow-Origin', '*')
             response.setHeader('Access-Control-Allow-Headers', 'origin, content-type, accept')
