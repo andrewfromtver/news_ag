@@ -36,8 +36,3 @@ and add variables (tokens to wep API's) like in example below
 4. Enjoy
 
     open news_ag in web browser (http:/localhost)
-
-Extra. You can replace localhost with your hostname in all src files with sed util
-
-    sed -i 's/localhost/your-host.name/g' src/index.js
-    sed -i 's/localhost/your-host.name/g' src/templates/js/*
