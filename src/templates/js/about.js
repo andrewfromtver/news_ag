@@ -1,5 +1,5 @@
 sendRequest = () => {
-    let url = 'http://localhost:8000',
+    let url = `http://${window.location.host}:8000`,
         msg = document.querySelector('.msg').value,
         name = document.querySelector('.name').value,
         email = document.querySelector('.email').value

@@ -67,7 +67,7 @@ loadNews = (lang) => {
 }
 // Get currency
 loadCurrency = () => {
-  fetch('http://localhost:8400')
+  fetch(`http://${window.location.host}:8400`)
     .then( (v) => {
       if(v.status !== 200){
         return Promise.reject(new Error('Error ' + v.status))
@@ -158,7 +158,7 @@ translateSelceted = () => {
       </div>
     `
     document.body.appendChild(loader)
-    fetch('http://localhost:8300' + '?query=' + sel + '&lang=' + translateLang)
+    fetch(`http://${window.location.host}:8300` + '?query=' + sel + '&lang=' + translateLang)
       .then( (value) => {
         loader.remove()
         if(value.status !== 200){
