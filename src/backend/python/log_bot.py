@@ -2,7 +2,7 @@ import logging
 import sys
 import app_config
 import telebot
-import datetime
+import time
 from telebot import types
 
 level = logging.INFO
