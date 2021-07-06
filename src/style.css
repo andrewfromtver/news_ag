@@ -218,7 +218,7 @@ nav {
     border-radius: 8px 8px 0 0;
     box-shadow: 0 0 16px #6699CC;
     overflow: hidden;
-    max-width: 1600px;
+    max-width: 1092px;
 }
 .popup > header { display: flex; justify-content: space-between; height: 40px; }
 #popupactions > a > img {
