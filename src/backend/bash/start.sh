@@ -13,7 +13,7 @@ node /backend/serverside.js&
 nginx
 
 # check server status
-ps fx | grep -E 'nod[e]|ngin[x]'
+ps fx | grep -E 'nod[e]|ngin[x]|pytho[n]'
 
 # container keep alive
 tail -f /var/log/nginx/access.log
