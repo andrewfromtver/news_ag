@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# switch to project drectory
-cd ~/NEWS-AG-PRODUCTION
-
 # build docker container
 docker build -t news-ag:production . > ./build.log
 
