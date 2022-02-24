@@ -1,9 +1,9 @@
-FROM centos:latest
+FROM fedora:latest
 
 # Prepare web server & backend env.
 RUN dnf update -y
 RUN dnf module enable -y nodejs:12
-RUN dnf install -y nginx python3 vim mc nodejs
+RUN dnf install -y nginx python3 python3-pip vim mc nodejs
 RUN pip3 install requests googletrans==3.1.0a0 dadata pyTelegramBotAPI
 
 # Load frontend components ...
