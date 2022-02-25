@@ -83,7 +83,7 @@ bygeoloc = (type) => {
 /* Address query to suggestions API */
 query = (input, type) => {
     if (input.length > 2) {
-        fetch(`http://${window.location.host}:8500/?query=` + input)
+        fetch(`http://${window.location.hostname}:8500/?query=` + input)
             .then(response => response.text())
             .then(result => suggestions = JSON.parse(result))
             .catch(error => console.log('error', error))
@@ -640,7 +640,7 @@ weather = (lat, lon, place = null) => {
     }
     if (lat && lon) {
         document.querySelectorAll('button').forEach((b)=>{b.disabled=true})
-        fetch(`http://${window.location.host}:8100` + '?lat=' + lat + '&lon=' + lon)
+        fetch(`http://${window.location.hostname}:8100` + '?lat=' + lat + '&lon=' + lon)
             .then( (value) => {
                 if(value.status !== 200){
                     return Promise.reject(new Error('Error ' + value.status))
@@ -649,7 +649,7 @@ weather = (lat, lon, place = null) => {
             })
             .then( (value) => {
                 weather_json = value
-                fetch(`http://${window.location.host}:8200` + '?lat=' + lat + '&lon=' + lon)
+                fetch(`http://${window.location.hostname}:8200` + '?lat=' + lat + '&lon=' + lon)
                     .then( (value) => {
                         if(value.status !== 200){
                             return Promise.reject(new Error('Error ' + value.status))

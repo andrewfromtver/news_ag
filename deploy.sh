@@ -5,7 +5,7 @@ docker build -t news-ag:production . > ./build.log
 
 # start production container & forward ports to host
 docker run --rm -it \
-	-p 80:80 \
+	-p 5000:80 \
 	-p 8000:8000 \
 	-p 8100:8100 \
 	-p 8200:8200 \
